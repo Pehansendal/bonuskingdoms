@@ -23,7 +23,7 @@ export function Sidebar() {
     <div className="lg:h-screen lg:sticky lg:top-0 w-full lg:w-64 bg-[#070a0f] text-white">
       <div className="lg:hidden flex items-center justify-between p-4">
         <Image 
-          src="/bk logo stor.png"
+          src="/bk-logo-stor.png"
           alt="Bonus Kingdoms"
           width={120}
           height={120}
@@ -38,7 +38,7 @@ export function Sidebar() {
       <div className={`${isOpen ? 'block' : 'hidden'} lg:block`}>
         <div className="p-2 hidden lg:block">
           <Image 
-            src="/bk logo stor.png"
+            src="/bk-logo-stor.png"
             alt="Bonus Kingdoms"
             width={400}
             height={400}
