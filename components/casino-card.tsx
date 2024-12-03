@@ -3,7 +3,7 @@
 import * as React from "react"
 import { useState } from "react"
 import Image from "next/image"
-import { Bitcoin, ChevronDown } from 'lucide-react'
+import { ChevronDown } from 'lucide-react'
 import { useInView } from 'react-intersection-observer'
 
 import { Button } from "@/components/ui/button"

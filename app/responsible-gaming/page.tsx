@@ -32,7 +32,7 @@ export default function ResponsibleGaming() {
           Be aware of these common signs that gambling might be becoming a problem:
         </p>
         <ul>
-          <li>Gambling with money you can't afford to lose</li>
+          <li>Gambling with money you can&apos;t afford to lose</li>
           <li>Chasing losses</li>
           <li>Gambling affecting your relationships</li>
           <li>Feeling guilty about your gambling</li>

@@ -90,7 +90,7 @@ export default function Home() {
             <p className="text-gray-400 text-base lg:text-lg">
               Explore our curated selection of the best cryptocurrency casinos in 2024. 
               Each platform has been thoroughly vetted for security, game variety, 
-              payment speed, and customer service. Whether you're looking for the best 
+              payment speed, and customer service. Whether you&apos;re looking for the best 
               bonuses or the widest selection of crypto payment options, our expert 
               reviews will help you find your perfect match.
             </p>
