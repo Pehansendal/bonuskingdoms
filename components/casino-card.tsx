@@ -177,7 +177,7 @@ export function CasinoCard({ rank, name, logo, promotion, supportedCoins, additi
               <div className="space-y-4">
                 <h3 className="font-semibold">Om {name}</h3>
                 <p className="text-gray-400">
-                  Detaljert casino-informasjon kommer her...
+                  Detaljert casino-informasjon kommer snart...
                 </p>
                 <div className="grid grid-cols-2 gap-4">
                   <div>
