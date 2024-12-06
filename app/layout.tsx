@@ -1,11 +1,13 @@
-import './globals.css'
+import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import './globals.css'
+import { Sidebar } from '@/components/sidebar'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata = {
-  title: 'Crypto Casino Reviews',
-  description: 'Top crypto casino reviews and comparisons',
+export const metadata: Metadata = {
+  title: 'Bonus Kingdoms',
+  description: 'Find the best casino bonuses',
 }
 
 export default function RootLayout({
@@ -14,9 +16,14 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className="dark">
-      <body className={`${inter.className} bg-background text-foreground`}>
-        {children}
+    <html lang="en">
+      <body className={`${inter.className} bg-[#070a0f]`}>
+        <div className="flex flex-col lg:flex-row min-h-screen">
+          <Sidebar />
+          <main className="flex-1 bg-[#070a0f]">
+            {children}
+          </main>
+        </div>
       </body>
     </html>
   )
