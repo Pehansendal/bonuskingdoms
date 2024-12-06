@@ -3,7 +3,6 @@
 import { CasinoCard } from '@/components/casino-card'
 import Image from 'next/image'
 import { useState, useEffect } from 'react'
-import { Button } from '@/components/ui/button'
 import { ArrowUp } from 'lucide-react'
 import { DEMO_CASINOS } from '@/lib/constants'
 
@@ -43,8 +42,8 @@ export default function Home() {
 
   return (
     <main className="overflow-y-auto p-4 lg:p-8 bg-[#070a0f]">
-      {/* Reduser z-index på terningene */}
-      <div className="fixed top-20 right-20 opacity-15 w-[300px] h-[300px] z-0"
+      {/* Bakgrunnsbilder */}
+      <div className="fixed top-20 right-20 opacity-15 w-[300px] h-[300px] -z-10"
            style={{ 
              transform: `rotate(${12 + scrollY * 0.02}deg) translateY(${scrollY * 0.1}px)`,
              transition: 'transform 0.1s ease-out'
@@ -56,7 +55,7 @@ export default function Home() {
           className="blur-[2px] object-contain"
         />
       </div>
-      <div className="fixed bottom-20 left-[300px] opacity-15 -rotate-45 w-[400px] h-[400px] z-0">
+      <div className="fixed bottom-20 left-[300px] opacity-15 -rotate-45 w-[400px] h-[400px] -z-10">
         <Image
           src="/pixterninger.png"
           alt=""
@@ -66,20 +65,7 @@ export default function Home() {
       </div>
       
       {/* Hovedinnhold */}
-      <div className="relative z-10">
-        <div className="sticky top-0 z-20 bg-[#070a0f]/80 backdrop-blur-md py-4 mb-8">
-          <div className="max-w-4xl mx-auto flex gap-4 px-4">
-            <Button variant="ghost" className="hover:bg-white/10">
-              All Casinos
-            </Button>
-            <Button variant="ghost" className="hover:bg-white/10">
-              Best Bonus
-            </Button>
-            <Button variant="ghost" className="hover:bg-white/10">
-              Most Coins
-            </Button>
-          </div>
-        </div>
+      <div className="relative">
         <div className="max-w-4xl mx-auto text-center mb-8 lg:mb-12 px-4">
           <h1 className="text-3xl lg:text-4xl font-bold mb-4 text-white bg-gradient-to-r from-green-500 to-purple-500 bg-clip-text text-transparent">
             Top Crypto Casinos

@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className={`${inter.className} bg-[#070a0f]`}>
         <div className="flex flex-col lg:flex-row min-h-screen">
           <Sidebar />
-          <main className="flex-1 bg-[#070a0f]">
+          <main className="flex-1 bg-[#070a0f] pt-20 lg:pt-0">
             {children}
           </main>
         </div>

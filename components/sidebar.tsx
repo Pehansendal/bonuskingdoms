@@ -21,13 +21,13 @@ export function Sidebar() {
   return (
     <aside className="fixed lg:relative w-full lg:w-64 bg-[#070a0f] text-white z-50">
       <div className="lg:sticky lg:top-0 lg:h-screen">
-        <div className="lg:hidden flex items-center justify-between p-4 border-b border-white/10">
+        <div className="h-20 lg:hidden flex items-center justify-between px-4 border-b border-white/10">
           <Image 
             src="/bk-logo-stor.png"
             alt="Bonus Kingdoms"
             width={120}
             height={120}
-            className="h-auto"
+            className="h-12 w-auto"
             priority
           />
           <button 
