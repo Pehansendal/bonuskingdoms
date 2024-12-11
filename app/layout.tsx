@@ -6,8 +6,37 @@ import { Sidebar } from '@/components/sidebar'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Bonus Kingdoms',
-  description: 'Find the best casino bonuses',
+  metadataBase: new URL('https://dinside.no'),
+  title: {
+    default: 'Crypto Casino Guide | Best Crypto Gambling Sites',
+    template: '%s | Crypto Casino Guide'
+  },
+  description: 'Find the best crypto casinos with our comprehensive reviews and comparisons. Expert analysis of bonuses, games, and payment methods.',
+  openGraph: {
+    type: 'website',
+    locale: 'nb_NO',
+    url: 'https://dinside.no',
+    siteName: 'Crypto Casino Guide',
+    images: [
+      {
+        url: '/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Crypto Casino Guide'
+      }
+    ]
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
 }
 
 export default function RootLayout({

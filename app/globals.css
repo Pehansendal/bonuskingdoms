@@ -2,101 +2,86 @@
 @tailwind components;
 @tailwind utilities;
 
-@keyframes slideDown {
-  from {
-    height: 0;
-    opacity: 0;
-    transform: translateY(-1rem);
-  }
-  to {
-    height: var(--radix-collapsible-content-height);
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes slideUp {
-  from {
-    height: var(--radix-collapsible-content-height);
-    opacity: 1;
-    transform: translateY(0);
-  }
-  to {
-    height: 0;
-    opacity: 0;
-    transform: translateY(-1rem);
-  }
-}
-
-.collapse-animate[data-state='open'] {
-  animation: slideDown 300ms ease-out;
-}
-
-.collapse-animate[data-state='closed'] {
-  animation: slideUp 300ms ease-out;
-}
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
-
 @layer base {
-  :root {
-    --background: 0 0% 100%;
-    --foreground: 0 0% 3.9%;
-    --card: 0 0% 100%;
-    --card-foreground: 0 0% 3.9%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 0 0% 3.9%;
-    --primary: 0 0% 9%;
-    --primary-foreground: 0 0% 98%;
-    --secondary: 0 0% 96.1%;
-    --secondary-foreground: 0 0% 9%;
-    --muted: 0 0% 96.1%;
-    --muted-foreground: 0 0% 45.1%;
-    --accent: 0 0% 96.1%;
-    --accent-foreground: 0 0% 9%;
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 89.8%;
-    --input: 0 0% 89.8%;
-    --ring: 0 0% 3.9%;
-    --radius: 0.75rem;
-  }
-  .dark {
-    --background: 0 0% 3.9%;
-    --foreground: 0 0% 98%;
-    --card: 0 0% 3.9%;
-    --card-foreground: 0 0% 98%;
-    --popover: 0 0% 3.9%;
-    --popover-foreground: 0 0% 98%;
-    --primary: 0 0% 98%;
-    --primary-foreground: 0 0% 9%;
-    --secondary: 0 0% 14.9%;
-    --secondary-foreground: 0 0% 98%;
-    --muted: 0 0% 14.9%;
-    --muted-foreground: 0 0% 63.9%;
-    --accent: 0 0% 14.9%;
-    --accent-foreground: 0 0% 98%;
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 14.9%;
-    --input: 0 0% 14.9%;
-    --ring: 0 0% 83.1%;
-  }
-}
-
-@layer base {
-  * {
-    @apply border-border;
-  }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-gray-900 text-white;
+  }
+}
+
+@layer components {
+  .prose {
+    @apply prose-lg prose-invert;
+  }
+  
+  .prose h1 {
+    @apply text-4xl font-bold mb-6 bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent;
+  }
+  
+  .prose h2 {
+    @apply text-2xl font-semibold mb-4 text-blue-400;
+  }
+  
+  .prose p {
+    @apply text-gray-300 mb-4 leading-relaxed;
+  }
+  
+  .prose ul {
+    @apply list-disc pl-6 mb-4 space-y-2;
+  }
+  
+  .prose li {
+    @apply text-gray-300;
+  }
+  
+  .prose-invert {
+    --tw-prose-invert-body: theme('colors.gray.300');
+    --tw-prose-invert-headings: theme('colors.blue.400');
+    --tw-prose-invert-links: theme('colors.blue.400');
+  }
+  
+  /* Spesifikk styling for casino-review */
+  .bg-gradient-text {
+    @apply bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent;
+  }
+  
+  .trust-indicator {
+    @apply flex items-center gap-2 text-green-400;
+  }
+  
+  .key-fact {
+    @apply bg-gray-800/30 p-4 rounded-lg;
+  }
+
+  /* Spesifikk styling for casino-elementer */
+  details {
+    @apply bg-[#1a1f2d] rounded-xl border border-gray-800 mb-4;
+  }
+
+  details summary {
+    @apply flex items-center justify-between p-6 cursor-pointer text-lg font-semibold text-gray-200;
+  }
+
+  details[open] summary {
+    @apply border-b border-gray-800;
+  }
+
+  details > div {
+    @apply p-6 text-gray-300;
+  }
+
+  .trust-indicator {
+    @apply bg-green-500/10 text-green-400 px-4 py-2 rounded-full flex items-center;
+  }
+
+  .pros-list {
+    @apply bg-green-500/10 p-6 rounded-xl;
+  }
+
+  .cons-list {
+    @apply bg-red-500/10 p-6 rounded-xl;
+  }
+
+  .key-facts {
+    @apply bg-[#1a1f2d] p-6 rounded-xl border border-gray-800;
   }
 }
