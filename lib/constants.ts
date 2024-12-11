@@ -4,10 +4,10 @@ export const DEMO_CASINOS: Casino[] = [
   {
     rank: 1,
     name: "Stake",
-    logo: "/stake-logo.jpg",
+    logo: "/images/casinos/stake-logo.webp",
     link: "stake.bet",
     promotion: "200% Deposit Bonus up to $2,000",
-    supportedCoins: ["bitcoin-btc", "ethereum-eth", "tether", "dogecoin-doge", "litecoin-ltc", "xrp", "tron-trx", "binance-coin-bnb"],
+    supportedCoins: ["bitcoin-btc", "ethereum-eth", "tether-usdt"],
     additionalCoins: 16
   },
   {
