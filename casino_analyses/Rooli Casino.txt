@@ -1,0 +1,66 @@
+* Category: Rooli Casino Analysis [SOURCE: Multiple sources | 2024-12-09 | Aggregated Review]
+
+1. TECHNICAL SPECS
+* Platform:  Operated by Dama N.V.  [SOURCE: gambling.com | 2024-10-16 | Website Article], [SOURCE: casino.com | 2024 | Website Article]
+* Mobile: Available on both desktop and mobile.  [SOURCE: casino.com | 2024 | Website Article]
+* Features:  Over 5,000 casino games, including slots, live casino, bonus buy, megaways, crypto games, jackpots, and table games. [SOURCE: casino.com | 2024 | Website Article], [SOURCE: youtube.com | 2024-08-05 | Video Review]
+* Security:  Uses SSL encryption.  [SOURCE: Implied by industry standards | 2024-12-09 | General Knowledge] Note: Specific details on SSL/encryption/RNG are not provided in the sources.
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao. [SOURCE: gambling.com | 2024-10-16 | Website Article], [SOURCE: irishluck.ie | 2024 | Website Article]
+* Ownership: Dama N.V.  [SOURCE: gambling.com | 2024-10-16 | Website Article], [SOURCE: casino.com | 2024 | Website Article]  Operates over 30 other online gambling brands. [SOURCE: gambling.com | 2024-10-16 | Website Article]
+* Restrictions: Not explicitly stated in sources, but likely restricted in some regions due to licensing and regulations. [SOURCE: Deduced Information | 2024-12-09 | Inference]
+* Issues: Player complaints regarding cancelled withdrawals, delayed responses, and account deactivation. [SOURCE: kasinoguru-bg.com | 2024-11-12 | Player Complaint], [SOURCE: kasinoguru-bg.com | 2024 | Player Complaint]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Debit cards, e-wallets, bank transfers, and crypto payments. [SOURCE: irishluck.ie | 2024 | Website Article]  Visa Debit, Mastercard Debit, Paysafecard, Maestro. [SOURCE: irishluck.ie | 2024 | Website Article]
+* Crypto: Accepts Bitcoin, Bitcoin Cash, Dogecoin, Ethereum, Litecoin, Tether. [SOURCE: irishluck.ie | 2024 | Website Article]
+* KYC: Requires KYC documents. [SOURCE: kasinoguru-bg.com | 2024-11-12 | Player Complaint]  Specific documents, verification time, and limits before KYC are not specified in the sources.
+* Limits: Minimum deposit: €20. [SOURCE: irishluck.ie | 2024 | Website Article]  Other transaction limits are not specified.
+* Times: Fast withdrawal speeds (as claimed by one source). [SOURCE: gambling.com | 2024-10-16 | Website Article] However, other sources report delayed withdrawals. [SOURCE: kasinoguru-bg.com | 2024-11-12 | Player Complaint], [SOURCE: kasinoguru-bg.com | 2024 | Player Complaint] This presents an inconsistency.
+* Fees: Not specified in sources.
+
+4. GAME PORTFOLIO
+* Total: Over 5,000 games. [SOURCE: casino.com | 2024 | Website Article], [SOURCE: youtube.com | 2024-08-05 | Video Review]
+* Popular Slots: Not specified in sources.
+* Table Games: Roulette, baccarat, blackjack, poker, craps. [SOURCE: casino.com | 2024 | Website Article] Specific variants and limits are not detailed.
+* Live: Offers live casino games, including Dreamcatcher. [SOURCE: casino.com | 2024 | Website Article] Room details and limits are not specified.
+* Sports: Not mentioned in sources.
+* Providers: Play'n Go, Playtech, Evolution, and more. [SOURCE: gambling.com | 2024-10-16 | Website Article]
+* Jackpots: Offers progressive and fixed jackpot games. [SOURCE: casino.com | 2024 | Website Article] Specific games are not listed.
+
+5. BONUS STRUCTURE
+* Welcome:  Up to €4,000 + 475 free spins across the first four deposits. Separate packages for regular, crypto, and VIP players. [SOURCE: gambling.com | 2024-10-16 | Website Article], [SOURCE: casino.com | 2024 | Website Article]
+* Wagering: Not specified in sources.
+* Loyalty: No out-and-out loyalty program. [SOURCE: gambling.com | 2024-10-16 | Website Article]
+* Restrictions: Not fully specified in sources.
+
+6. RESPONSIBLE GAMING
+* Tools: Not specified in sources.
+* Partners: Not specified in sources.
+* Policies: Not specified in sources.
+* Limits: Not specified in sources.
+
+7. CUSTOMER SUPPORT
+* Hours: Not specified in sources.
+* Languages: Available in over six languages, including English, German, and others. [SOURCE: casino.com | 2024 | Website Article] Specific languages and service levels are not detailed.
+* Response:  Some sources report delayed responses. [SOURCE: kasinoguru-bg.com | 2024-11-12 | Player Complaint]
+* Quality: Not specified in sources.
+
+8. USER EXPERIENCE
+* Mobile:  Mobile version available. [SOURCE: casino.com | 2024 | Website Article] Performance details are not provided.
+* Desktop:  One source describes the interface as "bland." [SOURCE: casino.com | 2024 | Website Article]  Another describes it as "bright and eye-catching." [SOURCE: gambling.com | 2024-10-18 | Website Article] This is an inconsistency.
+* Features: Not specified in sources.
+* Issues: Not specified in sources.
+
+9. REPUTATION & REVIEWS
+* Ratings: 2.9 out of 5 on Wizard of Odds. [SOURCE: wizardofodds.com | 2024-01-31 | Website Review]
+* Complaints: Player complaints regarding cancelled withdrawals, delayed responses, and account deactivation. [SOURCE: kasinoguru-bg.com | 2024-11-12 | Player Complaint], [SOURCE: kasinoguru-bg.com | 2024 | Player Complaint]
+* Awards: Not specified in sources.
+* History: Launched in 2023. [SOURCE: gambling.com | 2024-10-16 | Website Article]
+
+10. INDUSTRY POSITION
+* Partnerships: Not specified in sources.
+* Sponsorships: Not specified in sources.
+* Innovation: Focus on crypto transactions. [SOURCE: casino.com | 2024 | Website Article]
+* Competition: Not specified in sources.

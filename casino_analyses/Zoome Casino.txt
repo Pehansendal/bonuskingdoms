@@ -1,0 +1,71 @@
+* Category: Online Casino Analysis [SOURCE: User Prompt | 2024-12-09 | User Prompt]
+
+1. TECHNICAL SPECS
+* Platform: HTML5, compatible with various devices [SOURCE: irishluck.ie | 2024-09-05 | Review]
+* Mobile: Browser-based, no dedicated app [SOURCE: irishluck.ie | 2024-09-05 | Review], [SOURCE: casino.ca | 2024-01-16 | Review]
+* Features: Search, filters, likely personalization (not specified) [SOURCE: Inferred | 2024-12-09 | AI inference]
+* Security: SSL encryption [SOURCE: casino.ca | 2024-01-16 | Review], [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curaçao [SOURCE: irishluck.ie | 2024-09-05 | Review], [SOURCE: casino.ca | 2024-01-16 | Review], [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Ownership: Dama N.V. [SOURCE: irishluck.ie | 2024-09-05 | Review], [SOURCE: casino.ca | 2024-01-16 | Review]
+* Restrictions: Limited worldwide availability (specifics not detailed) [SOURCE: casino.ca | 2024-01-16 | Review], Australia (as of June 21, 2023) [SOURCE: igamingbusiness.com | 2023-06-21 | News], [SOURCE: acma.gov.au | 2023-06-21 | Formal Warning]
+* Issues:  ACMA issued blocking orders in Australia (as of June 21, 2023) [SOURCE: igamingbusiness.com | 2023-06-21 | News], [SOURCE: acma.gov.au | 2023-06-21 | Formal Warning]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, MasterCard, Revolut, Neosurf, Cryptocurrencies [SOURCE: casinotopplisten.com | 2024-12-09 | Review]
+* Crypto:  Supported (specific currencies not listed) [SOURCE: Multiple sources | Various dates | Reviews]
+* KYC:  Required (specifics not detailed) [SOURCE: Inferred | 2024-12-09 | AI inference]
+* Limits: Minimum deposit €20 [SOURCE: wizardofodds.com | 2023-12-15 | Review], Minimum withdrawal €10 (Mifinity)/€20 (E-Wallets) [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Times: 1-3 days for withdrawals [SOURCE: casino.ca | 2024-01-16 | Review]
+* Fees: Not specified
+
+4. GAME PORTFOLIO
+* Total: 7,000+ (Canada) [SOURCE: casino.ca | 2024-01-16 | Review], 5000+ [SOURCE: casinotopplisten.com | 2024-12-09 | Review]
+* Popular Slots: Money Cart 2 (Relax Gaming), Book of Dead (Play'n GO), Elvis (Pragmatic Play), Starburst (NetEnt), Shamrock Holmes Megaways (Games Global), Gates of Olympus (Pragmatic Play), Sweet Bonanza (Pragmatic Play) [SOURCE: irishluck.ie | 2024-09-05 | Review]
+* Table Games: Blackjack, Roulette, Baccarat, Poker, Pai Gow, Pontoon, Andar Bahar, Sic Bo [SOURCE: irishluck.ie | 2024-09-05 | Review]
+* Live: Blackjack, Baccarat, Poker, Roulette variations, Monopoly Live, Dream Catcher, Deal or No Deal [SOURCE: irishluck.ie | 2024-09-05 | Review]
+* Sports: Not mentioned
+* Providers: 90+ [SOURCE: casino.ca | 2024-01-16 | Review], Pragmatic Play, Play'n GO, NetEnt, Relax Gaming, Games Global [SOURCE: irishluck.ie | 2024-09-05 | Review]
+* Jackpots: Mega Moolah, Wheel of Wishes [SOURCE: irishluck.ie | 2024-09-05 | Review]
+
+5. BONUS STRUCTURE
+* Welcome: Up to €2,000 + 250 free spins (spread across first three deposits) [SOURCE: irishluck.ie | 2024-09-05 | Review], 100% up to $2,500 + 250 free spins (Canada) [SOURCE: casino.ca | 2024-01-16 | Review]
+* Wagering: 50x [SOURCE: casino.ca | 2024-01-16 | Review] (likely for the welcome bonus, other wagering requirements not specified)
+* Loyalty: VIP program with six levels (Rookie, Amateur, Specialist, Expert, Master, Secret) [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Restrictions: Limited bonus expiration time (not specified) [SOURCE: irishluck.ie | 2024-09-05 | Review]
+
+6. RESPONSIBLE GAMING
+* Tools: Deposit limits, loss limits, wager limits, session limits, cooling-off periods, self-exclusion [SOURCE: irishluck.ie | 2024-09-05 | Review]
+* Partners: Not specified
+* Policies:  Promotes responsible gambling [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Limits:  Deposit, loss, wager, session limits available [SOURCE: irishluck.ie | 2024-09-05 | Review]
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 via email and live chat [SOURCE: casino.ca | 2024-01-16 | Review], [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Languages: English, Norwegian, Finnish, French (Canadian) [SOURCE: Multiple sources | Various dates | Reviews]
+* Response: Not specified
+* Quality: Described as "helpful" [SOURCE: irishluck.ie | 2024-09-05 | Review]
+
+8. USER EXPERIENCE
+* Mobile: HTML5 tech allows access on various devices [SOURCE: irishluck.ie | 2024-09-05 | Review]
+* Desktop: Described as user-friendly [SOURCE: casino.ca | 2024-01-16 | Review]
+* Features: Search, filters (not specified) [SOURCE: Inferred | 2024-12-09 | AI inference]
+* Issues:  Lack of a dedicated mobile app [SOURCE: casino.ca | 2024-01-16 | Review]
+
+9. REPUTATION & REVIEWS
+* Ratings: Average 3.0 (WizardOfOdds, LCB) [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Complaints: Not specified
+* Awards: Not mentioned
+* History: Launched in 2022 [SOURCE: Multiple sources | Various dates | Reviews]
+
+10. INDUSTRY POSITION
+* Partnerships:  Multiple software providers [SOURCE: Multiple sources | Various dates | Reviews]
+* Sponsorships: Not mentioned
+* Innovation: Crypto-friendly [SOURCE: Multiple sources | Various dates | Reviews]
+* Competition: Wide game selection, various payment methods, VIP program [SOURCE: Multiple sources | Various dates | Reviews]
+
+
+Inconsistencies: Game count varies between sources.
+
+Missing Information: Specific cryptocurrencies accepted, detailed KYC procedures, complete fee structure, customer support response times and resolution rates, specific restricted regions (besides Australia).

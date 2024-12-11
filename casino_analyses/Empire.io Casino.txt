@@ -1,0 +1,68 @@
+* Category: Casino Review [SOURCE: N/A | 2024-12-09 | Generated]
+
+1. TECHNICAL SPECS
+* Platform: Information not available in sources. [SOURCE: N/A | 2024-12-09 | Generated]
+* Mobile: Compatible with Android, iPhone, iPad, and other mobile devices. No download required. [SOURCE: wizardofodds.com | 2023-12-15 | Text] ; Responsive design adapts to various devices (desktops and mobiles). [SOURCE: qne.com.ph | 2024-12-03 | Text]
+* Features: Search filters for games (including hit rate and volatility filters), 2-Factor Authentication. [SOURCE: cointelegraph.com | 2024 | Text], [SOURCE: cryptomaniaks.com | 2024-09-18 | Text]
+* Security: SSL encryption. [SOURCE: cryptomaniaks.com | 2024-09-18 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curaçao [SOURCE: ccn.com | 2024-05-26 | Text], [SOURCE: casinosblockchain.io | 2024-11-13 | Text], [SOURCE: wizardofodds.com | 2023-12-15 | Text], [SOURCE: cryptomaniaks.com | 2024-09-18 | Text];  Anjouan (ALSI-132405042-FI3) [SOURCE: bravenewcoin.com | 2024-08-03 | Text]. *Inconsistency: Multiple sources list different licensing jurisdictions.*
+* Ownership: Echo Entertainment N.V. [SOURCE: ccn.com | 2024-05-26 | Text]
+* Restrictions: Information not available in sources, but focuses on gamblers in Canada, Austria, Germany, and Japan. [SOURCE: wizardofodds.com | 2023-12-15 | Text]
+* Issues: None specified in the provided sources. [SOURCE: N/A | 2024-12-09 | Generated]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Crypto only. [SOURCE: ccn.com | 2024-05-26 | Text], [SOURCE: cryptomaniaks.com | 2024-09-18 | Text]
+* Crypto: BTC, ETH, LTC, TRX, USDT, XRP, ADA, DOGE, BNB, BUSD, Binance Coin. [SOURCE: bravenewcoin.com | 2024-08-03 | Text], [SOURCE: ccn.com | 2024-05-26 | Text], [SOURCE: cointelegraph.com | 2024 | Text], [SOURCE: cointelegraph.com | 2024 | Text]
+* KYC: No KYC mentioned. [SOURCE: casinosblockchain.io | 2024-11-13 | Text] However, KYC is mentioned for cashout times up to 24 hours. [SOURCE: wizardofodds.com | 2023-12-15 | Text] *Inconsistency: Conflicting information regarding KYC requirements.*
+* Limits: Minimum deposit: 10 USDT/equivalent. [SOURCE: wizardofodds.com | 2023-12-15 | Text] Minimum withdrawal: 20 USDT. [SOURCE: wizardofodds.com | 2023-12-15 | Text]  Maximum withdrawal: 250,000 USDT per week for winnings above that amount. [SOURCE: wizardofodds.com | 2023-12-15 | Text] Maximum bet for welcome bonus: 5 euros or equivalent. [SOURCE: cointelegraph.com | 2024 | Text]
+* Times: Instant deposits and withdrawals, except large withdrawals (processed manually). [SOURCE: bravenewcoin.com | 2024-08-03 | Text]
+* Fees: Not specified in the provided sources. [SOURCE: N/A | 2024-12-09 | Generated]
+
+4. GAME PORTFOLIO
+* Total: 7,000+ games. [SOURCE: casinosblockchain.io | 2024-11-13 | Text]
+* Popular Slots: Not specified by name or RTP in provided sources. [SOURCE: N/A | 2024-12-09 | Generated]
+* Table Games: Information on variants and limits not available in sources. [SOURCE: N/A | 2024-12-09 | Generated]
+* Live: 150+ live dealer games. Details and limits not specified. [SOURCE: casinosblockchain.io | 2024-11-13 | Text]
+* Sports: No sportsbook available. [SOURCE: casinosblockchain.io | 2024-11-13 | Text], [SOURCE: cryptomaniaks.com | 2024-09-18 | Text]
+* Providers: Not fully listed in sources, but some mentioned are 7Mojos Live and Asia Gaming (excluded from welcome bonus). [SOURCE: cointelegraph.com | 2024 | Text]
+* Jackpots: Information not available in sources. [SOURCE: N/A | 2024-12-09 | Generated]
+
+5. BONUS STRUCTURE
+* Welcome: 100% deposit match up to 1 BTC + 100 free spins. [SOURCE: casinosblockchain.io | 2024-11-13 | Text] Valid for one week after registration. Minimum deposit 20 USD/equivalent. Wagering requirement 40x (deposit + bonus). [SOURCE: cointelegraph.com | 2024 | Text], [SOURCE: wizardofodds.com | 2023-12-15 | Text]
+* Wagering: 40x (deposit + bonus). Slots contribute 100%, table games and live dealer games contribute 20%. [SOURCE: cointelegraph.com | 2024 | Text]
+* Loyalty: VIP program mentioned, but details not provided. [SOURCE: wizardofodds.com | 2023-12-15 | Text] Cash rewards distributed based on wagered amounts. [SOURCE: cointelegraph.com | 2024 | Text]
+* Restrictions: Some slots excluded from the welcome bonus (e.g., 7Mojos Live, Asia Gaming). See bonus terms for full list. [SOURCE: cointelegraph.com | 2024 | Text] No maximum cashout limit for the bonus. [SOURCE: cointelegraph.com | 2024 | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Promotes Netnanny and CyberPatrol. [SOURCE: ccn.com | 2024-05-26 | Text]
+* Partners: GamCare, Gambling Therapy. [SOURCE: ccn.com | 2024-05-26 | Text]
+* Policies: Not detailed in the provided sources. [SOURCE: N/A | 2024-12-09 | Generated]
+* Limits: Information not available in sources. [SOURCE: N/A | 2024-12-09 | Generated]
+
+7. CUSTOMER SUPPORT
+* Hours: Not specified in provided sources. [SOURCE: N/A | 2024-12-09 | Generated]
+* Languages: English, Chinese, Japanese, South Korean, German, French, Spanish, Portuguese, Thai, and Vietnamese. [SOURCE: ccn.com | 2024-05-26 | Text] German-speaking live chat available. [SOURCE: cointelegraph.com | 2024 | Text]
+* Response: Not specified in provided sources. [SOURCE: N/A | 2024-12-09 | Generated]
+* Quality: Competent German-speaking live chat. [SOURCE: cointelegraph.com | 2024 | Text] Live chat only available after sign-up. [SOURCE: cryptomaniaks.com | 2024-09-18 | Text]
+
+8. USER EXPERIENCE
+* Mobile:  Seamless functionality on mobile devices. [SOURCE: wizardofodds.com | 2023-12-15 | Text]
+* Desktop: Modern and chic design, user-friendly interface. [SOURCE: wizardofodds.com | 2023-12-15 | Text] Sleek and modern design, easy navigation. [SOURCE: qne.com.ph | 2024-12-03 | Text]
+* Features: Various filtering functions for games, ability to display hit rates and volatility. [SOURCE: cointelegraph.com | 2024 | Text]
+* Issues: Missing RTP values. [SOURCE: cointelegraph.com | 2024 | Text]
+
+9. REPUTATION & REVIEWS
+* Ratings: Not specified in provided sources. [SOURCE: N/A | 2024-12-09 | Generated]
+* Complaints: No complaints found about the brand (though it's relatively new). [SOURCE: cryptomaniaks.com | 2024-09-18 | Text]
+* Awards: Not mentioned in provided sources. [SOURCE: N/A | 2024-12-09 | Generated]
+* History: Launched in 2022. Owned by a company with over 25 years of experience. [SOURCE: ccn.com | 2024-05-26 | Text], [SOURCE: cryptomaniaks.com | 2024-09-18 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Not specified in provided sources. [SOURCE: N/A | 2024-12-09 | Generated]
+* Sponsorships: Not mentioned in provided sources. [SOURCE: N/A | 2024-12-09 | Generated]
+* Innovation: Provably fair games. [SOURCE: ccn.com | 2024-05-26 | Text]
+* Competition: Wide selection of games (7000+), generous welcome bonus (up to 1 BTC + 100 free spins), fast payouts. [SOURCE: casinosblockchain.io | 2024-11-13 | Text] Focus on crypto users. [SOURCE: cointelegraph.com | 2024 | Text]
+
+

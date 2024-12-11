@@ -1,0 +1,66 @@
+* Category: TrustDice Casino Analysis [SOURCE: User Prompt | 2024-12-09 | Analysis]
+
+1. TECHNICAL SPECS
+* Platform: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Mobile: Browser-based; no dedicated app. Described as smooth and functional.  Lacks search bar in the sportsbook section. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Features: Provably fair dice, Crash games, casino games, sports betting, forum, blog. [SOURCE: gamblingsites.com, cryptomaniaks.com | 2024-09-20 | Review]
+* Security:  Uses provably fair technology. [SOURCE: 99bitcoins.com | 2024-10-21 | Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao (noted as affecting the casino's score negatively, with improvements promised). [SOURCE: gamblingsites.com | No Date | Review]
+* Ownership: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Restrictions: Not specified in sources, except USD currency not accepted. [SOURCE: gamblingsites.com | No Date | Review]
+* Issues: Withdrawal delays, closed accounts, confiscated funds, unresponsive support, ID verification issues, responsible gaming compliance concerns.  Negative reviews addressed publicly on a forum. [SOURCE: cryptomaniaks.com, ccn.com | 2024-09-20, 2024-06-04 | Review]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Not fully specified, but focuses on cryptocurrencies. Minimum deposit is €10 for most methods, €5 for some. [SOURCE: toquahtocp.ca | 2022-05-06 | Info]
+* Crypto:  Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* KYC: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Limits: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Times: Fast payouts mentioned. [SOURCE: wizardofodds.com | No Date | Review]
+* Fees: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+
+4. GAME PORTFOLIO
+* Total: Over 2,000 casino games (one source mentions over 8,000 options in total). [SOURCE: gamblingsites.com | No Date | Review]
+* Popular Slots: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Table Games: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Live: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Sports: Wide range including football, basketball, tennis, boxing, MMA, volleyball, squash, and racing. Extensive markets for major leagues like NFL and Premier League. Offers spreads, totals, money lines, player props, live betting, futures, and parlays. [SOURCE: casinomeister.com, gamblingsites.com | 2024-05-17 | Review]
+* Providers: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Jackpots: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+
+5. BONUS STRUCTURE
+* Welcome: $25 No Deposit Bonus and a 100% + 25 Free Spins Deposit Bonus mentioned. [SOURCE: gamblingsites.com | No Date | Review]
+* Wagering: High wagering requirements noted. [SOURCE: gamblingsites.com | No Date | Review]
+* Loyalty:  VIP program details not specified. Rewards system mentioned positively. [SOURCE: gamblingsites.com | No Date | Review]
+* Restrictions: Not fully specified, but unclear bonus terms are a common complaint. [SOURCE: gamblingsites.com | No Date | Review]
+
+6. RESPONSIBLE GAMING
+* Tools:  Options for players at risk of developing gambling problems mentioned, but specific tools not listed. [SOURCE: gambling.com | 2024-10-15 | Review]
+* Partners: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Policies: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Limits: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+
+7. CUSTOMER SUPPORT
+* Hours: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Languages: English mentioned. [SOURCE: gamblingsites.com | No Date | Review]
+* Response: Described as friendly and efficient by some, unresponsive by others. [SOURCE: gamblingsites.com, cryptomaniaks.com, ccn.com | No Date | Review]
+* Quality: Mixed reviews. Some praise the support, while others report issues.  Casino uses a forum for complaint resolution. [SOURCE: cryptomaniaks.com, gamblingsites.com | 2024-09-20 | Review]
+
+8. USER EXPERIENCE
+* Mobile: Smooth mobile browser experience. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Desktop: Generally easy to navigate, but sportsbook navigation needs improvement. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Features: Lacks a search bar in the sportsbook section. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Issues: Some users report technical problems. [SOURCE: No Source | 2024-12-09 | No Info]
+
+9. REPUTATION & REVIEWS
+* Ratings: 4.6 on Trustpilot (highest among crypto casinos according to one source), 4.5 on Trustpilot (with 74% 5-star ratings according to another source), 7.7/10 and ranked #106 out of 2011 casinos (on gamblingsites.com).  Positive reviews incentivized with crypto rewards. [SOURCE: ccn.com, 99bitcoins.com, gamblingsites.com, cryptomaniaks.com | Various Dates | Review]
+* Complaints: Withdrawal issues, unclear bonus terms, and transparency concerns.  Casino actively addresses complaints on its forum. [SOURCE: gamblingsites.com, cryptomaniaks.com | No Date | Review]
+* Awards: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* History: No formal complaints reported since 2018 (according to one source). [SOURCE: gamblingsites.com | No Date | Review]
+
+10. INDUSTRY POSITION
+* Partnerships: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Sponsorships: Not specified in sources. [SOURCE: No Source | 2024-12-09 | No Info]
+* Innovation: Crypto-focus, provably fair games, TXT crypto staking. [SOURCE: 99bitcoins.com, casinomeister.com | 2024-10-21 | Review]
+* Competition: Large game selection, crypto focus, fast payouts, and unique features like TXT staking are mentioned as differentiators.  However, the Curacao license and issues with transparency are weaknesses. [SOURCE: Various Sources | Various Dates | Review]

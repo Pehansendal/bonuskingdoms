@@ -1,0 +1,67 @@
+* Category: Wild Fortune Casino Analysis [SOURCE: User Prompt | 2024-12-09 | Text]
+
+1. TECHNICAL SPECS
+* Platform: N1 Interactive Limited (www.wildfortune.com), Hollycorn N.V. (www.wildfortune.io) [SOURCE: johnsphones.com | 2024-10-21 | Text]
+* Mobile: Web app available, dedicated iOS/Android app unclear. [SOURCE: johnsphones.com | 2024-10-21 | Text]
+* Features: Slots, live casino games [SOURCE: johnsphones.com | 2024-10-21 | Text]
+* Security: 128-bit SSL encryption, RNG used.  Auditing information not published. [SOURCE: johnsphones.com | 2024-10-21 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Malta Gaming Authority (MGA) for www.wildfortune.com, Antillephone N.V. (Curacao) for www.wildfortune.io [SOURCE: johnsphones.com | 2024-10-21 | Text]
+* Ownership: N1 Interactive Limited operates www.wildfortune.com, Hollycorn N.V. owns and manages www.wildfortune.io [SOURCE: johnsphones.com | 2024-10-21 | Text]
+* Restrictions: United States, United Kingdom, France, Estonia, Israel, Lithuania, Portugal, Spain, Hungary, Czech Republic, Belgium, Greece, Netherlands, Panama, Ukraine, Cuba, Serbia, Gibraltar, and more. Restrictions may vary based on domain accessed (.com vs .io). [SOURCE: johnsphones.com | 2024-10-21 | Text]
+* Issues: ACMA (Australian Communications and Media Authority) listed Hollycorn N.V. and Libergos Limited for providing prohibited interactive gambling services related to Wild Fortune Casino. [SOURCE: acma.gov.au | 2023-05-26 | Text]  One player reported KYC issues. [SOURCE: casino.guru | No Date | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Crypto: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* KYC: Required. Documents not specified. Verification time and limits before KYC not specified. Issues with KYC process reported. Photos of ID required, not screenshots. All payment methods used require verification. [SOURCE: casino.guru | No Date | Text]
+* Limits: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Times: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Fees: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+
+4. GAME PORTFOLIO
+* Total: Over 8900 casino games (according to kongebonus.com). [SOURCE: kongebonus.com | No Date | Text]
+* Popular Slots: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Table Games: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Live: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Sports: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Providers: Evolution, NetEnt, Pragmatic Play [SOURCE: kongebonus.com | No Date | Text]
+* Jackpots: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+
+5. BONUS STRUCTURE
+* Welcome: Up to €3000 + 175 free spins over first three deposits (kongebonus.com), Up to €20,000 + 500 Free Spins (irishluck.ie). Inconsistency noted. [SOURCE: kongebonus.com | No Date | Text], [SOURCE: irishluck.ie | No Date | Text]
+* Wagering: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Loyalty: VIP program available. Details not fully specified, designed to offer exclusive benefits. [SOURCE: kerala.gov.in | No Date | Text]
+* Restrictions: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Personalized limits, reality checks, cooling-off periods, self-exclusion. [SOURCE: johnsphones.com | 2024-10-21 | Text]
+* Partners: GambleAware [SOURCE: johnsphones.com | 2024-10-21 | Text]
+* Policies: Restricts access for users under 18. [SOURCE: johnsphones.com | 2024-10-21 | Text]
+* Limits: Daily, weekly, and monthly limits available. [SOURCE: johnsphones.com | 2024-10-21 | Text]
+
+
+7. CUSTOMER SUPPORT
+* Hours: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Languages: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Response: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Quality: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+
+8. USER EXPERIENCE
+* Mobile: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Desktop: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Features: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Issues: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+
+9. REPUTATION & REVIEWS
+* Ratings: 4.7/5 overall on Irishluck. [SOURCE: irishluck.ie | No Date | Text]
+* Complaints: Player complaints regarding KYC verification. [SOURCE: casino.guru | No Date | Text]
+* Awards: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* History: ACMA action for providing prohibited services in Australia. [SOURCE: acma.gov.au | 2023-05-26 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Sponsorships: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Innovation: Not specified. [SOURCE: Missing | 2024-12-09 | Text]
+* Competition: Not specified. [SOURCE: Missing | 2024-12-09 | Text]

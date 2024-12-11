@@ -1,0 +1,72 @@
+```
+* Category: Winscore Casino Analysis [SOURCE: Synthesized from provided sources | 2024-12-09 | Aggregated Review]
+
+1. TECHNICAL SPECS
+* Platform:  Uses top-spec encryption software. Games tested for fairness by independent auditors monitoring RTP and RNG stats. [SOURCE: irishluck.ie | 2024 | Review]
+* Mobile: Mobile-friendly platform; accessible via mobile browser and potentially a PWA (Progressive Web App). [SOURCE: Synthesized from irishluck.ie, referencing similar sites | 2024 | Review]
+* Features:  Demo versions of many games available. Category filters for games. [SOURCE: irishluck.ie | 2024 | Review]
+* Security: Utilizes top-spec encryption software to protect data and financial transactions. Games are tested for fairness and RNG compliance by independent auditors. [SOURCE: irishluck.ie | 2024 | Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Licensed and regulated by the Government of Curaçao under license number 365/JAZ. [SOURCE: irishluck.ie | 2024 | Review]
+* Ownership: Owned and operated by NewEra B.V., a company registered under the laws of Curaçao, with registration number 157707 and registered address at Scharlooweg 39, Curaçao. [SOURCE: irishluck.ie | 2024 | Review]
+* Restrictions:  Information not available in the provided sources.
+* Issues: Some users have reported slow KYC verification times. One user reported waiting over two weeks with no response. [SOURCE: kasinoguru-bg.com | 2024 | User Review]  Low weekly withdrawal limit (€5,000) and daily win cap (€100,000). Difficulty withdrawing using debit cards. Limited responsible gambling tools (only self-exclusion readily available). [SOURCE: irishluck.ie | 2024 | Review]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Neteller, other e-wallets, debit cards, cryptocurrencies.  [SOURCE: irishluck.ie | 2024 | Review]
+* Crypto: Specific cryptocurrencies supported not listed in provided sources.
+* KYC: Required documents not specified. Verification time can be slow (over 2 weeks reported by one user). Limits before KYC not specified. [SOURCE: kasinoguru-bg.com, irishluck.ie | 2024 | User Review, Review]
+* Limits: Minimum deposit €20. Minimum withdrawal €20. Weekly withdrawal limit of €5,000. Daily win cap of €100,000. [SOURCE: irishluck.ie | 2024 | Review]
+* Times: Deposit times generally instant. Withdrawal times not specified. [SOURCE: irishluck.ie | 2024 | Review]
+* Fees: Fee structure not specified in provided sources.
+
+4. GAME PORTFOLIO
+* Total: Over 4,000 slots. Total game count across all categories not specified. [SOURCE: irishluck.ie | 2024 | Review]
+* Popular Slots: Top 10 slots and RTPs not listed in provided sources.
+* Table Games: Available variants and limits not specified in provided sources.
+* Live: Live casino games powered by Evolution Gaming and other providers like Pragmatic Play. Specific room details and limits not provided. [SOURCE: irishluck.ie | 2024 | Review]
+* Sports: Offers virtual sports betting. Specific markets and odds not provided. [SOURCE: bonuskoodit.com | 2024 | Review]
+* Providers: Evolution, Red, Pragmatic Play, Hacksaw Gaming, NetEnt. Full list of providers not available. [SOURCE: irishluck.ie, kasinohai.com | 2024 | Review]
+* Jackpots: Availability of progressive and fixed jackpot games mentioned. Specific games not listed. [SOURCE: irishluck.ie | 2024 | Review]
+
+5. BONUS STRUCTURE
+* Welcome: 200% up to €200 welcome bonus available using promo code "luck200". Additional deposit bonuses available, totaling up to €1,000 in bonus funds. [SOURCE: irishluck.ie, kasinohai.com | 2024 | Review]
+* Wagering: 40x wagering requirement on bonus funds. [SOURCE: kasinohai.com | 2024 | Review]
+* Loyalty: VIP program details not specified in provided sources.
+* Restrictions: Bonus restrictions not fully detailed in the provided sources.
+
+6. RESPONSIBLE GAMING
+* Tools: Self-exclusion available (requires contacting customer support). Account limits and reality checks not readily available. [SOURCE: irishluck.ie | 2024 | Review]
+* Partners: Partnerships not specified in provided sources.
+* Policies: Specific responsible gaming guidelines not detailed in provided sources.
+* Limits:  Information not available in the provided sources.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability via email and live chat. [SOURCE: irishluck.ie | 2024 | Review]
+* Languages: Supported languages not specified.
+* Response: Live chat response time around 15 seconds. Email response times not specified. [SOURCE: irishluck.ie | 2024 | Review]
+* Quality:  While generally friendly, one user reported unhelpful responses regarding payment queries. [SOURCE: irishluck.ie | 2024 | Review]
+
+8. USER EXPERIENCE
+* Mobile: Mobile performance not specifically detailed, but described as "seamless" on similar sites. [SOURCE: irishluck.ie (referencing similar sites) | 2024 | Review]
+* Desktop: Desktop navigation and functionality not specifically reviewed.
+* Features: Search and filtering options available for games. Personalization features not mentioned. [SOURCE: irishluck.ie | 2024 | Review]
+* Issues: No specific technical issues reported beyond slow KYC verification.
+
+9. REPUTATION & REVIEWS
+* Ratings: Ratings from major review sites not available in provided sources, except for a mention of positive reviews. [SOURCE: irishluck.ie | 2024 | Review]
+* Complaints: Slow KYC verification and unhelpful customer support on payment queries are the main reported issues. [SOURCE: kasinoguru-bg.com, irishluck.ie | 2024 | User Review, Review]
+* Awards: No awards mentioned in the provided sources.
+* History: Launched in 2023. Rebranded from SlotAmba Casino. [SOURCE: irishluck.ie, bonuskoodit.com | 2024 | Review]
+
+10. INDUSTRY POSITION
+* Partnerships:  Information not available in the provided sources.
+* Sponsorships:  Information not available in the provided sources.
+* Innovation: Virtual sports offerings. [SOURCE: bonuskoodit.com | 2024 | Review]
+* Competition: Key differentiators not clearly defined in provided sources.
+```
+
+**Overall Summary:**
+
+Winscore Casino, launched in 2023 and rebranded from SlotAmba, is a Curaçao-licensed online casino offering a wide selection of slots, table games, live casino, and virtual sports. While the platform boasts a large game library and utilizes strong security measures, it faces some challenges. User reviews and the review from Irishluck highlight issues with slow KYC verification, limited responsible gambling tools, and customer support that, while responsive, can be unhelpful with specific queries.  The platform's withdrawal limits and reported difficulty with debit card withdrawals are also potential drawbacks.  More information is needed to assess aspects like specific payment options, game details, and the loyalty program.  As of December 9, 2024, this information is not available in the provided sources.

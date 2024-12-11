@@ -1,0 +1,68 @@
+```
+* Category: Slotum Casino Analysis [SOURCE: Generated from provided sources | 2024-12-09 | Text and Analysis]
+
+1. TECHNICAL SPECS
+* Platform: SoftSwiss [SOURCE: revenuelab.biz | 2022-06-30 | Text]
+* Mobile: Browser-based, compatible with Android and iOS devices [SOURCE: mystrikingly.com | No date | Text], [SOURCE: mariaellingsen.com | 2024-09-01 | Text]
+* Features: 5000+ slots, table games, live casino, crash games, bonus buy, progressive jackpots [SOURCE: johnnybet.com | No date | Text], [SOURCE: casinomeister.com | No date | Text], [SOURCE: irishluck.ie | No date | Text]
+* Security: SSL encryption, RNG certified [SOURCE: Implied by licensing and general industry practices | 2024-12-09 | Inference]  *NOTE: Specific details on SSL and RNG certifications not provided in sources.*
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curaçao Master License 8048/JAZ (Antillephone N.V.) [SOURCE: casinomeister.com | No date | Text]
+* Ownership: Dama N.V., Willemstad, Curaçao [SOURCE: vortexalpha.com | No date | Text]
+* Restrictions: Not explicitly listed in sources. *NOTE: Restrictions common for Curacao licensed casinos may apply.*
+* Issues: Some past support issues, resolved according to Casinomeister [SOURCE: casinomeister.com | No date | Text], Slow deposits reported by forum user [SOURCE: casinomeister.com | 2023-06-03 | Forum Post]
+
+3. PAYMENT ECOSYSTEM
+* Methods: 30+ options including credit cards, bank transfers, e-wallets, and cryptocurrencies [SOURCE: johnnybet.com | No date | Text], [SOURCE: albertatreefarms.com | No date | Text]
+* Crypto: Bitcoin specifically mentioned, others not specified. [SOURCE: revenuelab.biz | 2022-06-30 | Text], [SOURCE: casinomeister.com | No date | Text]
+* KYC: Selfie with ID, proof of address (utility bill, phone bill, or bank statement <90 days old) [SOURCE: casinomeister.com | No date | Text]
+* Limits: Minimum withdrawal €20 or equivalent in BTC [SOURCE: revenuelab.biz | 2022-06-30 | Text] *NOTE: Other limits not specified.*
+* Times: Fast withdrawals highlighted [SOURCE: casinomeister.com | No date | Text] *NOTE: Specific processing times not provided.*
+* Fees: Not specified in sources.
+
+4. GAME PORTFOLIO
+* Total: 5000+ [SOURCE: johnnybet.com | No date | Text]
+* Popular Slots: Not listed with RTP in sources.
+* Table Games: Roulette, Blackjack, Baccarat, Poker (variants and limits not specified) [SOURCE: vortexalpha.com | No date | Text], [SOURCE: irishluck.ie | No date | Text]
+* Live:  Roulette, Blackjack, Baccarat, Poker, game shows (e.g., Monopoly Live, Deal or No Deal), providers: Evolution Gaming and NetEnt [SOURCE: vortexalpha.com | No date | Text], [SOURCE: irishluck.ie | No date | Text], [SOURCE: revenuelab.biz | 2022-06-30 | Text] *NOTE: Room details and limits not specified.*
+* Sports: Not offered. [SOURCE: irishluck.ie | No date | Text]
+* Providers: 1x2 Gaming, 2By2 Gaming, Ainsworth, Amatic Industries, Big Time Gaming (BTG), Blueprint Gaming, Booming Games, Betsoft Gaming, EGT, Elk Studios, Pragmatic Play, Play'n Go, NetEnt, Quickfire, Relax Gaming, Wazdan [SOURCE: casinomeister.com | No date | Text], [SOURCE: johnnybet.com | No date | Text] *NOTE: This list may not be exhaustive.*
+* Jackpots: Progressive jackpots available, specific games not listed [SOURCE: casinomeister.com | No date | Text]
+
+5. BONUS STRUCTURE
+* Welcome: Up to $1125 + 100 Free Spins (spread across first three deposits) [SOURCE: youtube.com | 2024-09-17 | Video] *NOTE: Discrepancy between sources regarding welcome bonus amount.*
+* Wagering: Not specified in sources.
+* Loyalty: VIP program exists, details not provided. [SOURCE: irishluck.ie | No date | Text], [SOURCE: youtube.com | 2024-09-17 | Video]
+* Restrictions: Not fully specified.
+
+6. RESPONSIBLE GAMING
+* Tools: Deposit limits, self-exclusion mentioned [SOURCE: gamixlabs.com | 2024-05-24 | Text] *NOTE: Other tools not specified.*
+* Partners: Not specified.
+* Policies:  Information provided on the website, not detailed in sources.
+* Limits: Not specified.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability mentioned [SOURCE: johnnybet.com | No date | Text] *NOTE: Specific hours per channel not provided.*
+* Languages: Not specified.
+* Response: Not specified.
+* Quality: Past support issues reported, but resolved according to Casinomeister [SOURCE: casinomeister.com | No date | Text]
+
+8. USER EXPERIENCE
+* Mobile: Easy to navigate, designed for mobile devices [SOURCE: mystrikingly.com | No date | Text], [SOURCE: irishluck.ie | No date | Text]
+* Desktop: Easy to navigate [SOURCE: casinomeister.com | No date | Text]
+* Features: Not specified.
+* Issues: Not specified.
+
+9. REPUTATION & REVIEWS
+* Ratings: Casinomeister rating 8.4/10 [SOURCE: casinomeister.com | No date | Text] *NOTE: Other rating sites not mentioned in provided sources.*
+* Complaints: Few complaints reported to Casinomeister [SOURCE: casinomeister.com | No date | Text]
+* Awards: Not mentioned in sources.
+* History: Launched in 2018 [SOURCE: casinomeister.com | No date | Text]
+
+10. INDUSTRY POSITION
+* Partnerships:  Not specified in sources.
+* Sponsorships: Not mentioned in sources.
+* Innovation: Crypto focus [SOURCE: casinomeister.com | No date | Text]
+* Competition: Large game selection, fast withdrawals [SOURCE: casinomeister.com | No date | Text]
+```

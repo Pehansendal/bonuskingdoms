@@ -1,0 +1,69 @@
+* Category: Casino Review [SOURCE: Analysis of provided sources | 2024-12-09 | Aggregated]
+
+1. TECHNICAL SPECS
+* Platform: Altacore N.V. [SOURCE: cryptolinks.com | No date | Website Article], uses Altaprime Limited as a subsidiary [SOURCE: cryptolinks.com | No date | Website Article]
+* Mobile: Website is mobile-responsive, compatible with iOS and Android devices. [SOURCE: cryptolinks.com | No date | Website Article] No dedicated app mentioned.
+* Features:  Over 3,000 games, including slots, table games, live dealer games, sportsbook, and video poker. Bonus shop. [SOURCE: cryptolinks.com, freetips.com | No date, 2021-01-19 | Website Article, Website Article]
+* Security: Uses SSL encryption.  Games confirmed as fair by independent organizations. [SOURCE: cryptolinks.com | No date | Website Article]  Specific details on RNG implementation not provided.
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curaçao (8048/JAZ2019-049) [SOURCE: cryptolinks.com, playtoday.co | No date, No date | Website Article, Website Article]
+* Ownership: Altacore N.V., established August 19, 2019. Operates through subsidiary Altaprime Limited. [SOURCE: cryptolinks.com | No date | Website Article] No official website for Altacore N.V.
+* Restrictions: Afghanistan, Algeria, Asia (mentioned as a whole continent, specifics unclear). [SOURCE: boomaff.com | No date | Website Article] Other restrictions possible but not specified.
+* Issues: Some players report slow game loading times, restrictions on game access for bonus play, occasional delays in withdrawals, and concerns about withdrawal limits and account verification complexity. [SOURCE: playtoday.co, wizardofodds.com | No date, No date | Website Article, Website Article] Incoherent responsible gaming page with incomplete information. [SOURCE: wizardofodds.com | No date | Website Article]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Credit/debit cards, e-wallets, bank transfers, cryptocurrency. [SOURCE: pokeriomokykla.com, recife.pe.gov.br | 2024-12-05, 2024-11-27 | Website Article, Website Article] Specific brands not consistently listed across sources.
+* Crypto: Supported but specific currencies not consistently listed. [SOURCE: boomaff.com, recife.pe.gov.br | No date, 2024-11-27 | Website Article, Website Article]
+* KYC: Required. Documents and verification time not specified in provided sources. Concerns about verification complexity mentioned. [SOURCE: playtoday.co | No date | Website Article] Limits before KYC not specified.
+* Limits: Withdrawal limits mentioned as a concern but specific amounts not consistently provided. Daily/monthly limits mentioned as €500/€10,000 in one source. [SOURCE: wizardofodds.com | No date | Website Article] Deposit minimums mentioned as €20 or $30 in different sources. [SOURCE: wizardofodds.com, stelariocasinonodeposit.click | No date, No date | Website Article, Website Article]
+* Times: Withdrawal processing can take up to 5 business days after 24-48 hours pending time and up to 24 hours for KYC. [SOURCE: wizardofodds.com | No date | Website Article] Occasional delays reported. [SOURCE: playtoday.co | No date | Website Article]
+* Fees: Not specified in provided sources.
+
+4. GAME PORTFOLIO
+* Total: Over 3,000 (3,100+ in 2021, 3,400+ in another source). [SOURCE: freetips.com, wizardofodds.com | 2021-01-19, No date | Website Article, Website Article]
+* Popular Slots: Not specifically listed with RTP in provided sources. Gates of Olympus, The Dog House mentioned in relation to free spins. [SOURCE: wizardofodds.com | No date | Website Article]
+* Table Games: Blackjack, roulette, baccarat mentioned. Specific variants and limits not detailed. [SOURCE: cryptolinks.com | No date | Website Article]
+* Live: Live dealer options available. Room details and limits not specified. [SOURCE: perfectinfragroup.com | 2024-12-08 | Website Article]
+* Sports: Sportsbook available. Specific markets and odds not detailed. [SOURCE: cryptolinks.com | No date | Website Article]
+* Providers: Over 35 providers mentioned. Some named providers include Play'n GO, Yggdrasil, NetEnt, Quickspin, Evolution Gaming, Microgaming, Big Time Gaming. [SOURCE: cryptolinks.com, wizardofodds.com | No date, No date | Website Article, Website Article]
+* Jackpots: Progressive jackpots available. Specific games not listed. [SOURCE: wizardofodds.com | No date | Website Article]
+
+5. BONUS STRUCTURE
+* Welcome: 100% up to €300 + 100 free spins on Gates of Olympus (25 spins per day for 4 days), 50% up to €500 + 50 free spins on The Dog House (25 spins per day for 2 days) for the second deposit. [SOURCE: wizardofodds.com | No date | Website Article] Other sources mention different bonus amounts and free spin allocations. Discrepancies exist between sources regarding bonus terms and amounts. A $1560 welcome package with 100 free spins is mentioned in another source. [SOURCE: stelariocasinonodeposit.click | No date | Website Article]
+* Wagering: 40x on bonus amount for the first two deposit bonuses and free spins winnings. [SOURCE: wizardofodds.com | No date | Website Article] Other wagering requirements mentioned in different sources.
+* Loyalty:  Loyalty program exists, details not provided. One source mentions a coin-based system. [SOURCE: barchemagazine.com | No date | Website Article] Another source mentions a VIP program. [SOURCE: recife.pe.gov.br | 2024-11-26 | Website Article] No comp point program. [SOURCE: wizardofodds.com | No date | Website Article]
+* Restrictions: Various game restrictions apply to bonuses. Specific excluded games not consistently listed. [SOURCE: wizardofodds.com | No date | Website Article] Other bonus limitations may apply but are not consistently detailed across sources.
+
+6. RESPONSIBLE GAMING
+* Tools: Self-exclusion, cooling-off periods available. Deposit limits, time limits not specified in provided sources. [SOURCE: wizardofodds.com | No date | Website Article]
+* Partners: Not specified in provided sources.
+* Policies: Dedicated page exists, but information is incoherent and incomplete. [SOURCE: wizardofodds.com | No date | Website Article]
+* Limits: Reality checks not mentioned. Cooling-off periods available. Specific durations not provided. [SOURCE: wizardofodds.com | No date | Website Article]
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability stated. [SOURCE: wizardofodds.com, recife.pe.gov.br | No date, 2024-11-26 | Website Article, Website Article]
+* Languages: English, Finnish, German, Norwegian, Polish, Portuguese, Russian. [SOURCE: boomaff.com, playtoday.co | No date, No date | Website Article, Website Article] Other sources mention French, Italian, and Greek.
+* Response: Live chat described as responsive. Actual response times for other channels not specified. [SOURCE: cryptolinks.com | No date | Website Article]
+* Quality: Resolution rates and customer satisfaction not quantified in provided sources. Generally positive player experience reported. [SOURCE: playtoday.co | No date | Website Article]
+
+8. USER EXPERIENCE
+* Mobile: Some sources report slow game loading times on mobile. [SOURCE: playtoday.co | No date | Website Article] Other mobile performance details not provided.
+* Desktop: Described as user-friendly with a dark theme. [SOURCE: wizardofodds.com | No date | Website Article] Other desktop experience details not provided.
+* Features: Search, filters, and personalization features not detailed in provided sources. Categorization system described as user-friendly. [SOURCE: cryptolinks.com | No date | Website Article]
+* Issues: Slow game loading times reported. [SOURCE: playtoday.co | No date | Website Article] Other technical issues not specified.
+
+9. REPUTATION & REVIEWS
+* Ratings: Overall rating of 3.1/5 mentioned in one source. [SOURCE: wizardofodds.com | No date | Website Article] Other review sites and specific scores not provided.  Generally positive player experience reported in another source. [SOURCE: playtoday.co | No date | Website Article]
+* Complaints: Slow game loading times, restrictions on game access for bonus play, occasional withdrawal delays, withdrawal limits, and account verification complexity. [SOURCE: playtoday.co, wizardofodds.com | No date, No date | Website Article, Website Article]
+* Awards: Not mentioned in provided sources.
+* History: Launched in 2020 by Altacore N.V. [SOURCE: cryptolinks.com | No date | Website Article] No other significant historical incidents mentioned.
+
+10. INDUSTRY POSITION
+* Partnerships: Works with over 35 game providers. Specific exclusive deals not mentioned. [SOURCE: cryptolinks.com | No date | Website Article] Affiliates with various gambling marketing agencies. [SOURCE: boomaff.com, influencermarketinghub.com | No date, No date | Website Article, Website Article]
+* Sponsorships: Not mentioned in provided sources.
+* Innovation: Bonus shop mentioned. [SOURCE: freetips.com | 2021-01-19 | Website Article] Other unique features or offerings not highlighted.
+* Competition: Large game library, 24/7 multilingual support, and decent bonus terms mentioned as advantages. [SOURCE: wizardofodds.com | No date | Website Article] Other key differentiators not specified.
+
+
+Note: The information provided in this analysis is current as of December 9, 2024, and is based on the available sources.  Several inconsistencies and missing details were noted across the sources, particularly regarding bonus terms, payment specifics, and responsible gaming policies.  Further research may be needed to obtain more comprehensive and up-to-date information.

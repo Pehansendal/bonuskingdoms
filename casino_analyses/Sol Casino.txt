@@ -1,0 +1,66 @@
+* Category: Casino Review [SOURCE: Multiple Sources | 2024-12-09 | Aggregated Information]
+
+1. TECHNICAL SPECS
+* Platform:  Solana blockchain. Supports WalletConnect and MetaMask. [SOURCE: dappradar.com, bitcoin.com | No Date | Website Info]
+* Mobile: Compatible with WalletConnect, suggesting mobile browser compatibility.  [SOURCE: bitcoin.com | No Date | Website Info]  Specific app information is missing.
+* Features:  Supports various cryptocurrencies, offers slots, blackjack, roulette, live dealer tables, sportsbook, and lotto. [SOURCE: dappradar.com, 99bitcoins.com | No Date | Website Info]
+* Security:  Utilizes blockchain technology for enhanced security and transparency. Employs smart contracts.  SSL encryption is mentioned. [SOURCE: nearindiaaccelerator.in, irishluck.ie | No Date | Website Info] RNG implementation is confirmed. [SOURCE: irishluck.ie | No Date | Website Info]
+
+2. LICENSING & COMPLIANCE
+* Licenses:  Curacao (license number 8048/JAZ2016-050). [SOURCE: irishluck.ie | No Date | Website Info]
+* Ownership: Galaktika N.V. [SOURCE: irishluck.ie | No Date | Website Info]
+* Restrictions: Withdrawal limit of $10,000 per day. [SOURCE: reddit.com | No Date | User Report]  Other restrictions are not specified.
+* Issues: A user reported a pending withdrawal. [SOURCE: reddit.com | No Date | User Report] Other potential issues related to platforms without KYC are mentioned. [SOURCE: reddit.com | No Date | User Comment]
+
+3. PAYMENT ECOSYSTEM
+* Methods:  Supports over 25 cryptocurrencies, including BTC, ETH, SOL, MATIC, SUI, BNB, and AVAX. [SOURCE: dappradar.com | No Date | Website Info]
+* Crypto:  BTC, ETH, SOL, MATIC, SUI, BNB, AVAX, and others. [SOURCE: dappradar.com | No Date | Website Info]
+* KYC:  No KYC mentioned. [SOURCE: crypto.news | 2024-12-02 | News Article]  This raises potential concerns regarding security and regulatory compliance.
+* Limits:  Withdrawal limit of $10,000 per day. [SOURCE: reddit.com | No Date | User Report] Other transaction limits are not specified.
+* Times:  Deposit times are generally fast, but specific details are missing. [SOURCE: 99bitcoins.com | 2024-11-28 | Article]  A user reported a pending withdrawal. [SOURCE: reddit.com | No Date | User Report]
+* Fees: Not specified.
+
+4. GAME PORTFOLIO
+* Total: Not specified.
+* Popular Slots: Not specified.
+* Table Games: Blackjack, Roulette. [SOURCE: 99bitcoins.com | 2024-11-28 | Article] Specific variants and limits are not provided.
+* Live: Live dealer tables are available. [SOURCE: 99bitcoins.com | 2024-11-28 | Article] Room details and limits are not specified.
+* Sports: Sportsbook available. [SOURCE: bitcoin.com, 99bitcoins.com | No Date | Website Info]  Available markets and odds are not specified.
+* Providers: Not specified.
+* Jackpots: Not specified.
+
+5. BONUS STRUCTURE
+* Welcome:  Information not available from provided sources.
+* Wagering: Not specified.
+* Loyalty: Not specified.
+* Restrictions: Not specified.
+
+6. RESPONSIBLE GAMING
+* Tools: Account blocking, deposit and withdrawal limits. [SOURCE: irishluck.ie | No Date | Website Info]
+* Partners: Not specified.
+* Policies:  Information not available from provided sources.
+* Limits: Not specified beyond deposit and withdrawal limits.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 live chat available. [SOURCE: irishluck.ie | No Date | Website Info]
+* Languages: English support is confirmed (support-en@sol.casino). [SOURCE: irishluck.ie | No Date | Website Info] Other languages are not specified.
+* Response:  Generally fast email and live chat responses. [SOURCE: irishluck.ie | No Date | Website Info]
+* Quality:  Described as knowledgeable. [SOURCE: irishluck.ie | No Date | Website Info] Resolution rates and overall satisfaction are not quantified.
+
+8. USER EXPERIENCE
+* Mobile:  Limited information available. WalletConnect compatibility suggests mobile browser functionality. App-specific details are missing.
+* Desktop: Not specified.
+* Features: Not specified.
+* Issues: Not specified.
+
+9. REPUTATION & REVIEWS
+* Ratings: Not specified.
+* Complaints:  A user reported a pending withdrawal. [SOURCE: reddit.com | No Date | User Report] Concerns about platforms without KYC were also raised. [SOURCE: reddit.com | No Date | User Comment]
+* Awards: Not specified.
+* History: Launched in 2019. [SOURCE: irishluck.ie | No Date | Website Info]
+
+10. INDUSTRY POSITION
+* Partnerships: Not specified.
+* Sponsorships: Not specified.
+* Innovation:  Use of Solana blockchain and smart contracts. [SOURCE: nearindiaaccelerator.in | No Date | Website Info]
+* Competition: Not specified.

@@ -1,0 +1,69 @@
+* Category: Gate777 Casino Analysis [SOURCE: User Prompt | 2024-12-09 | Analysis]
+
+1. TECHNICAL SPECS
+* Platform: White Hat Gaming platform; instant-play, browser-based [SOURCE: irishluck.ie | No date | Website Info]
+* Mobile: Browser-based on Android and iOS; no dedicated app [SOURCE: irishluck.ie | No date | Website Info], [SOURCE: bookies.com | 2024-05-09 | Review]
+* Features: Daily Upgrades, Captain's Spins Promo, search function, filter by game type [SOURCE: sigma.world | No date | Review], [SOURCE: gambling.com | 2024-04-05 | Review], [SOURCE: pokernews.com | 2019-03-17 | News]
+* Security: SSL encryption; RNG used; licensing by UKGC and MGA [SOURCE: sigma.world | No date | Review], [SOURCE: casino.org | No date | Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: UK Gambling Commission, Malta Gaming Authority, Curaçao eGaming, Swedish Gambling Authority [SOURCE: casino.org | No date | Review], [SOURCE: gambling.com | 2024-04-05 | Review]
+* Ownership: White Hat Gaming Limited, headquartered in Malta [SOURCE: irishluck.ie | No date | Website Info]
+* Restrictions: Players from certain countries restricted (not explicitly listed in sources); Skrill/Neteller deposits ineligible for welcome bonus [SOURCE: casino.org | No date | Review], [SOURCE: pokerlistings.com | 2024-08-15 | Review]
+* Issues: Some reports of delayed withdrawals [SOURCE: tinteparaelcabello.com | 2022-07-01 | Article], [SOURCE: wordpress.com | 2024-12-06 | Blog Post] Lack of phone support. [SOURCE: irishluck.ie | No date | Website Info]  No regular loyalty scheme. [SOURCE: casino.org | No date | Review]  No eCOGRA certification. [SOURCE: casino.org | No date | Review] High wagering requirements. [SOURCE: irishluck.ie | No date | Website Info]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, Mastercard, Maestro, Paysafecard, Interac, Bank Wire, Rapid Transfer, MuchBetter, Skrill, Neteller, Bitcoin, Ethereum, Litecoin, Paypal [SOURCE: sigma.world | No date | Review], [SOURCE: irishluck.ie | No date | Website Info]
+* Crypto: Bitcoin, Ethereum, Litecoin [SOURCE: irishluck.ie | No date | Website Info]
+* KYC: Not specified in sources.
+* Limits: Minimum deposit generally €20; varies by payment method. Maximum deposit up to €1,500 for many methods. [SOURCE: sigma.world | No date | Review]
+* Times: Withdrawals generally take 3-5 business days; can be faster for some methods (e.g., 12-24 hours for Paysafecard/Interac). [SOURCE: sigma.world | No date | Review] Some reports of delays up to a week or more. [SOURCE: tinteparaelcabello.com | 2022-07-01 | Article], [SOURCE: wordpress.com | 2024-12-06 | Blog Post]
+* Fees: Not specified in sources.
+
+4. GAME PORTFOLIO
+* Total: Over 2,000 games; over 2,600 according to one source. [SOURCE: sigma.world | No date | Review], [SOURCE: kasinohai.com | 2024-09-05 | Review] 1,609 casino games according to another source. [SOURCE: gamingboulevard.com | 2022-02-06 | Review]
+* Popular Slots: Starburst, Wolf Gold, Book of Dead, Gonzo's Quest, Mega Moolah, Hound Hotel, Silver Lioness, Mega Fortune, Mega Fortune Dreams, Arabian Nights, Hall of Gods, Grand Spinn Superpot, Mercy of the Gods, Imperial Riches [SOURCE: gambling.com | 2024-04-05 | Review], [SOURCE: icar.gov.in | 2024-09-03 | Article], [SOURCE: netent.com | 2019-09-19 | Press Release]
+* Table Games: Blackjack, Roulette, Baccarat, Poker (various versions) [SOURCE: pokerlistings.com | 2024-08-15 | Review], [SOURCE: icar.gov.in | 2024-09-03 | Article]
+* Live: 2 Hand Casino Holdem, Super Sic Bo, Dragon Tiger, Football Studio, Ultimate Texas Hold'em, Three Card Poker, Roulette, Blackjack (various versions) [SOURCE: pokerlistings.com | 2024-08-15 | Review]
+* Sports: Not offered.
+* Providers: NetEnt, Microgaming, Play'n GO, Evolution Gaming, 2BY2 Gaming, Bulletproof Games, Electrical Elephant, Thunderkick and over 100 others. [SOURCE: pokernews.com | 2019-03-17 | News], [SOURCE: pokerlistings.com | 2024-08-15 | Review], [SOURCE: irishluck.ie | No date | Website Info], [SOURCE: ptofthecity.com | No date | Review]
+* Jackpots: Mega Fortune, Mega Moolah, Vikings of Fortune, Major Millions [SOURCE: pokerlistings.com | 2024-08-15 | Review]
+
+5. BONUS STRUCTURE
+* Welcome: Up to £100 + 25 free spins (NetEnt slots); other sources mention up to €1,000 + 100 free spins, and up to $1,500 + 150 free spins. [SOURCE: casino.org | No date | Review], [SOURCE: irishluck.ie | No date | Website Info], [SOURCE: gambling.com | 2024-04-05 | Review] Three-tiered structure across first three deposits. [SOURCE: sigma.world | No date | Review]
+* Wagering: 35x on bonus and deposit [SOURCE: casino.org | No date | Review], [SOURCE: gambling.com | 2024-04-05 | Review]
+* Loyalty: VIP program (invite-only); Daily Upgrades with daily bonuses [SOURCE: casino.org | No date | Review], [SOURCE: pokernews.com | 2019-03-17 | News]
+* Restrictions: Skrill/Neteller deposits ineligible for welcome bonus; various terms and conditions apply to other bonuses. [SOURCE: casino.org | No date | Review]
+
+6. RESPONSIBLE GAMING
+* Tools: Deposit limits (daily, weekly, monthly), reality checks, time-outs, self-exclusion, account closure [SOURCE: gambling.com | 2023-08-01 | Review]
+* Partners: Not specified in sources.
+* Policies: Has a responsible gaming policy; details not provided in sources. [SOURCE: underatexassky.com | No date | Blog Post]
+* Limits:  Hourly reality checks available. [SOURCE: gambling.com | 2023-08-01 | Review]
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability via live chat and email [SOURCE: gambling.com | 2024-04-05 | Review], [SOURCE: irishluck.ie | No date | Website Info]
+* Languages: Not specified in sources.
+* Response: Live chat described as "quick" [SOURCE: gambling.com | 2024-04-05 | Review]; email response times not specified.
+* Quality: Generally positive reviews, but some reports of slow withdrawal processing [SOURCE: tinteparaelcabello.com | 2022-07-01 | Article], [SOURCE: wordpress.com | 2024-12-06 | Blog Post]
+
+8. USER EXPERIENCE
+* Mobile: No dedicated app, but mobile site is user-friendly and offers full functionality [SOURCE: irishluck.ie | No date | Website Info]
+* Desktop: Clean design, intuitive navigation, easy-to-use search and filter functions [SOURCE: gambling.com | 2024-04-05 | Review], [SOURCE: sigma.world | No date | Review]
+* Features: Search function, game filters, personalized daily bonuses [SOURCE: gambling.com | 2024-04-05 | Review], [SOURCE: pokernews.com | 2019-03-17 | News]
+* Issues: Some reports of longer processing times for first withdrawals [SOURCE: sigma.world | No date | Review]
+
+9. REPUTATION & REVIEWS
+* Ratings: Mixed; some positive reviews highlighting game selection and bonuses, but some negative reports regarding withdrawal processing times. Casino Guru rating of 5.2/10. [SOURCE: irishluck.ie | No date | Website Info]
+* Complaints: Some complaints about delayed withdrawals [SOURCE: tinteparaelcabello.com | 2022-07-01 | Article], [SOURCE: wordpress.com | 2024-12-06 | Blog Post]
+* Awards: Not mentioned in sources.
+* History: Launched in 2018; one instance of a player winning a €3.3 million jackpot on Mega Fortune in 2019. [SOURCE: sigma.world | No date | Review], [SOURCE: netent.com | 2019-09-19 | Press Release]
+
+10. INDUSTRY POSITION
+* Partnerships: Works with over 100 software providers, including prominent names like NetEnt, Microgaming, and Play'n GO. [SOURCE: irishluck.ie | No date | Website Info]
+* Sponsorships: Not mentioned in sources.
+* Innovation: Unique airport/travel theme; Daily Upgrades feature [SOURCE: studiomelamed.com | No date | Website Info], [SOURCE: pokernews.com | 2019-03-17 | News]
+* Competition: Wide game selection, attractive bonuses, focus on user experience [SOURCE: casino.org | No date | Review]
+
+
+Inconsistencies noted in welcome bonus amounts and total game count across different sources.  Some information, such as KYC procedures and specific customer support languages, is missing from the provided sources.  This information is current as of December 9, 2024, and may change.

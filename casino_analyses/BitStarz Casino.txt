@@ -1,0 +1,66 @@
+* Category: BitStarz Casino Analysis [SOURCE: User Prompt | 2024-12-09 | User Prompt]
+
+1. TECHNICAL SPECS
+* Platform: Several software providers including listed in source 1; specific tech stack not specified. [SOURCE: fullycrypto.com | No date | Website]
+* Mobile: Mobile browser compatible; dedicated app not available. [SOURCE: ccn.com, irishluck.ie | 2024-08-08, No date | Website, Website]
+* Features: Slots, table games, live casino, Bitcoin games; limited search options. [SOURCE: fullycrypto.com, coinbureau.com | No date, 2024-06-08 | Website, Website]
+* Security:  SSL/encryption/RNG mentioned, specifics not detailed.  Curacao license suggests some level of security implementation. [SOURCE: ccn.com, 99bitcoins.com, domarant.com.pl | 2024-08-08, 2024-10-21, No date | Website, Website, Website]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao (current). [SOURCE: fullycrypto.com, ccn.com, coinbureau.com, 99bitcoins.com, domarant.com.pl | No date, 2024-08-08, 2024-06-08, 2024-10-21, No date | Website, Website, Website, Website, Website]
+* Ownership: Dama N.V. [SOURCE: fullycrypto.com, ccn.com, domarant.com.pl | No date, 2024-08-08, No date | Website, Website, Website]
+* Restrictions: Blocked in the United States and other unspecified regions. [SOURCE: cryptolinks.com | No date | Website]
+* Issues: Limited search options, high bonus wagering requirements, no sports betting or dedicated mobile app. [SOURCE: fullycrypto.com, cryptolinks.com, casino.org, irishluck.ie | No date, No date, 2024-02-29, No date | Website, Website, Website, Website]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Neosurf, Piastrix, ecoVoucher, MiFinity, MuchBetter, Neteller, Skrill, paysafecard, ecoPayz, Credit Cards, and others. [SOURCE: fullycrypto.com, ownedcore.com, johnnybet.com | No date, No date, 2024-12-05 | Website, Website, Website]
+* Crypto: BTC, ETH, LTC, DOGE, BCH, USDT, and at least one more. [SOURCE: fullycrypto.com, ccn.com, coinbureau.com | No date, 2024-08-08, 2024-06-08 | Website, Website, Website]
+* KYC:  Information not available.
+* Limits: No maximum withdrawal limit. Minimum deposit for bonuses varies (0.0003 BTC - 0.0004 BTC). [SOURCE: fullycrypto.com, sigma.world | No date, No date | Website, Website]
+* Times: Withdrawal timeframe around 10 minutes. [SOURCE: fullycrypto.com, cryptolinks.com | No date, No date | Website, Website]
+* Fees: No fees for crypto payments. [SOURCE: ccn.com | 2024-08-08 | Website]
+
+4. GAME PORTFOLIO
+* Total: Over 3200 (one source states almost 5000, another over 2800). Inconsistency noted. [SOURCE: fullycrypto.com, casino.org, cryptolinks.com | No date, 2024-02-29, No date | Website, Website, Website]
+* Popular Slots: Not specified with RTP.
+* Table Games: Available, variants and limits not specified. [SOURCE: fullycrypto.com | No date | Website]
+* Live:  Room details and limits not specified. [SOURCE: fullycrypto.com, ccn.com | No date, 2024-08-08 | Website, Website]
+* Sports: No sportsbook available. [SOURCE: fullycrypto.com, ccn.com | No date, 2024-08-08 | Website, Website]
+* Providers: Numerous, including Yggdrasil, Wazdan, TrueLab, etc. (See source 1 for full list). [SOURCE: fullycrypto.com | No date | Website]
+* Jackpots: Progressive and fixed jackpot games available, specifics not provided. [SOURCE: coinbureau.com | 2024-06-08 | Website]
+
+5. BONUS STRUCTURE
+* Welcome: Up to 5 BTC + 180 free spins across first four deposits. Other bonuses available. [SOURCE: fullycrypto.com, sigma.world | No date, No date | Website, Website]
+* Wagering: 40x on deposit bonuses and free spins. [SOURCE: fullycrypto.com, cointelegraph.com | No date, No date | Website, Website]
+* Loyalty: VIP program available, details not fully specified. [SOURCE: coinbureau.com | 2024-06-08 | Website]
+* Restrictions: Maximum bet allowed is €5 per spin during bonus wagering. Free spins wagering must be completed within one day. [SOURCE: cointelegraph.com | No date | Website]
+
+6. RESPONSIBLE GAMING
+* Tools: Information not available.
+* Partners: Information not available.
+* Policies: Information not available.
+* Limits: Information not available.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability mentioned. Specifics for each channel not provided. [SOURCE: casino.org | 2024-02-29 | Website]
+* Languages: English, Chinese, Japanese, Russian, Portuguese. Service level not specified. [SOURCE: ccn.com | 2024-08-08 | Website]
+* Response:  Actual response times not provided. Award-winning support mentioned. [SOURCE: fullycrypto.com, coinbureau.com | No date, 2024-06-08 | Website, Website]
+* Quality: Resolution rates and satisfaction not quantified.
+
+8. USER EXPERIENCE
+* Mobile: Smooth and optimized for mobile browsers. No dedicated app. [SOURCE: ccn.com, irishluck.ie | 2024-08-08, No date | Website, Website]
+* Desktop: Navigation and functionality generally positive, limited search options noted. [SOURCE: fullycrypto.com | No date | Website]
+* Features: Search function present, other features (filters, personalization) not detailed. [SOURCE: fullycrypto.com | No date | Website]
+* Issues: Limited search functionality reported. [SOURCE: fullycrypto.com | No date | Website]
+
+9. REPUTATION & REVIEWS
+* Ratings: 4.5/5 (FullyCrypto), 4.0 (Coin Bureau). [SOURCE: fullycrypto.com, coinbureau.com | No date, 2024-06-08 | Website, Website]
+* Complaints: High bonus wagering requirements noted. [SOURCE: cryptolinks.com | No date | Website]
+* Awards: Award-winning customer support mentioned. Specific awards not listed. [SOURCE: fullycrypto.com | No date | Website]
+* History: Established in 2014. No specific past incidents detailed. [SOURCE: fullycrypto.com | No date | Website]
+
+10. INDUSTRY POSITION
+* Partnerships: Information not available.
+* Sponsorships: Information not available.
+* Innovation: Early adopter of cryptocurrency in the online casino space. Developed its own game (Bitstarz Billion). [SOURCE: fullycrypto.com | No date | Website]
+* Competition: Key differentiators include fast payouts, crypto focus, and wide game selection. [SOURCE: cryptolinks.com | No date | Website]

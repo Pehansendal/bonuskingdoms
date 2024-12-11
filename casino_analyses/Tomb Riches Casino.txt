@@ -1,0 +1,73 @@
+* Category: Casino Analysis [SOURCE: User Prompt | 2024-12-09 | Text]
+
+Tomb Riches Casino Analysis (as of 2024-12-09):
+
+This analysis focuses on Tomb Riches Casino, leveraging provided sources.  Note that information about "Tomb Riches Casino" is limited, and some sources reference different games with similar names.  Therefore, this analysis blends information about Tomb Riches Casino with general online casino information where specific details are unavailable.  Inconsistencies and missing information are flagged.
+
+1. TECHNICAL SPECS
+* Platform:  Information not available in provided sources.
+* Mobile: Optimized for mobile devices (Android, iPhone, iPad). Responsive design for various screen sizes. No specific information on app availability. [SOURCE: wizardofodds.com | 2024-02-28 | Text]
+* Features: Search function, filtering by provider. FAQ section covering Account, Verification, Payments, Withdrawals, Bonus & Free Spins, Technical Questions, and Play Responsibly.  [SOURCE: wizardofodds.com | 2024-02-28 | Text]
+* Security:  SSL encryption. [SOURCE: wizardofodds.com | 2024-02-28 | Text]  No specific details on RNG or other security measures.
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curaçao. [SOURCE: wizardofodds.com | 2024-02-28 | Text]  No information on previous licenses.
+* Ownership: Information not available.
+* Restrictions: Information not fully available.  Minimum deposit and withdrawal amounts suggest potential restrictions based on payment methods. [SOURCE: wizardofodds.com | 2024-02-28 | Text]
+* Issues: Information not available.
+
+3. PAYMENT ECOSYSTEM
+* Methods:  Not fully specified, but mentions e-wallets, credit cards, and bank transfers. [SOURCE: wizardofodds.com | 2024-02-28 | Text, intercom-help.eu | No Date | Text]
+* Crypto:  Not specified.
+* KYC: Requires passport/government ID, proof of deposit (e-wallet screenshot, credit card images, bank statement). Verification time up to 1 business day.  KYC performed upon cashout request. [SOURCE: intercom-help.eu | No Date | Text, wizardofodds.com | 2024-02-28 | Text]
+* Limits: Minimum deposit €/$20. Minimum withdrawal €/$40. Cashout limits: €/$5,000 daily, €/$10,000 weekly, €/$30,000 monthly. [SOURCE: wizardofodds.com | 2024-02-28 | Text]
+* Times: E-wallets: up to 1 hour. Credit cards: 1-3 business days. Bank Transfer: 5-7 business days. Pending time: up to 24 hours. [SOURCE: wizardofodds.com | 2024-02-28 | Text]
+* Fees: Not specified.
+
+4. GAME PORTFOLIO
+* Total: Thousands of titles. [SOURCE: wizardofodds.com | 2024-02-28 | Text]  Exact count not available.
+* Popular Slots:  Not specified.
+* Table Games: Not specified beyond mention of Roulette, Baccarat, and Casino Hold 'Em from iSoftBet, and Roulette and Double Exposure from Pragmatic Play. [SOURCE: wizardofodds.com | 2024-02-28 | Text]
+* Live:  Not specified.
+* Sports: Not specified.
+* Providers: iSoftBet, Pragmatic Play, 1x2gaming. [SOURCE: wizardofodds.com | 2024-02-28 | Text]  Likely others, but not listed.
+* Jackpots: Not specified.
+
+5. BONUS STRUCTURE
+* Welcome:  Mentioned, but details not fully provided.  Wizard of Odds mentions an "appealing introductory offer." [SOURCE: wizardofodds.com | 2024-02-28 | Text] Intercom articles suggest free spins and deposit bonuses. [SOURCE: intercom-help.eu | No Date | Text]
+* Wagering: 3x wagering requirement on the last deposit. [SOURCE: intercom-help.eu | No Date | Text]
+* Loyalty:  Mentioned, but details not provided. [SOURCE: wizardofodds.com | 2024-02-28 | Text]
+* Restrictions: Not fully specified.
+
+6. RESPONSIBLE GAMING
+* Tools: Deposit limits, withdrawal limits, game limits, cooling-off periods. [SOURCE: intercom-help.eu | No Date | Text]  Self-exclusion not explicitly mentioned in the provided sources.
+* Partners: Not specified.
+* Policies:  FAQ section includes "Play Responsibly" category. [SOURCE: wizardofodds.com | 2024-02-28 | Text]  Specific guidelines not detailed.
+* Limits: See "Tools" above.
+
+7. CUSTOMER SUPPORT
+* Hours: Not specified.
+* Languages: English, German. [SOURCE: wizardofodds.com | 2024-02-28 | Text]
+* Response: Not specified.
+* Quality: Not specified.
+
+8. USER EXPERIENCE
+* Mobile:  Casino is responsive and optimized for mobile. [SOURCE: wizardofodds.com | 2024-02-28 | Text] No specific performance metrics.
+* Desktop:  Website described as user-friendly and not overly busy. [SOURCE: wizardofodds.com | 2024-02-28 | Text]
+* Features: Search functionality, filtering by provider. [SOURCE: wizardofodds.com | 2024-02-28 | Text]
+* Issues: Not specified.
+
+9. REPUTATION & REVIEWS
+* Ratings: Not available in provided sources.
+* Complaints: Not available in provided sources.
+* Awards: Not available in provided sources.
+* History: Not available in provided sources.
+
+10. INDUSTRY POSITION
+* Partnerships: Not specified.
+* Sponsorships: Not specified.
+* Innovation: Not specified.
+* Competition: Not specified.
+
+
+General Notes:  Several sources refer to mobile games or other casinos with "Tomb" or "Riches" in the title. These were excluded from the analysis as they did not directly pertain to Tomb Riches Casino.  Much of the information about Tomb Riches Casino is derived from its help center and a Wizard of Odds review. More information from independent review sites would be beneficial for a more complete analysis.

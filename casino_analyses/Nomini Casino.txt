@@ -1,0 +1,69 @@
+* Category: Nomini Casino Analysis [SOURCE: User's Prompt | 2024-12-09 | Text]
+
+1. TECHNICAL SPECS
+* Platform:  Information not available in provided sources.
+* Mobile: Website is mobile-friendly and accessible on various devices, including Windows, Android, and iOS. No dedicated mobile app is available. [SOURCE: irishluck.ie | No date | Text], [SOURCE: gambling.com | 2023-08-01 | Text]
+* Features: Search function, game filters, likely personalized bonus selection. [SOURCE: gambling.com | 2023-08-01 | Text], [SOURCE: gambling.com | 2023-12-12 | Text]
+* Security:  Uses industry-standard security measures, including encryption, secure servers, and firewalls.  [SOURCE: irishluck.ie | No date | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao eGaming license No. 8048/JAZ, regulated by the Government of Curacao. [SOURCE: irishluck.ie | No date | Text]
+* Ownership: Rabidi N.V. (registered in Curacao, number 151791, Scharlooweg 39, Willemstad, Curacao). Conflicting information mentions Araxio Development N.V. operated by 7 Stars Partners under Tranello Group Limited. [SOURCE: irishluck.ie | No date | Text]
+* Restrictions: Not explicitly stated in sources, but access likely limited based on local regulations.  [SOURCE: gambling.com | 2023-12-12 | Text]
+* Issues: One user report of account closure and confiscation of winnings due to alleged duplicate account, without proper explanation. [SOURCE: casinomeister.com | 2020-11-18 | Forum Post]
+
+3. PAYMENT ECOSYSTEM
+* Methods:  VISA, Neteller, Paysafecard, Skrill, Neosurf, Bank Transfer, EcoPayz, Trustly, Bitcoin, MuchBetter. [SOURCE: irishluck.ie | No date | Text], [SOURCE: gambling.com | 2023-08-01 | Text]
+* Crypto: Bitcoin. [SOURCE: irishluck.ie | No date | Text]
+* KYC: Required; specific documents and verification time not provided. [SOURCE: casinomeister.com | 2020-11-18 | Forum Post]
+* Limits: Minimum deposit generally €10. Varying deposit and withdrawal limits per method (e.g., Neteller: €10-€5,000; Paysafecard: €10-€1,000). [SOURCE: irishluck.ie | No date | Text]
+* Times: Instant for e-wallets and crypto; several days for bank transfers and card payouts. [SOURCE: gambling.com | 2023-08-01 | Text]
+* Fees: Not specified in sources.
+
+4. GAME PORTFOLIO
+* Total: Close to 5,000 games (around 4,300+ slots). [SOURCE: gambling.com | 2023-08-01 | Text], [SOURCE: gambling.com | 2023-12-12 | Text]
+* Popular Slots: Chilli Pop, Stunning Hot, Frozen Gems. [SOURCE: gambling.com | 2023-08-01 | Text]
+* Table Games: Blackjack, roulette (including variants like Blackjack Double Exposure and Zoom Roulette). [SOURCE: gambling.com | 2023-08-01 | Text]
+* Live:  Available, with around 56 tables. Specific room details and limits not provided. [SOURCE: orc.org.uk | No date | Text]
+* Sports: Information not available in provided sources.
+* Providers: Over 65 game studios, including NetEnt, Microgaming, Play'n GO, Evolution Gaming, Red Tiger. [SOURCE: gambling.com | 2023-08-01 | Text], [SOURCE: nominini.gr | No date | Text]
+* Jackpots: Progressive jackpots available. Specific games not listed. [SOURCE: gambling.com | 2023-08-01 | Text]
+
+5. BONUS STRUCTURE
+* Welcome: Seven options available, including deposit matches (up to €1,000 over three deposits, 100% up to €500 + 100 free spins, 50% up to €1,000, 200% up to €50), free spins (1 per €1 deposited), cashback (10% up to €200, 15% for live casino). Minimum deposit typically €10. Skrill/Neteller deposits may not qualify. [SOURCE: gambling.com | 2023-08-01 | Text], [SOURCE: gambling.com | 2023-12-12 | Text]
+* Wagering: Not specified in sources.
+* Loyalty: VIP program available. Specific details not provided. [SOURCE: mollythomason.ca | No date | Text]
+* Restrictions: Varying terms and conditions for each bonus. [SOURCE: gambling.com | 2023-08-01 | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Self-exclusion (requires emailing support), deposit limits, time-outs. [SOURCE: gambling.com | 2023-08-01 | Text], [SOURCE: gambling.com | 2023-12-12 | Text]
+* Partners: Not specified in sources.
+* Policies: Provides information on responsible gambling and problem gambling behavior. [SOURCE: gambling.com | 2023-08-01 | Text]
+* Limits: Information not available in provided sources.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability via live chat. [SOURCE: irishluck.ie | No date | Text]
+* Languages: English confirmed. Other languages not specified. [SOURCE: mollythomason.ca | No date | Text]
+* Response: Not specified for all channels, but described as "very fast". [SOURCE: irishluck.ie | No date | Text]
+* Quality:  Described as "impeccable". Resolution rates and satisfaction not quantified. [SOURCE: irishluck.ie | No date | Text]
+
+8. USER EXPERIENCE
+* Mobile: Smooth navigation and gameplay on mobile website. [SOURCE: gambling.com | 2023-08-01 | Text]
+* Desktop: Modern design, clear layout, easy navigation. [SOURCE: gambling.com | 2023-08-01 | Text]
+* Features: Search function, game filters. [SOURCE: gambling.com | 2023-08-01 | Text]
+* Issues: No widespread technical issues reported.
+
+9. REPUTATION & REVIEWS
+* Ratings: Not available from specified sources (Trustpilot, AskGamblers).
+* Complaints: One reported instance of account closure and fund confiscation. [SOURCE: casinomeister.com | 2020-11-18 | Forum Post]
+* Awards: Not specified in sources.
+* History: Launched in 2019. [SOURCE: irishluck.ie | No date | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Works with over 65 game providers. Specific exclusive deals not mentioned. [SOURCE: gambling.com | 2023-08-01 | Text]
+* Sponsorships: Not specified in sources.
+* Innovation: Offers seven welcome bonus options, a unique feature. [SOURCE: gambling.com | 2023-08-01 | Text]
+* Competition: Large game library and variety of bonuses are key differentiators. [SOURCE: gambling.com | 2023-08-01 | Text]
+
+
+Note: This information is based on the available sources and is current as of December 9, 2024.  Some information is missing or conflicting, as indicated.  Further research may be needed to complete the analysis.

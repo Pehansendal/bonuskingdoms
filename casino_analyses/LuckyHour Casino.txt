@@ -1,0 +1,69 @@
+LuckyHour Casino Analysis (as of 09 December, 2024):
+
+1. TECHNICAL SPECS
+* Platform:  Information not available.
+* Mobile: Available as a downloadable mobile app and compatible with various devices. [SOURCE: uudetkasinot.com | 2024 | Text] Also has a dedicated app with similar security and experience as the desktop version. [SOURCE: la-press.org | 2024 | Text]
+* Features: Search bar for games. [SOURCE: la-press.org | 2024 | Text] Demo mode available for games. [SOURCE: la-press.org | 2024 | Text]
+* Security:  Uses strict rules for security, transparency, and fairness. [SOURCE: la-press.org | 2024 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao. [SOURCE: uudetkasinot.com | 2024 | Text]
+* Ownership: Altacore N.V. [SOURCE: uudetkasinot.com | 2024 | Text], [SOURCE: tychebets.gr | 2024-08-21 | Text]
+* Restrictions: Information not available, but players from various countries can access the platform. [SOURCE: la-press.org | 2024 | Text] Accepts players from Greece, Albania, Armenia, Bolivia, Belgium, Croatia, Chad, Canada, Egypt, Estonia, Finland, Georgia, Iceland, Italy, Lithuania, Kenya, Mexico, Peru, Poland, Nepal, Nigeria, Spain, Slovenia, Slovakia, Panama, Serbia, Sudan, and Zambia. [SOURCE: tychebets.gr | 2024-08-21 | Text]
+* Issues: A player from Sweden reported difficulty closing their account despite multiple requests. [SOURCE: kasinoguru-ua.com | 2024 | Text], [SOURCE: kasinoguru-bg.com | 2024 | Text] A player from Australia reported account closure and delayed withdrawal after KYC issues. [SOURCE: casino.guru | 2024-11-01 | Text] A player from Sweden reported being able to deposit despite self-excluding from a sister casino. [SOURCE: kasinoguru-bg.com | 2024 | Text] A player from Ontario reported delayed withdrawal due to repeated document requests. [SOURCE: casino.guru | 2024 | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, MasterCard, Apple Pay, Google Pay, Skrill, Neteller, MiFinity, Neosurf, Flexepin, eZeeWallet, Bank Transfer, Bitpace, Binance Pay. [SOURCE: tychebets.gr | 2024-08-21 | Text]
+* Crypto: Bitcoin, Ethereum, Litecoin, TRC20, Tron, Dogecoin. [SOURCE: tychebets.gr | 2024-08-21 | Text]
+* KYC: Requires ID documents, proof of address (such as bank statements), and a selfie with ID. [SOURCE: casino.guru | 2024-11-01 | Text] Specifics on verification time and limits before KYC are unavailable.
+* Limits: Minimum deposit is €20. [SOURCE: uudetkasinot.com | 2024 | Text] Withdrawal limits are reportedly low. [SOURCE: la-press.org | 2024 | Text] Exact transaction minimums/maximums are not specified.
+* Times: Withdrawal processing time up to 3 business days. [SOURCE: tychebets.gr | 2024-08-21 | Text] Actual processing speeds can vary.
+* Fees: Information not available.
+
+4. GAME PORTFOLIO
+* Total: Over 7500 games. [SOURCE: la-press.org | 2024 | Text] Over 9000 games. [SOURCE: tychebets.gr | 2024-08-21 | Text]
+* Popular Slots: Pandora's Treasures, Rich Wilde and the Tome of Madness, Money Train 4. [SOURCE: la-press.org | 2024 | Text] Reactoonz, Wanted Dead or a Wild, Release the Bison, Mental, Rise of Merlin, Majestic King, Thai Blossoms. [SOURCE: tychebets.gr | 2024-08-21 | Text] RTP information not available.
+* Table Games: Information on available variants and limits is unavailable.
+* Live: Information on room details and limits is unavailable.  Live Casino games are available. [SOURCE: la-press.org | 2024 | Text]
+* Sports: Information not available.
+* Providers: Habanero, Betsoft, NetGame, Play'n GO, Nolimit City, Hacksaw Gaming, Relax Gaming, Red Tiger, BGaming, GameArt, Pragmatic Play, Quickspin, Booming Games, RubyPlay, Spinomanal, Wazdan, Octoplay, Playson, Yggdrasil, 3 Oaks, Swinnt, Iron Dog, Playtech, Endorphina, Spribe, Mascot, Belatra, Fugaso, Evoplay, Kiron, Leap, 1x2 Gaming, Apollo, Igrosoft, Leander, KA Gaming, Platipus, BeeFee, Gamzix, AGT, Kalamba, Caleta, Mancala, SAGaming, AsiaGaming, TPG. [SOURCE: la-press.org, tychebets.gr | 2024 | Text]
+* Jackpots: Maximum jackpot of €30,000. [SOURCE: tychebets.gr | 2024-08-21 | Text] Information on specific progressive and fixed jackpot games is unavailable.
+
+5. BONUS STRUCTURE
+* Welcome: Offers a few welcome bonus options. [SOURCE: uudetkasinot.com | 2024 | Text] Up to C$750 and 100 free spins. [SOURCE: la-press.org | 2024 | Text]  Choice between a 50% match bonus up to C$3,000 or a 100% match bonus up to C$750 with free spins. [SOURCE: la-press.org | 2024 | Text] €500 bonus with a 100% match and 40x wagering requirement. [SOURCE: uudetkasinot.com | 2024 | Text]
+* Wagering: 40x. [SOURCE: uudetkasinot.com | 2024 | Text] Other wagering requirements may apply to different bonuses.
+* Loyalty: Information not available.
+* Restrictions: Information not available.
+
+6. RESPONSIBLE GAMING
+* Tools: Information not available.
+* Partners: Information not available.
+* Policies: Information not available.
+* Limits: Information not available.
+
+7. CUSTOMER SUPPORT
+* Hours: Information not available.
+* Languages: Information not available.
+* Response: 24-hour response time for email inquiries to the KYC finance department. [SOURCE: casino.guru | 2024-11-01 | Text] Live chat support is not available. [SOURCE: la-press.org | 2024 | Text]
+* Quality: Information not available.
+
+8. USER EXPERIENCE
+* Mobile: Smooth gaming experience on the app. [SOURCE: la-press.org | 2024 | Text] Excellent user interface on any device. [SOURCE: uudetkasinot.com | 2024 | Text]
+* Desktop: Sleek layout for smooth navigation. [SOURCE: la-press.org | 2024 | Text]
+* Features: Search bar, game categorization, demo mode. [SOURCE: la-press.org | 2024 | Text]
+* Issues: Information not available.
+
+9. REPUTATION & REVIEWS
+* Ratings: Information not available. Mostly positive feedback. [SOURCE: uudetkasinot.com | 2024 | Text] Mixed reviews. [SOURCE: youtube.com | 2023-09-27 | Text]
+* Complaints: Issues reported include difficulty closing accounts, delayed withdrawals, account closures after KYC issues, and deposits allowed after self-exclusion on a sister site.
+* Awards: Information not available.
+* History: Launched in 2023. [SOURCE: uudetkasinot.com, la-press.org | 2024 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Information not available.
+* Sponsorships: Information not available.
+* Innovation: Information not available.
+* Competition: Information not available.
+
+
+Note: This information is based on the available sources and is current as of 09 December, 2024.  Some information is missing or incomplete.  There are inconsistencies in the reported number of games.  Several player complaints raise concerns about account management, KYC processes, and responsible gambling practices.

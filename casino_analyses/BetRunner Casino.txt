@@ -1,0 +1,69 @@
+* Category: Casino Review [SOURCE: Multiple sources | 2024-12-09 | Text]
+
+1. TECHNICAL SPECS
+* Platform: Bad Hombre Gaming software [SOURCE: bitcoin.com | No date | Text]
+* Mobile: Mobile-first design, Telegram app available, accessible through web browsers on mobile devices. No dedicated mobile app mentioned. [SOURCE: bitcoin.com, thecoinrepublic.com | No date, 2024-10-30 | Text]
+* Features: Casino games, live dealer games, instant crash games, sports betting, cybersports betting, AI-driven retention system, 24/7 VIP support. [SOURCE: bitcoin.com, thecoinrepublic.com | No date, 2024-10-30 | Text]
+* Security:  Operates under multiple licenses (Curaçao, Anjouan, Costa Rica). Uses Fireblocks and CoinsPaid for secure cryptocurrency transactions.  [SOURCE: bitcoin.com, thecoinrepublic.com | No date, 2024-10-30 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curaçao, Anjouan, Costa Rica [SOURCE: bitcoin.com, thecoinrepublic.com | No date, 2024-10-30 | Text]
+* Ownership: Igloo Ventures SRL [SOURCE: johnnybet.com | No date | Text]
+* Restrictions: Information not available in provided sources.
+* Issues: Information not available in provided sources.
+
+3. PAYMENT ECOSYSTEM
+* Methods: Credit cards, cryptocurrencies [SOURCE: bitcoin.com | No date | Text]
+* Crypto: BTC, SOL, TON, DOGE, USDT, LTC, BCH, USDC, XRP, ETH, TRX [SOURCE: bitcoin.com | No date | Text]
+* KYC: Information not available in provided sources.
+* Limits: Minimum deposit/withdrawal: €10. Maximum withdrawal: €5,000 daily, €15,000 weekly, €30,000 monthly. [SOURCE: bitcoin.com, thecoinrepublic.com, johnnybet.com | No date, 2024-10-30 | Text]
+* Times: Instant transactions for cryptocurrencies. [SOURCE: bitcoin.com, thecoinrepublic.com | No date, 2024-10-30 | Text]
+* Fees: Information not available in provided sources, but JohnnyBet mentions transactions are free. [SOURCE: johnnybet.com | No date | Text]
+
+4. GAME PORTFOLIO
+* Total: Exact number not specified. Wide variety of games available. [SOURCE: Multiple sources | Multiple dates | Text]
+* Popular Slots: Information not available in provided sources.
+* Table Games: Information not available in provided sources, but table games are mentioned as available. [SOURCE: Multiple sources | Multiple dates | Text]
+* Live: Live dealer games available. Specific room details and limits not provided. [SOURCE: bitcoin.com, thecoinrepublic.com | No date, 2024-10-30 | Text]
+* Sports: Wide array of sports, including traditional markets and cybersports. [SOURCE: bitcoin.com | No date | Text]
+* Providers: Not specified beyond Bad Hombre Gaming software. [SOURCE: bitcoin.com | No date | Text]
+* Jackpots: Information not available in provided sources.
+
+5. BONUS STRUCTURE
+* Welcome: 200% rakeback up to 10,000 USDT + 50 free spins + 5 USDT free bet. Free spins have a 35x wagering requirement. [SOURCE: bitcoin.com, thecoinrepublic.com | No date, 2024-10-30 | Text]
+* Wagering: 35x for free spins. Other wagering requirements not specified. [SOURCE: thecoinrepublic.com | 2024-10-30 | Text]
+* Loyalty: VIP program details not fully specified, but 24/7 VIP support is mentioned. AI-driven retention system. [SOURCE: bitcoin.com | No date | Text]
+* Restrictions: Information not fully available.
+
+6. RESPONSIBLE GAMING
+* Tools: Self-exclusion, cooling-off periods [SOURCE: bitcoin.com | No date | Text]
+* Partners: Information not available in provided sources.
+* Policies: Strict policies mentioned, but details not provided. [SOURCE: bitcoin.com | No date | Text]
+* Limits: Information not available beyond self-exclusion and cooling-off periods.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 VIP customer service [SOURCE: bitcoin.com | No date | Text]
+* Languages: English, German, Spanish, Portuguese, French, Arabic, Italian, Russian, Filipino [SOURCE: bitcoin.com | No date | Text]
+* Response: Information not available in provided sources, but "quick" resolutions are mentioned. [SOURCE: bitcoin.com | No date | Text]
+* Quality: Information not available beyond mention of "helpful resolutions." [SOURCE: bitcoin.com | No date | Text]
+
+8. USER EXPERIENCE
+* Mobile: Mobile-first design, Telegram app available. Smooth and easy navigation mentioned. [SOURCE: bitcoin.com, thecoinrepublic.com | No date, 2024-10-30 | Text]
+* Desktop: User-friendly interface. [SOURCE: bitcoin.com | No date | Text]
+* Features: Information not available in provided sources.
+* Issues: Information not available in provided sources.
+
+9. REPUTATION & REVIEWS
+* Ratings: Information not available in provided sources.
+* Complaints: Information not available in provided sources.
+* Awards: Information not available in provided sources.
+* History: Launched in 2024. [SOURCE: thecoinrepublic.com | 2024-10-30 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: CoinsPaid, Fireblocks, Cred [SOURCE: thecoinrepublic.com | 2024-10-30 | Text]
+* Sponsorships: Information not available in provided sources.
+* Innovation: AI-driven retention system, Telegram app integration [SOURCE: bitcoin.com | No date | Text]
+* Competition: Crypto-friendly, wide game selection, multiple licenses, mobile accessibility [SOURCE: Multiple sources | Multiple dates | Text]
+
+
+Please note that this information is based on the provided sources and is current as of December 9, 2024.  Some information is missing from the sources, such as specific game details, KYC procedures, and complete fee structures.  It's always recommended to consult multiple sources and visit the casino's website directly for the most up-to-date information.

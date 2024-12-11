@@ -1,0 +1,78 @@
+* Category: Online Casino Analysis [SOURCE: User Provided Data | 2024-12-09 | Text, Web]
+
+1. TECHNICAL SPECS
+* Platform:  Information not available in provided sources.
+* Mobile: The platform has good mobile responsiveness and is designed for seamless interactions. [SOURCE: ccn.com | 2024-11-21 | Text]
+* Features: VPN-friendly environment. [SOURCE: ccn.com | 2024-10-11 | Text]  Search, filters, and personalization features information is unavailable.
+* Security:  Uses SSL/encryption. Information about RNG is unavailable. [SOURCE: Inferred from general online casino practices | 2024-12-09 | Knowledge]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao Gaming Control Board. [SOURCE: ccn.com | 2024-10-11 | Text]
+* Ownership: Operated by Trickless N.V.  Further company structure details are not available. [SOURCE: ccn.com | 2024-10-11 | Text]
+* Restrictions: Information not available in provided sources.
+* Issues:
+    * Players reported account closures for unspecified reasons. [SOURCE: reddit.com | 2024-09-06 | Text]
+    * KYC requests after every withdrawal, with difficulties uploading documents. [SOURCE: reddit.com | 2024-09-06 | Text]
+    * Deposit issues, with some players reporting deposits not being credited. [SOURCE: reddit.com | 2024-09-06 | Text]
+    * Long withdrawal processing times (24-72 hours). [SOURCE: reddit.com | 2024-09-06 | Text]
+    * Refusal to honor deposit bonuses and account deactivation with active funds. [SOURCE: reddit.com | 2024-05-17 | Text]
+    * Confiscation of winnings due to bonus play restrictions, with disputes over game availability and wagering requirements. [SOURCE: casino.guru | 2024-06-18 | Text]
+    * Discrepancies in reported bonus expiration times. [SOURCE: casino.guru | 2024-06-18 | Text]
+    * Allegations of fabricated evidence and false claims by the casino regarding bonus exploitation attempts. [SOURCE: casino.guru | 2024-06-18 | Text]
+
+
+3. PAYMENT ECOSYSTEM
+* Methods: Accepts various cryptocurrencies.  Information on other payment methods is not available. [SOURCE: ccn.com | 2024-10-11 | Text]
+* Crypto: Bitcoin, Ethereum, Tether, Bitcoin Cash, Dogecoin, Litecoin. [SOURCE: ccn.com | 2024-10-11, 2024-11-11 | Text]
+* KYC: Information not available in provided sources.
+* Limits: Information not available in provided sources.
+* Times: Withdrawals promised within 24 hours, but some users report longer times. [SOURCE: ccn.com | 2024-11-11 | Text], [SOURCE: reddit.com | 2024-09-06 | Text]
+* Fees: Information not available in provided sources.
+
+4. GAME PORTFOLIO
+* Total: Over 3,000 games. [SOURCE: ccn.com | 2024-10-11 | Text]
+* Popular Slots: Tree of Light, Chinese Opera.  RTP and other slot details are not provided. [SOURCE: ccn.com | 2024-10-11 | Text]
+* Table Games:  Information on specific variants and limits is not available. [SOURCE: Assumed from general casino offerings | 2024-12-09 | Knowledge]
+* Live: Offers live dealer games. Specific room details and limits are not available. [SOURCE: ccn.com | 2024-10-11 | Text]
+* Sports: Offers sports betting, including football, eSports (CS:GO, League of Legends), horse racing, soccer, tennis. Odds and specific market details are not available. [SOURCE: ccn.com | 2024-10-11, 2024-11-11 | Text]
+* Providers: NetEnt, Evolution Gaming, Pragmatic Play, Microgaming, Play'N GO, Playtech, Yggdrasil, Nolimit City, and Quickspin. Over 35 unique software developers. [SOURCE: ccn.com | 2024-10-11, 2024-11-11 | Text], [SOURCE: wizardofodds.com | 2024-08-08 | Text]
+* Jackpots: Information not available in provided sources.
+
+5. BONUS STRUCTURE
+* Welcome: Information not available in provided sources.
+* Wagering: Information not available, but issues with wagering requirements have been reported. [SOURCE: casino.guru | 2024-06-18 | Text]
+* Loyalty: 10-level VIP program with rakeback, weekly and monthly bonuses, rank-up bonuses, VIP hosts, birthday bonuses, personalized benefits, and milestone rewards. [SOURCE: wizardofodds.com | 2024-08-08 | Text]
+* Restrictions: Information not available in provided sources, but issues with bonus restrictions have been reported. [SOURCE: casino.guru | 2024-06-18 | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Information not available in provided sources.
+* Partners: Information not available in provided sources.
+* Policies: Information not available in provided sources.
+* Limits: Information not available in provided sources.
+
+7. CUSTOMER SUPPORT
+* Hours: Information not available in provided sources.
+* Languages: English, French, German. [SOURCE: ccn.com | 2024-11-11 | Text]
+* Response: Information not available in provided sources, but slow chat support has been reported. [SOURCE: reddit.com | 2024-05-17 | Text]
+* Quality: Information not available in provided sources.
+
+8. USER EXPERIENCE
+* Mobile:  Good mobile responsiveness. [SOURCE: ccn.com | 2024-11-21 | Text]
+* Desktop: Minimalist design and clean user interface. [SOURCE: wizardofodds.com | 2024-08-08 | Text]
+* Features: Information not available in provided sources.
+* Issues: Information not available in provided sources.
+
+9. REPUTATION & REVIEWS
+* Ratings: Information not available in provided sources, but negative reviews and scam accusations exist. [SOURCE: reddit.com | 2024-09-06, 2024-05-17 | Text]
+* Complaints: See "Issues" under Licensing & Compliance.
+* Awards: Information not available in provided sources.
+* History: Established in 2024. [SOURCE: ccn.com | 2024-10-11 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Information not available in provided sources.
+* Sponsorships: Information not available in provided sources.
+* Innovation: Focus on anonymous play and cryptocurrency transactions. [SOURCE: ccn.com | 2024-10-11 | Text]
+* Competition: Information not available in provided sources.
+
+
+Note: This information is based on the available sources and is current as of December 9, 2024.  Some information is missing or incomplete, and conflicting reports exist regarding certain aspects of Raze Casino, particularly concerning user experiences and bonus policies.  Further investigation may be needed to gain a complete and accurate picture.

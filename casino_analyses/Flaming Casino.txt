@@ -1,0 +1,69 @@
+* Category: Casino Analysis [SOURCE: User Prompt | 2024-12-09 | User Prompt]
+
+1. TECHNICAL SPECS
+* Platform: Not specified in the provided sources. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Mobile:  Sun International mentions a mobile app for their loyalty program, implying mobile compatibility for at least that aspect. Caesars Entertainment also mentions a sportsbook app.  Divi Resorts mentions Wi-Fi access. [SOURCE: suninternational.com | 2024-12-09 | Text] ; [SOURCE: caesars.com | 2024-12-09 | Text] ; [SOURCE: diviresorts.com | 2024-12-09 | Text]
+* Features:  Vary by location.  Kimberley location features coinless slots, smoking and non-smoking areas, and a Privé area. Las Vegas location includes pools, restaurants, nightlife, and a wildlife habitat.  [SOURCE: suninternational.com | 2024-12-09 | Text] ; [SOURCE: caesars.com | 2024-12-09 | Text]
+* Security: Not specified in the provided sources. [SOURCE: N/A | 2024-12-09 | Inferred]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Not specified for all locations.  [SOURCE: N/A | 2024-12-09 | Inferred]
+* Ownership:  Kimberley and Flamingo Las Vegas are owned by Sun International and Caesars Entertainment, respectively. Flamingo Casino (Netherlands) is operated by Flamingo Casino, according to Pitchbook.  [SOURCE: suninternational.com | 2024-12-09 | Text] ; [SOURCE: caesars.com | 2024-12-09 | Text] ; [SOURCE: pitchbook.com | 2024-12-09 | Text]
+* Restrictions: Not fully specified. Divi Resorts (Bonaire) mentions visitor entry tax requirements. [SOURCE: diviresorts.com | 2024-12-09 | Text]
+* Issues: System maintenance was conducted at Sun International locations from March 13-15, 2023.  [SOURCE: suninternational.com | 2024-12-09 | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Not specified in the provided sources. Virgin Holidays mentions no fees for credit/debit card bookings for Flamingo Las Vegas. [SOURCE: virginholidays.co.uk | 2024-12-09 | Text]
+* Crypto: Not specified in the provided sources. [SOURCE: N/A | 2024-12-09 | Inferred]
+* KYC: Not specified in the provided sources. Sun International mentions requiring proof of identity for their loyalty program. [SOURCE: suninternational.com | 2024-12-09 | Text]
+* Limits: Not specified in the provided sources. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Times: Not specified in the provided sources. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Fees:  Divi Resorts mentions a visitor entry tax for Bonaire. Virgin Holidays mentions no fees for credit/debit card bookings for Flamingo Las Vegas. [SOURCE: diviresorts.com | 2024-12-09 | Text] ; [SOURCE: virginholidays.co.uk | 2024-12-09 | Text]
+
+
+4. GAME PORTFOLIO
+* Total: Kimberley: 337 slots. Las Vegas: Over 700 slots + 220 in Margaritaville Casino, plus table games. Macedonian Casino FlaminGO: 920 slots (expanding to 1001). [SOURCE: suninternational.com | 2024-12-09 | Text] ; [SOURCE: caesars.com | 2024-12-09 | Text] ; [SOURCE: novomatic.com | 2024-12-09 | Text]
+* Popular Slots:  Kimberley: Sunstriker, Lightning Link, Cash Connection.  [SOURCE: suninternational.com | 2024-12-09 | Text]
+* Table Games:  Kimberley and Las Vegas locations offer table games. Las Vegas: Blackjack, craps, roulette, baccarat, poker. Macedonian Casino FlaminGO: 26 live gaming tables. [SOURCE: suninternational.com | 2024-12-09 | Text] ; [SOURCE: caesars.com | 2024-12-09 | Text] ; [SOURCE: novomatic.com | 2024-12-09 | Text]
+* Live:  Information not fully specified. Macedonian Casino FlaminGO: 26 live gaming tables. [SOURCE: novomatic.com | 2024-12-09 | Text]
+* Sports: Las Vegas has a Race & Sports Book.  [SOURCE: wyndhamhotels.com | 2024-12-09 | Text]
+* Providers:  Macedonian Casino FlaminGO uses Novomatic technology. [SOURCE: novomatic.com | 2024-12-09 | Text]
+* Jackpots: Kimberley lists current jackpots on their website. [SOURCE: suninternational.com | 2024-12-09 | Text]
+
+5. BONUS STRUCTURE
+* Welcome: Not fully specified.  [SOURCE: N/A | 2024-12-09 | Inferred]
+* Wagering: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Loyalty: Sun International has a Sun MVG loyalty program. Caesars Entertainment mentions Caesars Rewards. Wyndham Hotels mentions Wyndham Rewards. [SOURCE: suninternational.com | 2024-12-09 | Text] ; [SOURCE: caesars.com | 2024-12-09 | Text] ; [SOURCE: wyndhamhotels.com | 2024-12-09 | Text]
+* Restrictions: Not fully specified. Sun International mentions reactivation of MVG points expiry and status re-grades on December 31, 2021. [SOURCE: suninternational.com | 2024-12-09 | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Not fully specified.  [SOURCE: N/A | 2024-12-09 | Inferred]
+* Partners: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Policies: Not specified. Divi Resorts mentions general rules for guest behavior. [SOURCE: diviresorts.com | 2024-12-09 | Text]
+* Limits: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+
+7. CUSTOMER SUPPORT
+* Hours: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Languages: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Response: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Quality: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+
+8. USER EXPERIENCE
+* Mobile: Not fully specified. Caesars Entertainment and Sun International have mobile apps. [SOURCE: caesars.com | 2024-12-09 | Text] ; [SOURCE: suninternational.com | 2024-12-09 | Text]
+* Desktop: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Features: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Issues: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+
+9. REPUTATION & REVIEWS
+* Ratings: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Complaints: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Awards: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* History: Flamingo Las Vegas opened on December 26, 1946.  Macedonian Casino FlaminGO was acquired by Novomatic and reopened in early 2014. [SOURCE: wikipedia.org | 2024-12-09 | Text] ; [SOURCE: novomatic.com | 2024-12-09 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Sponsorships: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Innovation: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+* Competition: Not specified. [SOURCE: N/A | 2024-12-09 | Inferred]
+
+

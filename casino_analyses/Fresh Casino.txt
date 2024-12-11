@@ -1,0 +1,66 @@
+* Category: Fresh Casino Analysis [SOURCE: User Prompt | 2024-12-09 | Text]
+
+1. TECHNICAL SPECS
+* Platform: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Mobile: Fresh Casino offers a mobile app. [SOURCE: online-casino.ee | 2024-10-15 | Webpage] Browser compatibility information is unavailable.
+* Features: Thousands of casino games including slots, table games, and potentially sports betting.  Regular campaigns, tournaments, cashback bonuses. [SOURCE: online-casino.ee | 2024-10-15 | Webpage] Further details on specific game types and functions are not available.
+* Security:  Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses:  Does not have an Estonian license. [SOURCE: online-casino.ee | 2024-10-15 | Webpage] Other licenses are not specified.
+* Ownership: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Restrictions: Information not available, aside from lacking an Estonian license. [SOURCE: Missing | 2024-12-09 | Text]
+* Issues:  No Estonian language support. English customer support. [SOURCE: online-casino.ee | 2024-10-15 | Webpage] Other issues not specified.  No Lithuanian language support. [SOURCE: casinolt.com | 2024-12-04 | Webpage] Does not have a Lithuanian gambling license.
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, Skrill, Paysafecard, Neteller, MasterCard, Jeton, Bitcoin, Ethereum, Tron, Dogecoin, Litecoin, Tether, Ripple. Bank transfer, SEPA, Mifinity, Rapidtransfer, Binance, Trustly. [SOURCE: online-casino.ee, casinolt.com | 2024-10-15, 2024-12-04 | Webpage]
+* Crypto: Bitcoin, Ethereum, Tron, Dogecoin, Litecoin, Tether, Ripple. [SOURCE: online-casino.ee | 2024-10-15 | Webpage]
+* KYC: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Limits: Minimum deposit: €20. Minimum withdrawal: €10. [SOURCE: online-casino.ee | 2024-10-15 | Webpage]
+* Times: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Fees: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+
+4. GAME PORTFOLIO
+* Total: Over 3,000 slots. [SOURCE: casino.org | 2024 | Webpage] Exact total game count not specified.
+* Popular Slots: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Table Games: Roulette, Blackjack, Poker, Baccarat (Not available at casinolt.com). Video Poker (Not available at online-casino.ee). [SOURCE: online-casino.ee, casinolt.com | 2024-10-15, 2024-12-04 | Webpage] Specific variants and limits not provided.
+* Live: Live casino games available. [SOURCE: online-casino.ee, casinolt.com | 2024-10-15, 2024-12-04 | Webpage] Room details and limits not specified.
+* Sports: Potentially available. [SOURCE: online-casino.ee | 2024-10-15 | Webpage] Markets and odds not specified. Sports betting category available. [SOURCE: casinolt.com | 2024-12-04 | Webpage]
+* Providers: Relax Gaming, Booongo. [SOURCE: casinolt.com | 2024-12-04 | Webpage] Other providers not specified. Many world-renowned developers. [SOURCE: casino.org | 2024 | Webpage]
+* Jackpots: Progressive jackpots available. [SOURCE: casinolt.com | 2024-12-04 | Webpage] Details on fixed jackpot games not available.
+
+5. BONUS STRUCTURE
+* Welcome:  Significant welcome bonus across multiple initial deposits. [SOURCE: online-casino.ee | 2024-10-15 | Webpage] 100% bonus up to €600. [SOURCE: casinolt.com | 2024-12-04 | Webpage]
+* Wagering: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Loyalty: Regular campaigns, tournaments, cashback bonuses. [SOURCE: online-casino.ee | 2024-10-15 | Webpage] Further VIP program details not available.
+* Restrictions: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Partners: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Policies: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Limits: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability. [SOURCE: casinolt.com | 2024-12-04 | Webpage] Specific channel availability not specified.
+* Languages: English. [SOURCE: online-casino.ee | 2024-10-15 | Webpage] Other languages not specified. No Lithuanian language support. [SOURCE: casinolt.com | 2024-12-04 | Webpage]
+* Response: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Quality: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+
+8. USER EXPERIENCE
+* Mobile: Mobile app available. [SOURCE: online-casino.ee | 2024-10-15 | Webpage] Performance details not available.
+* Desktop: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Features: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Issues: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+
+9. REPUTATION & REVIEWS
+* Ratings: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Complaints: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Awards: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* History: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Sponsorships: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Innovation: Information not available. [SOURCE: Missing | 2024-12-09 | Text]
+* Competition: Information not available. [SOURCE: Missing | 2024-12-09 | Text]

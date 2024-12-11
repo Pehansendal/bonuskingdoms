@@ -1,0 +1,67 @@
+* Category: GreatSpin Casino Analysis [SOURCE: Multiple Sources | 2024-12-09 | Aggregated Review]
+
+1. TECHNICAL SPECS
+* Platform: Information not available in the provided sources.
+* Mobile: Website is mobile-friendly, adaptable to various devices (phones, tablets, desktops).  [SOURCE: gambling.com | 2024-09-23 | Review] [SOURCE: wizardofodds.com | 2024-11-21 | Review] [SOURCE: cointelegraph.com | 2024-12-04 | Article]
+* Features: Search button, game categorization, account registration, bonus toggling during registration. [SOURCE: gambling.com | 2024-09-23 | Review]
+* Security: Licensed in Curacao, utilizes security measures.  [SOURCE: gambling.com | 2024-09-23 | Review] Not VPN-friendly. [SOURCE: gambling.com | 2024-09-23 | Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao (currently obtaining Curacao Gaming Control Board license at the time of the wizardofodds.com review). [SOURCE: gambling.com | 2024-09-23 | Review] [SOURCE: wizardofodds.com | 2024-11-21 | Review]
+* Ownership: Softgenius NV. [SOURCE: gambling.com | 2024-09-23 | Review] [SOURCE: norskcasinoguide.com | No Date | Review]
+* Restrictions: Unavailable in Ontario, Canada. Not VPN-friendly.  [SOURCE: gambling.com | 2024-09-23 | Review] Several countries restricted as per lcb.org. [SOURCE: lcb.org | No Date | Review]
+* Issues: Not specified in sources.
+
+3. PAYMENT ECOSYSTEM
+* Methods: Information not fully available. Revolut, e-wallets, and cryptocurrencies accepted for deposits. Bank cards not accepted for withdrawals. [SOURCE: gambling.com | 2024-09-17 | Review] Minimum deposit €10. Minimum withdrawal €10. [SOURCE: wizardofodds.com | 2024-11-21 | Review]
+* Crypto: Supported, but specific currencies not listed in sources. [SOURCE: wizardofodds.com | 2024-11-21 | Review]
+* KYC: Not specified in sources.
+* Limits: Deposit - minimum €10. Withdrawal - minimum €10, maximum €600 daily/€3,000 weekly/€12,000 monthly, with higher limits for VIP levels. [SOURCE: wizardofodds.com | 2024-11-21 | Review] Maximum bet while using bonus funds is €5 (50 kr). [SOURCE: norskcasinoguide.com | No Date | Review]
+* Times: KYC verification: 24-48 hours. Pending time: Within 72 hours. Processing time: Up to 7 business days. [SOURCE: wizardofodds.com | 2024-11-21 | Review]
+* Fees: Not specified in sources.
+
+4. GAME PORTFOLIO
+* Total: Not specified in sources, but described as "vast". [SOURCE: gambling.com | 2024-09-23 | Review] Thousands of games. [SOURCE: gambling.com | 2024-09-17 | Review]
+* Popular Slots: Age of Pirates - 15 Lines (RTP 96.29%). [SOURCE: gambling.com | 2024-09-23 | Review]
+* Table Games: Virtual table games available, specific variants and limits not listed. [SOURCE: gambling.com | 2024-09-23 | Review]
+* Live: Live games available, specific room details and limits not provided. [SOURCE: gambling.com | 2024-09-23 | Review] Providers include Evolution, Pragmatic Play Live, and Lucky Streak. [SOURCE: alliance-francaise-des-designers.org | 2024-12-01 | Article]
+* Sports: Sports betting available, including live betting and esports. Specific markets and odds not detailed. [SOURCE: gambling.com | 2024-09-23 | Review] [SOURCE: alliance-francaise-des-designers.org | 2024-12-01 | Article]
+* Providers: Pragmatic Play, Evolution, Red Tiger Gaming, Spinomenal, NetEnt, Games Global. [SOURCE: gambling.com | 2024-09-23 | Review] [SOURCE: gambling.com | 2024-09-17 | Review] [SOURCE: alliance-francaise-des-designers.org | 2024-12-01 | Article] Play'n GO, Betsoft. [SOURCE: alliance-francaise-des-designers.org | 2024-12-01 | Article]
+* Jackpots: Progressive jackpots available. Specific games not listed. [SOURCE: gambling.com | 2024-09-17 | Review]
+
+5. BONUS STRUCTURE
+* Welcome: Varies by region.  Up to $2625 + 50 Free Spins for Canadian players (excluding Ontario). [SOURCE: gambling.com | 2024-09-23 | Review] Up to €1750 + 50 Free Spins (spread across first four deposits). [SOURCE: gambling.com | 2024-09-17 | Review, lcb.org | No Date | Review] 100% up to €1000 + 50 free spins on first deposit. [SOURCE: alliance-francaise-des-designers.org | 2024-12-01 | Article] Up to 17,500 kr + 50 free spins for Norwegian players (spread across first four deposits). [SOURCE: norskcasinoguide.com | No Date | Review]
+* Wagering: 35x deposit and bonus amount. [SOURCE: norskcasinoguide.com | No Date | Review]
+* Loyalty: Five-tier VIP program. [SOURCE: gambling.com | 2024-09-17 | Review] [SOURCE: jeux.ca | 2024-11-22 | Article]
+* Restrictions: Minimum deposit to claim welcome bonus may vary (e.g., 120 kr in Norway). [SOURCE: norskcasinoguide.com | No Date | Review] Bonus terms and conditions apply. [SOURCE: lcb.org | No Date | Review]
+
+
+6. RESPONSIBLE GAMING
+* Tools: Not specified in sources.
+* Partners: Not specified in sources.
+* Policies: Not specified in sources.
+* Limits: Not specified in sources.
+
+7. CUSTOMER SUPPORT
+* Hours: Not specified in sources.
+* Languages: Not fully specified.
+* Response: Not specified in sources.
+* Quality: Not specified in sources.
+
+8. USER EXPERIENCE
+* Mobile: Easy to navigate, similar interface to desktop version. [SOURCE: gambling.com | 2024-09-23 | Review] Optimized for mobile gaming. [SOURCE: wizardofodds.com | 2024-11-21 | Review]
+* Desktop: Classy design, easy navigation, clear sections, search function. [SOURCE: gambling.com | 2024-09-23 | Review] User-friendly and responsive platform. [SOURCE: wizardofodds.com | 2024-11-21 | Review]
+* Features: Search button, game categories. [SOURCE: gambling.com | 2024-09-23 | Review]
+* Issues: Not specified in sources.
+
+9. REPUTATION & REVIEWS
+* Ratings: Generally positive reviews regarding game selection and reliability. [SOURCE: gambling.com | 2024-09-23 | Review]
+* Complaints: Not specified in sources.
+* Awards: Not specified in sources.
+* History: New brand (established 2024). [SOURCE: gambling.com | 2024-09-23 | Review]
+
+10. INDUSTRY POSITION
+* Partnerships: Not specified beyond game providers.
+* Sponsorships: Not specified in sources.
+* Innovation: Not specified in sources.
+* Competition: Not specified in sources.

@@ -1,0 +1,66 @@
+* Category: MyStake Casino Analysis [SOURCE: User Prompt | 2024-12-09 | Text]
+
+1. TECHNICAL SPECS
+* Platform: Information not available in provided sources.
+* Mobile: Website design works well on desktop and mobile devices. [SOURCE: ccn.com | 2024-05-20 | Text] Optimized for best user experience, regardless of internet speed or device. [SOURCE: oddspedia.com | No date | Text]
+* Features: Offers casino games, sports betting, mini-games. [SOURCE: pulse.ng, ccn.com | 2024-05-20, 2024-08-30 | Text]  Includes slots, Dino game. [SOURCE: reddit.com, gamingfrog.com | No date, 2024-10-01 | Text] Supports VIP program. [SOURCE: pulse.ng | 2024-08-30 | Text]
+* Security: Utilizes advanced encryption protocols, multi-layered authentication (biometric verification, two-factor authentication, continuous monitoring). [SOURCE: ccn.com | 2024-05-20 | Text]  Licensed by Curaçao eGaming. [SOURCE: gamingfrog.com, casinosblockchain.io | 2024-10-01, 2024-10-03 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curaçao eGaming (issued to Santeda International B.V.). [SOURCE: gamingfrog.com, casinosblockchain.io | 2024-10-01, 2024-10-03 | Text] Not licensed in the US. [SOURCE: betting.net | No date | Text]
+* Ownership: Santeda International B.V. [SOURCE: ccn.com | 2024-05-20 | Text]
+* Restrictions: Not available on GamStop. [SOURCE: pulse.ng | 2024-08-30 | Text]  $15,000 monthly withdrawal cap. [SOURCE: ccn.com | 2024-05-20 | Text]
+* Issues: Live chat uses bots before humans, lack of VIP system information, low withdrawal limits. [SOURCE: ccn.com | 2024-05-20 | Text] Poor casino games and sports betting odds. [SOURCE: betting.net | No date | Text] Customer support needs improvement in transparency and providing answers. [SOURCE: ccn.com | 2024-05-20 | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Over 40 fiat and cryptocurrency options. [SOURCE: ccn.com | 2024-05-20 | Text]
+* Crypto:  Accepts cryptocurrency deposits. [SOURCE: ccn.com | 2024-05-20 | Text]
+* KYC: Information not available in provided sources.
+* Limits: Minimum deposit for some bonuses is $20. [SOURCE: ccn.com, pulse.ng | 2024-05-20, 2024-08-30 | Text]
+* Times: Information not available in provided sources.
+* Fees: Information not available in provided sources.
+
+4. GAME PORTFOLIO
+* Total: Over 7,000 games. [SOURCE: ccn.com | 2024-05-20 | Text] Over 6,600 casino games. [SOURCE: irishluck.ie | No date | Text]
+* Popular Slots: Information not available in provided sources.
+* Table Games: Information not available in provided sources.
+* Live: Information not available in provided sources.
+* Sports: Over 70 different sports. [SOURCE: ccn.com | 2024-05-20 | Text]
+* Providers: Partners with the best providers in the industry. [SOURCE: irishluck.ie | No date | Text]
+* Jackpots: Information not available in provided sources.
+
+5. BONUS STRUCTURE
+* Welcome: Casino: 150% bonus ($20-$200 deposit), 100% bonus ($201-$1,000 deposit). Sports: 100% up to $500. Crypto: 170% up to $1,000. [SOURCE: ccn.com | 2024-05-20 | Text]
+* Wagering: 10x wagering requirement (deposit and bonus) for sports welcome bonus. [SOURCE: oddspedia.com | No date | Text]
+* Loyalty: VIP program where points earned from wagering can be exchanged for cash or rewards. $100 bet = 1 VIP point. [SOURCE: pulse.ng | 2024-08-30 | Text]
+* Restrictions: Information not available in provided sources.
+
+6. RESPONSIBLE GAMING
+* Tools: Information not available in provided sources.
+* Partners: Information not available in provided sources.
+* Policies: Advises players to gamble responsibly and check local laws. [SOURCE: ccn.com | 2024-05-20 | Text]
+* Limits: Information not available in provided sources.
+
+7. CUSTOMER SUPPORT
+* Hours: Available 7/7. [SOURCE: stade-rennais-online.com | 2022-02-23 | Text]
+* Languages: Information not available in provided sources.
+* Response: Relatively short response time via live chat and email (support@mystake.com). [SOURCE: stade-rennais-online.com | 2022-02-23 | Text]
+* Quality: Professional and friendly agents, but room for improvement in transparency and answering inquiries. [SOURCE: ccn.com, stade-rennais-online.com | 2024-05-20, 2022-02-23 | Text]
+
+8. USER EXPERIENCE
+* Mobile: Good performance on mobile devices. [SOURCE: ccn.com | 2024-05-20 | Text]
+* Desktop: User-friendly interface and intuitive navigation on desktop. [SOURCE: ccn.com | 2024-05-20 | Text]
+* Features: Information not available in provided sources.
+* Issues: Information not available in provided sources.
+
+9. REPUTATION & REVIEWS
+* Ratings: 4.8 on Trustpilot (from 17,000 reviews). [SOURCE: gamingfrog.com | 2024-10-01 | Text]
+* Complaints: Information not available in provided sources aside from those mentioned in "Issues" sections.
+* Awards: Information not available in provided sources.
+* History: Founded in 2019. [SOURCE: ccn.com | 2024-05-20 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Information not available in provided sources.
+* Sponsorships: Information not available in provided sources.
+* Innovation: Information not available in provided sources.
+* Competition: Information not available in provided sources.

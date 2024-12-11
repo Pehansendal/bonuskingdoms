@@ -1,0 +1,69 @@
+* Category: Everum Casino Analysis [SOURCE: Multiple Sources | 2024-12-09 | Aggregated Review]
+
+1. TECHNICAL SPECS
+* Platform:  Uses a variety of software providers, including Microgaming, NetEnt, Evolution Gaming, BetSoft, Endorphina, Yggdrasil, Genii, Betsoft Gaming, Elk Studios, NYX, Quickspin, Push Gaming, and Red Rake Gaming. Specific tech stack details are unavailable. [SOURCE: casinomeister.com | 2024-11-26 | Review] [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Mobile: Available on both desktop and mobile devices. The mobile version is browser-based and compatible with all phones.  [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Features: Offers a variety of games, including slots, live casino games, lottery, and table games (although the table game selection is limited, lacking video poker and non-live Baccarat). Includes a loyalty program based on Gold Coins. [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Security:  Employs standard security measures, but specific details on SSL/encryption/RNG are not readily available.  Licensed by Curaçao eGaming. [SOURCE: lalehnailandbeauty.co.za | No Date | Review] [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Licensed by Curaçao eGaming. Previously mentioned as being licensed in Malta (2018), but this is not confirmed in more recent sources. [SOURCE: casinomeister.com | 2018-09-06 | Forum Post] [SOURCE: wizardofodds.com | 2023-12-15 | Review] [SOURCE: lalehnailandbeauty.co.za | No Date | Review]
+* Ownership: Owned and operated by Everum N.V., based in Curaçao. [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Restrictions: Some countries are restricted from playing, including the UK, US, and Australia (as of 2018).  [SOURCE: casinomeister.com | 2018-09-06 | Forum Post]
+* Issues: Some players have reported limited table game options and the lack of 24/7 customer support. [SOURCE: casinomeister.com | 2024-11-26 | Review] [SOURCE: kasinohai.com | 2024-10-28 | Review]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Accepts major currencies and various payment methods, including Bitcoin, Skrill, Neteller, Yandex Money, Ecopayz, credit cards (Visa, with limited Mastercard support), and bank transfers. [SOURCE: casinomeister.com | 2024-11-26 | Review] [SOURCE: casinomeister.com | 2018-09-06 | Forum Post]
+* Crypto: Bitcoin is supported (via Cubits, as of 2018, for deposits only at that time). Other cryptocurrencies are not explicitly mentioned. [SOURCE: casinomeister.com | 2024-11-26 | Review] [SOURCE: kasinohai.com | 2024-10-28 | Review] [SOURCE: coingabbar.com | 2024-10-23 | News Article] [SOURCE: casinomeister.com | 2018-09-06 | Forum Post]
+* KYC: KYC checks are performed as required by law. Specific document requirements, verification times, and limits before KYC are not detailed. [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Limits: Transaction minimums and maximums are not specified. [SOURCE: Missing Information]
+* Times: Withdrawals are processed relatively quickly, even on weekends, and can be locked.  [SOURCE: casinomeister.com | 2018-09-06 | Forum Post]
+* Fees: Withdrawal fees may apply, but the complete fee structure is not available. [SOURCE: kasinohai.com | 2024-10-28 | Review]
+
+4. GAME PORTFOLIO
+* Total: Exact game count is not specified, but it offers "thousands of slots and games." [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Popular Slots: Popular slots include Fat Santa (Push Gaming), Book of Dead (Play'n Go), and Mega Moolah (Microgaming).  [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Table Games: Offers a limited selection of table games.  Live versions are available. Lacks video poker and non-live Baccarat. Other games include Baccarat, Craps, Crown and Anchor, Cyberstud Poker, Double Exposure, Pai Gow Poker, Poker Pursuit, Red Dog, Roulette, Sic Bo, and Spingo (mostly from Microgaming). [SOURCE: casinomeister.com | 2024-11-26 | Review] [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Live: Specific room details and limits are not provided. [SOURCE: Missing Information]
+* Sports: Sports betting is not mentioned in the provided sources. [SOURCE: Missing Information]
+* Providers: Includes Microgaming, NetEnt, Evolution Gaming, BetSoft, Endorphina, Yggdrasil, Genii, Elk Studios, NYX, Quickspin, Push Gaming, and Red Rake Gaming. [SOURCE: casinomeister.com | 2024-11-26 | Review] [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Jackpots: Offers a variety of progressive jackpot games, including Mega Moolah, Gem Splash: King's Court, Diamond King, Better Wilds: Power Play, and Book of Kings. [SOURCE: casinomeister.com | 2024-11-26 | Review]
+
+5. BONUS STRUCTURE
+* Welcome: 100% match bonus up to $100 on the first deposit. Bonus code "WELCOME" is required. [SOURCE: casinomeister.com | 2024-11-26 | Review] [SOURCE: kasinohai.com | 2024-10-28 | Review]
+* Wagering: 40x wagering requirement on the bonus amount. 50% of bets on certain games contribute towards wagering. Bonus funds must be used within 10 days.  Progressive jackpots and some other specific slot products are excluded from the bonus. [SOURCE: casinomeister.com | 2024-11-26 | Review] [SOURCE: kasinohai.com | 2024-10-28 | Review]
+* Loyalty:  VIP program based on Gold Coins. Players earn one Gold Coin for every €100 wagered on slot games. Regular promotions and reward programs are also available. [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Restrictions: Specific bonus limitations are detailed in the terms and conditions. [SOURCE: casinomeister.com | 2024-11-26 | Review]
+
+6. RESPONSIBLE GAMING
+* Tools: Offers responsible gambling tools, including deposit limits and time reminders. Self-exclusion (temporary or permanent) is available through account settings. [SOURCE: samuraibrindes.com.br | 2024-12-07 | FAQ] [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Partners: Partnerships with responsible gambling organizations are not explicitly mentioned. [SOURCE: Missing Information]
+* Policies: Has a dedicated responsible gaming page with information on fighting gambling addiction. [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Limits: Information on reality checks and cooling-off periods is not available. [SOURCE: Missing Information]
+
+7. CUSTOMER SUPPORT
+* Hours: Available 7 days a week, from 6 AM to 11 PM GMT. [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Languages: Primarily English. Limited support in Russian and French. [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Response: Live chat responses are generally quick. Email response times are not specified. [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Quality: Considered helpful, friendly, and responsive. Can answer basic questions. [SOURCE: casinomeister.com | 2024-11-26 | Review] [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+
+8. USER EXPERIENCE
+* Mobile: Mobile casino is considered easy to use and navigate. [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Desktop: Desktop version is also user-friendly with a speedy sign-up process.  Some may find the gold and brown color scheme underwhelming. [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Features: Search, filter, and personalization features are not detailed. [SOURCE: Missing Information]
+* Issues: No specific technical issues are reported in the provided sources, but the mobile optimization has been criticized. [SOURCE: kasinohai.com | 2024-10-28 | Review]
+
+9. REPUTATION & REVIEWS
+* Ratings: Has an 8.6 rating on Casinomeister (as of 2018). Other ratings are not provided. [SOURCE: casinomeister.com | 2018-09-06 | Forum Post]
+* Complaints: Some complaints about limited table game options and non-24/7 customer support. [SOURCE: casinomeister.com | 2024-11-26 | Review] [SOURCE: kasinohai.com | 2024-10-28 | Review]
+* Awards: No specific awards are mentioned. [SOURCE: Missing Information]
+* History: Accredited casino status on Casinomeister (as of 2018).  [SOURCE: casinomeister.com | 2018-09-06 | Forum Post]
+
+10. INDUSTRY POSITION
+* Partnerships: Partnership with CPI for cashless payments. [SOURCE: gamingamerica.com | 2024-10-03 | News Article]
+* Sponsorships: No specific sponsorships are mentioned. [SOURCE: Missing Information]
+* Innovation: Gold Coins loyalty program. [SOURCE: casinomeister.com | 2024-11-26 | Review]
+* Competition: Key differentiators are not clearly defined. [SOURCE: Missing Information]
+
+
+Note: This information is current as of December 9, 2024, and may change over time.  Some information is missing or incomplete based on the available sources.

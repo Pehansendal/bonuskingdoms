@@ -1,0 +1,76 @@
+Spades Queen Casino Analysis (as of 09 December 2024):
+
+1. **TECHNICAL SPECS**
+* Platform:  Information not available.
+* Mobile: Information not available.
+* Features: Over 8,500 games including slots, table games, and a unique "Meta Crash Spades Queen™" game. [SOURCE: jeux.ca | 2024-11-01 | Review]
+* Security: Information not available.
+
+2. **LICENSING & COMPLIANCE**
+* Licenses: Curaçao. [SOURCE: jeux.ca | 2024-11-01 | Review]
+* Ownership: Dama N.V. [SOURCE: jeux.ca | 2024-11-01 | Review]
+* Restrictions: Information not available, but a minimum deposit of €54 was reported. [SOURCE: casino.guru | 2024-11-19 | Player Complaint]
+* Issues: Player's withdrawal delayed due to unclear pending tasks and timeframe. Player's deposit confiscated due to a change in minimum deposit amount. [SOURCE: casino.guru | 2024-11-01 | Player Complaint], [SOURCE: casino.guru | 2024-11-19 | Player Complaint]
+
+3. **PAYMENT ECOSYSTEM**
+* Methods: Dogecoin and other methods (not specified). [SOURCE: casino.guru | 2024-11-19 | Player Complaint]
+* Crypto: Dogecoin. [SOURCE: casino.guru | 2024-11-19 | Player Complaint]
+* KYC: Information not available.
+* Limits: Minimum deposit increased from ~€20 to €54. [SOURCE: casino.guru | 2024-11-19 | Player Complaint]
+* Times: Information not available.
+* Fees: Information not available.
+
+4. **GAME PORTFOLIO**
+* Total: Over 8,500 games. [SOURCE: jeux.ca | 2024-11-01 | Review]
+* Popular Slots: Information not available.
+* Table Games: Information not available.
+* Live: Information not available.
+* Sports: Information not available.
+* Providers: Information not available, but mentioned "best providers". [SOURCE: jeux.ca | 2024-11-01 | Review]
+* Jackpots: Information not available.
+
+5. **BONUS STRUCTURE**
+* Welcome: 350% up to CAD 2,900 + 400 free spins across the first 10 deposits.
+    * 1st Deposit: 150% up to CAD 2,450 + 150 free spins (code: VIPSQ150)
+    * 2nd Deposit: 50% up to CAD 150 + 50 free spins (code: WELCOME50)
+    * 5th Deposit: 200 free spins (code: WELCOME200)
+    * 10th Deposit: 150% up to CAD 300 (code: WELCOME150)
+    * Minimum deposit CAD 30, 40x wagering requirement. [SOURCE: jeux.ca | 2024-11-01 | Review]
+* Wagering: 40x. [SOURCE: jeux.ca | 2024-11-01 | Review]
+* Loyalty: Special and generous VIP program. [SOURCE: jeux.ca | 2024-11-01 | Review]
+* Restrictions: Information not available, but bonus terms and conditions apply. [SOURCE: jeux.ca | 2024-11-01 | Review]
+
+6. **RESPONSIBLE GAMING**
+* Tools: Information not available.
+* Partners: Information not available.
+* Policies: Information not available.
+* Limits: Information not available.
+
+7. **CUSTOMER SUPPORT**
+* Hours: Information not available.
+* Languages: Information not available.
+* Response: Information not available.
+* Quality: Information not available.
+
+8. **USER EXPERIENCE**
+* Mobile: Information not available.
+* Desktop: Information not available.
+* Features: Information not available.
+* Issues: Information not available.
+
+9. **REPUTATION & REVIEWS**
+* Ratings: Information not available.
+* Complaints: Withdrawal delays, deposit confiscation due to changing minimum deposit amounts. [SOURCE: casino.guru | 2024-11-01 | Player Complaint], [SOURCE: casino.guru | 2024-11-19 | Player Complaint]
+* Awards: Information not available.
+* History: Launched in 2019. [SOURCE: jeux.ca | 2024-11-01 | Review]
+
+10. **INDUSTRY POSITION**
+* Partnerships: Information not available.
+* Sponsorships: Information not available.
+* Innovation: Unique "Meta Crash Spades Queen™" game. [SOURCE: jeux.ca | 2024-11-01 | Review]
+* Competition: Focus on a large game portfolio and a VIP program. [SOURCE: jeux.ca | 2024-11-01 | Review]
+
+
+**Inconsistencies:** Minimum deposit amount discrepancy.
+
+**Missing Information:** Significant information gaps across most categories, especially regarding security, responsible gaming, customer support, user experience, and specific game details.  More research is needed to complete this analysis.

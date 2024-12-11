@@ -1,0 +1,80 @@
+* Category: Casino Analysis [SOURCE: User Prompt | 2024-12-09 | User Prompt]
+
+1. TECHNICAL SPECS
+* Platform: Information not available in the provided sources.
+* Mobile: Strafe Esports mentions the lack of detailed filters for browsing games, suggesting a functional website. [SOURCE: strafe.com | No Date | Webpage]  Other sources mention a user-friendly interface. [SOURCE: squarenine.rs, garnetinn.com | 2024-11-13 | Webpage] App compatibility mentioned. [SOURCE: uservoice.com | 2023-06-23 | Webpage]
+* Features: Offers slots, table games (including blackjack and roulette), and live casino games. [SOURCE: strafe.com, squarenine.rs, garnetinn.com | No Date, 2024-11-13 | Webpage]  Jackpot games are also available. [SOURCE: softswiss.com | 2022-06-27 | Webpage]
+* Security:  Wizard of Odds mentions "added security" with cryptocurrency support. [SOURCE: wizardofodds.com | No Date | Webpage] Square Nine and Garnet Inn mention advanced encryption technology. [SOURCE: squarenine.rs, garnetinn.com | 2024-11-13 | Webpage]
+
+
+2. LICENSING & COMPLIANCE
+* Licenses: Not specified in provided sources.
+* Ownership: Not specified in provided sources.
+* Restrictions: Not specified in provided sources.
+* Issues: Wizard of Odds notes a "tiny game library and some limits on cashout sizes." [SOURCE: wizardofodds.com | No Date | Webpage]
+
+
+3. PAYMENT ECOSYSTEM
+* Methods: Wizard of Odds highlights cryptocurrency support. [SOURCE: wizardofodds.com | No Date | Webpage] Jazz History Tree mentions a "wide range of payment methods." [SOURCE: jazzhistorytree.com | No Date | Webpage]
+* Crypto:  Supported, enabling instant payouts according to Wizard of Odds. [SOURCE: wizardofodds.com | No Date | Webpage]
+* KYC: Not specified in provided sources.
+* Limits: Wizard of Odds mentions limits on cashout sizes. [SOURCE: wizardofodds.com | No Date | Webpage]
+* Times:  Wizard of Odds mentions "instant payouts" with cryptocurrency. [SOURCE: wizardofodds.com | No Date | Webpage]
+* Fees: Not specified in provided sources.
+
+
+4. GAME PORTFOLIO
+* Total: Not specified in provided sources, described as "tiny" by Wizard of Odds. [SOURCE: wizardofodds.com | No Date | Webpage]
+* Popular Slots: Not specified in provided sources.
+* Table Games: Includes blackjack, roulette, baccarat, and Pai Gow. [SOURCE: strafe.com, globalcasinoguide.com, squarenine.rs, garnetinn.com | No Date, 2024-11-13 | Webpage]
+* Live:  Offered according to Strafe Esports. [SOURCE: strafe.com | No Date | Webpage]
+* Sports:  Not mentioned in provided sources.
+* Providers: Includes Betsoft, Yggdrasil, Playson, ReelPlay, Nolimit City, 4ThePlayer, Booming Games, GameBeat Zillion, Mascot Gaming, Belatra, Booongo, and Platipus Gaming. [SOURCE: strafe.com | No Date | Webpage]
+* Jackpots: Offers progressive and fixed jackpot games. [SOURCE: softswiss.com | 2022-06-27 | Webpage]
+
+
+5. BONUS STRUCTURE
+* Welcome:  Mentioned as "generous" by several sources. [SOURCE: squarenine.rs, garnetinn.com, jazzhistorytree.com, youtube.com | 2024-11-13, No Date, 2022-11-29 | Webpage]
+* Wagering: Jazz History Tree mentions a "3x deposit turnover requirement." [SOURCE: jazzhistorytree.com | No Date | Webpage]
+* Loyalty: Strafe Esports and YouTube mention a rewards and loyalty program. [SOURCE: strafe.com, youtube.com | No Date, 2022-11-29 | Webpage] Square Nine mentions ongoing promotions for loyal customers. [SOURCE: squarenine.rs | 2024-11-13 | Webpage]
+* Restrictions: Not specified in provided sources.
+
+
+6. RESPONSIBLE GAMING
+* Tools: Not specified in provided sources.
+* Partners: Not specified in provided sources.
+* Policies: Not specified in provided sources.
+* Limits: Not specified in provided sources.
+
+
+7. CUSTOMER SUPPORT
+* Hours: Not specified in provided sources.
+* Languages: Not specified in provided sources.
+* Response: Not specified in provided sources.
+* Quality: Strafe Esports rates customer service 3.7/5. [SOURCE: strafe.com | No Date | Webpage]
+
+
+8. USER EXPERIENCE
+* Mobile: UserVoice mentions a sleek and stylish design. [SOURCE: uservoice.com | 2023-06-23 | Webpage]
+* Desktop:  Strafe Esports notes the lack of detailed game filters. [SOURCE: strafe.com | No Date | Webpage]
+* Features: Not specified in provided sources.
+* Issues: Not specified in provided sources.
+
+
+9. REPUTATION & REVIEWS
+* Ratings: Strafe Esports gives overall ratings between 3.7/5 and 4.2/5 for various aspects. Wizard of Odds rates it 1.8/5. [SOURCE: strafe.com, wizardofodds.com | No Date | Webpage]
+* Complaints: Not specified in provided sources.
+* Awards: Not specified in provided sources.
+* History: Not specified in provided sources.
+
+
+10. INDUSTRY POSITION
+* Partnerships: Partnered with SOFTSWISS' Jackpot Aggregator. [SOURCE: softswiss.com | 2022-06-27 | Webpage]
+* Sponsorships: Not specified in provided sources.
+* Innovation: Not specified in provided sources.
+* Competition: Not specified in provided sources.
+
+
+Inconsistencies: There's a significant discrepancy in the overall ratings between Strafe Esports (3.7-4.2/5) and Wizard of Odds (1.8/5).  The game library size is also described differently.
+
+Missing Information:  Many aspects lack details, such as licensing, ownership, specific bonus details, responsible gambling measures, customer support specifics, and user experience details beyond design and filtering.  Regional restrictions and payment specifics are also missing.

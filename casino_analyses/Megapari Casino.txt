@@ -1,0 +1,68 @@
+* Category: Analysis of Megapari Casino [SOURCE: User Prompt | 2024-12-09 | User Prompt]
+
+1. TECHNICAL SPECS
+* Platform:  Operated by Orakum N.V. [SOURCE: casino.org | No Date | Website Article]  Licensed and regulated by the Government of Curacao. [SOURCE: casino.org | No Date | Website Article] Uses SSL encryption. [SOURCE: revpanda.com | No Date | Website Article] Employs RNG for game outcomes (except live dealer games). [SOURCE: revpanda.com | No Date | Website Article]
+* Mobile: Website optimized for mobile browsers. [SOURCE: revpanda.com | No Date | Website Article] Native apps available for Android and iOS. [SOURCE: revpanda.com | No Date | Website Article]  [SOURCE: tech-recipes.com | 2024-08-16 | Website Article]
+* Features: Sportsbook, online poker, esports, bingo, TV betting, stocks and financial gambling, casino games (slots, table games, live dealer games). [SOURCE: casino.org | No Date | Website Article]  Over 20,000 casino games and 1,000 live dealer games. [SOURCE: revpanda.com | No Date | Website Article]  VIP program for both casino and sportsbook. [SOURCE: revpanda.com | No Date | Website Article]
+* Security: SSL encryption. [SOURCE: revpanda.com | No Date | Website Article] Games audited by eCOGRA. [SOURCE: casino.org | No Date | Website Article] Regulated by the Curacao government. [SOURCE: casino.org | No Date | Website Article]  Operates under License No. ALSI-112310012-F15 from the Government of the Autonomous Island of Anjouan, Union of Comoros. [SOURCE: sigma.world | No Date | Website Article]
+
+2. LICENSING & COMPLIANCE
+* Licenses:  Government of Curacao. [SOURCE: casino.org | No Date | Website Article] Government of the Autonomous Island of Anjouan, Union of Comoros (License No. ALSI-112310012-F15). [SOURCE: sigma.world | No Date | Website Article] Curacao eGaming Authority. [SOURCE: tech-recipes.com | 2024-08-16 | Website Article]
+* Ownership: Orakum N.V. [SOURCE: casino.org | No Date | Website Article]  Vdsoft and Script Development SRL. [SOURCE: sigma.world | No Date | Website Article] Marikit Holdings Ltd. [SOURCE: smartbettingguide.com | No Date | Website Article]
+* Restrictions: Information not available in the provided sources.
+* Issues: Lack of live chat support. [SOURCE: revpanda.com | No Date | Website Article]  [SOURCE: tech-recipes.com | 2024-08-16 | Website Article] No FAQ section. [SOURCE: revpanda.com | No Date | Website Article] No responsible gaming page readily accessible. [SOURCE: wizardofodds.com | No Date | Website Article] Maximum withdrawal limits not specified. [SOURCE: sigma.world | No Date | Website Article]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Bank cards, e-wallets (Jeton Wallet, Pay4Fun, B-pay, Skrill, Sticpay, Perfect Money, Epay), Siru Mobile, internet banking, EcoPayz, cryptocurrency, UPI. [SOURCE: casino.org | No Date | Website Article] [SOURCE: sportsadda.com | No Date | Website Article]  MasterCard, Visa, Interac, DirectDebit+. [SOURCE: sigma.world | No Date | Website Article] Bank Transfer, Ripple, MiFinity, CashtoCode. [SOURCE: revpanda.com | No Date | Website Article]
+* Crypto: Bitcoin and other cryptocurrencies accepted. [SOURCE: casino.org | No Date | Website Article] [SOURCE: tech-recipes.com | 2024-08-16 | Website Article] [SOURCE: bitcoin.com | No Date | Website Article]  Not eligible for bonuses. [SOURCE: sportytrader.com | 2024-12-02 | Website Article] [SOURCE: footballwhispers.com | 2024-10-12 | Website Article]
+* KYC:  Requires profile completion with personal information and phone number verification for welcome bonus. [SOURCE: revpanda.com | No Date | Website Article]  Further details not available in provided sources.
+* Limits: Minimum deposit for welcome bonus is €10 (first deposit), €15 (subsequent deposits). [SOURCE: sportytrader.com | 2024-12-02 | Website Article] Minimum deposit of 55 INR. [SOURCE: sportsadda.com | No Date | Website Article]  Other limits not specified in provided sources.
+* Times: Most withdrawal methods processed within 15 minutes (except bank cards, which can take up to a week). [SOURCE: casino.org | No Date | Website Article]
+* Fees: No fees for deposits or withdrawals. [SOURCE: casino.org | No Date | Website Article]
+
+4. GAME PORTFOLIO
+* Total: Over 20,000 slots and 1,000 live dealer games. [SOURCE: revpanda.com | No Date | Website Article] Over 2000 casino games. [SOURCE: bitcoin.com | No Date | Website Article]
+* Popular Slots: Book of Gold, Coin UP: Hot Fire, Book of Dead (RTP 96%), Sweet Bonanza (RTP 96.49%), Wild Hot 40 (RTP 96.27%), Spaceman (RTP 96.50%), Wilds of Fortune (RTP 96.33%), Mega Moolah, Starlight. [SOURCE: revpanda.com | No Date | Website Article] [SOURCE: sigma.world | No Date | Website Article] [SOURCE: casino.org | No Date | Website Article] [SOURCE: strafe.com | No Date | Website Article]
+* Table Games: Blackjack, roulette, baccarat, poker (various variants). [SOURCE: strafe.com | No Date | Website Article] [SOURCE: testbook.com | 2024-11-20 | Website Article] Specific limits not available in provided sources.
+* Live: Over 1,000 live dealer games. [SOURCE: revpanda.com | No Date | Website Article]  Room details and limits not specified in provided sources.
+* Sports: Wide range of sports events available, including cricket, football, tennis, basketball, kabaddi, boxing, badminton, chess. [SOURCE: sportsadda.com | No Date | Website Article] [SOURCE: lawbhoomi.com | 2024-07-26 | Website Article]  Odds and specific markets not detailed in provided sources. Over 16,000 live sporting and non-sporting events. [SOURCE: sigma.world | No Date | Website Article]
+* Providers: Over 140 providers, including NetEnt, Microgaming, Play'n GO, Evolution Gaming, Playson, N2Live Slots, Mascot Gaming, Pragmatic Play, Endorphina, Evoplay, Apollo Games, BF Games, BGaming, Booming Games, Concept Gaming, CT Interactive, Espresso Games, Eurasian Gaming, FilsGame, G.games, GameArt, Habanero, Kalamba Games, LuckyStreak, Mancala Gaming, PLAYSTAR, SA Gaming, SmartSoft Gaming, Spadegaming, Spearhead Studios, Spribe, Swintt, Synot Games, Turbo Games, TVbet, Wazdan, WorldMatch, ZeusPlay. [SOURCE: testbook.com | 2024-11-20 | Website Article] [SOURCE: dehradunclassified.com | No Date | Website Article] [SOURCE: sigma.world | No Date | Website Article] [SOURCE: gamblinginsider.com | No Date | Website Article]
+* Jackpots: Progressive jackpots (e.g., Mega Moolah, Starlight) and other jackpot games available. [SOURCE: casino.org | No Date | Website Article]
+
+5. BONUS STRUCTURE
+* Welcome: Up to €1,500 and 150 free spins across first four deposits. First deposit: 100% up to €300 + 30 free spins on Book of Gold. Second deposit: 50% up to €350 + 35 free spins. Third deposit: 25% up to €400 + 40 free spins. Fourth deposit: 25% up to €450 + 45 free spins. [SOURCE: casino.org | No Date | Website Article] [SOURCE: sigma.world | No Date | Website Article] [SOURCE: bahriainternationalhospital.com | 2023-05-01 | Website Article] [SOURCE: sargidvargid.ee | No Date | Website Article] Up to 91574 PHP and 150 free spins across first two deposits. First deposit: 100% up to 30901 PHP + 50 free spins on Coin UP: Hot Fire. Second deposit: 100% up to 60673 PHP + 100 free spins. [SOURCE: sigma.world | No Date | Website Article] Up to INR 30,000 on first deposit and INR 9,000 on second deposit. [SOURCE: footballwhispers.com | 2024-10-12 | Website Article]
+* Wagering: 35x wagering requirement on welcome bonus. [SOURCE: casino.org | No Date | Website Article] [SOURCE: sigma.world | No Date | Website Article] 5x wagering on accumulator bets for sports bonus. [SOURCE: footballwhispers.com | 2024-10-12 | Website Article]
+* Loyalty: VIP program available for both casino and sportsbook. [SOURCE: revpanda.com | No Date | Website Article] Details not provided in the given sources.
+* Restrictions: Bonus not available for cryptocurrency deposits. [SOURCE: sportytrader.com | 2024-12-02 | Website Article] [SOURCE: footballwhispers.com | 2024-10-12 | Website Article] Profile must be fully completed to claim welcome bonus. [SOURCE: casino.org | No Date | Website Article]  Other restrictions not specified.
+
+6. RESPONSIBLE GAMING
+* Tools: Deposit and loss limits, session time notifications, self-exclusion options. [SOURCE: tech-recipes.com | 2024-08-16 | Website Article]
+* Partners: Information not available in the provided sources.
+* Policies: Not readily accessible. [SOURCE: wizardofodds.com | No Date | Website Article]
+* Limits: Information not available in the provided sources.
+
+7. CUSTOMER SUPPORT
+* Hours: Available via email, phone, and social media (Telegram, Facebook, X, Instagram). [SOURCE: revpanda.com | No Date | Website Article] [SOURCE: tech-recipes.com | 2024-08-16 | Website Article] 24/7 availability mentioned. [SOURCE: bitcoin.com | No Date | Website Article]  Exact hours for each channel not specified.
+* Languages: Multiple languages supported, including English, Albanian, Arabic, Armenian, Azerbaijani, Belarusian, Bengali, Bosnian, Bulgarian, Chinese, Croatian, Czech, Danish, Estonian, Finnish, French, Georgian, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Kurdish, Latvian, Lithuanian, Macedonian, Malay, Nepali, Norwegian, Persian, Polish, Portuguese, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Thai, Turkish, Ukrainian, Vietnamese. [SOURCE: sigma.world | No Date | Website Article]
+* Response: Email responses may take up to 2 business days. Phone provides immediate assistance. [SOURCE: tech-recipes.com | 2024-08-16 | Website Article]  Other response times not specified.
+* Quality: Generally positive user reviews regarding support responsiveness and helpfulness. [SOURCE: tech-recipes.com | 2024-08-16 | Website Article]  Resolution rates and satisfaction metrics not provided.
+
+8. USER EXPERIENCE
+* Mobile: Smooth and seamless experience on mobile site and apps. Intuitive user interface. [SOURCE: revpanda.com | No Date | Website Article] [SOURCE: tech-recipes.com | 2024-08-16 | Website Article] [SOURCE: sargidvargid.ee | No Date | Website Article]
+* Desktop: Functional website with easy navigation. [SOURCE: revpanda.com | No Date | Website Article]  Specific details not available.
+* Features: Search bar and filters for games. [SOURCE: bahriainternationalhospital.com | 2023-05-01 | Website Article]  Other features not specified.
+* Issues: No specific technical issues reported in provided sources.
+
+9. REPUTATION & REVIEWS
+* Ratings: High score on Trustpilot. [SOURCE: sigma.world | No Date | Website Article]  Other specific ratings not available.
+* Complaints: No specific complaints mentioned in provided sources.
+* Awards: Nominated for various awards, including Spice Sri Lanka Online Gambling Operator Award 2023, Best Online Casino in CEE 2023 (GamingTech Awards), SBC LATAM Awards 2022, EGR Nordics Awards 2023, BSG Awards 2023, AffPapa Awards 2023, GamingTECH CEE 2024 Awards, Casino Guru Awards 2024, Sigma Awards 2023, and LCB Awards 2023. [SOURCE: sigma.world | No Date | Website Article] [SOURCE: gamblinginsider.com | No Date | Website Article]
+* History: Launched in 2019. [SOURCE: sigma.world | No Date | Website Article] [SOURCE: gamblinginsider.com | No Date | Website Article]  No other significant past incidents reported.
+
+10. INDUSTRY POSITION
+* Partnerships: Collaborates with various software providers (see Game Portfolio - Providers). Partnered with Gamebeat to create a branded slot game. [SOURCE: cision.com | 2024-10-02 | Website Article]  Extensive affiliate program (Megapari Partners). [SOURCE: gamblinginsider.com | No Date | Website Article]
+* Sponsorships: Information not available in the provided sources.
+* Innovation: Branded slot game developed in partnership with Gamebeat. [SOURCE: cision.com | 2024-10-02 | Website Article] Focus on localization and adapting to local market preferences. [SOURCE: asgam.com | 2024-02-06 | Website Article]
+* Competition: Wide range of gambling options, including sports betting, casino games, esports, etc.  Focus on diverse payment methods, including cryptocurrency. Strong focus on bonuses and promotions. [SOURCE: various sources]
+
+Inconsistencies noted in ownership and licensing information across different sources.  Some information, such as regional restrictions and specific game limits, is missing from the provided sources.  This analysis is current as of 2024-12-09 and may change as Megapari Casino evolves.

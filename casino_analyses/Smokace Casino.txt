@@ -1,0 +1,75 @@
+SmokAce Casino Analysis (as of 09-12-2024)
+
+1. TECHNICAL SPECS
+* Platform: No specific software provider or tech stack information found. [Missing Information]
+* Mobile: Website is mobile-compatible for iOS and Android browsers. No dedicated mobile app. [SOURCE: gambling.com | 2024-06-10 | Review] [SOURCE: gambling.com | 2024-07-25 | Review]
+* Features:  Games are categorized (Popular, New, Minigames, Slots, Live Casino, Jackpot, Table Games). Players can save favorite games. [SOURCE: gambling.com | 2024-06-10 | Review]
+* Security:  Uses SSL encryption.  Other security measures like RNG or specific details not found. [Missing Information] [Inferred from general industry practices]
+
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao. [SOURCE: gambling.com | 2024-06-10 | Review]
+* Ownership: Altacore N.V. [SOURCE: gambling.com | 2024-06-10 | Review]
+* Restrictions: Players from Ontario, Canada are restricted from bonuses and promotions due to local regulations. [SOURCE: gambling.com | 2024-06-10 | Review] Some games unavailable during active bonus. [SOURCE: gambling.com | 2024-06-10 | Review]
+* Issues: Player reported delayed withdrawal and request for additional documentation despite verified account. [SOURCE: askgamblers.com | 2024-04-22 | Forum Post]
+
+
+3. PAYMENT ECOSYSTEM
+* Methods: Apple Pay, AstroPay, Bitcoin, CASHlib, CashtoCode, DogeCoin, Ethereum, eZeeWallet, flexepin, Giropay, Google Pay, Interac, Jeton, Litecoin, Mastercard, Mifinity, MuchBetter, Neosurf, Neteller, Paysafecard, Rapid Transfer, Revolut, Skrill, Sofortüberweisung, Tether, Tron, Trustly, Visa, Volt bank direct (deposit).  Similar methods available for withdrawal, except Mastercard. [SOURCE: nyenorske.casino | Date Unknown | Review]
+* Crypto: Bitcoin, Dogecoin, Ethereum, Litecoin, Tether, Tron. [SOURCE: nyenorske.casino | Date Unknown | Review]
+* KYC:  Required. Specific documents, verification time, and limits before KYC not specified. Player reported being asked for bank details despite verified account. [SOURCE: askgamblers.com | 2024-04-22 | Forum Post] [Missing Information]
+* Limits: Minimum deposit for bonuses C$35-C$70. Maximum deposit for bonuses C$1400-C$4700. Withdrawal limit: €1,000 per transaction/€3,000 Daily/€50,000 Monthly. [SOURCE: gambling.com | 2024-06-10 | Review] [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Times: Withdrawal processing time up to 72 hours (general). Mifinity withdrawals advertised as 10 minutes or less, but player reported delays. [SOURCE: gambling.com | 2024-06-10 | Review] [SOURCE: askgamblers.com | 2024-04-22 | Forum Post]  Up to 5 business days processing time after KYC and pending period. [SOURCE: wizardofodds.com | 2023-12-15 | Review]
+* Fees: Not specified. [Missing Information]
+
+
+4. GAME PORTFOLIO
+* Total: Over 7,500 games. [SOURCE: gambling.com | 2024-06-10 | Review]
+* Popular Slots: Chaos Crew, Book of Dead, Temple Tumble Megaways, Sweet Bonanza, Big Bass Bonanza. RTPs not provided. [SOURCE: gambling.com | 2024-06-10 | Review]
+* Table Games:  Available, but specific variants and limits not listed. [SOURCE: gambling.com | 2024-06-10 | Review]
+* Live: Available. Room details and limits not specified. Providers include Evolution Gaming, AsiaGaming, and BetGames. [SOURCE: gambling.com | 2024-07-25 | Review]
+* Sports: Not mentioned. [Missing Information]
+* Providers: Play N' Go, Pragmatic Play, Hacksaw Gaming, Evolution Gaming, Push Gaming, Asia Gaming, Salsa Technology, Mascot Gaming, Concept Gaming. [SOURCE: gambling.com | 2024-06-10 | Review]
+* Jackpots: Progressive and fixed jackpots available. Specific games and current values not listed. [SOURCE: gambling.com | 2024-06-10 | Review]
+
+
+5. BONUS STRUCTURE
+* Welcome: Three options: 1) Gold Fever: 100% up to C$700 + 100 free spins on Gates of Olympus. 2) Mustang: 50% up to C$1400 + 50 free spins on The Dog House. 3) Gunslinger: 75% up to C$700 + free spins on Big Bass Bonanza. [SOURCE: gambling.com | 2024-06-10 | Review]  Another source mentions 125% up to €500 + 125 spins on Gates of Olympus. [SOURCE: wizardofodds.com | 2023-12-15 | Review] [Inconsistency]
+* Wagering: 45x for match deposits, 40x for free spins winnings. [SOURCE: gambling.com | 2024-06-10 | Review]
+* Loyalty: VIP program with 5 tiers, cashback, faster withdrawals, personal account manager.  "Adventure map" with mini-quests for bonus coins. [SOURCE: gambling.com | 2024-07-25 | Review]
+* Restrictions: Amusnet Interactive and Playson slots unavailable during active bonus. Maximum bet during wagering is €5. [SOURCE: gambling.com | 2024-06-10 | Review] [SOURCE: gambling.com | 2024-07-24 | Review]
+
+
+6. RESPONSIBLE GAMING
+* Tools: Self-exclusion (account termination for specified duration), deposit limits, time limits, stake limits, profit/loss totaliser. [SOURCE: gambling.com | 2024-07-25 | Review]
+* Partners: Gamblers Anonymous, GamCare, and Gambling Therapy suggested for players seeking help. Not necessarily direct partnerships. [SOURCE: gambling.com | 2024-07-25 | Review]
+* Policies: Encourages responsible gambling, viewing it as entertainment, not income generation. [SOURCE: gambling.com | 2024-07-25 | Review]
+* Limits: Not specified beyond general responsible gambling encouragement. [Missing Information]
+
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 via email and live chat. [SOURCE: gambling.com | 2024-07-25 | Review]
+* Languages: Multilingual support available, specific languages and service levels not detailed. [SOURCE: gambling.com | 2024-07-25 | Review]
+* Response: Not specified. [Missing Information]
+* Quality: Not specified. [Missing Information]
+
+
+8. USER EXPERIENCE
+* Mobile: Site adapts to mobile devices, but navigation could be improved given the large game selection. [SOURCE: gambling.com | 2024-06-10 | Review]
+* Desktop: No specific information found. [Missing Information]
+* Features: Search, filters, and personalization options not detailed. [Missing Information]
+* Issues: No specific information found beyond mobile navigation comment. [Missing Information]
+
+
+9. REPUTATION & REVIEWS
+* Ratings: No specific scores from review sites like Trustpilot or AskGamblers provided. [Missing Information]
+* Complaints: Player reported delayed withdrawal and request for documentation despite verification. [SOURCE: askgamblers.com | 2024-04-22 | Forum Post]
+* Awards: No information found. [Missing Information]
+* History: Launched in 2023. [SOURCE: gambling.com | 2024-06-10 | Review]
+
+
+10. INDUSTRY POSITION
+* Partnerships: No specific information found. [Missing Information]
+* Sponsorships: No information found. [Missing Information]
+* Innovation: "Adventure map" with mini-quests for bonus coins is a unique feature. [SOURCE: gambling.com | 2024-07-25 | Review]
+* Competition: Large game library (over 7,500) is a key differentiator. [SOURCE: gambling.com | 2024-06-10 | Review]  Wild West theme. [SOURCE: gambling.com | 2024-06-10 | Review]

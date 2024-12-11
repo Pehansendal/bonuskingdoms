@@ -1,0 +1,68 @@
+* Category: Wasino Casino Analysis [SOURCE: User Prompt | 2024-12-09 | Analysis]
+
+1. TECHNICAL SPECS
+* Platform: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Mobile: Available on mobile browsers. No information on a dedicated app. [SOURCE: bookiesnorge.com, toppcasinonorge.com | 2024-12-09 | Text]
+* Features: Standard online casino features like slots, table games, and live casino.  Navigation described as simple. [SOURCE: bookiesnorge.com, toppcasinonorge.com | 2024-12-09 | Text]
+* Security:  Uses SSL encryption. Other security measures like RNG are not specified. [SOURCE: Inferred from standard practice | 2024-12-09 | Inference]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Operates under a Curaçao license. [SOURCE: toppcasinonorge.com | 2024-12-09 | Text]
+* Ownership: GoldenFrog Inc., located in Hamchako, Mutsamudu, Autonomous Island of Anjouan, Union of Comoros. [SOURCE: toppcasinonorge.com | 2024-12-09 | Text]
+* Restrictions: Information not explicitly stated, but Norwegian players are mentioned needing to report winnings to tax authorities. [SOURCE: toppcasinonorge.com | 2024-12-09 | Text]
+* Issues: Player complaints about delayed withdrawals. [SOURCE: kasinoguru-bg.com | 2024-12-09 | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Accepts traditional payment methods and cryptocurrencies. Some e-wallets may be missing. [SOURCE: bookiesnorge.com | 2024-12-09 | Text]
+* Crypto: Claims to support over 1600 cryptocurrencies and tokens.  [SOURCE: toppcasinonorge.com | 2024-12-09 | Text]
+* KYC: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Limits: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Times: Withdrawals are reported to be slow.  [SOURCE: kasinoguru-bg.com | 2024-12-09 | Text]
+* Fees: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+
+4. GAME PORTFOLIO
+* Total: Thousands of games available. [SOURCE: toppcasinonorge.com | 2024-12-09 | Text]
+* Popular Slots: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Table Games: Available, but specific variants and limits are not specified. [SOURCE: bookiesnorge.com | 2024-12-09 | Text]
+* Live: Live casino games are offered, but room details and limits are not specified. [SOURCE: bookiesnorge.com | 2024-12-09 | Text]
+* Sports:  Information not available, likely not offered. [SOURCE: Missing | 2024-12-09 | Missing]
+* Providers: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Jackpots: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+
+5. BONUS STRUCTURE
+* Welcome: Up to 15,000 NOK and 350 free spins across the first three deposits. [SOURCE: toppcasinonorge.com | 2024-12-09 | Text]
+* Wagering: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Loyalty: Six-status loyalty program with multiple levels. [SOURCE: toppcasinonorge.com | 2024-12-09 | Text]
+* Restrictions: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+
+6. RESPONSIBLE GAMING
+* Tools: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Partners: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Policies: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Limits: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+
+7. CUSTOMER SUPPORT
+* Hours: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Languages: English and Norwegian are available. [SOURCE: toppcasinonorge.com | 2024-12-09 | Text]
+* Response: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Quality: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+
+8. USER EXPERIENCE
+* Mobile: Described as simple and easy to navigate. [SOURCE: toppcasinonorge.com | 2024-12-09 | Text]
+* Desktop:  Information not explicitly stated, but assumed similar to mobile experience. [SOURCE: Inferred | 2024-12-09 | Inference]
+* Features: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Issues: Some information is difficult to find, such as bonus terms and conditions. [SOURCE: toppcasinonorge.com | 2024-12-09 | Text]
+
+9. REPUTATION & REVIEWS
+* Ratings: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Complaints:  Delayed withdrawals. [SOURCE: kasinoguru-bg.com | 2024-12-09 | Text]
+* Awards: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* History: Relatively new casino. [SOURCE: bookiesnorge.com | 2024-12-09 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Bob Sapp is a brand ambassador. [SOURCE: fightful.com, toppcasinonorge.com | 2024-12-09 | Text]
+* Sponsorships: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+* Innovation:  No unique features or offerings identified. [SOURCE: Missing | 2024-12-09 | Missing]
+* Competition: Information not available. [SOURCE: Missing | 2024-12-09 | Missing]
+
+

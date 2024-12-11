@@ -1,0 +1,67 @@
+* Category: PlayMojo Casino Analysis [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Analysis]
+
+1. TECHNICAL SPECS
+* Platform: Browser-based client.  Information about specific software providers and tech stack is unavailable in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+* Mobile: Browser-based, optimized for mobile devices. Apps for iOS and Android may be available, but this is not confirmed by the provided sources.  Performance is described as fast-loading with a smooth UI. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+* Features: Auto-translate feature for live chat, Bonus Store for exchanging loyalty points.  Other features are not detailed in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+* Security:  Operates under a Kahnawake Gaming Commission license, suggesting some level of security. Specific details on SSL/encryption/RNG implementation are not available in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Kahnawake Gaming Commission. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+* Ownership: Aveazure SRL, incorporated under Costa Rican law. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+* Restrictions: Specific blocked regions are not listed in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+* Issues: Limited player reviews available due to the casino's new status.  No major issues are reported in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, Mastercard, Maestro, Paysafecar, Skrill, Neteller, MiFinity, Bitcoin, Litecoin, Ethereum, Tether, Tron, Ripple, Bitcoin Cash. Bank transfers and MiFinity are mentioned for withdrawals.  It is unclear if all deposit methods are also available for withdrawals. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+* Crypto: Bitcoin, Litecoin, Ethereum, Tether, Tron, Ripple, Bitcoin Cash. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+* KYC: KYC procedures are not detailed in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+* Limits: Minimum deposit is 200 kr for some bonuses.  General transaction limits are not specified. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Times: Actual processing speeds are not specified. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+* Fees: Fee structure is not detailed in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+
+4. GAME PORTFOLIO
+* Total: Over 13,000 games (some sources mention over 11,500). This discrepancy should be investigated. [SOURCE: Synthesized from provided sources | 2024-12-09 | Inconsistent Information]
+* Popular Slots:  Specific slots and RTPs are not listed, but Mystery Joker, Book of Dead, and Legacy of Dead are mentioned as eligible for free spins. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Table Games:  Blackjack, baccarat, roulette, poker (including Texas Hold'em, Emerald Blackjack, and Sweep & Win Roulette). Table game limits are not specified. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Live: Live casino games are available, including poker, bingo, blackjack, roulette, dice games, and game shows. Specific room details and limits are not provided. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Sports: Sports betting is not mentioned in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+* Providers: Over 140 providers are mentioned. Specific providers are not listed. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Jackpots:  Jackpots are mentioned as a game category, but specific progressive and fixed jackpot games are not listed. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+
+5. BONUS STRUCTURE
+* Welcome: Up to €5,000 + 300 free spins (some sources mention up to 50,000 kr). This discrepancy should be investigated. Four-tiered structure with varying match percentages and free spins for each deposit. Bonus codes MOJO2, MOJO3, and MOJO4 are required for the second, third, and fourth deposit bonuses, respectively. [SOURCE: Synthesized from provided sources | 2024-12-09 | Inconsistent Information]
+* Wagering: 40x. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+* Loyalty:  Loyalty program (Club OJO) and an invitation-only VIP club are available.  Specific VIP program details are not fully disclosed. Complimentary points (CPs) can be exchanged for rewards in the Bonus Store. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Restrictions: Bonus expiry is 3 days after being credited. Other restrictions are not detailed. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+
+6. RESPONSIBLE GAMING
+* Tools:  Responsible gambling tools are mentioned as being "impressive," but specific tools like self-exclusion, deposit limits, and time limits are not detailed. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Partners:  Partnerships with responsible gambling organizations are not mentioned. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+* Policies: Actual responsible gaming guidelines are not provided. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+* Limits: Reality checks and cooling-off periods are not mentioned. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability is mentioned.  Specific hours for individual channels are not provided. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Languages: Live chat has an auto-translate feature for several languages. Supported languages and service levels are not specified. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Response: Actual response times are not provided. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+* Quality: Resolution rates and customer satisfaction are not detailed. One source mentions positive experiences with a specific account manager. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+
+8. USER EXPERIENCE
+* Mobile: Fast loading speeds and smooth UI on both mobile and desktop. Website is optimized for smaller screens. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+* Desktop:  Seamless and easily navigable UI.  No specific issues are mentioned. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+* Features: Search functionality is mentioned.  Other features like filters and personalization are not detailed. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Issues: No specific technical problems are reported. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+
+9. REPUTATION & REVIEWS
+* Ratings:  No ratings from Trustpilot or AskGamblers are provided. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+* Complaints:  Few player reviews are available due to the casino's new status. No specific complaints are mentioned. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+* Awards: No awards are mentioned. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+* History: PlayMojo is a new casino established in 2024. No past incidents are reported. [SOURCE: Synthesized from provided sources | 2024-12-09 | Synthesized Information]
+
+10. INDUSTRY POSITION
+* Partnerships: Potential partnership or acquisition of a product from Hollycorn N.V. is suggested, but not confirmed.  Other partnerships are not mentioned. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Sponsorships: No sponsorships are mentioned. [SOURCE: Synthesized from provided sources | 2024-12-09 | Missing Information]
+* Innovation: Bonus Store for exchanging loyalty points. Other innovations are not detailed. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]
+* Competition: Key differentiators are not clearly defined. The large game portfolio and focus on user experience are highlighted. [SOURCE: Synthesized from provided sources | 2024-12-09 | Partial Information]

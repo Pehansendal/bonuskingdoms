@@ -1,0 +1,70 @@
+* Category: Stay Casino Analysis [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+
+1. TECHNICAL SPECS
+* Platform:  Operates on a platform managed by Hollycorn N.V.  Specific software provider and tech stack details are not available in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Mobile: Compatible with Windows, Mac, iOS, and Android devices. Information about a dedicated app is unavailable in the provided sources. [SOURCE: sigma.world | No date | Text]
+* Features: Offers a wide variety of games, including slots, table games, and a live casino.  Specific details on additional features like search filters or personalization are not available. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Security: Employs SSL encryption. Information about specific encryption details and RNG implementation isn't available in the provided sources.  Curacao licensing implies some level of regulatory oversight regarding security. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Holds a Curacao license. Previously operated under the same license in 2021.  [SOURCE: e-sportstats.com | 2024-07-31 | Text]
+* Ownership: Owned and operated by Hollycorn N.V., incorporated under the laws of Curaçao. Libergos Limited, a Cyprus-based wholly-owned subsidiary, acts as a payment agent. [SOURCE: sigma.world | No date | Text]
+* Restrictions:  Players from numerous countries are restricted, including the USA, UK, France, Netherlands, and their overseas territories.  A more extensive list of restricted countries exists across Europe, Asia, Africa, and the Americas.  Further restrictions apply to specific games from providers like NetEnt. [SOURCE: sigma.world | No date | Text]
+* Issues: No specific reported issues were found within the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods:  Offers various payment methods, including Litecoin, Maestro, MyFinity, Rapid Transfer, Volt, Payz, MiFinity, and Sofort.  A total of 6 deposit methods and 2 withdrawal methods are mentioned in one source. [SOURCE: sigma.world, autogirl.ng | No date, 2024-10-22 | Text]
+* Crypto: Litecoin is explicitly mentioned as a supported cryptocurrency.  Other cryptocurrencies may be accepted, but are not specified. [SOURCE: sigma.world | No date | Text]
+* KYC: KYC procedures are implied but specific document requirements, verification times, and limits before KYC are not detailed in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Limits: Transaction minimums and maximums are not specified in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Times: Actual processing speeds for transactions are not specified. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Fees:  Information on the complete fee structure is not available. Bitcoin transactions are mentioned as free in one source, but this may not apply to all payment methods. [SOURCE: autogirl.ng | 2024-10-22 | Text]
+
+4. GAME PORTFOLIO
+* Total: Over 8000 games. [SOURCE: e-sportstats.com | 2024-07-31 | Text]
+* Popular Slots: Popular titles include Wolf Gold, Bonanza, and Blood Suckers.  RTP information for these slots is not provided. [SOURCE: irishluck.ie | No date | Text]
+* Table Games:  Availability of table games is mentioned, but specific variants and limits are not detailed. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Live:  Presence of a live casino is mentioned, but room details and limits are not provided. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Sports:  No information about sports betting markets or odds is available in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Providers:  Partners with AvatarUX, BGaming, Booming Games, CT Interactive, ELK Studios, Endorphina, Evoplay, GameArt, Habanero, LuckyStreak, Mancala Gaming, Mascot Gaming, NetEnt, Play'n GO, Pragmatic Play, Turbo Games, and Wazdan.  Other sources mention Evolution, Thunderkick. [SOURCE: sigma.world, irishluck.ie | No date | Text]
+* Jackpots:  Information on progressive and fixed jackpot games is not available. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+
+5. BONUS STRUCTURE
+* Welcome: Offers a welcome bonus of up to €5000 + 300 Free Spins. A $50 no deposit bonus is mentioned in another source.  [SOURCE: irishluck.ie, tworoomproductions.com | No date | Text]
+* Wagering: One source mentions a 1x wagering requirement, but this seems unusually low and may be an error.  Other sources do not specify wagering requirements. [SOURCE: sierrabullets.com | No date | Text]
+* Loyalty:  Details about the VIP program are not provided. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Restrictions:  Bonus limitations are not detailed in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Offers responsible gambling tools such as deposit limits, wager limits, cooling-off periods, and self-exclusion. [SOURCE: irishluck.ie | No date | Text]
+* Partners:  Partnerships with responsible gambling organizations are not specified. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Policies:  Specific responsible gaming guidelines are not detailed. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Limits:  Reality checks and cooling-off periods are available. Specific details on how these are implemented are not provided. [SOURCE: irishluck.ie | No date | Text]
+
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability is mentioned.  Specific hours for each channel are not provided. [SOURCE: sigma.world | No date | Text]
+* Languages: Supports English (UK), German, and Norwegian. [SOURCE: sigma.world | No date | Text]
+* Response: Actual response times are not provided. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Quality: Resolution rates and customer satisfaction details are not available. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+
+8. USER EXPERIENCE
+* Mobile:  Load times and app performance are not specified. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Desktop:  Navigation and functionality details are not provided. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Features:  Information about specific features like search, filters, and personalization is not available. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Issues:  Reported technical problems are not detailed in the provided sources. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+
+9. REPUTATION & REVIEWS
+* Ratings:  Specific ratings from Trustpilot and AskGamblers are not available. Irishluck gives it a 4.5 rating. [SOURCE: irishluck.ie | No date | Text]
+* Complaints: Common issues and their resolution are not detailed. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Awards: Information on industry recognition and prizes is not available. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* History: Launched in 2021. No other significant past incidents or resolutions are mentioned. [SOURCE: irishluck.ie | No date | Text]
+
+10. INDUSTRY POSITION
+* Partnerships:  Exclusive provider deals are not detailed. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Sponsorships:  Information on sponsorships is not available. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Innovation:  Unique features or offerings are not specified. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+* Competition:  Key differentiators are not clearly outlined.  A large game library and bonuses are mentioned, but these are common features in the online casino market. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+
+
+Note: This information is current as of December 9, 2024, and may change.  Several data points are missing from the provided sources.  It's recommended to consult additional resources for a more comprehensive analysis.

@@ -1,0 +1,69 @@
+Wazbee Casino Analysis (as of 09-12-2024)
+
+1. **TECHNICAL SPECS**
+* Platform: Information not available.
+* Mobile: WazBee Casino's website is mobile-friendly and accessible via a standard web browser with instant-play.  It is optimized for all devices. There is no dedicated mobile app. [SOURCE: diamondpaints.com, casinomeister.com | 2024-11-25, 2024-11-21 | Review, Review]
+* Features:  Games, Live Casino, Sportsbook, and Live Withdrawal. Search, filters. [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Security: SSL encryption. Regularly audited by independent authorities. Multiple layers of fraud protection. [SOURCE: diamondpaints.com | 2024-11-25 | Review]
+
+2. **LICENSING & COMPLIANCE**
+* Licenses:  Currently operating under a Curacao Gaming Control Board license (pending). Previously operated under Antillephone Curacao license. [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Ownership: JER-TEAM N.V. [SOURCE: reddit.com | 2024-08-05 | Forum Post]
+* Restrictions: Information not available.
+* Issues: Multiple reports of refused withdrawals, despite meeting wagering requirements and account verification.  Accusations of scamming players. Arrogant and unhelpful customer support. Cashback has a 10x max win limit. Concerns about RTP manipulation on Play and Go slots.  [SOURCE: reddit.com, kasinoguru-bg.com | 2024-08-05, No Date | Forum Post, Review] Inconsistent information regarding payout speed: advertised as "lighting-fast payouts" but player reports contradict this. [SOURCE: casinomeister.com, kasinoguru-bg.com | 2024-11-21, No Date | Review, Review]
+
+3. **PAYMENT ECOSYSTEM**
+* Methods: Lithuanian banks (SEB, Revolut, Luminor), cryptocurrencies (Bitcoin, Ethereum, Litecoin), e-wallets (Paysafecard, Neteller, Skrill), Visa, MasterCard, Bank Transfer, Mifinity, Rapidtransfer, Trustly, Neosurf, AstroPay, Paysafecard, Jeton. [SOURCE: casinolt.com, d6.lt | 2024-10-11, 2024-05-02 | Review, Review]
+* Crypto: Bitcoin, Ethereum, Litecoin, Tether, Ripple. [SOURCE: d6.lt, online-casino.ee | 2024-05-02, 2024-11-25 | Review, Review]
+* KYC: Information not available, but KYC procedures are mentioned. [SOURCE: kasinoguru-bg.com | No Date | Review]
+* Limits: Minimum deposit: €10. Minimum withdrawal: €20. Daily withdrawal limit: €15,000. [SOURCE: casinolt.com, coingabbar.com | 2024-10-11, 2024-10-17 | Review, News Article]
+* Times: Advertised average cash-out time: 8 minutes 30 seconds. However, player reports indicate significant delays and non-payment of withdrawals. [SOURCE: coingabbar.com, kasinoguru-bg.com | 2024-10-17, No Date | News Article, Review]
+* Fees: Information not available, but deposit fees are mentioned as not applicable in one source. [SOURCE: talkingbirth.com.au | 2024-12-09 | Review]
+
+4. **GAME PORTFOLIO**
+* Total: Over 4,000 games. [SOURCE: casinomeister.com, online-casino.ee | 2024-11-21, 2024-11-25 | Review, Review]
+* Popular Slots: Sweet Bonanza 1000, Book of Dead, Temple Tumble Megaways, Big Bass Mission Fishin', Gates of Olympus, Le Bandit, Bonanza Megaways, Ancient Tumble, Fire in the Hole 2, Sugar Rush. [SOURCE: casinomeister.com, casinoguru.lt | 2024-11-21, 2024-01-17 | Review, Review]
+* Table Games: Information on specific variants and limits is not available.  [SOURCE: multiple sources | various dates | various types]
+* Live: Information not available.
+* Sports: Available. Information on specific markets and odds is not available. [SOURCE: multiple sources | various dates | various types]
+* Providers: Thunderkick, Hacksaw, NoLimit, Push Gaming, ELK, Spribe, Relax Gaming, NetEnt, Microgaming, Play and Go. [SOURCE: multiple sources | various dates | various types]
+* Jackpots: Information not available.
+
+5. **BONUS STRUCTURE**
+* Welcome: 100% matched deposit bonus up to €200, released in 10% installments during the wagering process. 150% bonus up to €100 for cryptocurrency deposits. [SOURCE: casinomeister.com, d6.lt | 2024-11-21, 2024-05-02 | Review, Review]
+* Wagering: 30x. [SOURCE: d6.lt | 2024-05-02 | Review]
+* Loyalty: VIP program with two tiers: Standard Tiny Bee and VIP Queen Bee.  Points system called Beecoins.  Daily cashback up to 25% (for VIP Queen Bee). Refer-a-friend bonus. [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Restrictions: Information not available, but bonus limits are mentioned. [SOURCE: multiple sources | various dates | various types]
+
+6. **RESPONSIBLE GAMING**
+* Tools: Self-exclusion, deposit limits, time limits. However, these are not self-managed and require contacting the casino via email. [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Partners: Information not available.
+* Policies: Information not available, but responsible gaming section needs improvement. [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Limits: Information not available.
+
+7. **CUSTOMER SUPPORT**
+* Hours: 24/7 live chat and email. [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Languages: English.  No Lithuanian language support. [SOURCE: casinomeister.com, casinolt.com | 2024-11-21, 2024-10-11 | Review, Review]
+* Response: Live chat described as offering "faster resolution." Email address: support@wazbee.casino. [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Quality: Described as "well-trained, knowledgeable, and helpful" by one reviewer. However, other reports describe support as "horrible," "arrogant," "unhelpful and dismissive," and providing "vague responses and delaying tactics." [SOURCE: casinomeister.com, reddit.com, kasinoguru-bg.com | 2024-11-21, 2024-08-05, No Date | Review, Forum Post, Review]
+
+8. **USER EXPERIENCE**
+* Mobile:  Mobile website is described as convenient. [SOURCE: diamondpaints.com | 2024-11-25 | Review]
+* Desktop: Website described as "slick, clean, neat," "fast-loading, easy to use, and easy to navigate." Primarily purple with yellow/orange icons. [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Features: Search, filters. [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Issues: Some provider's games do not work. Currency setting issues reported. [SOURCE: kasinoguru-bg.com | No Date | Review]
+
+9. **REPUTATION & REVIEWS**
+* Ratings: No ratings available from Trustpilot or AskGamblers in provided sources.  However, mentioned as receiving two silver medals from AskGamblers for "Best New Casino" and "Players' Choice Casino" in its first year. [SOURCE: online-casino.ee | 2024-11-25 | Review] Casinomeister gives a rating of 7.3. [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Complaints: Numerous complaints about refused withdrawals, poor customer service, and potential RTP manipulation. [SOURCE: reddit.com, kasinoguru-bg.com | 2024-08-05, No Date | Forum Post, Review] Spotless record at Casinomeister (no complaints or major forum issues). [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Awards: Two silver medals from AskGamblers (Best New Casino and Players' Choice Casino). [SOURCE: online-casino.ee | 2024-11-25 | Review]
+* History: Launched in 2023.  Switched from Antillephone Curacao license to Curacao Gaming Control Board license (pending). [SOURCE: casinomeister.com | 2024-11-21 | Review]
+
+10. **INDUSTRY POSITION**
+* Partnerships: Information not available.
+* Sponsorships: Information not available.
+* Innovation: Unique VIP system with Beecoins.  [SOURCE: casinomeister.com | 2024-11-21 | Review]
+* Competition:  Information not available.
+
+
+Inconsistencies flagged. Missing information noted.

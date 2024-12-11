@@ -1,0 +1,72 @@
+* Category: Casino Review [SOURCE: N/A | 2024-12-09 | Generated]
+
+Nummus Casino is a relatively new online gambling platform accessible via web and Telegram, focusing on cryptocurrency transactions and aiming to integrate blockchain technology through its $NUMMUS token.  As of December 9, 2024, information about Nummus Casino is primarily available from promotional material and a few reviews, making a comprehensive unbiased analysis challenging.  Several key details about its operations, licensing, and game portfolio are still unclear.  The following analysis is based on available information and should be considered preliminary.
+
+1. TECHNICAL SPECS
+* Platform: Telegram Bot API, cloud-based infrastructure [SOURCE: bitcoinist.com | 2024-06-18 | Article]
+* Mobile: Accessible through Telegram app and web browser on mobile devices [SOURCE: Various | Multiple Dates | Articles/Press Releases]
+* Features:  Standard casino games, sports betting, crypto games like Spaceman and Aviator, Telegram integration [SOURCE: Multiple | Multiple Dates | Articles/Press Releases]
+* Security:  Information on SSL/encryption/RNG is not readily available. Blockchain technology is emphasized for transparency and security related to the $NUMMUS token. [SOURCE: Multiple | Multiple Dates | Articles/Press Releases]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curaçao [SOURCE: wizardofodds.com | 2024-10-23 | Review], Anjouan [SOURCE: anjouangaming.com | N/D | License Register]
+* Ownership: Not clearly specified.  [SOURCE: Missing | N/A | N/A]
+* Restrictions: Information on blocked regions is not readily available. [SOURCE: Missing | N/A | N/A]
+* Issues: Some sources note a limited selection of table games. [SOURCE: wizardofodds.com | 2024-10-23 | Review]  Further information on reported problems is limited.
+
+3. PAYMENT ECOSYSTEM
+* Methods: Cryptocurrency, potentially fiat currency [SOURCE: affiversemedia.com | N/D | Website]
+* Crypto: Not explicitly listed, but the platform's focus is on cryptocurrency. [SOURCE: Multiple | Multiple Dates | Articles/Press Releases]
+* KYC: KYC-free stated in several sources. [SOURCE: Multiple | Multiple Dates | Articles/Press Releases]
+* Limits: Minimum withdrawal €20 [SOURCE: wizardofodds.com | 2024-10-23 | Review]. Other limits not consistently reported. Daily withdrawal limit of $250,000 mentioned for VIP members. [SOURCE: chainwire.org | 2024-06-18 | Press Release]
+* Times:  KYC verification: Up to 24 hours; Pending time: Same day; Processing time: 5 minutes [SOURCE: wizardofodds.com | 2024-10-23 | Review]
+* Fees: Not specified. [SOURCE: Missing | N/A | N/A]
+
+4. GAME PORTFOLIO
+* Total: Conflicting reports: 393 games [SOURCE: wizardofodds.com | 2024-10-23 | Review], 10,000+ games [SOURCE: coingabbar.com | 2024-10-17 | Article]
+* Popular Slots: Not specifically listed. [SOURCE: Missing | N/A | N/A]
+* Table Games: Limited selection mentioned. Specific variants and limits not readily available. [SOURCE: wizardofodds.com | 2024-10-23 | Review]
+* Live:  Live games from top providers mentioned, but details are scarce. [SOURCE: cointelegraph.com | 2024-06-18 | Article]
+* Sports: 30 sports options mentioned. Specific markets and odds not readily available. [SOURCE: coingabbar.com | 2024-10-17 | Article]
+* Providers: Nucleus Gaming, Microgaming mentioned. Full list not available. [SOURCE: wizardofodds.com | 2024-10-23 | Review]
+* Jackpots: Not specified. [SOURCE: Missing | N/A | N/A]
+
+
+5. BONUS STRUCTURE
+* Welcome: 100% bonus on presale token purchase, other welcome bonuses mentioned but specifics vary across sources. [SOURCE: Multiple | Multiple Dates | Articles/Press Releases]
+* Wagering: Not consistently reported. [SOURCE: Missing | N/A | N/A]
+* Loyalty: VIP program for $NUMMUS token holders with various perks. [SOURCE: Multiple | Multiple Dates | Articles/Press Releases]
+* Restrictions:  Full details on bonus limitations not readily available. [SOURCE: Missing | N/A | N/A]
+
+6. RESPONSIBLE GAMING
+* Tools: Self-assessment tests advised. [SOURCE: wizardofodds.com | 2024-10-23 | Review]
+* Partners: Not specified. [SOURCE: Missing | N/A | N/A]
+* Policies: Promotes responsible gambling. [SOURCE: wizardofodds.com | 2024-10-23 | Review]
+* Limits:  Information on specific tools like reality checks or cooling-off periods is not readily available.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability mentioned. [SOURCE: strafe.com | N/D | Review]
+* Languages: Not specified. [SOURCE: Missing | N/A | N/A]
+* Response: Not specified. [SOURCE: Missing | N/A | N/A]
+* Quality: Not specified. [SOURCE: Missing | N/A | N/A]
+
+8. USER EXPERIENCE
+* Mobile:  Accessibility through Telegram and web browser highlighted. Performance details are limited. [SOURCE: Multiple | Multiple Dates | Articles/Press Releases]
+* Desktop: User-friendly dashboard mentioned. [SOURCE: wizardofodds.com | 2024-10-23 | Review]
+* Features:  Information on specific features like search, filters, or personalization is not readily available.
+* Issues: Not specified beyond limited table game selection.
+
+9. REPUTATION & REVIEWS
+* Ratings:  Limited reviews available. More in-depth, independent reviews needed for a comprehensive assessment.
+* Complaints: Not readily available.
+* Awards:  None mentioned.
+* History: Relatively new platform with limited history.
+
+10. INDUSTRY POSITION
+* Partnerships: Cyberbingo.com, vegascrestcasino.ag mentioned as partners. [SOURCE: chainwire.org | 2024-06-18 | Press Release]
+* Sponsorships: Not specified.
+* Innovation: Telegram integration, $NUMMUS token integration, focus on cryptocurrency transactions.
+* Competition: Aims to differentiate through blockchain integration and tokenized rewards system.
+
+
+Inconsistencies in reported game count and bonus details require further investigation.  More information is needed for a complete analysis.  This information is current as of December 9, 2024, and may change as Nummus Casino develops.

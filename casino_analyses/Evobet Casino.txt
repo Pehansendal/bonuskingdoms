@@ -1,0 +1,78 @@
+* Category: Evobet Casino Analysis [SOURCE: Synthesized from provided sources | 2024-12-09 | Text and Webpage Reviews]
+
+1. TECHNICAL SPECS
+* Platform: BetConstruct [SOURCE: sigma.world | 2023-02-19 | Webpage Review]
+* Mobile: Browser-based, compatible with various devices. No dedicated app mentioned. [SOURCE: gambling.com, besoccer.com | 2024-07-24, 2024-12-09 | Webpage Reviews]
+* Features: Sports betting, live betting, casino games, live casino, virtual sports, esports, TV games. Multi-view for sports. Search bar, game filters, and live win counts in casino. [SOURCE: strafe.com, gambling.com, superbetting.com, mystrikingly.com, sigma.world | 2024-12-09 | Webpage Reviews]
+* Security: SSL encryption. [SOURCE: gambling.com, freetips.com | 2024-07-24, 2024-12-09 | Webpage Reviews]
+
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao (8048/JAZ 2021-155). Previously licensed in Malta, but revoked in July 2021 due to breaching regulations related to payments and outstanding fees. [SOURCE: betting.ca, maltatoday.com.mt, affpapa.com, igbamingbusiness.com, yogonet.com | 2024-12-09 | Webpage Reviews]
+* Ownership: CW Marketing B.V. (Curacao-based), part of Campeon Gaming Group. Owns other platforms like PlayFast Casino, Wallacebet, Svenbet, and Campeonbet. [SOURCE: strafe.com, superbetting.com, betting.ca, sigma.world, boomaff.com | 2024-12-09 | Webpage Reviews]
+* Restrictions: UK, US, France, Switzerland, Israel, and potentially other regions. Awaiting license confirmation for Sweden, Greece, Cyprus. [SOURCE: superbetting.com, boomaff.com | 2023-02-19 | Webpage Reviews]
+* Issues: Malta license revoked due to payment and compliance issues. Player complaints about delayed or denied payouts (especially with sister sites). Slow email responses. Some reports of technical issues during gameplay (e.g., game closure leading to loss of winnings). [SOURCE: maltatoday.com.mt, affpapa.com, casinomeister.com, rebelbetting.com, casino.guru | 2024-12-09 | Webpage Reviews]
+
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, Mastercard, Skrill, Neteller, Paysafecard, EcoPayz, MuchBetter, Giropay, Neosurf, flexepin, Entropay, iDeal, Yandex, EnterCash, Euteller, Cashlib, Zimpler, SEPA, Bank Transfer, Cryptocurrencies. [SOURCE: gambling.com, boomaff.com, gambling.com | 2024-07-24 | Webpage Reviews]
+* Crypto: Specific cryptocurrencies not listed in the provided sources. [SOURCE: Missing Information | 2024-12-09 | N/A]
+* KYC:  Documents and verification time not specified. [SOURCE: Missing Information | 2024-12-09 | N/A]
+* Limits: Minimum deposit generally €20 (for welcome bonus). Withdrawal limit per transaction: €1000 or equivalent. Some payment methods have specific minimum transaction amounts (e.g., Skrill, Neteller - €10). [SOURCE: gambling.com, sigma.world, boomaff.com | 2024-12-09 | Webpage Reviews]
+* Times: E-wallets: 24 hours. Credit/Debit Cards: 24 hours. Bank Transfers: 48 hours. Some sources report slower processing times. [SOURCE: boomaff.com, sigma.world | 2024-12-09 | Webpage Reviews]
+* Fees: Not specified in provided sources. [SOURCE: Missing Information | 2024-12-09 | N/A]
+
+
+4. GAME PORTFOLIO
+* Total: Over 5,000 casino games. Over 60,000 monthly sporting events. [SOURCE: gambling.com, betting.ca, boomaff.com | 2024-12-09 | Webpage Reviews]
+* Popular Slots: 4 Seasons, Age of Asgard, Bigger Bass Bonanza, Chaos Crew, Crown of Valor, Golden Glyph 2, Great Rhino Megaways, Hammer of Vulcan, Jungle Jim El Dorado, Poseidon's Rising, Sizzling Eggs. [SOURCE: gambling.com | 2023-11-29 | Webpage Review]
+* Table Games: Various table games available, including Baccarat (traditional and modern variations). Specific variants and limits not detailed in sources. [SOURCE: maharashtra.gov.in, gambling.com | 2024-10-23 | Webpage Reviews]
+* Live: Over 150 live dealer games. Providers include Evolution Gaming, Playtech, Atmosfera, Ezugi, Lucky Streak, Medialive, Pragmatic, Sagaming, and Vivo. Specific room details and limits not provided. [SOURCE: gambling.com | 2024-12-09 | Webpage Reviews]
+* Sports: Over 30 sports and 40,000 live events monthly. Focus on soccer, basketball, tennis, ice hockey, volleyball, and esports. Virtual sports available. [SOURCE: betting.ca, sigma.world, boomaff.com | 2024-12-09 | Webpage Reviews]
+* Providers: Over 60 providers, including Betsoft, Play'n GO, Microgaming, NetEnt, Pragmatic Play, Playtech, Evoplay, Playson, Platipus, Dragon Gaming, Hacksaw Gaming, Inbet Games, NextGen Gaming, Omi Gaming, Red Tiger Gaming, Saucify, Spade Gaming. [SOURCE: strafe.com, gambling.com | 2024-12-09 | Webpage Reviews]
+* Jackpots: 187 total slot jackpots, including progressive jackpots. Specific games not listed. [SOURCE: gambling.com | 2024-07-24 | Webpage Review]
+
+
+5. BONUS STRUCTURE
+* Welcome: Casino: 130% up to €1000 (or currency equivalent). Sports: 100% up to €150. Two welcome bonus options available (one for casino, one for live casino). Casino welcome bonus has a 40x wagering requirement. [SOURCE: strafe.com, gambling.com, besoccer.com | 2024-12-09 | Webpage Reviews]
+* Wagering: Varies by bonus. Casino welcome bonus: 40x. Sports welcome bonus: 10x (on odds of 2.0 or greater). Different game contributions apply to casino wagering. [SOURCE: gambling.com, sigma.world | 2024-12-09 | Webpage Reviews]
+* Loyalty: No formal VIP program mentioned, but various ongoing promotions for existing players (reload bonuses, cashback on losses). [SOURCE: gambling.com, sigma.world, boomaff.com, betting.ca | 2024-12-09 | Webpage Reviews]
+* Restrictions: Bonus terms and conditions apply. Time limits for wagering (e.g., 30 days for sports welcome bonus, 10 days for casino welcome bonus). Maximum bet limits while bonus is active (€0.50 - €5 for casino welcome bonus). [SOURCE: gambling.com, sigma.world | 2024-12-09 | Webpage Reviews]
+
+
+6. RESPONSIBLE GAMING
+* Tools: Self-assessment, time-out, self-exclusion. [SOURCE: gambling.com | 2024-07-24 | Webpage Review]
+* Partners: GamCare, Gambling Therapy. [SOURCE: gambling.com | 2024-07-24 | Webpage Review]
+* Policies: Promotes responsible gambling. Provides information and resources on its website. [SOURCE: gambling.com, everbet.bg | 2024-07-24 | Webpage Reviews]
+* Limits: Deposit limits, time limits, reality checks, and cooling-off periods not explicitly mentioned in the provided sources, but likely available given the responsible gambling tools offered. [SOURCE: Partially based on gambling.com, everbet.bg | 2024-07-24 | Webpage Reviews]
+
+
+7. CUSTOMER SUPPORT
+* Hours: Live chat: 09:00 - 01:00 CET. Email: 24/7 (support@evobet.com). [SOURCE: strafe.com, gambling.com | 2024-12-09 | Webpage Reviews]
+* Languages: English, German, Spanish, Norwegian, Finnish. [SOURCE: strafe.com, gambling.com | 2024-12-09 | Webpage Reviews]
+* Response: Live chat generally quick, but availability limited. Email responses can be slow. [SOURCE: betting.ca, casinomeister.com | 2024-12-09 | Webpage Reviews]
+* Quality: Mixed reviews. Some players report positive experiences, while others complain about slow response times and unresolved issues. [SOURCE: casinomeister.com, rebelbetting.com | 2024-12-09 | Webpage Reviews]
+
+
+8. USER EXPERIENCE
+* Mobile: Good mobile browser experience. No dedicated app. Navigation and functionality similar to desktop version. [SOURCE: gambling.com, besoccer.com | 2024-12-09 | Webpage Reviews]
+* Desktop: Generally positive. Clear layout, easy navigation, good search functionality. Some complaints about lack of dedicated section for progressive jackpot games. [SOURCE: gambling.com | 2024-07-24 | Webpage Review]
+* Features: Search bar, game filters, navigational categories, list of game providers, live win counts. [SOURCE: gambling.com, mystrikingly.com | 2024-12-09 | Webpage Reviews]
+* Issues: Some reports of technical problems during gameplay (e.g., game closures). [SOURCE: casino.guru | 2024-12-09 | Webpage Review]
+
+
+9. REPUTATION & REVIEWS
+* Ratings: Mixed. Some positive reviews, but also negative feedback regarding payouts and customer support. Specific ratings from Trustpilot and AskGamblers not provided in sources. [SOURCE: strafe.com, casinomeister.com, rebelbetting.com | 2024-12-09 | Webpage Reviews]
+* Complaints: Delayed or denied payouts, slow customer support responses, technical issues. [SOURCE: casinomeister.com, rebelbetting.com, casino.guru | 2024-12-09 | Webpage Reviews]
+* Awards: No information found in provided sources. [SOURCE: Missing Information | 2024-12-09 | N/A]
+* History: Launched in 2012, closed in 2014, relaunched in 2018. Malta license revoked in 2021. [SOURCE: betting.ca, superbetting.com | 2024-12-09 | Webpage Reviews]
+
+
+10. INDUSTRY POSITION
+* Partnerships: BetConstruct (platform provider), various game providers (see section 4). Affiliate marketing partnerships with other Campeon Gaming Group brands. [SOURCE: sigma.world, boomaff.com | 2024-12-09 | Webpage Reviews]
+* Sponsorships: No information found in provided sources. [SOURCE: Missing Information | 2024-12-09 | N/A]
+* Innovation: Multi-view feature for sports betting. Wide range of games and betting markets. [SOURCE: sigma.world, boomaff.com | 2024-12-09 | Webpage Reviews]
+* Competition: Wide game selection, numerous sporting events, various payment options, generous bonuses. However, faces competition from more established brands with stronger reputations and better customer support. [SOURCE: Synthesized from provided sources | 2024-12-09 | N/A]
+
+
+It's important to note that this information is based on available sources and is current as of today, December 9, 2024.  The online gambling landscape is constantly changing, so some details may become outdated over time.  It's always recommended to consult multiple sources and conduct thorough research before engaging with any online gambling platform.

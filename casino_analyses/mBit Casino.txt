@@ -1,0 +1,69 @@
+* Category: Online Crypto Casino Analysis [SOURCE: Multiple sources | 2024-12-09 | Aggregated Information]
+
+1. TECHNICAL SPECS
+* Platform: SoftSwiss (since 2016), previously Coingaming. [SOURCE: softswiss.com | 2016-04-05 | News Article]
+* Mobile: Browser-based, no dedicated app. [SOURCE: irishluck.ie | No date | Review]
+* Features: Provably fair games, VIP program, tournaments (VIP Tournament, mBit Race). [SOURCE: ccn.com | 2024-07-15 | Review], [SOURCE: irishluck.ie | No date | Review]
+* Security: SSL encryption, two-factor authentication. [SOURCE: cryptolinks.com | No date | Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao. [SOURCE: thespike.gg | 2024-11-12 | Review]
+* Ownership: Dama N.V. [SOURCE: thespike.gg | 2024-11-12 | Review]
+* Restrictions: No longer recommended by thespike.gg. [SOURCE: thespike.gg | 2024-11-12 | Review]
+* Issues: Limited game selection compared to some competitors. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Bitcoin, Bitcoin Cash, Litecoin, Ethereum, Dogecoin, Tether.  [SOURCE: cryptolinks.com | No date | Review], [SOURCE: casino.org | No date | Review]
+* Crypto: Bitcoin, Bitcoin Cash, Litecoin, Ethereum, Dogecoin, Tether. [SOURCE: Multiple sources | No date | Multiple reviews]
+* KYC:  Information not available.
+* Limits: Bitcoin: Minimum deposit 0.0003 BTC, withdrawal 0.001 - 10 BTC. Limits for other cryptocurrencies not specified. [SOURCE: cryptolinks.com | No date | Review]
+* Times:  Withdrawal approvals in approximately 10 minutes. [SOURCE: thespike.gg | 2024-11-12 | Review]
+* Fees: Information not available.
+
+4. GAME PORTFOLIO
+* Total: Over 2000 (older source), Over 7,500+ (newer source). Inconsistency noted. [SOURCE: irishluck.ie | No date | Review], [SOURCE: thespike.gg | 2024-11-12 | Review]
+* Popular Slots: Information not available.
+* Table Games:  Blackjack, various other table games mentioned but specifics not detailed. [SOURCE: Multiple sources | No date | Multiple reviews]
+* Live:  Live dealer games available, but room details and limits not specified. [SOURCE: Multiple sources | No date | Multiple reviews]
+* Sports: No sports betting available. [SOURCE: thespike.gg | 2024-11-12 | Review]
+* Providers: Betsoft Gaming, BGAMING, Endorphina, Spinomenal, Nolimit city, SoftSwiss, Booming Games, Platipus Gaming, GameArt, Belatra Games, SG Gaming, TruePlay, TrueLab Games, Amatic Industries, Evolution Gaming, Habanero, Play'n GO, Pragmatic Play, and more. [SOURCE: thespike.gg | 2024-11-12 | Review]
+* Jackpots:  Information not available.
+
+5. BONUS STRUCTURE
+* Welcome: 110% up to 1 BTC + 20 free spins + 300 additional free spins (one source). Other sources mention different welcome bonus structures and up to 5 BTC + 300 free spins. Inconsistency noted. No bonus code required. Minimum deposit for welcome bonus is 5 mBTC or equivalent. [SOURCE: irishluck.ie | No date | Review], [SOURCE: cryptolinks.com | No date | Review], [SOURCE: strafe.com | No date | Article]
+* Wagering: Information not available.
+* Loyalty: VIP program available, specific details not provided. [SOURCE: Multiple sources | No date | Multiple reviews]
+* Restrictions: Information not available.
+
+6. RESPONSIBLE GAMING
+* Tools: Information not available.
+* Partners: Information not available.
+* Policies: Information not available.
+* Limits: Information not available.
+
+7. CUSTOMER SUPPORT
+* Hours: Information not available.
+* Languages: English, German, Japanese. [SOURCE: thespike.gg | 2024-11-12 | Review]
+* Response: Live chat promised to respond quickly (under a certain timeframe, but the exact time is not specified). [SOURCE: cryptolinks.com | No date | Review]
+* Quality: Information not available.
+
+8. USER EXPERIENCE
+* Mobile: Information not available, but site is browser-based.
+* Desktop:  Well-designed website with a dark and colorful theme. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Features: Information not available.
+* Issues: Information not available.
+
+9. REPUTATION & REVIEWS
+* Ratings: Information not available.
+* Complaints: Information not available.
+* Awards: Information not available.
+* History: Migrated to SoftSwiss platform in 2016. [SOURCE: softswiss.com | 2016-04-05 | News Article]
+
+10. INDUSTRY POSITION
+* Partnerships:  Partnership with Cubits (Bitcoin payment processing firm) mentioned in a 2016 article, current status unknown. [SOURCE: softswiss.com | 2016-04-05 | News Article]
+* Sponsorships: Information not available.
+* Innovation:  Provably fair games. [SOURCE: ccn.com | 2024-07-15 | Review]
+* Competition: Focus on cryptocurrency payments and a large game selection. [SOURCE: Multiple sources | No date | Multiple reviews]
+
+
+Note: Information about Mr Bit casino (mrbit.ro, mrbit.bg) was disregarded as it seems to be a different casino unrelated to mBit casino.  Several inconsistencies in information across sources were noted, particularly regarding the welcome bonus and the total number of games.  Much of the requested information is not available in the provided sources. This analysis is current as of 2024-12-09 and may change with time.

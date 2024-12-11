@@ -1,0 +1,71 @@
+Resorts World Bet (Not WeltBet) Analysis (as of 09-12-2024):
+
+It appears there might be some confusion. The provided sources primarily discuss "Resorts World Bet," an online sportsbook and casino platform, and not "WeltBet Casino."  There's also a mention of "WorldBet," seemingly unrelated to Resorts World Bet. This analysis will focus on Resorts World Bet based on the provided information.
+
+1. TECHNICAL SPECS
+* Platform: Proprietary technology from PointsBet [SOURCE: bettingusa.com | 2024-12-07 | Article]
+* Mobile: iOS and Android native apps available [SOURCE: resortsworldbet.com | 2024-12-09 | Website] , In-app betting, live betting, fixed odds, same game parlays, traditional parlays, futures [SOURCE: apple.com | 2024-12-09 | App description]
+* Features: Live, in-play betting, fixed odds, Same Game Parlays, traditional parlays, futures [SOURCE: apple.com | 2024-12-09 | App description], Search, Quick Parlay, My Bets sections [SOURCE: resortsworldbet.com | 2024-12-09 | Website]
+* Security: Licensed and regulated by the New York State Gaming Commission.  [SOURCE: resortsworldbet.com | 2024-12-09 | Website]  Uses SSL encryption. [SOURCE: resortsworldbet.com | 2024-12-09 | Website (implied by secure payment options)]
+
+2. LICENSING & COMPLIANCE
+* Licenses: New York State Gaming Commission [SOURCE: resortsworldbet.com | 2024-12-09 | Website], [SOURCE: apple.com | 2024-12-09 | App description]
+* Ownership: Genting Group [SOURCE: bettingusa.com | 2024-12-07 | Article]
+* Restrictions:  Must be 21 or older and physically located in New York State. [SOURCE: apple.com | 2024-12-09 | App description], [SOURCE: resortsworldbet.com | 2024-12-09 | Website] Bet restrictions imposed on some users (e.g., $3 max bet). [SOURCE: apple.com | 2024-12-09 | User review]
+* Issues: User reports of unclear deposit bonus terms, bet restrictions, and unhelpful customer support. [SOURCE: apple.com | 2024-12-09 | User review]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, Mastercard, PayPal, Play+ [SOURCE: resortsworldbet.com | 2024-12-09 | Website]
+* Crypto: Not specified.
+* KYC: Not specified, but likely required due to licensing.
+* Limits: Not specified.
+* Times: Not specified.
+* Fees: Not specified.
+
+4. GAME PORTFOLIO
+* Total: Not specified.
+* Popular Slots:  Over 6,500 slot machines available at physical Resorts World New York locations. [SOURCE: rwnewyork.com | 2024-12-09 | Website]  Specific online slots not listed.
+* Table Games: Electronic table games available at physical locations. [SOURCE: rwnewyork.com | 2024-12-09 | Website] Online variants and limits not specified.
+* Live: Not specified.
+* Sports: Over 33 sports, including football, basketball, baseball, hockey, soccer, etc. [SOURCE: oddspedia.com | 2024-11-29 | Article]
+* Providers: PointsBet (technology provider) [SOURCE: bettingusa.com | 2024-12-07 | Article]
+* Jackpots: Not specified.
+
+5. BONUS STRUCTURE
+* Welcome: No current welcome bonus. [SOURCE: bettingusa.com | 2024-12-07 | Article] Previously offered a risk-free first bet. [SOURCE: bettingusa.com | 2024-12-07 | Article] Conflicting information regarding a €500 welcome bonus and 30 free spins. [SOURCE: irishluck.ie | 2024-12-09 | Website] This might apply to a different "Weltbet" and not Resorts World Bet.
+* Wagering: Not specified.
+* Loyalty: Genting Rewards program. [SOURCE: bettingusa.com | 2024-12-07 | Article], [SOURCE: rwnewyork.com | 2024-12-09 | Website]
+* Restrictions: Not specified, but likely tied to specific promotions.
+
+6. RESPONSIBLE GAMING
+* Tools:  Problem gambling hotline (1-877-8-HOPENY), resources, and self-exclusion options. [SOURCE: resortsworldbet.com | 2024-12-09 | Website], [SOURCE: apple.com | 2024-12-09 | App description]
+* Partners: Not explicitly mentioned, but references resources like NCPG. [SOURCE: resortsworldbet.com | 2024-12-09 | Website]
+* Policies:  Promotes responsible gambling. [SOURCE: resortsworldbet.com | 2024-12-09 | Website] Specific details not provided.
+* Limits: Not specified beyond the ability to self-exclude.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 live chat available. [SOURCE: resortsworldbet.com | 2024-12-09 | Website], [SOURCE: apple.com | 2024-12-09 | App description] Email support also available. [SOURCE: resortsworldbet.com | 2024-12-09 | Website]
+* Languages: Not specified.
+* Response: Not specified, but user reviews suggest potential issues with support responsiveness. [SOURCE: apple.com | 2024-12-09 | User review]
+* Quality: User reviews suggest mixed experiences. [SOURCE: apple.com | 2024-12-09 | User review]
+
+8. USER EXPERIENCE
+* Mobile: Some users report performance issues and an outdated interface. [SOURCE: apple.com | 2024-12-09 | User review]  Others mention faster live betting and performance enhancements. [SOURCE: apple.com | 2024-12-09 | App description]
+* Desktop: Not specified, but the website exists. [SOURCE: resortsworldbet.com | 2024-12-09 | Website]
+* Features: Search, Quick Parlay, My Bets features available. [SOURCE: resortsworldbet.com | 2024-12-09 | Website]
+* Issues:  Some users report a dated interface and technical problems. [SOURCE: apple.com | 2024-12-09 | User review]
+
+9. REPUTATION & REVIEWS
+* Ratings: Mixed reviews on the App Store (2.0 out of 5 stars). [SOURCE: apple.com | 2024-12-09 | App ratings]
+* Complaints: Complaints about bonus clarity, bet restrictions, and customer support responsiveness. [SOURCE: apple.com | 2024-12-09 | User review]
+* Awards: Not specified.
+* History: Launched in March 2022. [SOURCE: bettingusa.com | 2024-12-07 | Article]
+
+10. INDUSTRY POSITION
+* Partnerships: PointsBet (technology) [SOURCE: bettingusa.com | 2024-12-07 | Article]
+* Sponsorships: Not specified.
+* Innovation: Not specified.
+* Competition: Operates in the competitive New York online sports betting market.  [SOURCE: bettingusa.com | 2024-12-07 | Article]
+
+
+Missing Information:  A lot of specific details are missing, such as game portfolio size, payment processing times and fees, specific bonus terms, responsible gambling partners, and customer support response times.  More detailed information on the online casino offerings is also needed.  It's important to consult additional sources and the official Resorts World Bet website for the most up-to-date information.

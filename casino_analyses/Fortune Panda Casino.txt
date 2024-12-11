@@ -1,0 +1,69 @@
+* Category: Casino Review [SOURCE: N/A | 2024-12-09 | Aggregated]
+
+1. TECHNICAL SPECS
+* Platform: Several, including popular and smaller providers.  [SOURCE: wizardofodds.com | N/A | Text]  [SOURCE: tribuneindia.com | 2024-12-04 | Text]
+* Mobile: Browser-based, compatible with Android, iPhone, iPad, and other mobile devices. No dedicated app available. [SOURCE: wizardofodds.com | N/A | Text] [SOURCE: tribuneindia.com | 2024-12-04 | Text]
+* Features: User-friendly dashboard, functional interface, search functionality, game categorization (All, New, Jackpot, Scratch Cards, Table Games, Video Bingo, Video Poker, Video Slots, Megaways & Multiways, Bonusbuy, Live Casino). [SOURCE: wizardofodds.com | N/A | Text]
+* Security:  Uses SSL encryption. Other security measures not specified. [SOURCE: upl-univ.ac | 2024-11-15 | Text] Note: Specific details on RNG and other security protocols are missing.
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao (8048/JAZ2014-037) [SOURCE: tribuneindia.com | 2024-12-04 | Text]
+* Ownership: Mirage Corporation N.V., established under the laws of Curacao. [SOURCE: wizardofodds.com | N/A | Text]
+* Restrictions: Not explicitly stated in the provided sources, but targets players from Nordic countries, Germany, Venezuela, Brazil, and Australia. [SOURCE: wizardofodds.com | N/A | Text]  Some bonus restrictions apply to specific e-wallet deposits. [SOURCE: wizardofodds.com | N/A | Text]
+* Issues: Some sources report slow withdrawal times, poor localization/translation (specifically Finnish), and potential bonus winnings limitations. [SOURCE: kasinohai.com | 2024-10-25 | Text] [SOURCE: casino.guru | N/A | Text]  Website functionality issues also reported. [SOURCE: kasinohai.com | 2024-10-25 | Text]  Inconsistency: One source claims a 3.1/5 rating, while another mentions good user reviews. [SOURCE: wizardofodds.com | N/A | Text] [SOURCE: casino.guru | N/A | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Various options including e-wallets, credit/debit cards, cryptocurrencies, CASHlib. [SOURCE: wizardofodds.com | N/A | Text] [SOURCE: tribuneindia.com | 2024-12-04 | Text] [SOURCE: indiatimes.com | 2024-12-07 | Text]
+* Crypto:  Supports Bitcoin and other cryptocurrencies. Specific list not provided. [SOURCE: kasinohai.com | 2024-10-25 | Text] [SOURCE: indiatimes.com | 2024-12-07 | Text]
+* KYC: Required. Timeframe: 3 business days.  [SOURCE: wizardofodds.com | N/A | Text] Limits before KYC not specified.
+* Limits: Minimum deposit: €10 (CASHlib), €20 (other). Minimum withdrawal: €30 (€50 for crypto). Maximum withdrawal: €1,000 per transaction. [SOURCE: wizardofodds.com | N/A | Text] [SOURCE: tribuneindia.com | 2024-12-04 | Text]
+* Times: KYC: 3 business days. Pending time: Within 24 hours. E-wallets/Credit/Debit Cards/Crypto: Up to 24 hours. Bank Transfer: Up to 48 hours. [SOURCE: wizardofodds.com | N/A | Text]
+* Fees: Not specified.
+
+4. GAME PORTFOLIO
+* Total: Over 11,000 games. [SOURCE: tribuneindia.com | 2024-12-04 | Text]  Another source mentions over 10,800. [SOURCE: kasinohai.com | 2024-10-25 | Text]
+* Popular Slots: Not listed with RTP in provided sources.
+* Table Games: Available, but specific variants and limits not detailed. [SOURCE: wizardofodds.com | N/A | Text]
+* Live:  Available, but room details and limits not provided. [SOURCE: wizardofodds.com | N/A | Text]
+* Sports:  Availability not confirmed within the provided sources.
+* Providers: Over 100 providers, including major and smaller brands. Examples: 1x2Gaming, Betsoft Gaming, Blueprint Gaming, Endorphina, Evolution, Pragmatic Play, Yggdrasil. [SOURCE: wizardofodds.com | N/A | Text] [SOURCE: statsdrone.com | 2022-04-03 | Text]
+* Jackpots: Progressive and fixed jackpots available. Specific games not listed. [SOURCE: wizardofodds.com | N/A | Text]
+
+5. BONUS STRUCTURE
+* Welcome:  Packages for both fiat and crypto deposits. Fiat welcome package covers the first three deposits. Details of subsequent deposit bonuses and other promotions (weekend bonuses, cashbacks, tournaments) are vague. [SOURCE: wizardofodds.com | N/A | Text]  One source mentions a welcome bonus of up to €1000 + 150 free spins for the first deposit, with separate bonuses for the second, third, and fourth deposits. [SOURCE: kasinohai.com | 2024-10-25 | Text] Another source mentions a welcome bonus up to £6,230. [SOURCE: indiatimes.com | 2024-12-07 | Text]
+* Wagering: 50x on bonus funds for the welcome offer (according to one source). [SOURCE: kasinohai.com | 2024-10-25 | Text] Some bonuses are wager-free. [SOURCE: kasinohai.com | 2024-10-25 | Text]
+* Loyalty: VIP program available, details not provided. [SOURCE: kasinohai.com | 2024-10-25 | Text]
+* Restrictions: Some e-wallet deposits don't qualify for bonuses. Winnings from certain bonuses may be capped. [SOURCE: wizardofodds.com | N/A | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Not specified in detail, but some tools are mentioned. [SOURCE: tribuneindia.com | 2024-12-04 | Text]
+* Partners: Not specified.
+* Policies: Not detailed in the provided sources.
+* Limits:  Not specified.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability mentioned. [SOURCE: kasinohai.com | 2024-10-25 | Text] Specific channel availability not detailed.
+* Languages: Not specified, but one source mentions 48 languages including Arabic. [SOURCE: tribuneindia.com | 2024-12-04 | Text]
+* Response: Not specified.
+* Quality:  Mixed reviews, some positive experiences mentioned, but also reports of poor service. [SOURCE: casino.guru | N/A | Text]
+
+8. USER EXPERIENCE
+* Mobile: Generally described as user-friendly and functional, but no specific performance data available. [SOURCE: wizardofodds.com | N/A | Text]
+* Desktop:  Clean design, user-friendly. [SOURCE: wizardofodds.com | N/A | Text]
+* Features: Search, filters, and game categorization available. Personalization features not detailed. [SOURCE: wizardofodds.com | N/A | Text]
+* Issues: Some sources report website functionality problems. [SOURCE: kasinohai.com | 2024-10-25 | Text]
+
+9. REPUTATION & REVIEWS
+* Ratings: One source gives a 3.1/5 rating. [SOURCE: wizardofodds.com | N/A | Text] Other sources mention generally positive user reviews. [SOURCE: casino.guru | N/A | Text]
+* Complaints: Slow withdrawals, poor localization, website functionality. [SOURCE: kasinohai.com | 2024-10-25 | Text] [SOURCE: casino.guru | N/A | Text]
+* Awards: Not mentioned.
+* History: Launched in 2020 (according to one source), 2024 (according to another). [SOURCE: kasinohai.com | 2024-10-25 | Text] [SOURCE: tribuneindia.com | 2024-12-04 | Text] This discrepancy needs clarification.
+
+10. INDUSTRY POSITION
+* Partnerships: Collaborates with over 100 software providers. [SOURCE: wizardofodds.com | N/A | Text]  No exclusive deals mentioned.
+* Sponsorships: Not mentioned.
+* Innovation: Large game library, various bonus types (including wager-free). [SOURCE: tribuneindia.com | 2024-12-04 | Text] [SOURCE: kasinohai.com | 2024-10-25 | Text]
+* Competition:  Large game selection and crypto support are highlighted as key differentiators. [SOURCE: tribuneindia.com | 2024-12-04 | Text]
+
+
+Please note that this information is based on the available sources and is current as of December 9, 2024.  Further research may be needed to verify and expand on certain aspects, especially regarding responsible gaming, customer support details, and specific game information.  The conflicting launch dates and user reviews also require further investigation.

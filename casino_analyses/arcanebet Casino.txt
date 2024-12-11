@@ -1,0 +1,80 @@
+* Category: Casino Review [SOURCE: strafe.com | 2024-12-09 | Website Article]
+* Category: Casino Review [SOURCE: irishluck.ie | 2024-12-09 | Website Article]
+* Category: Casino Review [SOURCE: casinomeister.com | 2024-11-26 | Website Article]
+* Category: Casino Review [SOURCE: recife.pe.gov.br | 2024-11-27 | Website Article]
+* Category: Casino Review [SOURCE: germankitchens.com | 2024-12-09 | Website Article]
+* Category: Bookmaker List [SOURCE: top100bookmakers.com | 2024-12-09 | Website List]
+* Category: Casino List [SOURCE: wizardofodds.com | 2024-12-09 | Website List]
+* Category: Software Development [SOURCE: leobit.com | 2024-12-09 | Website Article]
+* Category: Casino Review [SOURCE: jeux.ca | 2024-07-02 | Website Article]
+* Category: Casino Review [SOURCE: dressmyangel.com | 2024-12-09 | Website Article]
+* Category: Casino Review [SOURCE: recife.pe.gov.br | 2024-11-26 | Website Article]
+* Category: Casino Bonus Codes [SOURCE: spalandga.com | 2024-06-17 | Website Article]
+* Category: Casino Review [SOURCE: sportscafe.in | 2024-09-19 | Website Article]
+
+
+1. **TECHNICAL SPECS**
+* Platform: Ruby on Rails with Vue.js frontend, Redis database, GraphQL API, ActionCable WebSocket Server.  [SOURCE: leobit.com | 2024-12-09 | Website Article]
+* Mobile: Mobile friendly games and website, dedicated apps for Android and iOS. [SOURCE: strafe.com, sportscafe.in | 2024-12-09 | Website Article]
+* Features: Live chat, esports betting, traditional casino games (slots, table games, live dealer games), sports betting. [SOURCE: strafe.com, leobit.com | 2024-12-09 | Website Article]
+* Security:  Not specified in the provided sources, except for the mention of using Terraform infrastructure development tool. [SOURCE: leobit.com | 2024-12-09 | Website Article]
+
+2. **LICENSING & COMPLIANCE**
+* Licenses: Curacao master license 365/JAZ. [SOURCE: casinomeister.com | 2024-11-26 | Website Article]
+* Ownership: Not specified in the provided sources.
+* Restrictions: Not specified in the provided sources.
+* Issues: Some users report a limited game selection and customer support with limited betting knowledge. [SOURCE: strafe.com | 2024-12-09 | Website Article]
+
+3. **PAYMENT ECOSYSTEM**
+* Methods: Bitcoin, unspecified other methods. [SOURCE: strafe.com | 2024-12-09 | Website Article]
+* Crypto: Bitcoin. [SOURCE: strafe.com | 2024-12-09 | Website Article]
+* KYC: Not specified in the provided sources.
+* Limits: Not specified in the provided sources.
+* Times: Bitcoin payouts are fast, under 24 hours reported by some users. [SOURCE: strafe.com, irishluck.ie | 2024-12-09 | Website Article]
+* Fees: Not specified in the provided sources.
+
+4. **GAME PORTFOLIO**
+* Total: Over 3000, with more than 350 jackpot titles and 3,330 casino games mentioned. [SOURCE: casinomeister.com, irishluck.ie, germankitchens.com | 2024-12-09 | Website Article]
+* Popular Slots: Book of Dead, Red Tiger series, Mega Moolah series (mentioned as examples, not necessarily the most popular). [SOURCE: germankitchens.com, jeux.ca | 2024-12-09 | Website Article]
+* Table Games: Roulette (European and American), poker, baccarat. [SOURCE: germankitchens.com | 2024-12-09 | Website Article]
+* Live:  Live dealer games are available, but specific room details and limits are not provided in the sources. [SOURCE: recife.pe.gov.br | 2024-11-27 | Website Article]
+* Sports: Esports betting and other sports betting markets available, but specific markets and odds are not detailed in the sources. [SOURCE: leobit.com | 2024-12-09 | Website Article]
+* Providers: NetEnt, Betsoft, Play'n GO, Pragmatic Play, NoLimit City, Big Time Gaming, Relax Gaming, Live88. [SOURCE: germankitchens.com, casinomeister.com | 2024-12-09 | Website Article]
+* Jackpots: Progressive jackpots available, including Mega Moolah series; over 350 jackpot titles mentioned. [SOURCE: germankitchens.com | 2024-12-09 | Website Article]
+
+5. **BONUS STRUCTURE**
+* Welcome: 100% deposit bonus up to CAD 300 + 100 free spins on Book of Dead. [SOURCE: jeux.ca | 2024-07-02 | Website Article]
+* Wagering: Not specified in the provided sources, although one user review mentions clearing the bonus requirements within a few weeks. [SOURCE: strafe.com | 2024-12-09 | Website Article]
+* Loyalty: VIP program and loyalty reward program available. [SOURCE: irishluck.ie | 2024-12-09 | Website Article]
+* Restrictions: Not specified in the provided sources.
+
+6. **RESPONSIBLE GAMING**
+* Tools: Deposit limits (daily, weekly, monthly), self-exclusion breaks, self-assessment tool. [SOURCE: germankitchens.com | 2024-12-09 | Website Article]
+* Partners: Not specified in the provided sources.
+* Policies: Not detailed in the provided sources, but responsible gambling is supported. [SOURCE: germankitchens.com | 2024-12-09 | Website Article]
+* Limits: Not specified beyond deposit limits and self-exclusion breaks.
+
+7. **CUSTOMER SUPPORT**
+* Hours: 24/7 availability. [SOURCE: recife.pe.gov.br | 2024-11-26 | Website Article]
+* Languages: Not specified in the provided sources.
+* Response: Live chat is considered responsive, with almost instant replies. Email is also available. [SOURCE: strafe.com | 2024-12-09 | Website Article]
+* Quality: Some users report that the support team lacks in-depth knowledge of betting. [SOURCE: strafe.com | 2024-12-09 | Website Article]
+
+
+8. **USER EXPERIENCE**
+* Mobile: Mobile friendly games and website, with dedicated apps available. Performance details are not specified in the sources. [SOURCE: strafe.com, sportscafe.in | 2024-12-09 | Website Article]
+* Desktop:  Navigation and functionality are not detailed in the sources.
+* Features: Not specified in the provided sources.
+* Issues: Some users report getting bored with the limited game selection. [SOURCE: strafe.com | 2024-12-09 | Website Article]
+
+9. **REPUTATION & REVIEWS**
+* Ratings: Generally positive, with users praising fast payouts and good games. Some negative reviews mention limited game selection and customer support issues. [SOURCE: strafe.com, irishluck.ie | 2024-12-09 | Website Article]
+* Complaints: Limited game selection, customer support lacking betting knowledge. [SOURCE: strafe.com | 2024-12-09 | Website Article]
+* Awards: Not specified in the provided sources.
+* History: No specific past incidents mentioned in the provided sources, though it's described as a "pretty new" operation. [SOURCE: casinomeister.com | 2024-11-26 | Website Article]
+
+10. **INDUSTRY POSITION**
+* Partnerships: Leobit (for software development). [SOURCE: leobit.com | 2024-12-09 | Website Article]
+* Sponsorships: Not specified in the provided sources.
+* Innovation:  AI features planned for personalized gaming and prevention of compulsive gambling. [SOURCE: leobit.com | 2024-12-09 | Website Article]
+* Competition: Not specified in the provided sources.

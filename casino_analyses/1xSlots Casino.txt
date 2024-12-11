@@ -1,0 +1,72 @@
+* 1xSlots Casino Analysis (as of 09-12-2024)
+
+1. TECHNICAL SPECS
+* Platform:  Proprietary software, potentially using third-party integrations.  [SOURCE: wwscc.org | 2024-12-09 | Website]
+* Mobile: Android app available; mobile browser compatible. [SOURCE: uptodown.com | 2024-05-03 | App description], [SOURCE: casinomeister.com | 2023-11-20 | Review]
+* Features: Wide variety of slots, table games, live casino, tournaments. [SOURCE: johnnybet.com | 2024-12-09 | Review], [SOURCE: sigma.world | 2024-12-09 | Review]
+* Security: SSL encryption, Curacao license claims RNG fairness. [SOURCE: wwscc.org | 2024-12-09 | Website], [SOURCE: sigma.world | 2024-12-09 | Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao eGaming. [SOURCE: sigma.world | 2024-12-09 | Review], [SOURCE: wwscc.org | 2024-12-09 | Website]
+* Ownership: Orakum N.V. (operated by Marikit Holdings according to some sources). [SOURCE: sigma.world | 2024-12-09 | Review], [SOURCE: osaperm.ru | 2024-12-09 | Website]
+* Restrictions: Blocked in several regions, including the United States. Specific payment method restrictions may apply based on location. [SOURCE: sigma.world | 2024-12-09 | Review]
+* Issues:  Reputation for operating without a valid license, potential issues with payment processing, and aggressive bonus terms. [SOURCE: casinomeister.com | 2023-11-20 | Review], [SOURCE: igamingbusiness.com | 2024-08-13 | News]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Credit/debit cards, e-wallets (e.g., Skrill, Neteller, ecoPayz), prepaid options, cryptocurrencies (e.g., Bitcoin, Bitcoin Cash, Litecoin, Ethereum). [SOURCE: johnnybet.com | 2024-12-09 | Review]
+* Crypto: Bitcoin, Bitcoin Cash, Dogecoin, Litecoin, XRP, Ethereum, TRON. [SOURCE: johnnybet.com | 2024-12-09 | Review]
+* KYC:  Likely required, but specific document requirements and verification times are not consistently reported. [SOURCE: tech-recipes.com | 2024-06-11 | Review - implies KYC exists]
+* Limits: Minimum deposit as low as €1 (or equivalent); minimum withdrawal as low as €1.50 (or equivalent). [SOURCE: johnnybet.com | 2024-12-09 | Review]
+* Times: Deposits generally instant; withdrawals advertised as fast (up to 24 hours or 15 minutes in some sources), but actual times may vary. [SOURCE: sigma.world | 2024-12-09 | Review], [SOURCE: johnnybet.com | 2024-12-09 | Review]
+* Fees:  Not explicitly mentioned in available sources, but some payment methods may have associated fees. [Information not available]
+
+4. GAME PORTFOLIO
+* Total: Over 10,000 games claimed by some sources, but exact numbers vary. [SOURCE: johnnybet.com | 2024-12-09 | Review]
+* Popular Slots: Specific titles and RTPs not consistently listed across sources.  [Information not available]
+* Table Games: Blackjack, baccarat, roulette, poker variants available. Specific limits not consistently reported. [SOURCE: casinomeister.com | 2023-11-20 | Review]
+* Live: Live dealer games available, but room details and limits not consistently reported. [SOURCE: tech-recipes.com | 2024-06-11 | Review]
+* Sports: Sports betting mentioned in some sources. [SOURCE: uniteduniversity.edu.in | 2024-12-03 | Review]
+* Providers: Over 100 providers claimed by some sources.  Includes 1x2 Network, Apollo Games, Barbara Bang, Betsoft, BF Games, BGaming, Booming Games, CT Interactive, Endorphina, Habanero, Kalamba Games, LuckyStreak, MGA GAMES, NetEnt, Pocket Games, Pragmatic Play, Swintt, Thunderkick, Wazdan. [SOURCE: sigma.world | 2024-12-09 | Review], [SOURCE: johnnybet.com | 2024-12-09 | Review]
+* Jackpots: Progressive and fixed jackpots available. Specific games not consistently listed. [SOURCE: uptodown.com | 2024-05-03 | App description]
+
+
+5. BONUS STRUCTURE
+* Welcome: Up to €1500 + 150 free spins across first four deposits. Enhanced bonuses mentioned for specific regions.  [SOURCE: casinomeister.com | 2023-11-20 | Review], [SOURCE: johnnybet.com | 2024-12-09 | Review]
+* Wagering: Typically 35x-40x the bonus amount within seven days. [SOURCE: casinomeister.com | 2023-11-20 | Review], [SOURCE: sigma.world | 2024-12-09 | Review]
+* Loyalty: VIP cashback program available. Specific details vary across sources. [SOURCE: sigma.world | 2024-12-09 | Review], [SOURCE: royalfamily.org | 2024-10-06 | Review]
+* Restrictions: Various bonus limitations apply, including minimum deposit amounts, game restrictions, and time limits. [SOURCE: casinomeister.com | 2023-11-20 | Review]
+
+6. RESPONSIBLE GAMING
+* Tools: Deposit limits, self-exclusion options mentioned. [SOURCE: royalfamily.org | 2024-10-06 | Review], [SOURCE: tech-recipes.com | 2024-06-11 | Review]
+* Partners:  Partnerships with responsible gambling organizations not consistently mentioned. [Information not available]
+* Policies:  Responsible gambling guidelines likely exist, but details are not readily available. [Information not available]
+* Limits:  Reality checks and cooling-off periods not consistently mentioned. [Information not available]
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability claimed. [SOURCE: terrakot-yarn.ru | 2024-12-09 | Website]
+* Languages: Multiple languages supported, but service levels may vary. English, Spanish, Portuguese, Russian, and Japanese live chat confirmed. [SOURCE: sigma.world | 2024-12-09 | Review]
+* Response: Actual response times not consistently reported. [Information not available]
+* Quality: Resolution rates and satisfaction levels not consistently reported. [Information not available]
+
+8. USER EXPERIENCE
+* Mobile: Mobile app and browser versions available. Performance and load times not consistently reported. [SOURCE: uptodown.com | 2024-05-03 | App description], [SOURCE: casinomeister.com | 2023-11-20 | Review]
+* Desktop: Dark theme, generally user-friendly navigation reported. [SOURCE: casinomeister.com | 2023-11-20 | Review]
+* Features: Search, filters, and personalization features not consistently detailed. [Information not available]
+* Issues: Some sources report complex navigation due to the large number of games. [SOURCE: tech-recipes.com | 2024-06-11 | Review]
+
+9. REPUTATION & REVIEWS
+* Ratings: Mixed reviews. Some positive user comments, but also negative reviews related to licensing and operational practices. [SOURCE: tech-recipes.com | 2024-06-11 | Review], [SOURCE: casinomeister.com | 2023-11-20 | Review]
+* Complaints: Complaints regarding bonus terms, payment processing, and account restrictions. [SOURCE: casinomeister.com | 2023-11-20 | Review]
+* Awards: No major industry awards mentioned. [Information not available]
+* History: Launched in 2017. History of operating without a valid license in certain regions. [SOURCE: tech-recipes.com | 2024-06-11 | Review], [SOURCE: igamingbusiness.com | 2024-08-13 | News]
+
+10. INDUSTRY POSITION
+* Partnerships: Partnerships with various game providers, including Spinomenal and ThunderSpin. [SOURCE: spinomenal.com | 2020-09-03 | News], [SOURCE: sigma.world | 2024-12-09 | News]
+* Sponsorships: No major sponsorships mentioned. [Information not available]
+* Innovation: No standout innovative features identified in available sources. [Information not available]
+* Competition: Large game selection and diverse payment options are key differentiators. However, licensing and reputation issues hinder competitiveness. [SOURCE: johnnybet.com | 2024-12-09 | Review]
+
+
+Inconsistencies: Conflicting information regarding ownership, game count, and bonus details across different sources.
+
+Missing Information: Detailed KYC procedures, responsible gambling partnerships and policies, customer support response times and quality metrics, specific game RTPs, and details of the VIP program are lacking.

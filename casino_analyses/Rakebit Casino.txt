@@ -1,0 +1,72 @@
+* Rakebit Casino Analysis (as of 2024-12-09)
+
+1. TECHNICAL SPECS
+* Platform: Information unavailable.
+* Mobile: Web app accessible on mobile and PC; not a true downloadable application. [SOURCE: casinosblockchain.io | 2024-12-03 | Review]
+* Features: Missions, gamification, leaderboard, casino store, gummy wheel bonus game. [SOURCE: casinosblockchain.io | 2024-12-03 | Review]
+* Security: SSL encryption.  Uses cryptocurrency transactions on the blockchain. [SOURCE: mrcashback.com | No date | Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Costa Rica. [SOURCE: casinosblockchain.io | 2024-12-03 | Review]
+* Ownership: Tech Group BL Limitada [SOURCE: revpanda.com | 2024-12-03 | Review]
+* Restrictions: Information unavailable, but Rakebit is accessible with a VPN. [SOURCE: bitcoin.com | No date | Article]
+* Issues: Player account closure reported, disputed as unjustified due to alleged fraudulent activity. [SOURCE: casino.guru | 2024-11-19 | Complaint]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Cryptocurrencies only (no fiat).  No on-site exchange. [SOURCE: casinosblockchain.io | 2024-12-03 | Review]
+* Crypto: Supports 10+ cryptocurrencies, including Bitcoin, Ethereum, and Dogecoin. [SOURCE: bitcoin.com | No date | Article]
+* KYC: No mandatory KYC; anti-fraud measures applied when necessary. [SOURCE: bitcoin.com | No date | Article]
+* Limits: Low minimum deposit and withdrawal limits for general players; specific withdrawal limits exist, potentially impacting high-rollers. [SOURCE: casinosblockchain.io | 2024-12-03 | Review]
+* Times: Instant withdrawals. [SOURCE: revpanda.com | 2024-12-03 | Review]
+* Fees: No information available.
+
+4. GAME PORTFOLIO
+* Total: 7,000+ games. [SOURCE: casinosblockchain.io | 2024-12-03 | Review]
+* Popular Slots: Information unavailable.
+* Table Games: Virtual table games available. Specific variants and limits not specified. [SOURCE: mrcashback.com | No date | Review]
+* Live: 500 live dealer games powered by Evolution and Pragmatic Live. [SOURCE: mrcashback.com | No date | Review]
+* Sports: Sports betting section available. Specific markets and odds not provided. [SOURCE: mrcashback.com | No date | Review]
+* Providers: Pragmatic Play, NetEnt, Playtech, and others. [SOURCE: bitcoin.com | No date | Article]
+* Jackpots: Jackpot games available. Specific progressive and fixed jackpot games not listed. [SOURCE: mrcashback.com | No date | Review]
+
+
+5. BONUS STRUCTURE
+* Welcome: Up to 200 free spins and a 50% free sports bet. [SOURCE: bitcoin.com | No date | Article]
+* Wagering: Information unavailable.
+* Loyalty: VIP club, daily wheel spins, and missions. [SOURCE: mrcashback.com | No date | Review]
+* Restrictions: High minimum deposit requirement for some bonuses, such as free spins. [SOURCE: mrcashback.com | No date | Review]
+
+6. RESPONSIBLE GAMING
+* Tools: Information unavailable.
+* Partners: Information unavailable.
+* Policies: Information unavailable.
+* Limits: Information unavailable.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 live chat available. [SOURCE: mrcashback.com | No date | Review]
+* Languages: English only. [SOURCE: casinosblockchain.io | 2024-12-03 | Review]
+* Response: Live chat response times generally prompt, but agent helpfulness varies. Email support available at support@rakebit.com. [SOURCE: revpanda.com | 2024-12-03 | Review]
+* Quality: Inconsistent live chat support quality; agents unable to answer basic questions in some instances.  Lack of a comprehensive FAQ page and difficult-to-navigate terms and conditions. [SOURCE: casinosblockchain.io | 2024-12-03 | Review]
+
+8. USER EXPERIENCE
+* Mobile: Mobile app available, downloadable from the website's browser version. Offers all games available on the desktop version. [SOURCE: mrcashback.com | No date | Review]
+* Desktop: Information unavailable.
+* Features: Information unavailable.
+* Issues: "Rakebit App" described as misleading, as it's a web app, not a true downloadable application. [SOURCE: casinosblockchain.io | 2024-12-03 | Review]
+
+9. REPUTATION & REVIEWS
+* Ratings: Information unavailable.
+* Complaints: One complaint regarding unjustified account closure. [SOURCE: casino.guru | 2024-11-19 | Complaint]
+* Awards: Information unavailable.
+* History: Established in 2018 (conflicts with other sources stating 2024). [SOURCE: casinosblockchain.io | 2024-12-03 | Review]
+
+10. INDUSTRY POSITION
+* Partnerships: Information unavailable.
+* Sponsorships: Information unavailable.
+* Innovation: Gamification features (missions, leaderboard, etc.) [SOURCE: casinosblockchain.io | 2024-12-03 | Review]
+* Competition: Focus on cryptocurrency transactions, no KYC, VPN compatibility, and a large game selection. [SOURCE: bitcoin.com | No date | Article]
+
+
+Inconsistencies: Conflicting establishment dates (2018 and 2024).
+
+Missing Information: Detailed information on game RTPs, table game limits, sports betting markets, bonus wagering requirements, responsible gambling tools and policies, desktop user experience, and reputation ratings.  Fee structure and specific payment limits are also lacking.

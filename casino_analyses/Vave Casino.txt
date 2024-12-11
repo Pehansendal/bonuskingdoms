@@ -1,0 +1,68 @@
+* Category: Vave Casino Analysis [SOURCE: Multiple Sources | 2024-12-09 | Aggregated Information]
+
+1. TECHNICAL SPECS
+* Platform:  Operates on a web-based platform; specific tech stack details are not publicly available.  Supports various software providers like Hacksaw, Pragmatic, NetEnt, Endorphina, Spinomenal, and Evoplay, suggesting a diverse technological integration. [SOURCE: freetips.com | 2024 | Web Article], [SOURCE: cryptomaniaks.com | 2024-09-20 | Web Article]
+* Mobile: Available on both Android and iOS devices via dedicated mobile apps. Also accessible through web browsers on mobile devices. [SOURCE: freetips.com | 2024 | Web Article]
+* Features: Offers a wide range of features including live chat support, search functionality for games, a "Hall of Fame" showcasing high winnings, and a Wheel of Fortune bonus for deposits over 100 USDT.  Also allows direct purchase of cryptocurrency on the platform. [SOURCE: cryptomaniaks.com | 2024-09-20 | Web Article], [SOURCE: cointelegraph.com | 2024 | Web Article]
+* Security: Holds a gambling license from Curaçao, implying adherence to certain security standards.  Specific details on SSL encryption and RNG implementation are not readily available. [SOURCE: cointelegraph.com | 2024 | Web Article]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Licensed by Curaçao. [SOURCE: cointelegraph.com | 2024 | Web Article]
+* Ownership: Operated by TechOptions Group B.V. according to CryptoLinks.  Casinomeister states it is owned and operated by Chestoption Sociedad De Responsabilidad Limitada, a company registered in Costa Rica. This discrepancy needs further verification. [SOURCE: cryptolinks.com | 2024 | Web Article], [SOURCE: casinomeister.com | 2024-11-25 | Web Article]
+* Restrictions: Information on blocked regions is not explicitly mentioned in the sources, but it's common for online casinos to have geographic restrictions. Further investigation is needed.
+* Issues: Some sources report lower payout margins, especially for smaller events (90-92%), compared to major tournaments (95%). Difficulty finding virtual versions of table games without using the search function has also been reported. [SOURCE: thepunterspage.com | 2024-06-18 | Web Article], [SOURCE: ccn.com | 2024-06-18 | Web Article]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Accepts various cryptocurrencies including Bitcoin, Bitcoin Cash, Ethereum, Dogecoin, Litecoin, Tether, Tron, Ripple, and Cardano via Changelly. Also supports traditional payment methods like Visa, Mastercard, Google Pay, Apple Pay, Giro Pay, Onramper, and bank transfers for purchasing cryptocurrency directly on the platform. [SOURCE: cryptomaniaks.com | 2024-09-20 | Web Article], [SOURCE: freetips.com | 2024 | Web Article]
+* Crypto:  BTC, BCH, ETH, DOGE, LTC, USDT, TRX, XPR, as well as Cardano, Ripple, Tether, and Tron. [SOURCE: cryptolinks.com | 2024 | Web Article], [SOURCE: freetips.com | 2024 | Web Article]
+* KYC: KYC requirements are not explicitly mentioned in the provided sources.
+* Limits: Transaction limits (minimum and maximum) are not specified in the available sources.
+* Times: Actual processing speeds for transactions are not detailed in the provided sources.
+* Fees: Information on the fee structure is not available in the provided sources.
+
+4. GAME PORTFOLIO
+* Total: Offers over 3,000 games, including slots, table games, live dealer games, and sports betting options. [SOURCE: cryptolinks.com | 2024 | Web Article]
+* Popular Slots:  The top 10 slots and their RTPs are not listed in the provided sources.  "Wild Cash" from BGaming is mentioned in relation to a bonus. [SOURCE: cointelegraph.com | 2024 | Web Article]
+* Table Games: Offers various table games including Caribbean Poker, Triple Edge Poker, Oasis Poker, Texas Hold'em, and video poker, though finding them might require using the search function. Live versions are also available. [SOURCE: ccn.com | 2024-06-18 | Web Article]
+* Live: Specific details on live dealer rooms and their betting limits are not provided in the sources.
+* Sports: Sportsbook includes 38 sports, esports, and special betting markets.  Live stream betting is available. Odds information and payout margins are mentioned (90-92% for smaller events, up to 95% for major ones). Financial betting is not offered. [SOURCE: thepunterspage.com | 2024-06-18 | Web Article]
+* Providers: Hacksaw, Pragmatic, NetEnt, Endorphina, Spinomenal, Evoplay, and Vave Originals. [SOURCE: freetips.com | 2024 | Web Article]
+* Jackpots:  Progressive jackpots are mentioned, but specific games and jackpot amounts are not detailed. [SOURCE: cryptolinks.com | 2024 | Web Article]
+
+5. BONUS STRUCTURE
+* Welcome: Offers a welcome bonus; specific details vary across sources. One source mentions a 150% bonus up to 1.5 BTC + 100 free spins. Another mentions a welcome bonus package for new players, but the exact amount is not specified. [SOURCE: bitcoin.com | 2024 | Web Article], [SOURCE: bitcoin.com | 2024 | Web Article]
+* Wagering:  Wagering requirements for bonuses are not specified in the available sources.
+* Loyalty:  Information on a VIP or loyalty program is not present in the provided sources.
+* Restrictions: Bonus limitations are not detailed in the available sources.
+
+6. RESPONSIBLE GAMING
+* Tools: Information on responsible gambling tools like self-exclusion, deposit limits, and time limits is not available in the provided sources.
+* Partners: Partnerships with responsible gambling organizations are not mentioned in the provided sources.
+* Policies:  Details on responsible gaming guidelines are not provided.
+* Limits: Information on reality checks and cooling-off periods is not available.
+
+7. CUSTOMER SUPPORT
+* Hours: Available 24/7 via live chat and email. [SOURCE: cryptomaniaks.com | 2024-09-20 | Web Article]
+* Languages: English, Russian, German, Spanish, and Japanese. [SOURCE: cryptomaniaks.com | 2024-09-20 | Web Article]
+* Response: Actual response times are not specified.
+* Quality: Resolution rates and customer satisfaction levels are not mentioned.
+
+8. USER EXPERIENCE
+* Mobile:  Mobile app is described as user-friendly with smooth navigation. Specific load times and app performance metrics are not provided. [SOURCE: cointelegraph.com | 2024 | Web Article]
+* Desktop: Desktop platform is described as having a modern design with a black background and white text, and an easy-to-use layout with clear navigation. [SOURCE: irishluck.ie | 2024 | Web Article]
+* Features: Search bar, filters by game providers, and a "Hall of Fame" are mentioned.  Personalization features are not detailed. [SOURCE: cointelegraph.com | 2024 | Web Article], [SOURCE: irishluck.ie | 2024 | Web Article]
+* Issues: Difficulty finding virtual table games without using the search bar has been reported. [SOURCE: ccn.com | 2024-06-18 | Web Article]
+
+9. REPUTATION & REVIEWS
+* Ratings:  Specific ratings from platforms like Trustpilot and AskGamblers are not provided.
+* Complaints: Lower payout margins for smaller events have been reported as a concern.  Difficulty locating virtual table games is another mentioned issue. [SOURCE: thepunterspage.com | 2024-06-18 | Web Article], [SOURCE: ccn.com | 2024-06-18 | Web Article]
+* Awards: Information on industry awards and recognition is not available.
+* History: No specific past incidents or resolutions are mentioned.  Launched in 2022. [SOURCE: casinomeister.com | 2024-11-25 | Web Article]
+
+10. INDUSTRY POSITION
+* Partnerships: No specific exclusive provider deals are mentioned.
+* Sponsorships: Information on sponsorships is not available.
+* Innovation: In-house games like dice and a crypto-charts-inspired slot machine, along with the "Hall of Fame" feature, are mentioned as unique offerings. [SOURCE: cointelegraph.com | 2024 | Web Article]
+* Competition: Key differentiators are not explicitly analyzed in the sources, but the wide game selection, crypto payment options, and unique in-house games are highlighted.
+
+

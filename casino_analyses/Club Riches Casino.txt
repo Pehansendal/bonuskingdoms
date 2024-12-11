@@ -1,0 +1,66 @@
+* Category: Analysis of Club Riches Casino [SOURCE: Synthesized from provided sources | 2024-12-09 | Text]
+
+1. TECHNICAL SPECS
+* Platform:  Operated by Media 21 B.V. [SOURCE: revenuelab.biz | 2022-08-17 | Text], [SOURCE: gambling.com | 2024-11-19 | Text], [SOURCE: gambling.com | 2024-11-19 | Text], [SOURCE: jeux.ca | 2024-07-02 | Text].  Further technical details like software providers and tech stack are not specified within the provided sources.
+* Mobile: Accessible via web browser; dedicated mobile app availability not confirmed within the provided sources. [SOURCE: sigma.world | No date | Text], [SOURCE: gambling.com | 2024-11-19 | Text]
+* Features: Includes slots, live dealer games, and a sportsbook. [SOURCE: gambling.com | 2024-11-19 | Text], [SOURCE: gambling.com | 2024-11-19 | Text], [SOURCE: jeux.ca | 2024-07-02 | Text] Specific game types and functions beyond these are not detailed within the provided sources.
+* Security:  Licensed by Antillephone, under Curacao eGaming Authority.  [SOURCE: gambling.com | 2024-11-19 | Text], [SOURCE: jeux.ca | 2024-07-02 | Text]  Details on SSL/encryption/RNG implementation are not available within the provided sources.
+
+2. LICENSING & COMPLIANCE
+* Licenses:  Curacao eGaming Authority (via Antillephone, license number 8048/JAZ2021-132). [SOURCE: jeux.ca | 2024-07-02 | Text] Previous licenses are not mentioned in the provided sources.
+* Ownership: Media 21 B.V., a company established under the laws of Curacao. Financial transactions are handled by Digital 21 Limited, based in Cyprus. [SOURCE: jeux.ca | 2024-07-02 | Text]  A more complete company structure is not provided.
+* Restrictions: Availability in Ireland is unclear, with conflicting information in the sources. [SOURCE: gambling.com | 2024-11-19 | Text] Other regional restrictions are not specified within the provided sources.
+* Issues: Some sources note the absence of a VIP program as a drawback. [SOURCE: sigma.world | No date | Text]  Other reported problems are not detailed within the provided sources.
+
+3. PAYMENT ECOSYSTEM
+* Methods: Specific payment options are not listed in the provided sources.
+* Crypto: Cryptocurrency support is not mentioned in the provided sources.
+* KYC: KYC procedures are not detailed in the provided sources.
+* Limits: Minimum deposit is noted as €15 for the first deposit and €5 for subsequent deposits related to the welcome bonus. General minimum deposit is $20. [SOURCE: gambling.com | 2024-11-19 | Text], [SOURCE: gambling.com | 2024-11-19 | Text] Other transaction limits are not specified.
+* Times: Cashout speed is estimated to be within 3 days. [SOURCE: gambling.com | 2024-11-19 | Text] More precise processing times for various methods are not provided.
+* Fees: Administrative fees are mentioned, but the fee structure is not detailed. [SOURCE: sigma.world | No date | Text]
+
+4. GAME PORTFOLIO
+* Total: Over 5,000 games, including over 200 live dealer games. [SOURCE: gambling.com | 2024-11-19 | Text], [SOURCE: gambling.com | 2024-11-19 | Text]  Over 2,500 games are also mentioned. [SOURCE: jeux.ca | 2024-07-02 | Text] This discrepancy should be noted.
+* Popular Slots: Top 10 slots and their RTPs are not listed in the provided sources. "Tower of Fortuna" is mentioned in connection with free spins. [SOURCE: sigma.world | No date | Text], Big Bass Bonanza is mentioned as a best game. [SOURCE: jeux.ca | 2024-07-02 | Text]
+* Table Games: Available variants and limits are not specified in the provided sources.
+* Live:  Over 200 live dealer games are available. [SOURCE: gambling.com | 2024-11-19 | Text] Room details and limits are not specified.
+* Sports: Offers a sportsbook with various markets, but specific markets and odds are not detailed. [SOURCE: gambling.com | 2024-11-19 | Text]
+* Providers: Some providers are mentioned (Pragmatic Play, Authentic Gaming, NetEnt, Blueprint gaming, Betsoft, Play n' Go, Yggdrasil, Play'n GO, Relax Gaming, Ezugi, Evoplay, Ruby Play). [SOURCE: gambling.com | 2024-11-19 | Text], [SOURCE: gambling.com | 2024-11-19 | Text], [SOURCE: gambling.com | 2024-11-19 | Text], [SOURCE: gambling.com | 2024-11-19 | Text] A comprehensive list is not provided.
+* Jackpots: Information on progressive and fixed jackpot games is not available within the provided sources.  Jackpot games are mentioned. [SOURCE: jeux.ca | 2024-07-02 | Text]
+
+5. BONUS STRUCTURE
+* Welcome:  Up to €2000 over the first three deposits (100% up to €1000, 50% up to €500, 25% up to €500), plus 100 free spins on Tower of Fortuna. Another source mentions CA$3000 + 100 free spins. [SOURCE: sigma.world | No date | Text], [SOURCE: gambling.com | 2024-11-19 | Text], [SOURCE: jeux.ca | 2024-07-02 | Text]  These discrepancies should be noted.
+* Wagering: 25x wagering requirement for the first deposit bonus and 30x for the second and third deposit bonuses, as well as for free spin winnings. Another source mentions 30x for the entire welcome bonus. [SOURCE: sigma.world | No date | Text], [SOURCE: gambling.com | 2024-11-19 | Text] This discrepancy should be noted.
+* Loyalty: No VIP program is available. [SOURCE: sigma.world | No date | Text]
+* Restrictions: Maximum stake with bonus funds is €5. Maximum payout on a wager with bonus funds is 100x the stake. Welcome bonus expires 30 days after registration, free spins expire after 7 days. [SOURCE: sigma.world | No date | Text], [SOURCE: gambling.com | 2024-11-19 | Text]  Other bonus limitations are not specified.  A 50% reload bonus up to €200 is available three times a week. [SOURCE: gambling.com | 2024-11-19 | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Responsible gambling tools are not detailed in the provided sources.  CasiGO (a different casino) is mentioned as having responsible gambling tools, but this is not relevant to Club Riches. [SOURCE: newhorrizon.eu | No date | Text]
+* Partners: Partnerships with responsible gambling organizations are not mentioned in the provided sources.
+* Policies: Responsible gaming guidelines are not detailed in the provided sources.
+* Limits: Information on reality checks and cooling-off periods is not available within the provided sources.
+
+7. CUSTOMER SUPPORT
+* Hours: Exact availability for each support channel is not specified.
+* Languages: Supported languages and service levels are not detailed.
+* Response: Actual response times are not provided.
+* Quality: Resolution rates and customer satisfaction are not mentioned.  One source rates customer support 4.5/5. [SOURCE: sigma.world | No date | Text]
+
+8. USER EXPERIENCE
+* Mobile:  Mobile experience is described as "mobile-friendly," but specific details on load times and app performance are not provided. [SOURCE: sigma.world | No date | Text]
+* Desktop: Navigation is described as "easy." [SOURCE: sigma.world | No date | Text] Further details on desktop functionality are not available.
+* Features: Information on search functions, filters, and personalization features is not available within the provided sources.
+* Issues: Reported technical problems are not detailed in the provided sources.
+
+9. REPUTATION & REVIEWS
+* Ratings: One source gives an expert rating of 4/5. Individual ratings for bonuses (3.5/5), VIP program (2.5/5), games (4/5), banking (5/5), user experience (5/5), and customer support (4.5/5) are also provided. [SOURCE: sigma.world | No date | Text]  Other review platform scores are not mentioned.
+* Complaints: Common issues and their resolution are not detailed.
+* Awards: Industry awards and recognition are not mentioned.
+* History: Past incidents and resolutions are not detailed.
+
+10. INDUSTRY POSITION
+* Partnerships: Exclusive provider deals are not mentioned.
+* Sponsorships: Sponsorships are not detailed.
+* Innovation: Unique features or offerings are not highlighted in the provided sources.
+* Competition: Key differentiators are not clearly identified.  A large welcome bonus and a wide game selection are implied as advantages. [SOURCE: gambling.com | 2024-11-19 | Text]

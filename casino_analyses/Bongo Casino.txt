@@ -1,0 +1,71 @@
+Bongo Casino Analysis (as of 09 December, 2024):
+
+It appears there might be some confusion about "Bongo Casino." The sources provided reference several entities using "Bongo" in their name, including a streaming service (BongoBD), a bingo game (BingoPlus), a bingo event (Bongo's Bingo), and possibly two online casinos (one mentioned on Wizard of Odds and Casino Guru, and another in Uganda).  This analysis will focus on the online casino(s) referenced in sources, acknowledging the potential for conflation.
+
+1. TECHNICAL SPECS
+* Platform: Information unavailable.
+* Mobile:  Information unavailable, though source [11] mentions a BingoPlus app with casino-style games. This may or may not be related to the Bongo Casino mentioned in other sources.
+* Features: Information unavailable, except for mentions of roulette and slots in some sources.
+* Security:  Source [1] mentions a Curacao license for Bongo Casino, which they consider "rubbish." This raises concerns about the robustness of security measures.
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao license (for the casino reviewed by Wizard of Odds) [SOURCE: wizardofodds.com | No date | Review].
+* Ownership: Information unavailable.
+* Restrictions: Information unavailable, except for potential self-exclusion issues mentioned in source [7].
+* Issues:  A player reported unresolved winning disputes related to roulette on Bongo.gg (potentially related to Bongo Casino) [SOURCE: kasinoguru-bg.com | No date | Complaint]. Source [7] discusses issues with self-exclusion across related casinos.
+
+3. PAYMENT ECOSYSTEM
+* Methods: Information unavailable.
+* Crypto: Information unavailable.
+* KYC: Information unavailable.
+* Limits: Information unavailable.
+* Times: Information unavailable.
+* Fees: Information unavailable.
+
+4. GAME PORTFOLIO
+* Total: Information unavailable, though source [2] mentions "best casino games" implying a variety of options.
+* Popular Slots: Information unavailable, though slots are mentioned in several sources. Source [8] mentions "Playboy Gold" but it's unclear if this is offered by Bongo Casino.
+* Table Games: Roulette is mentioned in a complaint [SOURCE: kasinoguru-bg.com | No date | Complaint].
+* Live: Information unavailable.
+* Sports: Source [2] mentions sports betting with "best odds" on BongoBongo (Uganda). It's unclear if this is related to the Bongo Casino mentioned in other sources.
+* Providers: Information unavailable.
+* Jackpots: Information unavailable.
+
+5. BONUS STRUCTURE
+* Welcome: Source [8] mentions a "free chips bonus" but provides no details.
+* Wagering: Information unavailable.
+* Loyalty: Information unavailable.
+* Restrictions: Information unavailable.
+
+6. RESPONSIBLE GAMING
+* Tools: Self-exclusion is mentioned, but with potential issues regarding its implementation across related casinos [SOURCE: casino.guru | 2023-03-25 | Forum Post].
+* Partners: Information unavailable.
+* Policies: Information unavailable.
+* Limits: Information unavailable.
+
+7. CUSTOMER SUPPORT
+* Hours: Information unavailable.
+* Languages: Information unavailable.
+* Response:  A player reported unresponsive live chat support regarding winning disputes [SOURCE: kasinoguru-bg.com | No date | Complaint].
+* Quality:  Based on the complaint, customer support quality appears questionable.
+
+8. USER EXPERIENCE
+* Mobile: Information unavailable, except for a mention of a BingoPlus app (possibly unrelated) [SOURCE: google.com | No date | App Description]. Source [10] mentions a "Bongo casino app review" but provides no concrete details.
+* Desktop: Information unavailable.
+* Features: Information unavailable.
+* Issues: Information unavailable, aside from the mentioned roulette dispute.
+
+9. REPUTATION & REVIEWS
+* Ratings: 2.8 out of 5 on Wizard of Odds [SOURCE: wizardofodds.com | No date | Review].
+* Complaints: Unresolved winning disputes and self-exclusion issues.
+* Awards: Information unavailable.
+* History: Information unavailable.
+
+10. INDUSTRY POSITION
+* Partnerships: Information unavailable.
+* Sponsorships: Source [11] mentions BingoPlus (potentially unrelated) sponsoring PBA and PVL.
+* Innovation: Information unavailable.
+* Competition: Information unavailable.
+
+
+Overall, the information about Bongo Casino is fragmented and incomplete.  The available information raises concerns regarding licensing, security, customer support, and responsible gambling practices.  Further investigation is needed to gain a clearer picture of this online casino.  It's important to distinguish between the different entities using "Bongo" in their name to avoid misinformation.

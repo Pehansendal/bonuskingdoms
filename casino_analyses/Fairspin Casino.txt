@@ -1,0 +1,76 @@
+* Category: Online Crypto Casino [SOURCE: Multiple Sources | 2024-12-09 | General Information]
+
+1. TECHNICAL SPECS
+
+* Platform: Operates on TruePlay blockchain platform; utilizes its own TFS token. Software partners include NetEnt, Microgaming, Pragmatic Play, and others. [SOURCE: ccn.com, aibc.world, chainwire.org, strafe.com | 2024-12-09 | Technical Specifications]
+* Mobile: Browser compatible with Windows, Android, and iOS. No dedicated mobile app available. [SOURCE: aibc.world, gambling.com, irishluck.ie | 2024-12-09 | Mobile Compatibility]
+* Features: Play-to-Earn and Hold-to-Earn programs using TFS tokens, VIP program, tournaments, demo mode for most games. [SOURCE: chainwire.org, irishluck.ie, cryptolinks.com | 2024-12-09 | Features]
+* Security: SSL encryption, blockchain technology for transparency and tamper-proof transactions, random number generators (RNG) for game fairness. [SOURCE: ccn.com, thedesigninspiration.com | 2024-12-09 | Security]
+
+2. LICENSING & COMPLIANCE
+
+* Licenses: Curaçao eGaming. [SOURCE: sigma.world, aibc.world, irishluck.ie, strafe.com | 2024-12-09 | Licensing]
+* Ownership: Techcore Holding B.V. [SOURCE: aibc.world, strafe.com | 2024-12-09 | Ownership]
+* Restrictions: Operates under Curaçao regulations; specific country restrictions may apply. [SOURCE: aibc.world, gambling.com | 2024-12-09 | Restrictions]
+* Issues: Some users report slow UI and issues with KYC/withdrawal limits. [SOURCE: casino.guru | 2024-12-09 | Issues]
+
+3. PAYMENT ECOSYSTEM
+
+* Methods: Supports over 30 cryptocurrencies (Bitcoin, Ethereum, Litecoin, USDT, etc.) and fiat options (Visa, Mastercard). [SOURCE: ccn.com, aibc.world, gambling.com, casinosblockchain.io, strafe.com, bitcoin.com | 2024-12-09 | Payment Methods]
+* Crypto: Bitcoin, Ethereum, Litecoin, USDT, Dash, Dogecoin, Bitcoin Cash, Ripple, Binance Coin, TRON, and many others. [SOURCE: ccn.com, casinosblockchain.io, strafe.com | 2024-12-09 | Cryptocurrencies]
+* KYC: Identity verification required; specific document requirements and verification times vary. Withdrawal limits and wagering requirements apply. [SOURCE: casino.guru | 2024-12-09 | KYC]
+* Limits: Minimum deposit varies by cryptocurrency (as low as $1 equivalent). No maximum withdrawal limit. Minimum withdrawal is typically 20 USDT or equivalent. [SOURCE: casinosblockchain.io | 2024-12-09 | Limits]
+* Times: Crypto transactions generally processed quickly (under 4 minutes for deposits). [SOURCE: casinosblockchain.io | 2024-12-09 | Transaction Times]
+* Fees: Fairspin does not charge transaction fees, but network fees may apply for crypto transactions. [SOURCE: casinosblockchain.io | 2024-12-09 | Fees]
+
+4. GAME PORTFOLIO
+
+* Total: Over 7,000 casino games and sports betting options. Some sources mention over 9,400 games. [SOURCE: sigma.world, chainwire.org, cryptomaniaks.com, gambling.com, casinosblockchain.io, irishluck.ie, strafe.com | 2024-12-09 | Game Count]
+* Popular Slots: Treasures of Aztec, Piggy Tap, Wild Bandito, Book of Gold, Shaolin Spin, Steam Tower Touch, 7 Sins, Mega Moolah Starlite Fruits. RTP varies per game. [SOURCE: gambling.com, cryptomaniaks.com, prnewswire.co.uk | 2024-12-09 | Popular Slots]
+* Table Games: Baccarat, Blackjack, Roulette, Poker (various variants available). Specific table limits vary. [SOURCE: gambling.com, surebets.bet | 2024-12-09 | Table Games]
+* Live: Live dealer games available, including Lightning Roulette, Infinite Blackjack, Dragon Tiger, and live poker variants. Specific limits vary. [SOURCE: gambling.com, ccn.com, surebets.bet | 2024-12-09 | Live Games]
+* Sports: Wide range of sports and esports betting markets available, including football, basketball, and others. Odds vary. [SOURCE: ccn.com, cryptomaniaks.com, surebets.bet | 2024-12-09 | Sports Betting]
+* Providers: Over 79 providers, including Pragmatic Play, Evolution Gaming, NetEnt, Microgaming, Hacksaw Gaming, Red Tiger, Spinomenal, Ezugi, Relax Gaming, Playson. [SOURCE: gambling.com, sigma.world, surebets.bet, strafe.com | 2024-12-09 | Game Providers]
+* Jackpots: Progressive jackpots available, including Mega Moolah Starlite Fruits. [SOURCE: gambling.com | 2024-12-09 | Jackpots]
+
+5. BONUS STRUCTURE
+
+* Welcome: 450% match bonus up to 200,000 USDT and 140 free spins across the first four deposits. [SOURCE: gambling.com, casinosblockchain.io, strafe.com, irishluck.ie, surebets.bet | 2024-12-09 | Welcome Bonus]
+* Wagering: Wagering requirements vary, typically 60x for the welcome bonus. [SOURCE: gambling.com, strafe.com | 2024-12-09 | Wagering Requirements]
+* Loyalty: VIP program with exclusive bonuses, rakebacks, and other perks. [SOURCE: surebets.bet, irishluck.ie, bitcoinist.com | 2024-12-09 | Loyalty Program]
+* Restrictions: Bonus terms and conditions apply. Time limits, eligible games, and other restrictions may apply. [SOURCE: gambling.com, strafe.com | 2024-12-09 | Bonus Restrictions]
+
+6. RESPONSIBLE GAMING
+
+* Tools: Self-exclusion option available. Deposit limits and other responsible gaming features may be available. [SOURCE: ccn.com, aibc.world, gambling.com | 2024-12-09 | Responsible Gaming Tools]
+* Partners: No specific partnerships with responsible gambling organizations mentioned in the provided sources. [SOURCE: None | 2024-12-09 | Responsible Gambling Partners]
+* Policies: Promotes responsible gaming and provides resources for players. [SOURCE: ccn.com | 2024-12-09 | Responsible Gaming Policies]
+* Limits: Information on specific limits like reality checks and cooling-off periods not available in the provided sources. [SOURCE: None | 2024-12-09 | Responsible Gaming Limits]
+
+7. CUSTOMER SUPPORT
+
+* Hours: 24/7 support available. [SOURCE: aibc.world, casinosblockchain.io, strafe.com, cryptolinks.com | 2024-12-09 | Support Hours]
+* Languages: English and multiple other languages supported. [SOURCE: strafe.com, thedesigninspiration.com, cryptolinks.com | 2024-12-09 | Support Languages]
+* Response: Live chat provides immediate responses. Email responses may take up to 24 hours. [SOURCE: aibc.world | 2024-12-09 | Response Times]
+* Quality: Generally positive user reviews regarding customer support responsiveness and helpfulness. [SOURCE: cryptomaniaks.com, casinosblockchain.io | 2024-12-09 | Support Quality]
+
+8. USER EXPERIENCE
+
+* Mobile: Mobile browser experience generally smooth, but no dedicated app. [SOURCE: aibc.world, irishluck.ie | 2024-12-09 | Mobile Experience]
+* Desktop: Modern and user-friendly interface with easy navigation. Some users report slow UI. [SOURCE: gambling.com, casino.guru | 2024-12-09 | Desktop Experience]
+* Features: Search and filter functions available for games. Personalization features not detailed in provided sources. [SOURCE: None | 2024-12-09 | UX Features]
+* Issues: Some users report slow UI/navigation issues. [SOURCE: casino.guru | 2024-12-09 | UX Issues]
+
+9. REPUTATION & REVIEWS
+
+* Ratings: Generally positive reviews from users, praising game selection, bonuses, and transparency. Some negative reviews regarding KYC/withdrawal issues. [SOURCE: ccn.com, cryptomaniaks.com, gambling.com, casino.guru | 2024-12-09 | Ratings and Reviews]
+* Complaints: Some complaints regarding KYC procedures, withdrawal limits, and wagering requirements. [SOURCE: casino.guru | 2024-12-09 | Complaints]
+* Awards: No specific industry awards mentioned in the provided sources. [SOURCE: None | 2024-12-09 | Awards]
+* History: Established in 2018. Has built a reputation as a reliable crypto casino with a focus on transparency. [SOURCE: ownedcore.com, cryptomaniaks.com, irishluck.ie, strafe.com, chainwire.org | 2024-12-09 | History]
+
+10. INDUSTRY POSITION
+
+* Partnerships: Partners with numerous game providers, including leading names in the industry. Part of the TruePlay ecosystem. [SOURCE: sigma.world, cryptolinks.com | 2024-12-09 | Partnerships]
+* Sponsorships: No specific sponsorships mentioned in the provided sources. [SOURCE: None | 2024-12-09 | Sponsorships]
+* Innovation: Innovative use of blockchain technology for transparency and TFS token integration for Play-to-Earn and Hold-to-Earn programs. [SOURCE: chainwire.org, bitcoin.com, cryptolinks.com | 2024-12-09 | Innovation]
+* Competition: Competes with other crypto casinos like Stake, BC.Game, Cloudbet, and ThunderPick. Differentiates itself through its TFS token ecosystem and focus on transparency. [SOURCE: casinosblockchain.io, cryptomaniaks.com, tracxn.com | 2024-12-09 | Competition]

@@ -1,0 +1,69 @@
+* Category: Online Casino [SOURCE: reddice.be | 2024-12-09 | Website]
+
+1. TECHNICAL SPECS
+* Platform: True Odds Gaming [SOURCE: reddice.be | 2024-12-09 | Website]
+* Mobile: Browser-based; app availability not confirmed. [SOURCE: reddice.be, iitk.ac.in | 2024-12-09, 2024-11-05 | Website]
+* Features: 2D and 3D games, tournaments, chat room, cashier function. [SOURCE: reddice.be | 2024-12-09 | Website]
+* Security: PCI DSS compliant, SSL encryption. RNG implementation details not specified. [SOURCE: reddice.be | 2024-12-09 | Website]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Belgium Gaming Commission [SOURCE: reddice.be | 2024-12-09 | Website]
+* Ownership: Panache Europe bvba [SOURCE: reddice.be | 2024-12-09 | Website]
+* Restrictions: Likely restricted outside Belgium due to local licensing.  One account per household. [SOURCE: reddice.be | 2024-12-09 | Website]
+* Issues: Some sources mention fairness concerns. [SOURCE: gamblingsites.com | 2024-11-02 | Website]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Credit card (via HiPay), Bancontact (via HiPay and Ingenico), Paysafecard, Skrill, Bank Transfer. [SOURCE: reddice.be | 2024-12-09 | Website]
+* Crypto: Not explicitly mentioned in the provided sources.
+* KYC: Not specified in the provided sources.
+* Limits: Not specified in the provided sources.
+* Times: Withdrawals processed within 24 hours. [SOURCE: reddice.be | 2024-12-09 | Website]
+* Fees: Not specified in the provided sources.
+
+4. GAME PORTFOLIO
+* Total: Not specified in the provided sources.
+* Popular Slots: Not specified in the provided sources.
+* Table Games:  Blackjack, Roulette mentioned. Specific variants and limits not available. [SOURCE: iitk.ac.in, reddice.be | 2024-11-05, 2024-12-09 | Website]
+* Live: Information not available in the provided sources.
+* Sports:  Not mentioned in the provided sources.
+* Providers: True Odds Gaming. Other providers not specified. [SOURCE: reddice.be | 2024-12-09 | Website]
+* Jackpots: Not specified in the provided sources.
+
+5. BONUS STRUCTURE
+* Welcome: Varies; one source mentions a 200% up to €1000 playthrough bonus. [SOURCE: tasutakasiino.com | 2024-12-09 | Website]
+* Wagering: One source mentions 40x wagering on a €20 deposit example. Another mentions 30x wagering on the bonus amount. [SOURCE: tasutakasiino.com, bonuskoodit.com | 2024-12-09, 2024-09-19 | Website]
+* Loyalty:  Not detailed in the provided sources, but VIP area and weekly tournaments are mentioned. [SOURCE: ownedcore.com | 2024-12-09 | Website]
+* Restrictions: 3-day time limit for welcome bonus wagering in one source. [SOURCE: tasutakasiino.com | 2024-12-09 | Website]
+
+6. RESPONSIBLE GAMING
+* Tools: Deposit limits, self-exclusion. [SOURCE: reddice.be | 2024-12-09 | Website]
+* Partners: Not specified in the provided sources.
+* Policies:  Focuses on entertainment, responsible gambling, fairness, and security.  Includes player protection measures mandated by the Belgian Gambling Commission. [SOURCE: reddice.be | 2024-12-09 | Website]
+* Limits: Loss limits, withdrawal locks, temporary "set-aside" for winnings. 3-day cooling-off period to relax self-imposed limits. [SOURCE: reddice.be | 2024-12-09 | Website]
+
+7. CUSTOMER SUPPORT
+* Hours:  Not specified for all channels, but email is available. [SOURCE: reddice.be | 2024-12-09 | Website]
+* Languages: Not specified in the provided sources.
+* Response: Not specified in the provided sources.
+* Quality: Mixed reviews mentioned in one source. [SOURCE: gamblingsites.com | 2024-11-02 | Website]
+
+8. USER EXPERIENCE
+* Mobile:  Optimized for mobile devices. [SOURCE: iitk.ac.in | 2024-11-05 | Website]
+* Desktop:  Information not detailed in the provided sources.
+* Features: Chat room. Search and filter functions mentioned but not detailed. [SOURCE: reddice.be, iitk.ac.in | 2024-12-09, 2024-11-05 | Website]
+* Issues:  Not specified in the provided sources.
+
+9. REPUTATION & REVIEWS
+* Ratings: Not specified in the provided sources.
+* Complaints: Fairness concerns mentioned in some sources. [SOURCE: gamblingsites.com | 2024-11-02 | Website]
+* Awards: Not mentioned in the provided sources.
+* History: Relatively new, launched in 2023. [SOURCE: tasutakasiino.com | 2024-12-09 | Website]
+
+10. INDUSTRY POSITION
+* Partnerships: True Odds Gaming (software provider). [SOURCE: reddice.be | 2024-12-09 | Website]
+* Sponsorships: Not mentioned in the provided sources.
+* Innovation: Focus on social and casual gaming. [SOURCE: reddice.be | 2024-12-09 | Website]
+* Competition:  Not specified in the provided sources.
+
+
+Note: Information about Red Dice Casino is limited, and several aspects, such as game specifics, customer support details, and reputation metrics, are not fully covered in the available sources.  This analysis is current as of today, December 9, 2024, and may change with time.

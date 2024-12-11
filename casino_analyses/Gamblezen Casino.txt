@@ -1,0 +1,69 @@
+* Category: Gamblezen Casino Analysis [ | 2024-12-09 | Analysis]
+
+1. TECHNICAL SPECS
+* Platform: Web-based platform, compatible with various operating systems (iOS, Android, iPadOS).  [SOURCE: revpanda.com | | Type]
+* Mobile: Browser-based, no dedicated app. Optimized for mobile devices. [SOURCE: revpanda.com | | Type]
+* Features: Search bar, filter options, bonus map, VIP program, tournaments. [SOURCE: revpanda.com, wizardofodds.com | | Type]
+* Security: SSL encryption, firewalls. [SOURCE: irishluck.ie | | Type]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curaçao eGaming (#8048/JAZ). [SOURCE: irishluck.ie | | Type]
+* Ownership: Altacore N.V. [SOURCE: revpanda.com, wizardofodds.com, kasinohai.com, norgecasino.com | | Type]
+* Restrictions: Not explicitly stated in sources, but primarily targets Canada, Norway, Germany, Austria, Finland, and New Zealand. [SOURCE: wizardofodds.com | | Type]
+* Issues: Potential delays in processing large withdrawals, unreliable customer support (chat platform freezing), excessive documentation requests for withdrawals, limited responsible gambling features. [SOURCE: kasinoguru-bg.com, kasinohai.com | | Type]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, Mastercard, PayPal, Paysafecard, Jeton, various cryptocurrencies (BTC, ETH, Tron, Ripple, Dash). [SOURCE: black-pepper.uk, irishluck.ie | | Type]
+* Crypto: BTC, ETH, Tron, Ripple, Dash. [SOURCE: irishluck.ie | | Type]
+* KYC: Required, potentially extensive documentation. [SOURCE: irishluck.ie | | Type]
+* Limits: Minimum deposit: €20. Minimum withdrawal: €20/€50 (Crypto). Daily withdrawal: €2,000. Weekly withdrawal: €5,000. Monthly withdrawal: €20,000 (anything exceeding this is paid in installments). [SOURCE: wizardofodds.com, black-pepper.uk | | Type]
+* Times: Withdrawals: up to 72 hours (24 hours for KYC, 24 hours pending, 24 hours processing). [SOURCE: wizardofodds.com | | Type]
+* Fees: Not specified.
+
+4. GAME PORTFOLIO
+* Total: Over 10,000 (some sources mention over 4,000 and 7,800). [SOURCE: revpanda.com, eliel-chantiry.ca, kasinohai.com, toppcasinonorge.com | | Type]
+* Popular Slots: Not listed with RTPs. Fruit Party (Pragmatic Play) and Gates of Olympus (Pragmatic Play) are mentioned in relation to free spins. [SOURCE: revpanda.com | | Type]
+* Table Games: Various variants available, specific limits not provided. [SOURCE: wizardofodds.com | | Type]
+* Live: Around 300 games, including Crazy Time, Crazy Coin Flip, Lightning Blackjack, Deal or No Deal, Cash or Crash, Dream Catcher, Andar Bahar, Dead or Alive: Saloon, XXXtreme Lightning Roulette, Crazy Pachinko, Speed Roulette, Tombola Lucky Box, MONOPOLY Big Baller. [SOURCE: wizardofodds.com, kasinohai.com | | Type]
+* Sports: Not mentioned in available sources.
+* Providers: Playtech, Quickspin, Endorphina, Evolution Gaming, Pragmatic Play Live, Ezugi, and over 70 others. [SOURCE: wizardofodds.com, kasinohai.com | | Type]
+* Jackpots: Progressive and fixed jackpots available. [SOURCE: wizardofodds.com | | Type]
+
+5. BONUS STRUCTURE
+* Welcome: Conflicting information: 250% up to €2000 + 200 Free Spins (revpanda.com), 200% up to €500 + 100 spins (wizardofodds.com), up to €3,625 + 350 free spins (eliel-chantiry.ca, irishluck.ie), tiered bonus across first four deposits (kasinohai.com), up to 17,500 kr (norgecasino.com). [SOURCE: revpanda.com, wizardofodds.com, eliel-chantiry.ca, irishluck.ie, kasinohai.com, norgecasino.com | | Type]
+* Wagering: 35x (bonus + deposit) for some bonuses, 40x for others, 20x for cashback. Varies by game. [SOURCE: wizardofodds.com, kasinohai.com | | Type]
+* Loyalty: Five-tier VIP program (Zen Challenger, Veteran Zen, Serene High Roller, Master of Wagers, Zen Grandmaster). Benefits include cashback (10-30%), exclusive bonuses, personal account manager, increased monthly withdrawal limits. [SOURCE: revpanda.com | | Type]
+* Restrictions: Maximum bet with bonus: €5. Various game contributions to wagering requirements. Time limits on bonus validity (e.g., 10 days). Cashback minimum: €5 (or €10 according to wizardofodds.com). Maximum cashback win: Not specified. [SOURCE: wizardofodds.com, kasinohai.com, revpanda.com | | Type]
+
+6. RESPONSIBLE GAMING
+* Tools: Deposit limits, time limits, self-exclusion. [SOURCE: wizardofodds.com | | Type]
+* Partners: Not specified.
+* Policies: Promotes responsible gambling, but details are limited. [SOURCE: wizardofodds.com, irishluck.ie | | Type]
+* Limits: Not specified beyond deposit and time limits.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 live chat and email. [SOURCE: revpanda.com | | Type]
+* Languages: English, Danish, Spanish, French, Italian, Norwegian, Polish, Portuguese. [SOURCE: wizardofodds.com | | Type]
+* Response: Live chat: chatbot initially, followed by human representative. Email: not specified. [SOURCE: irishluck.ie | | Type]
+* Quality: Described as courteous and welcoming. Resolution rates and satisfaction not quantified. [SOURCE: irishluck.ie | | Type]
+
+8. USER EXPERIENCE
+* Mobile: User-friendly interface, decent graphics, good performance on various devices. [SOURCE: revpanda.com | | Type]
+* Desktop: Well-organized website, clear layout, easy navigation. [SOURCE: wizardofodds.com | | Type]
+* Features: Search bar, filters by game type and provider. [SOURCE: revpanda.com, wizardofodds.com | | Type]
+* Issues: Chat platform freezing reported. [SOURCE: kasinoguru-bg.com | | Type]
+
+9. REPUTATION & REVIEWS
+* Ratings: 4.24/5 (RevPanda), 4.4/5 (Wizard of Odds), 4.9/5 (Irish Luck). [SOURCE: revpanda.com, wizardofodds.com, irishluck.ie | | Type]
+* Complaints: Withdrawal delays, unreliable customer support, excessive KYC documentation. [SOURCE: kasinoguru-bg.com | | Type]
+* Awards: Not mentioned.
+* History: Relatively new casino (established 2023). No major incidents reported, but concerns raised about withdrawal practices and customer support. [SOURCE: kasinohai.com, norgecasino.com, irishluck.ie | | Type]
+
+10. INDUSTRY POSITION
+* Partnerships: Collaborates with various software providers (Playtech, Quickspin, Endorphina, Evolution Gaming, etc.). [SOURCE: wizardofodds.com | | Type]
+* Sponsorships: Not mentioned.
+* Innovation: Bonus map feature, gamified elements. [SOURCE: revpanda.com, up.gov.in | | Type]
+* Competition: Large game library, crypto support, focus on user experience. [SOURCE: black-pepper.uk, toppcasinonorge.com | | Type]
+
+
+Inconsistencies were found in the reported welcome bonus amounts and total game counts across different sources.  Some information, such as specific game RTPs, sports betting availability, customer support response times via email, and responsible gambling partnerships, is missing from the provided sources.  It is important to note that this analysis is based on the available information as of December 9th, 2024, and may not reflect the current state of the casino.  It is always recommended to consult multiple sources and the casino's official website for the most up-to-date information.

@@ -1,0 +1,69 @@
+* Category: Analysis of Metaspins Crypto Casino [SOURCE: Multiple Sources | 2024-12-09 | Aggregated Information]
+
+1. TECHNICAL SPECS
+* Platform:  The platform is a dedicated crypto casino and sportsbook. [SOURCE: thespike.gg | 2024-11-12 | Review]  It offers over 2500 games and supports various cryptocurrencies. [SOURCE: medium.com | 2022-11-04 | News Article]  No specific software provider or tech stack details are available in the provided sources.
+* Mobile: Metaspins is accessible via mobile browsers, offering a good mobile experience. However, there is no dedicated mobile application. [SOURCE: thespike.gg | 2024-11-12 | Review], [SOURCE: cryptomaniaks.com | 2024-02-27 | Review], [SOURCE: casinosblockchain.io | 2024-11-27 | Review]
+* Features:  Features include a level-up loyalty program, provably fair games, and instant payouts with no fees. [SOURCE: thespike.gg | 2024-11-12 | Review], [SOURCE: irishluck.ie | 2024 | Review]  It also offers sports and esports betting options. [SOURCE: thespike.gg | 2024-11-12 | Review]  Additional features like search, filters, and personalization are not mentioned in the sources.
+* Security:  Metaspins uses SSL encryption and two-factor authentication. [SOURCE: coingape.com | 2024-01-18 | Review] Information about RNG implementation is not available in the provided sources.
+
+2. LICENSING & COMPLIANCE
+* Licenses: Metaspins holds a license from the Curaçao Gaming Authority. [SOURCE: ccn.com | 2024-09-23 | Review], [SOURCE: thespike.gg | 2024-11-12 | Review], [SOURCE: cryptomaniaks.com | 2024-02-27 | Review], [SOURCE: coingape.com | 2024-01-18 | Review], [SOURCE: irishluck.ie | 2024 | Review]  No information about previous licenses is available.
+* Ownership: Metaspins is operated by Metaspins N.V., a company incorporated under Curaçao's laws. [SOURCE: thespike.gg | 2024-11-12 | Review], [SOURCE: coingape.com | 2024-01-18 | Review]  Further details about the company structure are not provided.
+* Restrictions:  Players from several countries are restricted, including Afghanistan, Cuba, Curacao, Cyprus, Iran, Iraq, the Isle of Man, Italy, Lithuania, Malta, the Netherlands and its territories, North Korea, Belarus, Spain, Sudan, Syria, the United Kingdom and its territories, and the United States. [SOURCE: coingape.com | 2024-01-18 | Review]
+* Issues: A Reddit post from March 2023 alleges that Metaspins did not pay out a $9500 USD winning. [SOURCE: reddit.com | 2023-03-08 | Reddit Post]  This is an isolated incident, and further information about its resolution is not available.
+
+3. PAYMENT ECOSYSTEM
+* Methods: Metaspins accepts payments exclusively in cryptocurrency. [SOURCE: ccn.com | 2024-09-23 | Review]
+* Crypto: Supported cryptocurrencies include Bitcoin, Ethereum, Binance Coin, Tether, Ripple, Bitcoin Cash, TRON, Cardano, Dogecoin, Litecoin, and USD Coin. [SOURCE: thespike.gg | 2024-11-12 | Review]  Other sources mention nine supported cryptocurrencies, including stablecoins. [SOURCE: irishluck.ie | 2024 | Review]
+* KYC:  Metaspins offers no KYC (Know Your Customer) procedures. [SOURCE: casinosblockchain.io | 2024-11-27 | Review]
+* Limits:  Minimum and maximum transaction limits are not specified in the provided sources.
+* Times:  Metaspins offers instant deposits and payouts. [SOURCE: thespike.gg | 2024-11-12 | Review]
+* Fees:  No fees are charged for payouts. [SOURCE: thespike.gg | 2024-11-12 | Review]  Information about other potential fees is not available.
+
+4. GAME PORTFOLIO
+* Total: Metaspins offers over 2500 games, including casino games, sports betting, and esports betting. [SOURCE: medium.com | 2022-11-04 | News Article], [SOURCE: thespike.gg | 2024-11-12 | Review]  Another source mentions over 3000 games. [SOURCE: thespike.gg | 2024-11-12 | Review]  This discrepancy should be noted.
+* Popular Slots: The top 10 slots and their RTPs are not specified in the provided sources.
+* Table Games: Available table game variants and their limits are not specified.
+* Live: Details about live casino rooms and their limits are not available.
+* Sports: Available sports markets and odds are not detailed in the provided sources.
+* Providers: Software providers include NetEnt, Microgaming, Pragmatic Play, Evolution Gaming, Play'n GO, and many others. [SOURCE: thespike.gg | 2024-11-12 | Review]
+* Jackpots: Information about progressive and fixed jackpot games is not available.
+
+5. BONUS STRUCTURE
+* Welcome: Metaspins offers a 100% deposit match welcome bonus up to 1 BTC or equivalent.  For sports, there's a $1000 welcome offer in Only-Win free bets. [SOURCE: ccn.com | 2024-09-23 | Review], [SOURCE: thespike.gg | 2024-11-12 | Review], [SOURCE: casinosblockchain.io | 2024-11-27 | Review], [SOURCE: irishluck.ie | 2024 | Review], [SOURCE: coingape.com | 2024-01-18 | Review]
+* Wagering: The wagering requirement for the welcome bonus is 25x. [SOURCE: casinosblockchain.io | 2024-11-27 | Review]
+* Loyalty: Metaspins has a Level Up loyalty program. [SOURCE: irishluck.ie | 2024 | Review]  Specific details about the program are not provided.
+* Restrictions:  All bonus limitations are not fully detailed in the provided sources.
+
+6. RESPONSIBLE GAMING
+* Tools: Information on responsible gambling tools like self-exclusion, deposit limits, and time limits is not available in the provided sources.
+* Partners:  Partnerships with responsible gambling organizations are not mentioned.
+* Policies:  Metaspins' responsible gaming guidelines are not detailed in the sources.
+* Limits: Information about reality checks and cooling-off periods is not available.
+
+7. CUSTOMER SUPPORT
+* Hours: Exact availability for each support channel is not specified.
+* Languages: Supported languages include English, German, French, Norwegian, and potentially others. [SOURCE: thespike.gg | 2024-11-12 | Review], [SOURCE: cryptomaniaks.com | 2024-02-27 | Review] Service levels for each language are not specified.
+* Response: Actual response times are not provided.
+* Quality: Resolution rates and customer satisfaction levels are not mentioned.  One source mentions that customer support does a good job of resolving issues. [SOURCE: cryptomaniaks.com | 2024-02-27 | Review]
+
+8. USER EXPERIENCE
+* Mobile: Metaspins offers a good mobile experience via browser, but load times and specific performance details are not available. [SOURCE: cryptomaniaks.com | 2024-02-27 | Review]
+* Desktop:  Navigation and functionality details for the desktop version are not provided.
+* Features: Information about search functionality, filters, and personalization options is not available.
+* Issues:  Reported technical problems are not detailed in the provided sources.
+
+9. REPUTATION & REVIEWS
+* Ratings: Ratings vary across different platforms. Some sources mention ratings of 3.1, 4.2, and 6.6. [SOURCE: coingape.com | 2024-01-18 | Review] Other sources give an overall rating of 4.5 or 4.7. [SOURCE: casinosblockchain.io | 2024-11-27 | Review], [SOURCE: irishluck.ie | 2024 | Review]  Specific platforms like Trustpilot and AskGamblers are not mentioned.
+* Complaints: One complaint about an unpaid winning is mentioned in a Reddit post. [SOURCE: reddit.com | 2023-03-08 | Reddit Post]  Other common issues and their resolution are not detailed.
+* Awards:  Industry awards and recognition are not mentioned in the provided sources.
+* History:  Besides the mentioned complaint, no other past incidents are detailed.
+
+10. INDUSTRY POSITION
+* Partnerships:  Exclusive provider deals are not mentioned.
+* Sponsorships: Information about sponsorships is not available.
+* Innovation: Unique features include the Level Up loyalty program and a focus on cryptocurrency payments. [SOURCE: irishluck.ie | 2024 | Review], [SOURCE: ccn.com | 2024-09-23 | Review]
+* Competition: Key differentiators like the exclusive use of cryptocurrency, instant payouts, and the Level Up program are highlighted. [SOURCE: thespike.gg | 2024-11-12 | Review], [SOURCE: irishluck.ie | 2024 | Review]
+
+
+Please note that this information is based on the available sources and is current as of December 9, 2024.  Several aspects of Metaspins Casino are not covered in the provided sources, and further research may be necessary for a complete analysis.  Remember to gamble responsibly.

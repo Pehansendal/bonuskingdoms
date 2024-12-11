@@ -1,0 +1,69 @@
+* Category: Rivalo Casino Analysis [SOURCE: User Prompt | 2024-12-09 | User Prompt]
+
+1. TECHNICAL SPECS
+* Platform: EveryMatrix (CasinoEngine, GamMatrix, BonusEngine) [SOURCE: everymatrix.com | No date | Website]
+* Mobile: Browser compatible, app availability not confirmed. [SOURCE: rivalo.co, gazetaesportiva.com, betarena.com | No date, 2024-08-08, 2024-04-25 | Website, News Article, Website Article]
+* Features: Sports betting, casino games, live casino, combi boost, promotions, advent calendar. [SOURCE: rivalo.co | No date | Website]
+* Security:  Information not available.
+
+2. LICENSING & COMPLIANCE
+* Licenses: Colombian license, Curaçao license (8048/JAZ). [SOURCE: everymatrix.com, gazetaesportiva.com | No date, 2024-08-08 | Website, News Article]
+* Ownership: Matchserv Solutions N.V. [SOURCE: gazetaesportiva.com | 2024-08-08 | News Article]
+* Restrictions: Access from outside Colombia redirects to rivalo.com. Some countries restricted from registration (e.g., US, UK, France, Italy). [SOURCE: rivalo.co, ghanasoccernet.com | No date | Website]
+* Issues: Lack of mobile app noted. [SOURCE: betarena.com | 2024-04-25 | Website Article] Withdrawal times can be 2-3 days. [SOURCE: ghanasoccernet.com | No date | Website] Basic website with limited features. [SOURCE: freetips.com | No date | Website]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Pix, Boleto Bancário, Neteller, Skrill, Pago Efectivo, Bank Transfer, Nubank, Banco Inter.  Skrill, Skrill 1-Tap, Neteller, Bitcoin, Paysafecard, MuchBetter. [SOURCE: gazetaesportiva.com, ghanasoccernet.com | 2024-08-08 | News Article]
+* Crypto: Bitcoin. [SOURCE: ghanasoccernet.com | No date | Website]
+* KYC: Information not available.
+* Limits: Minimum deposit varies (around $10 for most methods). Maximum withdrawal varies (e.g., $2,400 Skrill/Neteller, $17,000 Paysafecard, $111,000 Bitcoin). [SOURCE: ghanasoccernet.com | No date | Website] Rivalo Brazil minimum deposit: R$25. Minimum withdrawal: R$100. [SOURCE: gazetaesportiva.com | 2024-08-08 | News Article]
+* Times: Withdrawals can take 2-3 days. 3 free withdrawals per week, subsequent withdrawals cost $5 (Bitcoin withdrawals are free). [SOURCE: ghanasoccernet.com | No date | Website]
+* Fees: $5 fee after 3 withdrawals per week (except Bitcoin). [SOURCE: ghanasoccernet.com | No date | Website]
+
+4. GAME PORTFOLIO
+* Total: Over 1000 slots and other casino games. [SOURCE: rivalo.co | No date | Website]
+* Popular Slots: Information not available.
+* Table Games: Blackjack, Roulette. [SOURCE: rivalo.co | No date | Website]
+* Live:  Games from Evolution (e.g., Monopoly Live, Crazy Time). Live casino tables with real dealers. [SOURCE: rivalo.co | No date | Website]
+* Sports: Wide range of sports including football, tennis, basketball, American football, volleyball, baseball, MMA, table tennis, ice hockey, handball, boxing, Formula 1, e-football, futsal, badminton. Focus on Latin American markets, especially football. [SOURCE: rivalo.co, everymatrix.com | No date | Website]
+* Providers: Spearhead Studios, Booongo, Microgaming, Habanero, BetSoft, EspressoGames, Gaming1, Fazi, MGA, and others. [SOURCE: everymatrix.com | No date | Website]
+* Jackpots: Information not available.
+
+5. BONUS STRUCTURE
+* Welcome: Up to 100% bonus on deposits up to $50 (5x wagering requirement, 1.50+ odds, 30-day expiry). 100 free spins (80x wagering requirement). [SOURCE: betarena.com, ghanasoccernet.com | 2024-04-25 | Website Article]
+* Wagering: 5x for welcome bonus, 80x for free spins. [SOURCE: ghanasoccernet.com | No date | Website]
+* Loyalty: VIP program available. [SOURCE: ghanasoccernet.com | No date | Website]
+* Restrictions: Bonus expires after 30 days. Minimum odds of 1.50 for welcome bonus wagering. [SOURCE: betarena.com | 2024-04-25 | Website Article]
+
+6. RESPONSIBLE GAMING
+* Tools: Information not available.
+* Partners: Information not available.
+* Policies: Information on responsible gaming available. [SOURCE: rivalo.co | No date | Website]
+* Limits: Information not available.
+
+7. CUSTOMER SUPPORT
+* Hours: Chat available 09:00-21:00 daily. Email available via form or help@rivalo.com. [SOURCE: gazetaesportiva.com | 2024-08-08 | News Article]
+* Languages: Information not available.
+* Response: Email response within 48 hours. [SOURCE: ghanasoccernet.com | No date | Website]
+* Quality: Information not available.
+
+8. USER EXPERIENCE
+* Mobile: Information not available, other than lack of dedicated app.
+* Desktop: Basic website, easy navigation. [SOURCE: freetips.com | No date | Website]
+* Features: Information not available.
+* Issues: Basic website with few features. [SOURCE: freetips.com | No date | Website]
+
+9. REPUTATION & REVIEWS
+* Ratings: Information not available, other than user reviews on some platforms.
+* Complaints: Some complaints about withdrawal times. [SOURCE: ghanasoccernet.com | No date | Website]
+* Awards: Information not available.
+* History: Operating since 2013. [SOURCE: betarena.com | 2024-04-25 | Website Article]
+
+10. INDUSTRY POSITION
+* Partnerships: Sponsor of BFA (Brazilian championship of American Football). [SOURCE: ghanasoccernet.com | No date | Website]
+* Sponsorships: Information not available.
+* Innovation: Combi Boost feature. [SOURCE: rivalo.co | No date | Website]
+* Competition: Focus on Latin American markets, no turnover on bonus, diverse payment options. [SOURCE: rivalo.co | No date | Website]
+
+
+Note: Information is compiled from available sources and is current as of December 9, 2024. Some information is missing or incomplete.

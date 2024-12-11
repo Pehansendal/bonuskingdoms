@@ -1,0 +1,79 @@
+* Category: iWild Casino Analysis [SOURCE: Synthesized from provided sources | 2024-12-09 | Analysis]
+
+1. TECHNICAL SPECS
+
+* Platform:  Operated by Altacore N.V.  [SOURCE: sigma.world | 2024-11-26 | Text]  Uses software from various providers like Pragmatic Play, Play'n Go, Betsoft, Evolution Gaming. [SOURCE: casinomeister.com, sigma.world | 2024-11-26 | Text]
+* Mobile: Compatible with Windows and Mac, mobile website available. [SOURCE: sigma.world | 2024-11-26 | Text]  No dedicated mobile app mentioned. [SOURCE: gamblincolors.com | 2024-08-14 | Text]
+* Features:  Over 6,000 games (some sources state over 7,000 or even 8,000), live dealer games, bonus shop, VIP program, tournaments. [SOURCE: casinomeister.com, casino.org, sigma.world, irishluck.ie, pinterest.com | Various Dates | Text] iCoins program for rewards. [SOURCE: reddit.com, irishluck.ie | 2024-11-29, 2024-11-26 | Text]
+* Security:  Uses SSL encryption. [SOURCE: offshoresportsbooks.com, irishluck.ie | 2024-11-26 | Text]  Other security measures not explicitly mentioned in sources.
+
+2. LICENSING & COMPLIANCE
+
+* Licenses: Curaçao Master License 8048/JAZ (Antillephone N.V). [SOURCE: casinomeister.com | 2024-11-26 | Text]
+* Ownership: Operated by Altacore N.V., with Altaprime Limited (Cyprus-based) acting as an EU-EEA representative. [SOURCE: sigma.world | 2024-11-26 | Text]
+* Restrictions: Blocked in the United Kingdom, United States, France, Netherlands, Ukraine, Singapore, and Moldova. [SOURCE: sigma.world | 2024-11-26 | Text]  Other restrictions may apply.
+* Issues: Limited responsible gambling tools (only self-exclusion mentioned). [SOURCE: sigma.world, casinomeister.com | 2024-11-26 | Text]  Some complaints about low daily withdrawal limits. [SOURCE: sigma.world, irishluck.ie | 2024-11-26 | Text]  Minor KYC verification issues reported, but resolved quickly. [SOURCE: youtube.com | 2022-11-16 | Video description]
+
+3. PAYMENT ECOSYSTEM
+
+* Methods: Visa, Mastercard, Paysafecard, MiFinity, Skrill, Neteller, Flexepin, Astropay, MuchBetter, Revolut, QIWI, ecoPayz, Tether, Dogecoin, Bitpace, Tron, Bitcoin, Ethereum, Litecoin. [SOURCE: casinomeister.com | 2024-11-26 | Text]
+* Crypto: Bitcoin, Ethereum, Litecoin, Tether, Dogecoin, Tron. [SOURCE: casinomeister.com | 2024-11-26 | Text]  Other cryptocurrencies may be accepted.
+* KYC:  Required for withdrawals.  Documents required include passport or driver's license and proof of address. [SOURCE: thehottubco.com, youtube.com | 2022-11-16 | Text, Video description] Verification time not specified, but KYC issues were resolved quickly in one test. [SOURCE: youtube.com | 2022-11-16 | Video description] Limits before KYC not specified.
+* Limits: Minimum deposit generally €20 or C$30. [SOURCE: sigma.world, casinomeister.com | 2024-11-26 | Text] Daily withdrawal limit considered modest by some reviewers (e.g., €400 mentioned). [SOURCE: irishluck.ie, sigma.world | 2024-11-26 | Text] Wazbee Casino (mentioned as a comparable crypto casino) lists a €15,000 daily withdrawal limit. [SOURCE: coingabbar.com | 2024-10-17 | Text]  This might not apply to iWild Casino.
+* Times: Deposits generally instant. [SOURCE: gambling.com | 2024-07-24 | Text] Withdrawals typically processed within 24 hours. [SOURCE: gambling.com, thesportsgeek.com | 2024-07-24, 2024-11-07 | Text]  One test showed a Skrill cashout with no delays. [SOURCE: youtube.com | 2022-11-16 | Video description]
+* Fees: No withdrawal fees reported in a Skrill cashout test. [SOURCE: youtube.com | 2022-11-16 | Video description]  Complete fee structure not detailed in sources.
+
+4. GAME PORTFOLIO
+
+* Total: Over 6,000 games. [SOURCE: casinomeister.com | 2024-11-26 | Text] Some sources mention over 7,000 or 8,000. [SOURCE: casino.org, pinterest.com, irishluck.ie | Various Dates | Text]
+* Popular Slots: Specific RTPs not listed in sources. Popular titles mentioned include Dog House, Release the Kraken, Buffalo King Megaways, Big Bass Bonanza. [SOURCE: sigma.world, casinomeister.com | 2024-11-26 | Text]
+* Table Games: Variants and limits not detailed in sources.
+* Live: Room details and limits not detailed in sources.  Over 18 live casino games mentioned in one source, optimized for mobile. [SOURCE: offshoresportsbooks.com | 2024-11-26 | Text]
+* Sports: Not available.
+* Providers: Over 60 providers, including Betsoft, Pragmatic Play, Evolution Gaming, Play'n GO, Quickspin, NetEnt, Microgaming, Playson, Thunderkick, Blueprint Gaming, Playtech, Red Tiger Gaming, Spinmatic Entertainment. [SOURCE: casinomeister.com, casino.org | 2024-11-26 | Text]
+* Jackpots: Information not detailed in sources.
+
+5. BONUS STRUCTURE
+
+* Welcome: Up to C$5,000 (€3,500) and 270 free spins over the first four deposits. [SOURCE: casinomeister.com, sigma.world | 2024-11-26 | Text]  One source mentions up to €4,000. [SOURCE: reddit.com | 2024-11-29 | Text]  Another mentions a $9,000 crypto welcome bonus. [SOURCE: thesportsgeek.com | 2024-11-07 | Text]
+* Wagering: 35x deposit + bonus, 40x free spins winnings. [SOURCE: casinomeister.com | 2024-11-26 | Text]  Considered high by some reviewers. [SOURCE: irishluck.ie | 2024-11-26 | Text]
+* Loyalty: VIP program with increasing cashback, higher withdrawal limits, and a personal account manager at higher levels. [SOURCE: casinomeister.com, reddit.com, casinomeister.com | Various Dates | Text] iCoins program allows players to exchange collected coins for rewards. [SOURCE: reddit.com, irishluck.ie | 2024-11-29, 2024-11-26 | Text]
+* Restrictions: Free spins winnings capped at C$145. [SOURCE: casinomeister.com | 2024-11-26 | Text]  Other restrictions may apply.
+
+6. RESPONSIBLE GAMING
+
+* Tools: Self-exclusion available. [SOURCE: sigma.world, casinomeister.com | 2024-11-26 | Text]  Limited options considered a drawback. [SOURCE: sigma.world, casinomeister.com | 2024-11-26 | Text]
+* Partners: Not specified in sources.
+* Policies: Not detailed in sources.
+* Limits:  Cooling-off periods (self-exclusion) can be requested from support. [SOURCE: sigma.world | 2024-11-26 | Text] Other limits not specified.
+
+7. CUSTOMER SUPPORT
+
+* Hours: 24/7 availability claimed for live chat. [SOURCE: casinomeister.com | 2024-11-26 | Text]  Availability for other channels not specified.
+* Languages: English, French, Finnish, Portuguese, Norwegian, Polish, Russian. [SOURCE: sigma.world | 2024-11-26 | Text] Multiple dialects of English also supported (British, Australian, New Zealand, Canadian). [SOURCE: sigma.world | 2024-11-26 | Text]
+* Response: Live chat response time claimed to be under 10 seconds. [SOURCE: irishluck.ie | 2024-11-26 | Text]  Response times for other channels not specified.
+* Quality: Generally positive reviews, with helpful and polite agents reported. [SOURCE: irishluck.ie | 2024-11-26 | Text]  Lack of a comprehensive FAQ section noted as a drawback. [SOURCE: irishluck.ie | 2024-11-26 | Text]
+
+8. USER EXPERIENCE
+
+* Mobile:  Mobile site described as responsive and easy to navigate. [SOURCE: sigma.world, maharashtra.gov.in | 2024-11-26, 2024-10-24 | Text]  No dedicated app mentioned. [SOURCE: gamblincolors.com | 2024-08-14 | Text]
+* Desktop:  Desktop site design described as simple and intuitive, with quick response times. [SOURCE: casinomeister.com | 2024-11-26 | Text] Some find the design uninspiring. [SOURCE: offshoresportsbooks.com | 2024-11-26 | Text]
+* Features: Search function available, other features not detailed. [SOURCE: worldpokerdeals.com | 2024-04-26 | Text]
+* Issues: No major technical issues reported.
+
+9. REPUTATION & REVIEWS
+
+* Ratings:  Mixed reviews. Some praise the game selection, bonuses, and payment methods. [SOURCE: irishluck.ie | 2024-11-26 | Text] Others point out the high wagering requirements and low withdrawal limits. [SOURCE: irishluck.ie | 2024-11-26 | Text] One source gives an overall rating of 4.5/5. [SOURCE: sigma.world | 2024-11-26 | Text] Another gives a 4.6/5 rating. [SOURCE: thesportsgeek.com | 2024-11-07 | Text]
+* Complaints:  See "Issues" under Licensing & Compliance.
+* Awards: Not mentioned in sources.
+* History: Launched in August 2021. [SOURCE: casinomeister.com | 2024-11-26 | Text]
+
+10. INDUSTRY POSITION
+
+* Partnerships: Not detailed in sources.
+* Sponsorships: Not mentioned in sources.
+* Innovation: iCoins program, integration of NFTs in some games (Victoria Wild West mentioned in one source, but this might not be a standard iWild Casino feature). [SOURCE: reddit.com, cision.com | 2024-11-29, 2023-06-15 | Text]
+* Competition: Large game portfolio, crypto-friendly options, generous bonuses (though with high wagering requirements). [SOURCE: Various sources | Various Dates | Text]  Faces competition from other crypto casinos like Wazbee, Nummus, and Tsars. [SOURCE: coingabbar.com | 2024-10-17 | Text]
+
+
+Note: This information is current as of December 9, 2024, and may change.  Some information is missing or incomplete due to limitations in the provided sources.  Inconsistencies between sources, such as the total number of games, have been noted.

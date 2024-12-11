@@ -1,0 +1,66 @@
+* Category: Wazamba Casino Analysis [SOURCE: Synthesized from provided sources | 2024-12-09 | Aggregated Review]
+
+1. TECHNICAL SPECS
+* Platform:  Uses a variety of software from over 130 providers.  [SOURCE: alkesoccer.com | No date | Text]
+* Mobile: Compatible with iOS and Android devices, though a dedicated app is not available.  Players access the casino through their mobile browsers. [SOURCE: casinoreviews.net, maryvaleqld.com.au | 2024-11-05, No date | Text]
+* Features: Offers a wide variety of game types, including slots, table games, live dealer games, and a sportsbook.  A unique feature is the gamified rewards system with avatars, masks, and achievements. [SOURCE: casino.org, maryvaleqld.com.au | No date | Text]
+* Security:  Licensed in Curacao.  Concerns about data protection from third parties have been raised. [SOURCE: cryptomaniaks.com | 2024-09-20 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses:  Curacao Gaming License. [SOURCE: casinoreviews.net | 2024-11-05 | Text]
+* Ownership: Owned by Rabidi N.V. [SOURCE: casino.org | No date | Text]
+* Restrictions: Players from the United States are not accepted. [SOURCE: casinoreviews.net | 2024-11-05 | Text]
+* Issues:  Some reviewers consider the Curacao license to not be the strongest in terms of player protection.  Data privacy concerns have also been noted. [SOURCE: casinoreviews.net, cryptomaniaks.com | 2024-11-05, 2024-09-20 | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods:  E-wallets, Visa, MasterCard, and cryptocurrencies (e.g., Ethereum, Litecoin, Bitcoin). [SOURCE: alkesoccer.com, sigma.world | No date | Text]
+* Crypto: Bitcoin, Ethereum, Litecoin are specifically mentioned. [SOURCE: sigma.world, alkesoccer.com | No date | Text]
+* KYC:  Not specified in provided sources.
+* Limits: Minimum deposit for the welcome bonus is €10 or 0.50 mBTC. Withdrawal limits are considered low by at least one source. [SOURCE: casinoreviews.net, sigma.world | 2024-11-05, No date | Text]
+* Times: Not specified in provided sources.
+* Fees: Not specified in provided sources.
+
+4. GAME PORTFOLIO
+* Total: Over 4,000 games, with some sources claiming over 5,000. [SOURCE: casino.org, casinoreviews.net, sigma.world | No date | Text]
+* Popular Slots: Not specified in provided sources.
+* Table Games: Offers classic table games like blackjack, roulette, and baccarat. [SOURCE: alkesoccer.com | No date | Text]
+* Live: Offers over 200 live casino games, including blackjack, roulette, baccarat, and game shows. [SOURCE: casino.org, alkesoccer.com | No date | Text]
+* Sports:  Has a sportsbook. [SOURCE: cryptomaniaks.com | 2024-09-20 | Text]
+* Providers: Over 130 providers, including NetEnt, Play'n GO, Pragmatic Play, and Evolution Gaming (implied by live casino offerings). [SOURCE: sigma.world, alkesoccer.com | No date | Text]
+* Jackpots: Offers jackpot games. [SOURCE: alkesoccer.com | No date | Text]
+
+5. BONUS STRUCTURE
+* Welcome: 100% up to €500 (or currency equivalent, e.g. $750 or $4000) + 200 free spins + Bonus Crab Grab. A separate crypto welcome bonus is 50% up to 50 mBTC + 100 free spins. [SOURCE: casino.org, sigma.world, youtube.com | No date, 2024-03-03 | Text]
+* Wagering: Not specified in provided sources.
+* Loyalty: VIP program with exclusive benefits. [SOURCE: youtube.com | 2024-03-03 | Text]
+* Restrictions: Minimum deposit for welcome bonus is €10 or 0.5 mBTC. [SOURCE: sigma.world | No date | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Self-assessment tool, deposit limits, and links to professional help providers. [SOURCE: alkesoccer.com | No date | Text]
+* Partners:  Not specified, but a YouTube video mentions GambleAware New South Wales. [SOURCE: youtube.com | 2024-03-03 | Video]
+* Policies: Committed to responsible gambling practices. [SOURCE: alkesoccer.com | No date | Text]
+* Limits: Deposit limits and game restrictions are available. [SOURCE: alkesoccer.com | No date | Text]
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability via live chat and email. [SOURCE: freetips.com | No date | Text]
+* Languages: Support available in at least eight languages, including Czech, English, Finnish, German, Hungarian, Italian, Norwegian, and Russian. [SOURCE: casinoreviews.net, freetips.com | 2024-11-05, No date | Text]
+* Response: Queries are answered quickly according to one source. [SOURCE: casinoreviews.net | 2024-11-05 | Text]
+* Quality: Described as highly qualified professionals. [SOURCE: sigma.world | No date | Text]
+
+8. USER EXPERIENCE
+* Mobile: No dedicated app, accessed through mobile browser. [SOURCE: maryvaleqld.com.au | No date | Text]
+* Desktop: Described as having a unique and immersive jungle theme. [SOURCE: sigma.world | No date | Text]
+* Features: Search function available for games. Filtering could be improved. [SOURCE: casinoreviews.net | 2024-11-05 | Text]
+* Issues: No specific technical issues reported, but the lack of a dedicated mobile app might be considered a drawback by some. [SOURCE: maryvaleqld.com.au | No date | Text]
+
+9. REPUTATION & REVIEWS
+* Ratings:  One source gives a 90/100 rating, while another gives 4.5/5. [SOURCE: casinoreviews.net, sigma.world | 2024-11-05, No date | Text]
+* Complaints: Some complaints regarding low withdrawal limits and data privacy concerns. [SOURCE: casinoreviews.net, cryptomaniaks.com | 2024-11-05, 2024-09-20 | Text]
+* Awards: Several prestigious industry awards mentioned. [SOURCE: casino.org | No date | Text]
+* History: Launched in 2019. [SOURCE: casino.org | No date | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Works with over 130 game providers. [SOURCE: alkesoccer.com | No date | Text]
+* Sponsorships: Not specified in provided sources.
+* Innovation: Gamified reward system with avatars and masks. [SOURCE: maryvaleqld.com.au | No date | Text]
+* Competition: Wide game selection, unique theme, and crypto payment options are key differentiators. [SOURCE: casino.org, sigma.world, alkesoccer.com | No date | Text]

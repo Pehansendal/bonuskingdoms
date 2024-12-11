@@ -1,0 +1,66 @@
+* Category: Thunderpick Casino Analysis [SOURCE: User Prompt | 2024-12-09 | Text]
+
+1. TECHNICAL SPECS
+* Platform:  Information not available in provided sources.
+* Mobile: Accessible through mobile browsers. Does not support landscape mode. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* Features: Live streams, two-factor authentication, search functionality, filters. [SOURCE: evilgeniuses.gg | No Date | Website, thesportsgeek.com | 2024-03-06 | Article, cryptomaniaks.com | 2024-09-20 | Article]
+* Security: SSL encryption, two-factor authentication. Operates under a Curaçao license. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+
+2. LICENSING & COMPLIANCE
+* Licenses:  Curaçao. [SOURCE: bitcoin.com | No Date | Website, thesportsgeek.com | 2024-03-06 | Article, wizardofodds.com | No Date | Website]
+* Ownership: Paloma Media BV. [SOURCE: wizardofodds.com | No Date | Website]
+* Restrictions: Limited accessibility due to licensing; only available in select countries. [SOURCE: bitcoin.com | No Date | Website]
+* Issues: Withdrawal delays, confiscated funds, subpar player experiences, ID verification issues reported. [SOURCE: ccn.com | 2024-06-20 | Article]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Crypto-only; 13 options including Bitcoin. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* Crypto: Bitcoin and 12 other unspecified cryptocurrencies. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* KYC:  Information not available in provided sources.
+* Limits: Minimum deposit of €1. Higher withdrawal limits for VIP members. [SOURCE: thesportsgeek.com | 2024-03-06 | Article, irishluck.ie | No Date | Website]
+* Times: Information not available in provided sources.
+* Fees: No fees for VIP members. Information on fees for regular users not available. [SOURCE: cryptomaniaks.com | 2024-09-20 | Article]
+
+4. GAME PORTFOLIO
+* Total: Over 4,000 casino games. [SOURCE: bitcoin.com | No Date | Website]
+* Popular Slots: Information not available in provided sources.
+* Table Games: Live blackjack, roulette, baccarat, video poker, poker, and specialty games like Sweet Bonanza Candyland. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* Live: Over 140 live casino games, mostly from Evolution Gaming. Offers live blackjack, roulette, baccarat, video poker, poker, and specialty games. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* Sports: Wide selection of esports betting options, including CS:GO, Dota 2, League of Legends, and Overwatch. Traditional sports betting also available. [SOURCE: evilgeniuses.gg | No Date | Website, casinosblockchain.io | 2024-08-17 | Article, tracxn.com | No Date | Website]
+* Providers: Evolution Gaming, Pragmatic Play, Play'n GO, BGaming. [SOURCE: thesportsgeek.com | 2024-03-06 | Article, casinosblockchain.io | 2024-08-17 | Article]
+* Jackpots: Information not available in provided sources.
+
+5. BONUS STRUCTURE
+* Welcome: 5% deposit bonus up to €500 (using promo code), or 100% up to €2000. [SOURCE: irishluck.ie | No Date | Website]
+* Wagering: 40x rollover requirement for the 100% welcome bonus. [SOURCE: irishluck.ie | No Date | Website]
+* Loyalty: VIP program with personal manager, rewards, higher withdrawal limits, no fees, regular bonuses, and gifts. Access is by invitation only. [SOURCE: irishluck.ie | No Date | Website, cryptomaniaks.com | 2024-09-20 | Article]
+* Restrictions: €20 minimum deposit for the 100% welcome bonus. Other restrictions not specified. [SOURCE: irishluck.ie | No Date | Website]
+
+6. RESPONSIBLE GAMING
+* Tools: Disabling certain features. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* Partners: GamCare. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* Policies:  Information not fully available. Promotes responsible gaming and aims to prevent underage gambling. [SOURCE: evilgeniuses.gg | No Date | Website]
+* Limits: Information not available in provided sources.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 live chat available (English only). [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* Languages: English (live chat). Other languages may be supported through email or social media. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* Response: Information not available in provided sources. Live chat described as "much quicker" than email. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* Quality: Described as "friendly and knowledgeable." [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+
+8. USER EXPERIENCE
+* Mobile:  Does not support landscape mode. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* Desktop:  Functional and user-friendly platform with a stylish and classy design.  Homepage can appear busy, similar to a stock market page. [SOURCE: wizardofodds.com | No Date | Website, thesportsgeek.com | 2024-03-06 | Article]
+* Features: Search, filters. [SOURCE: cryptomaniaks.com | 2024-09-20 | Article]
+* Issues: Homepage can appear busy, similar to a stock market page. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+
+9. REPUTATION & REVIEWS
+* Ratings: 2.7 on TrustPilot (more than half of the reviews are 5 stars). 3.1 out of 5 on Wizard of Odds. 4.6 out of 5 on IrishLuck. [SOURCE: ccn.com | 2024-06-20 | Article, wizardofodds.com | No Date | Website, irishluck.ie | No Date | Website]
+* Complaints: Withdrawal delays, confiscated funds, bad player experience, ID verification issues. [SOURCE: ccn.com | 2024-06-20 | Article]
+* Awards: Information not available in provided sources.
+* History: Established in 2017. [SOURCE: bitcoin.com | No Date | Website]
+
+10. INDUSTRY POSITION
+* Partnerships: Evil Geniuses (official crypto esports casino and gambling partner). [SOURCE: evilgeniuses.gg | No Date | Website]
+* Sponsorships:  Information not available in provided sources, but likely sponsors activities related to esports.
+* Innovation: Crypto-only platform with a focus on esports. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]
+* Competition: Offers a large selection of esports betting markets and casino games, including a wide variety of live dealer options. [SOURCE: thesportsgeek.com | 2024-03-06 | Article]

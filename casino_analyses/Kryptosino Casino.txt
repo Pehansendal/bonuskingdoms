@@ -1,0 +1,69 @@
+* Kryptosino Casino Analysis (as of 2024-12-09)
+
+1. TECHNICAL SPECS
+* Platform:  Information not available.
+* Mobile: Kryptosino Casino offers a mobile app. [SOURCE: alice.co.nz | No date | Website]  It is also accessible via mobile browsers. [SOURCE: hismile.com.my | 2024-11-26 | Website]
+* Features: Supports cryptocurrency payments, offers over 2000 slots, table games, and live dealer games. [SOURCE: alice.co.nz | No date | Website] Also features a "Bonus Buy" slots category. [SOURCE: quadmsolutions.com | 2024-10-24 | Website]  Includes a loyalty scheme. [SOURCE: wizardofodds.com | 2023-12-15 | Website]
+* Security: Employs advanced encryption. [SOURCE: alice.co.nz | No date | Website]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Licensed and regulated by Antillephone N.V. in Curaçao. [SOURCE: wizardofodds.com | 2023-12-15 | Website]
+* Ownership: Owned and operated by Versus Odds B.V., headquartered in Willemstad, Curaçao. [SOURCE: wizardofodds.com | 2023-12-15 | Website]
+* Restrictions:  Information not available, but primarily targets players in Canada, Germany, France, Norway, Denmark, and Sweden. [SOURCE: wizardofodds.com | 2023-12-15 | Website]
+* Issues: A player from Finland reported being disqualified from a leaderboard and denied winnings. [SOURCE: kasinoguru-bg.com | 2024-11-11 | Website] A player from Greece reported delayed withdrawals. [SOURCE: casino.guru | No date | Website]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Accepts cryptocurrency, credit/debit cards. [SOURCE: alice.co.nz | No date | Website]
+* Crypto: Specific cryptocurrencies accepted not specified.
+* KYC:  Information not available. The player from Greece mentioned being fully verified. [SOURCE: casino.guru | No date | Website]
+* Limits: Minimum deposit is €20. [SOURCE: wizardofodds.com | 2023-12-15 | Website] Minimum withdrawal is €30. [SOURCE: wizardofodds.com | 2023-12-15 | Website] Withdrawal limit is 0.52 BTC/$10,000 per transaction. [SOURCE: wizardofodds.com | 2023-12-15 | Website] A player from Greece mentioned a €5,000 weekly withdrawal limit. [SOURCE: casino.guru | No date | Website]
+* Times: Withdrawal times: KYC up to 24 hours, e-wallets up to 24 hours, bank transfer up to 4 business days. [SOURCE: wizardofodds.com | 2023-12-15 | Website]  "Fast withdrawals" are advertised, with a maximum processing time of 48 hours. [SOURCE: casino.guru | No date | Website]
+* Fees: Information not available.
+
+4. GAME PORTFOLIO
+* Total: Over 5,000 games. [SOURCE: quadmsolutions.com | 2024-10-24 | Website] Over 2,000 slots. [SOURCE: alice.co.nz | No date | Website]
+* Popular Slots: Specific titles and RTPs not listed.  Includes games from providers like NetEnt, Microgaming, and Big Time Gaming. [SOURCE: quadmsolutions.com | 2024-10-24 | Website]
+* Table Games:  Information not available.
+* Live: Information not available.  Live dealer games are offered. [SOURCE: alice.co.nz | No date | Website]
+* Sports: Information not available.
+* Providers: NetEnt, Microgaming, Big Time Gaming. [SOURCE: quadmsolutions.com | 2024-10-24 | Website]
+* Jackpots: Offers a selection of jackpot games. [SOURCE: quadmsolutions.com | 2024-10-24 | Website]
+
+5. BONUS STRUCTURE
+* Welcome: 100% up to $500 with a 1x wagering requirement on slots. [SOURCE: wizardofodds.com | 2023-12-15 | Website] Minimum deposit is $20. Maximum bet while the bonus is active is $6. [SOURCE: wizardofodds.com | 2023-12-15 | Website]
+* Wagering: 1x on slots for the welcome bonus. [SOURCE: wizardofodds.com | 2023-12-15 | Website]
+* Loyalty:  Includes bonuses and prizes. [SOURCE: wizardofodds.com | 2023-12-15 | Website] Specific details not provided.
+* Restrictions: Certain games are restricted while the bonus is active. [SOURCE: wizardofodds.com | 2023-12-15 | Website]  Maximum cashout for the welcome bonus is 5 times the bonus amount. [SOURCE: wizardofodds.com | 2023-12-15 | Website]
+
+6. RESPONSIBLE GAMING
+* Tools: Information not available.
+* Partners: Information not available.
+* Policies: Information not available.
+* Limits: Information not available.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability via live chat and email. [SOURCE: alice.co.nz | No date | Website]
+* Languages: Information not available.
+* Response: Information not available.  A player reported difficulty getting timely responses from VIP support and the finance department. [SOURCE: casino.guru | No date | Website]
+* Quality: Information not available.
+
+8. USER EXPERIENCE
+* Mobile:  Offers a mobile app. [SOURCE: alice.co.nz | No date | Website]
+* Desktop: Information not available. Described as well-organized and user-friendly. [SOURCE: wizardofodds.com | 2023-12-15 | Website]
+* Features: Information not available.
+* Issues: Information not available.
+
+9. REPUTATION & REVIEWS
+* Ratings: Information not available. 539 reviews and 761 million downloads mentioned, but the platform is not specified. [SOURCE: pup.ac.in | 2024-11-27 | Website]
+* Complaints: Player complaints about leaderboard disqualification and delayed withdrawals. [SOURCE: kasinoguru-bg.com | 2024-11-11 | Website], [SOURCE: casino.guru | No date | Website]
+* Awards: Information not available.
+* History: Information not available.
+
+10. INDUSTRY POSITION
+* Partnerships: Information not available.
+* Sponsorships: Information not available.
+* Innovation: Crypto-inclined approach. [SOURCE: quadmsolutions.com | 2024-10-24 | Website]  Offers instant rakeback and cashback. [SOURCE: quadmsolutions.com | 2024-10-24 | Website]
+* Competition:  Information not available.
+
+
+Note: This information is based on the available sources and is current as of 2024-12-09.  Some information is missing or incomplete.  There are inconsistencies regarding the total number of games offered.

@@ -1,0 +1,66 @@
+* Category: Sloterra Casino Analysis [ | 2024-12-09 | Text]
+
+1. TECHNICAL SPECS
+* Platform:  No information available in the sources about specific software provider and tech stack. The casino offers an Android app. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text], [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text]
+* Mobile: Accessible on mobile browsers, Android app available, no iOS app. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text], [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text]
+* Features:  Intuitive and colorful website design, simple interface, quick registration process. Offers various game categories including slots, live dealers, crypto casino games, table games, and jackpots. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text]
+* Security: Uses SSL encryption. Tested quarterly by PCI DSS. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text], [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Licensed by Curaçao eGaming. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text], [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text]
+* Ownership: Owned by Mudanimation N.V. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text]
+* Restrictions: Content mentioning bonuses, promotions, wagering, or free spins is not intended for users in Ontario. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text]
+* Issues: Some sources report higher wagering requirements on bonuses. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text] Customer support is not 24/7 and lacks phone support. [SOURCE: wizardofodds.com/online-casinos/reviews/sloterra-casino/ | 2024-01-12 | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Supports both fiat and cryptocurrencies. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text] Specific methods not listed in sources.
+* Crypto: Specific cryptocurrencies supported not detailed in sources.
+* KYC: Required documents, verification time, and limits before KYC not specified in sources.
+* Limits: Minimum deposit C$10 (C$30 for bonuses), Minimum withdrawal €20, Cashout Limit €5,000 Daily/€10,000 Weekly/€30,000 Monthly. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text], [SOURCE: wizardofodds.com/online-casinos/reviews/sloterra-casino/ | 2024-01-12 | Text]
+* Times: Cashout speed: 1-3 business days. KYC: 24 hours; Pending time: 24 hours; Processing time: 24 hours. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text], [SOURCE: wizardofodds.com/online-casinos/reviews/sloterra-casino/ | 2024-01-12 | Text]
+* Fees: Fee structure not detailed in provided sources.
+
+4. GAME PORTFOLIO
+* Total: Over 3,700 (some sources state over 4,000) [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text], [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text]
+* Popular Slots: Top 10 slots and RTP not specified in sources.
+* Table Games: Available variants and limits not detailed in sources.
+* Live: Over 200 live dealer games including VIP Roulette, Monopoly Live, Boom City, and Emerald Blackjack. Specific table limits and variety not available in sources. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text]
+* Sports: Information on available sports markets and odds not found in sources.
+* Providers: 40+ providers including Evolution Gaming, Pragmatic Play, NetEnt, Felt Gaming, Nolimit City, Microgaming, Wazdan, Quickspin. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text], [SOURCE: wizardofodds.com/online-casinos/reviews/sloterra-casino/ | 2024-01-12 | Text]
+* Jackpots: Information on progressive and fixed jackpot games not available in sources.
+
+5. BONUS STRUCTURE
+* Welcome: Welcome package across first four deposits. 1st: 100% up to C$1,500 + 100 free spins; 2nd: 50% up to C$2,000 + 50 free spins; 3rd: 75% up to C$2,800; 4th: 100% up to C$4,300. Other welcome bonus amounts mentioned in different sources. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text], [SOURCE: bookies.com/online-casinos/ireland | Text]
+* Wagering: 45x wagering requirement. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text]
+* Loyalty: 8-level VIP program with various rewards for each level. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text] Specific details not provided.
+* Restrictions: Different minimum deposit amounts required to activate each deposit bonus. 7 days to claim each bonus and another 7 days to meet wagering requirements. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Deposit limits, self-exclusion (1 to 7 days). [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text], [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text], [SOURCE: wizardofodds.com/online-casinos/reviews/sloterra-casino/ | 2024-01-12 | Text]
+* Partners: Responsible gambling partnerships not specified in sources.
+* Policies: Promotes responsible gambling and encourages breaks and self-exclusion if needed. [SOURCE: wizardofodds.com/online-casinos/reviews/sloterra-casino/ | 2024-01-12 | Text] Further details on guidelines not available.
+* Limits: Spending/loss limits available. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text] Information on reality checks and cooling-off periods not found in sources.
+
+7. CUSTOMER SUPPORT
+* Hours: Available from 10:00 to 00:00 (CET) daily. One source mentions 24/7 availability but doesn't specify for which channels. [SOURCE: wizardofodds.com/online-casinos/reviews/sloterra-casino/ | 2024-01-12 | Text], [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text]
+* Languages: Supported languages and service levels not detailed in sources.
+* Response: Typical response time under one minute via live chat and email (during operating hours). [SOURCE: wizardofodds.com/online-casinos/reviews/sloterra-casino/ | 2024-01-12 | Text]
+* Quality: Resolution rates and customer satisfaction not specified in sources. FAQ section available. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-07-24 | Text]
+
+8. USER EXPERIENCE
+* Mobile: Smooth interface, quick loading on smartphones. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text] Specific load times and app performance metrics not available.
+* Desktop: Smooth and quick loading interface. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text] Detailed information on navigation and functionality not provided.
+* Features: Information on search functions, filters, and personalization options not available in sources.
+* Issues: Specific reported technical problems not mentioned in sources.
+
+9. REPUTATION & REVIEWS
+* Ratings: Specific ratings from Trustpilot and AskGamblers not provided in sources. One source rates the casino 4.6/5 overall. [SOURCE: gambling.com/online-casinos/reviews/sloterra-casino | 2024-10-18 | Text]
+* Complaints: Common issues and their resolution not detailed in sources.
+* Awards: Industry awards and recognition not mentioned in sources.
+* History: Past incidents and resolutions not available in sources.
+
+10. INDUSTRY POSITION
+* Partnerships: Exclusive provider deals not specified in sources.
+* Sponsorships: Information on sponsorships not found in sources.
+* Innovation: Unique features and offerings not detailed in sources.
+* Competition: Key differentiators not mentioned in sources.

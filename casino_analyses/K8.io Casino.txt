@@ -1,0 +1,69 @@
+* Category: Casino Analysis [SOURCE: User Prompt | 2024-12-09 | User Prompt]
+
+1. TECHNICAL SPECS
+* Platform: Several software providers including Asia Gaming, AvatarUX, Bgaming, Big Time Gaming, Blueprint Gaming, Booming Games, Caleta Gaming, Evolution Gaming, Games Global, Pragmatic Play. [SOURCE: irishluck.ie | No date | Website], [SOURCE: cryptonewsz.com | 2024-10-18 | Website], [SOURCE: strafe.com | No date | Website]
+* Mobile: Mobile-friendly site. No dedicated app mentioned. [SOURCE: cryptonewsz.com | 2024-10-18 | Website]
+* Features:  Sportsbook, blockchain games, crypto gambling, live casino, slots, poker, table games. [SOURCE: irishluck.ie | No date | Website], [SOURCE: cryptonewsz.com | 2024-10-18 | Website], [SOURCE: strafe.com | No date | Website]
+* Security:  Uses SSL encryption.  RNG certified for fairness and compliance. [SOURCE: irishluck.ie | No date | Website], [SOURCE: playfina.com | No date | Website]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao eGaming Authority. [SOURCE: irishluck.ie | No date | Website], [SOURCE: cryptonewsz.com | 2024-10-18 | Website], [SOURCE: strafe.com | No date | Website]
+* Ownership: Westward Way Tech N.V. [SOURCE: strafe.com | No date | Website]
+* Restrictions: Curacao, Saba, USA, Spain, Australia, Aruba, France, Netherlands, Bonaire, Statia, St Martin, and UK. [SOURCE: cryptonewsz.com | 2024-10-18 | Website]
+* Issues: Lack of fiat payment methods. [SOURCE: irishluck.ie | No date | Website]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Cryptocurrency. [SOURCE: cryptonewsz.com | 2024-10-18 | Website]
+* Crypto: BTC, USDT, ETH, USDC, TRX, BCH, LTC, XRP, BNB, DOGE, BUSD, APE, CRO, LINK, SAND, UNI, SHIB, DAI. [SOURCE: cryptonewsz.com | 2024-10-18 | Website], [SOURCE: strafe.com | No date | Website]
+* KYC:  KYC procedures are in place during registration. [SOURCE: irishluck.ie | No date | Website]
+* Limits: Variable minimum deposit and withdrawal amounts. [SOURCE: cryptonewsz.com | 2024-10-18 | Website]
+* Times: Withdrawal times vary depending on the payment method. [SOURCE: cryptonewsz.com | 2024-10-18 | Website]
+* Fees: Not specified.
+
+4. GAME PORTFOLIO
+* Total: Over 5,000 games, over 4,000 games, over 2,800 titles. Inconsistent information found. [SOURCE: cryptonewsz.com | 2024-10-18 | Website], [SOURCE: 99bitcoins.com | 2024-12-02 | Website], [SOURCE: tekedia.com | 2023-06-19 | Website]
+* Popular Slots: Not specified.
+* Table Games: Available, but specific variants and limits not listed. [SOURCE: cryptonewsz.com | 2024-10-18 | Website]
+* Live: Live casino available. Room details and limits not provided. [SOURCE: cryptonewsz.com | 2024-10-18 | Website], [SOURCE: 99bitcoins.com | 2024-12-02 | Website]
+* Sports: Sportsbook available. Specific markets and odds not detailed. [SOURCE: cryptonewsz.com | 2024-10-18 | Website]
+* Providers:  See "Platform" in Technical Specs.
+* Jackpots: Not specified.
+
+5. BONUS STRUCTURE
+* Welcome: 100% up to $2000, 100% up to €800, 100% up to $800. Inconsistent information found. [SOURCE: cryptonewsz.com | 2024-10-18 | Website], [SOURCE: irishluck.ie | No date | Website], [SOURCE: cardplayer.com | 2024-12-06 | Website]
+* Wagering: 25x on first deposit bonus. [SOURCE: cardplayer.com | 2024-12-06 | Website]
+* Loyalty: VIP program available. Specific details not provided. [SOURCE: cryptonewsz.com | 2024-10-18 | Website]
+* Restrictions: Not specified beyond welcome bonus wagering.
+
+6. RESPONSIBLE GAMING
+* Tools: Not specified.
+* Partners:  BeGambleAware. [SOURCE: strafe.com | No date | Website]
+* Policies: Not detailed.
+* Limits: Not specified.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability via live chat, email, and help center. [SOURCE: cryptonewsz.com | 2024-10-18 | Website], [SOURCE: strafe.com | No date | Website]
+* Languages: 13 languages supported. Specific languages and service levels not listed. [SOURCE: cryptonewsz.com | 2024-10-18 | Website]
+* Response: Not specified.
+* Quality: Not specified.
+
+8. USER EXPERIENCE
+* Mobile: Not specified beyond mobile-friendly site.
+* Desktop:  Sleek and intuitive interface. [SOURCE: irishluck.ie | No date | Website]
+* Features: Not specified.
+* Issues: Not specified.
+
+9. REPUTATION & REVIEWS
+* Ratings: 3.8/5, 4.4/5. Inconsistent information found. [SOURCE: strafe.com | No date | Website], [SOURCE: irishluck.ie | No date | Website]
+* Complaints: Not specified.
+* Awards: Not specified.
+* History: Founded in 2013. [SOURCE: cryptonewsz.com | 2024-10-18 | Website]
+
+10. INDUSTRY POSITION
+* Partnerships: Yaya Toure and Wesley Sneijder as brand ambassadors. [SOURCE: irishluck.ie | No date | Website]
+* Sponsorships: Not specified.
+* Innovation: Blockchain games and crypto integration. [SOURCE: irishluck.ie | No date | Website]
+* Competition: Not specified.
+
+
+Note: Information may be incomplete or inconsistent across sources.  This analysis is current as of 2024-12-09 and may change over time.

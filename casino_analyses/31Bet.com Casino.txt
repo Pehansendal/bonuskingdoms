@@ -1,0 +1,68 @@
+* 31Bet Casino Analysis (as of 2024-12-09)
+
+1. TECHNICAL SPECS
+* Platform:  Not specified in the sources. [Missing Information]
+* Mobile: Mobile-friendly website compatible with various smartphones; no dedicated app. [SOURCE: sigma.world | 2024 | Review], [SOURCE: ghanasoccernet.com | 2024 | Review], [SOURCE: betexplorer.com | 2024 | Review], [SOURCE: betpack.co.nz | 2024-11-10 | Review], [SOURCE: norskespilleautomater.com | 2024 | Review]
+* Features: Sports betting (traditional and esports), casino games, live casino, Spaceman, virtual sports. [SOURCE: sigma.world | 2024 | Review], [SOURCE: ghanasoccernet.com | 2024 | Review], [SOURCE: irishluck.ie | 2024 | Review], [SOURCE: betpack.co.nz | 2024-11-10 | Review], [SOURCE: strafe.com | 2024 | Review]
+* Security:  Uses SSL encryption. eCOGRA certified.  [SOURCE: betexplorer.com | 2024 | Review], [SOURCE: strafe.com | 2024 | Review] [Information about RNG is missing]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Malta Gaming Authority (MGA). [SOURCE: ghanasoccernet.com | 2024 | Review], [SOURCE: irishluck.ie | 2024 | Review], [SOURCE: betpack.co.nz | 2024-11-10 | Review], [SOURCE: wizardofodds.com | 2023-12-15 | Review], [SOURCE: strafe.com | 2024 | Review]
+* Ownership: ONYXION MALTA LIMITED. [SOURCE: ghanasoccernet.com | 2024 | Review], [SOURCE: egybrit.com | 2024 | Article], [SOURCE: strafe.com | 2024 | Review]
+* Restrictions: Several countries restricted, including some in the Americas, Europe, Asia, and Africa.  A full list is available at [SOURCE: sigma.world | 2024 | Review]. Further restrictions apply to the Spaceman game. [SOURCE: sigma.world | 2024 | Review]
+* Issues: Player complaints about delayed withdrawals and verification issues. [SOURCE: reddit.com | 2023-05-13 | Forum Post], [SOURCE: casino.guru | 2024 | Complaint], [SOURCE: casino.guru | 2024 | Complaint]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, Mastercard, Bank Transfer, Skrill, Neteller, Paysafecard, MoneySafe, Interac, AstroPay Direct, Rapid Transfer, Sofort, Zimpler, Pix, MiFinity, JCB, EcoPayz. Various cryptocurrencies also accepted. [SOURCE: sigma.world | 2024 | Review], [SOURCE: sigma.world | 2024 | Review], [SOURCE: ghanasoccernet.com | 2024 | Review], [SOURCE: betexplorer.com | 2024 | Review], [SOURCE: betpack.co.nz | 2024-11-10 | Review], [SOURCE: egybrit.com | 2024 | Article], [SOURCE: wizardofodds.com | 2023-12-15 | Review], [SOURCE: strafe.com | 2024 | Review], [SOURCE: brasil247.com | 2024 | Review]
+* Crypto: Specific cryptocurrencies not listed in sources. [Missing Information]
+* KYC: Requires documents for identity and address verification. May require video selfie with documents. Payment method must be verified within 30 days.  [SOURCE: sigma.world | 2024 | Review], [SOURCE: egybrit.com | 2024 | Article], [SOURCE: casino.guru | 2024 | Complaint], [SOURCE: reddit.com | 2023-05-13 | Forum Post] Limits before KYC not specified.
+* Limits: Minimum deposit generally €10, except €50 for bank transfers.  Maximum withdrawal €10,000 per week. Daily winnings capped at €20,000, weekly winnings at €45,000. Transactions over €2,000 may require further verification. [SOURCE: sigma.world | 2024 | Review], [SOURCE: ghanasoccernet.com | 2024 | Review], [SOURCE: betexplorer.com | 2024 | Review]
+* Times: Deposits generally instant. Withdrawals 24 hours to 5 business days. [SOURCE: ghanasoccernet.com | 2024 | Review], [SOURCE: betexplorer.com | 2024 | Review]
+* Fees: No withdrawal fees mentioned. [SOURCE: ghanasoccernet.com | 2024 | Review], [SOURCE: betexplorer.com | 2024 | Review] Deposit fees not specified.
+
+4. GAME PORTFOLIO
+* Total: Over 3,000 casino games, plus sports betting markets. [SOURCE: irishluck.ie | 2024 | Review], [SOURCE: strafe.com | 2024 | Review], [SOURCE: norskespilleautomater.com | 2024 | Review]
+* Popular Slots: Not listed with RTP in sources. [Missing Information]
+* Table Games: Roulette, Blackjack, Baccarat, Dragon Tiger, Barbut (Sic Bo). Limits not specified. [SOURCE: sigma.world | 2024 | Review]
+* Live:  Live Roulette, Blackjack, Baccarat, Game Shows. Room details and limits not specified. [SOURCE: sigma.world | 2024 | Review]
+* Sports: Wide range of sports, including soccer, basketball, tennis, esports (League of Legends, Starcraft, Dota 2, CS:GO, Valorant), and virtual sports. Odds described as "very competitive." [SOURCE: ghanasoccernet.com | 2024 | Review] Specific odds and markets not detailed.
+* Providers: NetEnt, Betsoft Gaming, Evolution Gaming, iSoftbet, Habanero, Play'n GO, NYX Interactive, GameArt, 1x2Gaming, ELK Studios, Belatra Games, Pragmatic Play, Amatic Industries, Endorphina, Ganapati. [SOURCE: strafe.com | 2024 | Review]
+* Jackpots:  Jackpot games available, but specific titles not listed. [SOURCE: ghanasoccernet.com | 2024 | Review] Types of jackpots (progressive/fixed) not specified.
+
+5. BONUS STRUCTURE
+* Welcome: 100% up to €500 for sports or casino. Other sources mention up to €1000 or €2000. [SOURCE: sigma.world | 2024 | Review], [SOURCE: ghanasoccernet.com | 2024 | Review], [SOURCE: irishluck.ie | 2024 | Review], [SOURCE: betpack.co.nz | 2024-11-10 | Review]
+* Wagering: 35x deposit and bonus for casino welcome bonus. One-time wagering requirement for each deposit. [SOURCE: sigma.world | 2024 | Review], [SOURCE: irishluck.ie | 2024 | Review]
+* Loyalty: VIP program ("31Bet Casino Club") mentioned but not yet active. [SOURCE: sigma.world | 2024 | Review] Cashback loyalty promotion available. [SOURCE: irishluck.ie | 2024 | Review]
+* Restrictions: Welcome bonus usable only on slots. [SOURCE: irishluck.ie | 2024 | Review] Other bonus limitations not fully specified.
+
+6. RESPONSIBLE GAMING
+* Tools: Self-imposed limits, deposit limits, time limits. [SOURCE: sigma.world | 2024 | Review], [SOURCE: strafe.com | 2024 | Review]
+* Partners: GamCare, GambleAware, BeGambleAware, Gambling Therapy. [SOURCE: betexplorer.com | 2024 | Review]
+* Policies:  Actual guidelines not detailed in sources. [Missing Information]
+* Limits:  Reality checks and cooling-off periods not mentioned. [Missing Information]
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability via live chat and email. [SOURCE: betpack.co.nz | 2024-11-10 | Review], [SOURCE: egybrit.com | 2024 | Article], [SOURCE: strafe.com | 2024 | Review]
+* Languages: English, Spanish, German, French, Portuguese, Norwegian, Finnish, Turkish, Dutch, Italian. [SOURCE: sigma.world | 2024 | Review], [SOURCE: ghanasoccernet.com | 2024 | Review], [SOURCE: strafe.com | 2024 | Review] Service level not specified for each language.
+* Response: Actual response times not provided. [Missing Information]. Complaints about slow responses, especially regarding verification. [SOURCE: reddit.com | 2023-05-13 | Forum Post]
+* Quality: Resolution rates and customer satisfaction not quantified. [Missing Information]
+
+8. USER EXPERIENCE
+* Mobile: Website adapts well to mobile browsers. [SOURCE: betexplorer.com | 2024 | Review], [SOURCE: betpack.co.nz | 2024-11-10 | Review] Some sources note a cluttered website layout. [SOURCE: betpack.co.nz | 2024-11-10 | Review] Specific load times and performance metrics not provided.
+* Desktop: Navigation generally easy, with sports on the left banner and markets in the middle. [SOURCE: betexplorer.com | 2024 | Review] Clean and simple design. [SOURCE: sigma.world | 2024 | Review]
+* Features: Search, filters, and personalization features not detailed. [Missing Information]
+* Issues: No specific technical problems reported apart from withdrawal and verification issues. [SOURCE: reddit.com | 2023-05-13 | Forum Post], [SOURCE: casino.guru | 2024 | Complaint], [SOURCE: casino.guru | 2024 | Complaint]
+
+9. REPUTATION & REVIEWS
+* Ratings: Mixed reviews. Some sources rate it 3/5 or 3.8/5. Trust Index rated "High" by one source. [SOURCE: sigma.world | 2024 | Review], [SOURCE: ghanasoccernet.com | 2024 | Review], [SOURCE: strafe.com | 2024 | Review]
+* Complaints:  Delayed withdrawals and verification difficulties are recurring complaints. [SOURCE: reddit.com | 2023-05-13 | Forum Post], [SOURCE: casino.guru | 2024 | Complaint], [SOURCE: casino.guru | 2024 | Complaint]
+* Awards:  "Safer Gambling Award (2023)" from IGA. [SOURCE: brasil247.com | 2024 | Review]
+* History: Established in 2021. [SOURCE: sigma.world | 2024 | Review]  Past incidents beyond player complaints not detailed.
+
+10. INDUSTRY POSITION
+* Partnerships:  Not specified. [Missing Information]
+* Sponsorships: Not specified. [Missing Information]
+* Innovation: Combo Booster and 3+1 Free Bet offers highlighted as unique promotions. [SOURCE: betexplorer.com | 2024 | Review]
+* Competition: Wide range of betting options and focus on mobile gaming presented as key differentiators. [SOURCE: betpack.co.nz | 2024-11-10 | Review]
+
+Inconsistencies: Different sources provide varying information regarding welcome bonus amounts (€500, €1000, €2000).  This might indicate targeted bonuses for different regions or changes over time.  Clarification is needed.

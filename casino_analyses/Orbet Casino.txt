@@ -1,0 +1,112 @@
+* Category: Orbet Casino Analysis [SOURCE: User Prompt | 2024-12-09 | Text]
+
+There seems to be some confusion with the casino's name. The prompt mentions "Orbet Casino," but some sources refer to "Orbit Exchange," a betting exchange platform.  There's also mention of "Orbit Casino" as a product of 888 Holdings and Delasport's "Orbit" platform for player management. It's unclear whether these are all related or separate entities.  This analysis will attempt to address all mentioned platforms, focusing on the information available for each.
+
+**1. Orbet Casino:**
+
+This casino's information is extremely limited.  One source mentions it's new and difficult to review due to lack of information. Another source lists it as a brand under "Orbet Partners," an affiliate program.  Beyond this, there are no concrete details about its games, licensing, or operations.
+
+*Missing information for all sections.*
+
+**2. Orbit Exchange:**
+
+This platform is described as a betting exchange similar to Betfair, offering various sports betting markets and live casino games. It operates through betting brokers and doesn't have a dedicated mobile app but offers a mobile-optimized website.
+
+1. TECHNICAL SPECS
+* Platform: Powered by Betfair [SOURCE: surebets.bet | 2022-10-26 | Text]
+* Mobile: Mobile-optimized website, no dedicated app [SOURCE: surebets.bet | 2022-10-26 | Text]
+* Features: Sports betting (various markets), Live Casino, In-Play betting [SOURCE: surebets.bet | 2022-10-26 | Text, rumble.com | 2023-08-10 | Video]
+* Security:  *Missing information.*
+
+2. LICENSING & COMPLIANCE
+* Licenses: *Missing information.*
+* Ownership: *Missing information.*
+* Restrictions:  Potentially restricted in some regions due to being a Betfair alternative. [SOURCE: surebets.bet | 2022-10-26 | Text]
+* Issues: *Missing information.*
+
+3. PAYMENT ECOSYSTEM
+* Methods: *Missing information.*
+* Crypto: *Missing information.*
+* KYC: *Missing information.*
+* Limits: *Missing information.*
+* Times: *Missing information.*
+* Fees: No deposit charges except for a 3% fee on card deposits (via BetInAsia). [SOURCE: betinasia.com | No date | Webpage]
+
+4. GAME PORTFOLIO
+* Total: *Missing information.*
+* Popular Slots: *Missing information.*
+* Table Games: Available in Live Casino section (Blackjack, Roulette, Baccarat, etc.) [SOURCE: rumble.com | 2023-08-10 | Video]
+* Live: Various table games with real-life dealers. [SOURCE: rumble.com | 2023-08-10 | Video]
+* Sports: American Football, Baseball, Basketball, Football, Tennis, Cricket, Rugby Union, Horse Racing, Cycling, and more. [SOURCE: surebets.bet | 2022-10-26 | Text]
+* Providers:  *Missing information.*
+* Jackpots: *Missing information.*
+
+5. BONUS STRUCTURE
+* Welcome: *Missing information.*
+* Wagering: *Missing information.*
+* Loyalty: *Missing information.*
+* Restrictions: *Missing information.*
+
+6. RESPONSIBLE GAMING
+* Tools: *Missing information.*
+* Partners: *Missing information.*
+* Policies: *Missing information.*
+* Limits: *Missing information.*
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability through BetInAsia. [SOURCE: betinasia.com | No date | Webpage]
+* Languages:  *Missing information.*
+* Response: *Missing information.*
+* Quality: *Missing information.*
+
+8. USER EXPERIENCE
+* Mobile: Website optimized for mobile use. [SOURCE: surebets.bet | 2022-10-26 | Text]
+* Desktop: *Missing information.*
+* Features: *Missing information.*
+* Issues: *Missing information.*
+
+9. REPUTATION & REVIEWS
+* Ratings: Described as a reputable Betfair alternative. [SOURCE: surebets.bet | 2022-10-26 | Text]
+* Complaints: *Missing information.*
+* Awards: *Missing information.*
+* History: *Missing information.*
+
+10. INDUSTRY POSITION
+* Partnerships: Powered by Betfair. [SOURCE: surebets.bet | 2022-10-26 | Text]
+* Sponsorships: *Missing information.*
+* Innovation: Offers Live Casino and E-Sports betting. [SOURCE: rumble.com | 2023-08-10 | Video]
+* Competition:  Positioned as a key alternative to Betfair, especially for those restricted from Betfair or facing premium charges. [SOURCE: caanberry.com | 2024-11-04 | Text]
+
+
+**3. 888's Orbit Casino Platform:**
+
+This seems to be an older platform launched by 888 Holdings in 2019, primarily for the New Jersey market.  It offered improved speed and user experience, along with a selection of slots, table games, and live casino options.  It's unclear if this platform is still active or has been superseded.
+
+*Missing information for all sections except the following:*
+
+1. TECHNICAL SPECS
+* Platform: Orbit platform developed by 888 Holdings. [SOURCE: casinobeats.com | 2019-07-30 | Text]
+* Features: 239 slot games, 15 table games, 13 live casino tables. [SOURCE: casinobeats.com | 2019-07-30 | Text]
+
+4. GAME PORTFOLIO
+* Providers: NetEnt, SG Digital, IGT, Section 8 (888's in-house studio). [SOURCE: casinobeats.com | 2019-07-30 | Text]
+
+
+**4. Delasport's Orbit iGaming Platform:**
+
+This is a player account management (PAM) platform with CMS & CRM capabilities for sports betting and casino operations.  It offers features like bonus engines, content management, and various reporting tools.
+
+*Missing information for all sections except the following:*
+
+1. TECHNICAL SPECS
+* Platform: Delasport's Orbit iGaming platform (PAM, CMS, CRM). [SOURCE: delasport.com | No date | Webpage]
+* Features: Bonus engine, content management system, CRM, reporting tools, live position taking, incoming bets monitoring. [SOURCE: delasport.com | No date | Webpage]
+
+4. GAME PORTFOLIO
+* Total: 4000+ casino games. [SOURCE: delasport.com | No date | Webpage]
+* Providers: 70+ providers. [SOURCE: delasport.com | No date | Webpage]
+
+
+**Inconsistencies and Missing Information:**
+
+The biggest challenge is the ambiguity surrounding the "Orbit" name, making it difficult to discern which platform the information pertains to.  Most sources lack concrete details on licensing, ownership, security, responsible gambling measures, and customer support.  Further investigation is needed to clarify the relationships between these platforms and gather more specific data.

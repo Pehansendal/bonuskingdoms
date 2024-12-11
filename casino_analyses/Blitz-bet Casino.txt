@@ -1,0 +1,89 @@
+* Category: Analysis of Blitz Casino and BlitzBet (two separate entities) [SOURCE: User prompt and provided sources | 2024-12-09 | Text, Images, Website review]
+
+There appears to be confusion stemming from the user prompt, potentially conflating two distinct entities: **Blitz Casino (blitz.be)**, a regulated online casino operating in Belgium, and **BlitzBet (blitzbet.eu)**, a formerly operating sportsbook and casino licensed in Curacao.  This analysis will address both, noting their separate characteristics.
+
+**Blitz Casino (blitz.be)**
+
+1. **TECHNICAL SPECS**
+* Platform: Web-based, instant play platform; Mobile compatible (smartphones and tablets) [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Mobile: Browser-based; No dedicated app mentioned. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Features: Standard casino games, live dealer games, virtual sports betting. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Security: 128-bit SSL encryption. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+
+2. **LICENSING & COMPLIANCE**
+* Licenses: Belgian Gaming Commission. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Ownership: Not specified in provided sources.
+* Restrictions: Operates within Belgium.  Other restrictions not specified.
+* Issues: No known player issues reported. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+
+3. **PAYMENT ECOSYSTEM**
+* Methods: Not specified in provided sources.
+* Crypto: Not specified in provided sources.
+* KYC: Not specified in provided sources.
+* Limits: Minimum deposit: €10 [SOURCE: wizardofodds.com | 2024-09-26 | Text] ; Minimum withdrawal: €10 [SOURCE: wizardofodds.com | 2024-09-26 | Text] Other limits not specified.
+* Times: Bank Transfer: 3-7 business days [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Fees: Not specified in provided sources.
+
+4. **GAME PORTFOLIO**
+* Total: Not specified in provided sources.
+* Popular Slots: Examples mentioned include 4 of a King, Fairy Tale, Football Superstar, In Jazz, Jet Setter, Luxury Life, More Fresh Fruits, Taboo, Undine's Deep, Lucky Dice.  RTP not provided. [SOURCE: wizardofodds.com | 2024-09-26 | Image captions]
+* Table Games: Not specified in provided sources.
+* Live: Live dealer games offered. Specific details not provided. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Sports: Virtual sports betting available. Specific markets and odds not provided. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Providers: Betsoft, Ezugi, Novomatic, Endorphina, GameArt, Pragmatic Play, GAMING1, Air Dice, Spinomenal, SYNOT Games, Fazi, Mancala Gaming, Amusnet Interactive, CT Interactive, Greentube, and betiXon. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Jackpots: Not specified in provided sources.
+
+5. **BONUS STRUCTURE**
+* Welcome: Not specified in provided sources.
+* Wagering: Not specified in provided sources.
+* Loyalty: Not specified in provided sources.
+* Restrictions: Not specified in provided sources.
+
+6. **RESPONSIBLE GAMING**
+* Tools: Self-exclusion (across all Belgian regulated sites). [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Partners: Not specified, but information on gambling assistance in Belgian provinces is provided. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Policies: Dedicated responsible gaming page. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Limits: Not specified in provided sources.
+
+7. **CUSTOMER SUPPORT**
+* Hours: Not specified in provided sources.
+* Languages: Not specified in provided sources.
+* Response: Not specified, but mentioned that staff responds to web form submissions. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Quality: Staff able to answer questions. [SOURCE: wizardofodds.com | 2024-09-26 | Text] No live chat or telephone support. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+
+8. **USER EXPERIENCE**
+* Mobile:  Mobile play supported. Performance details not provided. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Desktop: Described as having a "sharp look and feel." [SOURCE: wizardofodds.com | 2024-09-26 | Text]  Other details not provided.
+* Features: Not specified in provided sources.
+* Issues: Not specified in provided sources.
+
+9. **REPUTATION & REVIEWS**
+* Ratings: 2.8 out of 5 (Wizard of Odds). [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Complaints: No known player issues reported. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+* Awards: Not specified in provided sources.
+* History: Founded in 2016. [SOURCE: wizardofodds.com | 2024-09-26 | Text]
+
+10. **INDUSTRY POSITION**
+* Partnerships: Not specified in provided sources.
+* Sponsorships: Not specified in provided sources.
+* Innovation: Not specified in provided sources.
+* Competition: Operates in the regulated Belgian market.  Other details not provided.
+
+
+**BlitzBet (blitzbet.eu)**
+
+This platform has **suspended operations** as of December 1, 2021. [SOURCE: covers.com | 2023-04-20 | Text]  Information below reflects its status prior to suspension.
+
+1. **TECHNICAL SPECS** through 10. **INDUSTRY POSITION**:  Many details missing from provided sources. Key known information includes:
+
+* Licensing: Curacao. [SOURCE: covers.com | 2023-04-20 | Text]
+* Ownership: i3 Interactive (parent company); Deluxe Crown BV (operator); Nigton Cloud Limited (payment processor). [SOURCE: covers.com | 2023-04-20 | Text]
+* Security: 128-bit SSL encryption. [SOURCE: covers.com | 2023-04-20 | Text]
+* Platform:  Offered sports betting and online casino. [SOURCE: covers.com | 2023-04-20 | Text] Mobile compatible. [SOURCE: covers.com | 2023-04-20 | Text]
+* Games: Over 150 online slots, table games (roulette, blackjack, poker), live casino. [SOURCE: covers.com | 2023-04-20 | Text] Sports betting on popular North American sports. [SOURCE: igamingbusiness.com | 2020-08-03 | Text]
+* Payments: Interac, Skrill, Neteller. [SOURCE: covers.com | 2023-04-20 | Text] Limited options.
+* Customer Support: Email only (support@blitzbet.eu). No live chat or phone. [SOURCE: covers.com | 2023-04-20 | Text]
+* Marketing:  Utilized social media influencers, notably Dan Bilzerian. [SOURCE: covers.com | 2023-04-20 | Text, igamingbusiness.com | 2020-08-03 | Text]
+
+
+Note: This information is based on the available sources and is as accurate as possible as of December 9, 2024.  Much of the requested detailed information is missing, especially for Blitz Casino.  It is highly recommended to consult official sources and more recent reviews for the most up-to-date information.

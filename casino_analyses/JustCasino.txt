@@ -1,0 +1,94 @@
+* Category: Casino Review [SOURCE: ownedcore.com | 2024-12-09 | Website]
+* Category: Casino Review [SOURCE: throughthefencebaseball.com | 2024-11-20 | Website]
+* Category: Casino Review [SOURCE: casino.org | 2024-12-09 | Website]
+* Category: Casino Website Design [SOURCE: dribbble.com | 2024-11-19 | Website]
+* Category: News Article - ACMA Blocking [SOURCE: igamingbusiness.com | 2023-09-20 | News Article]
+* Category: Formal Warning - Dama N.V. [SOURCE: acma.gov.au | 2023-09-21 | Government Website]
+* Category: Casino List - Optimism [SOURCE: casinosblockchain.io | 2024-12-09 | Website]
+* Category: Article - Gaming & Licensing Law [SOURCE: chambers.com | 2024-12-09 | Website]
+* Category: Casino Review [SOURCE: maryvaleqld.com.au | 2024-12-09 | Website]
+* Category: General Information [SOURCE: louisebales.com | 2024-12-08 | Website]
+* Category: News Article - PayID Casinos [SOURCE: bitcoinist.com | 2024-12-09 | News Article]
+* Category: Casino Review [SOURCE: irishluck.ie | 2024-12-09 | Website]
+* Category: Casino Review [SOURCE: covers.com | 2024-12-09 | Website]
+
+
+1. TECHNICAL SPECS
+
+* Platform:  Information not available in the provided sources.
+* Mobile:  Mobile-first responsive design ensuring seamless experience across devices. [SOURCE: dribbble.com | 2024-11-19 | Website]  No dedicated mobile app mentioned. [SOURCE: maryvaleqld.com.au | 2024-12-09 | Website]
+* Features: Search bar, filters by provider, account creation, various payment options, bonus claiming, responsible gambling tools. [SOURCE: casino.org, dribbble.com, maryvaleqld.com.au | Various Dates | Websites]
+* Security:  Encryption certifications and payment icons displayed. [SOURCE: dribbble.com | 2024-11-19 | Website]  Further security details not specified.
+
+2. LICENSING & COMPLIANCE
+
+* Licenses: Curacao. [SOURCE: casino.org, maryvaleqld.com.au | Various Dates | Websites]  Malta Gaming Authority (conflicting information). [SOURCE: throughthefencebaseball.com | 2024-11-20 | Website]
+* Ownership: Dama N.V. [SOURCE: ownedcore.com, casino.org | Various Dates | Websites]  Strukin Limited (related to formal warning). [SOURCE: acma.gov.au | 2023-09-21 | Government Website]
+* Restrictions: Blocked in Australia by ACMA. [SOURCE: igamingbusiness.com, acma.gov.au | Various Dates | News Article/Government Website] Allowed countries: Australia, Canada, New Zealand, Norway, Germany, Austria, Switzerland, Gulf Cooperation Council (GCC), Ireland, Denmark, Finland, Commonwealth of Independent States (CIS), Sweden. [SOURCE: ownedcore.com | 2024-12-09 | Website]
+* Issues: Operating illegally in Australia. [SOURCE: igamingbusiness.com | 2023-09-20 | News Article] Formal warning issued by ACMA. [SOURCE: acma.gov.au | 2023-09-21 | Government Website]  Demanding bonus wagering requirements. [SOURCE: casino.org | 2024-12-09 | Website] No phone support. [SOURCE: maryvaleqld.com.au | 2024-12-09 | Website]
+
+3. PAYMENT ECOSYSTEM
+
+* Methods: Visa, MasterCard, Skrill, Neteller, Cryptocurrencies (including Bitcoin). [SOURCE: ownedcore.com, throughthefencebaseball.com | Various Dates | Websites] PayID. [SOURCE: bitcoinist.com | 2024-12-09 | News Article]
+* Crypto: Bitcoin, Ethereum, and other cryptocurrencies. [SOURCE: maryvaleqld.com.au | 2024-12-09 | Website]  BTC. [SOURCE: casinosblockchain.io | 2024-12-09 | Website]
+* KYC: Information not available in the provided sources.
+* Limits: Information not available in the provided sources.
+* Times: Deposits usually processed instantly, withdrawals may take 1-3 working days. [SOURCE: ownedcore.com | 2024-12-09 | Website] Instant withdrawals. [SOURCE: casino.org | 2024-12-09 | Website]
+* Fees: Information not available in the provided sources.
+
+4. GAME PORTFOLIO
+
+* Total: Over 8,000. [SOURCE: casino.org | 2024-12-09 | Website] Over 9,500. [SOURCE: maryvaleqld.com.au | 2024-12-09 | Website] 10,000. [SOURCE: casinosblockchain.io | 2024-12-09 | Website]
+* Popular Slots: Starburst, Book of Dead, Big Bass Bonanza, Lucky Buffalo, Magic Spins. [SOURCE: throughthefencebaseball.com, casino.org | Various Dates | Websites]
+* Table Games: Roulette, Blackjack, Baccarat, Poker (American Roulette, Blackjack Classic, Mega FireBlaze Roulette, HiLo 12 European Blackjack Gold). [SOURCE: casino.org | 2024-12-09 | Website]
+* Live:  Information not fully specified, live dealer games mentioned. [SOURCE: throughthefencebaseball.com, maryvaleqld.com.au | Various Dates | Websites]
+* Sports:  No sports betting. [SOURCE: casino.org | 2024-12-09 | Website]  Conflicting information - "true sports bar" mentioned. [SOURCE: louisebales.com | 2024-12-08 | Website]
+* Providers: Over 80. [SOURCE: casino.org | 2024-12-09 | Website] More than 30. [SOURCE: maryvaleqld.com.au | 2024-12-09 | Website] Pragmatic Play, Playtech, Play'n GO. [SOURCE: casino.org | 2024-12-09 | Website]
+* Jackpots:  Progressive and fixed jackpots available, but limited amounts. [SOURCE: maryvaleqld.com.au | 2024-12-09 | Website]
+
+
+5. BONUS STRUCTURE
+
+* Welcome: 100% up to 400€/$ + 300 FS. [SOURCE: ownedcore.com | 2024-12-09 | Website] $5,000 + 400 Free Spins. [SOURCE: casino.org | 2024-12-09 | Website] A$7,500 + 400 Free Spins. [SOURCE: maryvaleqld.com.au | 2024-12-09 | Website] Up to €5000 + 400 Free Spins. [SOURCE: irishluck.ie | 2024-12-09 | Website] Multi-tiered bonus package for the first five deposits. [SOURCE: maryvaleqld.com.au | 2024-12-09 | Website]  €4,000 and 300 free spins over your first four deposits. [SOURCE: irishluck.ie | 2024-12-09 | Website]
+* Wagering:  Demanding wagering requirements. [SOURCE: casino.org | 2024-12-09 | Website]  Specific details not provided.
+* Loyalty: VIP program (Space Club). [SOURCE: irishluck.ie | 2024-12-09 | Website]  2 VIP Programs. [SOURCE: casinosblockchain.io | 2024-12-09 | Website] Further details not available.
+* Restrictions: Information not available in the provided sources, aside from the mention of demanding wagering requirements.
+
+6. RESPONSIBLE GAMING
+
+* Tools: Self-exclusion, deposit limits, time limits. [SOURCE: casino.org | 2024-12-09 | Website]  Full suite of responsible gambling tools mentioned, but specifics not detailed.
+* Partners: Information not available in the provided sources.
+* Policies: Information not available in the provided sources.
+* Limits:  Information not available in the provided sources.
+
+
+7. CUSTOMER SUPPORT
+
+* Hours: Information not available in the provided sources.
+* Languages: English. [SOURCE: ownedcore.com | 2024-12-09 | Website]  Other languages not specified.
+* Response: Information not available in the provided sources.
+* Quality:  Information not available in the provided sources.
+
+8. USER EXPERIENCE
+
+* Mobile: Mobile-first responsive design. [SOURCE: dribbble.com | 2024-11-19 | Website]  Specific performance details not provided.
+* Desktop:  Easy navigation and functionality. [SOURCE: dribbble.com | 2024-11-19 | Website]  Further details not provided.
+* Features: Search bar, filters. [SOURCE: casino.org, dribbble.com | Various Dates | Websites]  Personalization not mentioned.
+* Issues:  Information not available in the provided sources.
+
+9. REPUTATION & REVIEWS
+
+* Ratings: Information not available in the provided sources, except for a general positive sentiment in some reviews.
+* Complaints:  Information not available in the provided sources.
+* Awards:  Information not available in the provided sources.
+* History: Established in 2022 (conflicting information: 2018 in Canada). [SOURCE: ownedcore.com, casino.org | Various Dates | Websites] Blocked by ACMA in 2023. [SOURCE: igamingbusiness.com | 2023-09-20 | News Article]
+
+10. INDUSTRY POSITION
+
+* Partnerships:  Information not available in the provided sources.
+* Sponsorships:  Information not available in the provided sources.
+* Innovation:  Information not available in the provided sources.
+* Competition:  Information not available in the provided sources.
+
+
+Inconsistencies found regarding licensing, launch date, and game total.  Much information is missing, especially regarding specific bonus details, responsible gambling policies, customer support details, user experience metrics, reputation, and industry position.  Several sources provide general overviews without specific data.

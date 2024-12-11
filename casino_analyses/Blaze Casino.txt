@@ -1,0 +1,76 @@
+Blaze Casino Analysis (as of 09 December, 2024):
+
+It's important to note that there are two distinct entities discussed in the sources: Blaze Casino, an online gambling platform, and Blaze, a payment app. This analysis focuses on Blaze Casino.  Also, some information is unavailable or conflicting across sources, leading to some gaps in the analysis.
+
+1. TECHNICAL SPECS
+
+* Platform: Information unavailable. The exact software provider and tech stack for Blaze Casino are not specified in the provided sources.
+* Mobile: Blaze Casino offers mobile compatibility through a dedicated app available on Google Play. The app is designed for Android devices and offers features like online betting, casino games, and sports betting. There is mention of an iOS app in one source, but details are limited. [SOURCE: google.com | 2024-10-01 | App Description] and [SOURCE: qne.com.ph | 2024-11-11 | Website]
+* Features: Blaze Casino offers a wide variety of games, including slots, table games (like Roulette, Blackjack, Baccarat), and a "Crash" game. It also has bonus features like free spins and challenges.  [SOURCE: youtube.com | 2024-04-23 | Video] & [SOURCE: sigma.world | No date | Website] & [SOURCE: google.com | 2024-10-01 | App Description]
+* Security: Blaze Casino uses SSL encryption to protect user data and financial transactions. It also utilizes Random Number Generators (RNGs) to ensure fair game outcomes. [SOURCE: sigma.world | No date | Website]
+
+2. LICENSING & COMPLIANCE
+
+* Licenses: Blaze Casino is licensed in Curaçao. [SOURCE: youtube.com | 2024-04-23 | Video] & [SOURCE: sigma.world | No date | Website]
+* Ownership: Blaze Casino is operated by Prolific Trade N.V.  The exact ownership structure beyond this is not fully disclosed. [SOURCE: igamingbrazil.com | 2023-10-05 | Website]
+* Restrictions: Information unavailable. Specific blocked regions and limitations are not detailed in the provided sources.
+* Issues:  Blaze Casino has faced accusations of scams, particularly in Brazil. [SOURCE: igamingbrazil.com | 2023-10-05 | Website] There is also a mention of a "Bonus bet limit" as a con. [SOURCE: sigma.world | No date | Website]
+
+3. PAYMENT ECOSYSTEM
+
+* Methods: Blaze Casino supports various payment methods, including Visa, Mastercard, cryptocurrency (Bitcoin and other popular cryptocurrencies), and bank transfers. [SOURCE: qne.com.ph | 2024-11-11 | Website] & [SOURCE: sigma.world | No date | Website]
+* Crypto: Bitcoin and other popular cryptocurrencies are accepted. [SOURCE: qne.com.ph | 2024-11-11 | Website] & [SOURCE: sigma.world | No date | Website]
+* KYC: Information unavailable.  KYC requirements, verification time, and limits before KYC are not specified.
+* Limits: Minimum deposit is $10 for Visa/Mastercard. Maximum deposit for Visa is $5000. Other limits are not specified. [SOURCE: sigma.world | No date | Website]
+* Times: Withdrawal processing times vary depending on the method, with e-wallets being generally faster and card withdrawals taking up to 3 days. [SOURCE: qne.com.ph | 2024-11-11 | Website] & [SOURCE: sigma.world | No date | Website]
+* Fees: Transaction fees are generally minimal or non-existent. [SOURCE: qne.com.ph | 2024-11-11 | Website]
+
+4. GAME PORTFOLIO
+
+* Total: Over 4000 games are available. [SOURCE: youtube.com | 2024-04-23 | Video]
+* Popular Slots:  Specific popular slots and RTP information are not provided.
+* Table Games: Available table games include Roulette, Blackjack, Baccarat, and Poker. Specific variants and limits are not detailed. [SOURCE: igamingbrazil.com | 2023-10-05 | Website] & [SOURCE: amazon.com.au | No date | Website]
+* Live: Information on live dealer games and their limits is unavailable.
+* Sports: Blaze offers sports betting. Specific markets and odds are not detailed. [SOURCE: igamingbrazil.com | 2023-10-05 | Website] & [SOURCE: google.com | 2024-10-01 | App Description]
+* Providers: Information unavailable.  The specific software providers for Blaze Casino are not listed.
+* Jackpots: Information on progressive and fixed jackpot games is unavailable.
+
+5. BONUS STRUCTURE
+
+* Welcome: New players receive a 100% deposit bonus up to €200 and 40 free spins on various Blaze Original games, distributed over a week, along with free rounds on other games like Crash, Double, Mines, Dice, Slide, Tower, Limbo, and Plinko. Minimum deposit to qualify is €10. [SOURCE: sigma.world | No date | Website]
+* Wagering: Exact wagering requirements are not specified.
+* Loyalty:  Information on the VIP program is limited. One source rates the VIP program 4/5. [SOURCE: sigma.world | No date | Website]
+* Restrictions: There is a "Bonus bet limit," but the specifics are not detailed. [SOURCE: sigma.world | No date | Website]
+
+6. RESPONSIBLE GAMING
+
+* Tools & Limits: Information on responsible gambling tools like self-exclusion, deposit limits, time limits, reality checks, and cooling-off periods is not available in the provided sources.
+* Partners & Policies:  Partnerships with responsible gambling organizations and specific responsible gaming policies are not mentioned.
+
+7. CUSTOMER SUPPORT
+
+* Hours: Exact availability for each support channel is not specified.
+* Languages: Supported languages and service levels are not detailed.
+* Response & Quality: Actual response times, resolution rates, and customer satisfaction information are not provided.  However, one source mentions "No phone support" as a con and rates customer support 4/5. [SOURCE: sigma.world | No date | Website]
+
+8. USER EXPERIENCE
+
+* Mobile: The Android app is described as having a sleek design, colorful graphics, and an intuitive interface. [SOURCE: google.com | 2024-10-01 | App Description]  One source mentions good performance for the iOS app. [SOURCE: qne.com.ph | 2024-11-11 | Website] Specific load times and app performance metrics are not available.
+* Desktop: Information on desktop navigation and functionality is limited. One source rates the user experience 5/5. [SOURCE: sigma.world | No date | Website]
+* Features: Details on search functionality, filters, and personalization options are unavailable.
+* Issues: Specific reported technical problems are not mentioned.
+
+9. REPUTATION & REVIEWS
+
+* Ratings:  Specific ratings from platforms like Trustpilot and AskGamblers are not provided. One source gives an "Expert Rating" of 3.5/5. [SOURCE: sigma.world | No date | Website]
+* Complaints: Common complaints include accusations of scams. [SOURCE: igamingbrazil.com | 2023-10-05 | Website]
+* Awards: Information on industry recognition and awards is unavailable.
+* History: Past incidents include sponsorships with influencers like Neymar and Felipe Neto, along with the aforementioned scam accusations. [SOURCE: igamingbrazil.com | 2023-10-05 | Website]
+
+10. INDUSTRY POSITION
+
+* Partnerships & Sponsorships: Blaze Casino has engaged in sponsorships with influencers like Neymar and Felipe Neto.  Other partnerships and sponsorships are not detailed. [SOURCE: igamingbrazil.com | 2023-10-05 | Website]
+* Innovation & Competition:  Unique features, offerings, and key differentiators are not clearly identified in the provided sources.  One source mentions "Blaze's fresh approach" in relation to their challenges feature. [SOURCE: sigma.world | No date | Website]
+
+
+Note:  A separate entity called "Blaze" is a payments app and is not related to Blaze Casino.  This app facilitates money transfers and offers a Visa card. [SOURCE: useblaze.app | No date | Website]

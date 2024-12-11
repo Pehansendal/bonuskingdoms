@@ -1,0 +1,67 @@
+* Category: NorgesSpill Casino analysis [SOURCE: Provided sources | 2024-12-09 | Textual information]
+
+1. TECHNICAL SPECS
+* Platform: Operates on a platform managed by PlayCherry Ltd.  [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Mobile: Accessible through mobile browsers on iOS and Android devices. No dedicated app information available. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Features: Offers a variety of casino games, a sportsbook, and a lottery section. Includes features like live chat support and potentially others not explicitly mentioned. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Security: Employs SSL encryption to protect user data and transactions.  [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Licensed by the Malta Gaming Authority (MGA).  [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Ownership: Owned and operated by PlayCherry Ltd. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Restrictions: Primarily targets Norwegian players. Availability to players outside Norway needs further clarification. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Issues: Some sources mention outdated design and limited bonus offerings for existing players. Player complaints regarding account verification and withdrawals have also been reported. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Supports credit cards, e-wallets, bank transfers, and potentially cryptocurrency. Specific options not detailed. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Crypto:  Potential support for cryptocurrency mentioned, but specific currencies not listed. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* KYC: Information on KYC procedures, required documents, and verification times is not available. [SOURCE: No source | 2024-12-09 | No information]
+* Limits: Minimum and maximum transaction limits exist, but specific amounts are not provided. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Times: Deposit processing is generally instant. Withdrawal times vary depending on the method and may require additional verification for large amounts. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Fees: Fee structure not specified in the provided sources. [SOURCE: No source | 2024-12-09 | No information]
+
+4. GAME PORTFOLIO
+* Total: Offers over 700 games, including slots, table games, live casino games, and sports betting options. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Popular Slots: Specific popular slots and RTPs not listed consistently across sources. Some mentions of Starburst, Book of Ra, and others. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Table Games: Offers various table games, including roulette, blackjack, and poker. Specific variants and limits not detailed. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Live: Live casino games available, potentially streamed from Portomaso Casino, Malta. Room details and limits not specified. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Sports: Sportsbook covers a range of sports, including football, basketball, baseball, boxing, tennis, ice hockey, and more. Offers both pre-match and in-play betting. Specific markets and odds information not available. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Providers: Partners with game providers like NetEnt, Microgaming, Play'n GO, and Yggdrasil Gaming. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Jackpots: Offers jackpot slots, including progressive jackpots. Specific games and current jackpot amounts not listed. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+
+5. BONUS STRUCTURE
+* Welcome: Offers a choice of welcome bonuses for casino, live casino, or odds. Options include a 500% bonus up to 500 NOK, a 100% bonus up to 2500 NOK, and a 100% bonus up to 250 NOK for odds. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Wagering: 35x wagering requirement on casino welcome bonuses. 30-day time limit to fulfill the requirement. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Loyalty: Limited information available on a loyalty program. One source mentions a loyalty shop where players can use accumulated points. [SOURCE: norgecasino.com | 2024-12-09 | Textual information]
+* Restrictions: Bonus terms and conditions apply. Specific restrictions not detailed in provided sources. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+
+6. RESPONSIBLE GAMING
+* Tools: Information on responsible gaming tools like self-exclusion, deposit limits, and time limits is not consistently provided across sources. Some sources mention responsible gaming features but lack details. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Partners: No information available on partnerships with responsible gambling organizations. [SOURCE: No source | 2024-12-09 | No information]
+* Policies:  General responsible gaming guidelines are mentioned, but specific policies are not detailed. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Limits: Information on reality checks and cooling-off periods is not available. [SOURCE: No source | 2024-12-09 | No information]
+
+
+7. CUSTOMER SUPPORT
+* Hours: Operates between 10:00 AM and 9:00 PM CET. Live chat availability may vary. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Languages: Primarily supports Norwegian.  [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Response: Response times are generally fast, especially via live chat. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Quality: Resolution rates and customer satisfaction levels are not specified. Some sources mention complaints about unresolved issues. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+
+8. USER EXPERIENCE
+* Mobile: Mobile website accessible via browsers. Load times are generally fast. No dedicated app information available. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Desktop: Some sources mention an outdated website design. Navigation and functionality details not provided. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Features: Information on specific features like search filters and personalization is not available. [SOURCE: No source | 2024-12-09 | No information]
+* Issues: Some sources report outdated design as a potential issue. Other technical problems not specified. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+
+9. REPUTATION & REVIEWS
+* Ratings: Specific ratings from review platforms like Trustpilot and AskGamblers are not provided. [SOURCE: No source | 2024-12-09 | No information]
+* Complaints: Some player complaints regarding account verification and withdrawal issues have been reported. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Awards: No specific industry awards mentioned. PlayCherry Ltd., the parent company, has received awards, but not specifically for NorgesSpill. [SOURCE: psj.org.ng | 2024-12-09 | Textual information]
+* History: Established in 2007. Acquired by Cherry AB (now PlayCherry Ltd.) in 2015. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+
+10. INDUSTRY POSITION
+* Partnerships: Partners with various game providers, but no exclusive provider deals mentioned. [SOURCE: Multiple sources | 2024-12-09 | Textual information]
+* Sponsorships: No information available on sponsorships. [SOURCE: No source | 2024-12-09 | No information]
+* Innovation: No unique features or offerings highlighted in the provided sources. [SOURCE: No source | 2024-12-09 | No information]
+* Competition: Primarily competes within the Norwegian online gambling market. Key differentiators not clearly defined. Focuses on catering specifically to Norwegian players with a fully localized platform. [SOURCE: Multiple sources | 2024-12-09 | Textual information]

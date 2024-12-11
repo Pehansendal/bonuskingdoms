@@ -1,0 +1,69 @@
+* Category: WSM Casino Analysis [SOURCE: User Prompt | 2024-12-09 | Text]
+
+1. TECHNICAL SPECS
+* Platform: Information not available. WSM Casino is a crypto casino accessible via web browser and Telegram.  [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+* Mobile: Accessible through a responsive website and Telegram. No dedicated mobile app. [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+* Features: 5,000+ casino games, sportsbook, live dealer games, Telegram integration, $WSM token integration, staking, VIP program. [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+* Security: SSL encryption, Curacao license, regular audits, AML policy. [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao. [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+* Ownership: MIBS N.V. [SOURCE: revpanda.com | No date | Text]
+* Restrictions: Information not available.
+* Issues: Some users reported slow live chat support response times. [SOURCE: irishluck.ie | No date | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Cryptocurrencies (BTC, WSM, BCH, LTC, DOGE, ETH, USDT, TRX, ADA, BNB, USDC, XRP, SHIB, BONK, FLOKI), Wire Transfer, Credit Card, Google Pay, WalletConnect, Apple Pay. [SOURCE: 99bitcoins.com | 2024-09-11 | Text]
+* Crypto: BTC, WSM, BCH, LTC, DOGE, ETH, USDT, TRX, ADA, BNB, USDC, XRP, SHIB, BONK, FLOKI. [SOURCE: 99bitcoins.com | 2024-09-11 | Text]
+* KYC: Generally not required, but may be requested for withdrawals. [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+* Limits: Minimum deposit varies (e.g., $10 for welcome bonus, $30 for some promotions, 0.0001 BTC for crypto). Maximum withdrawal limit: 0.0002 BTC for crypto. [SOURCE: Multiple | 2024-06-26 - 2024-10-07 | Text]
+* Times: Crypto withdrawals typically processed within minutes (10-60 minutes). [SOURCE: 99bitcoins.com | 2024-09-11 | Text]
+* Fees: Information not available. Crypto transactions generally have low fees.
+
+4. GAME PORTFOLIO
+* Total: 5,000+ games. [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+* Popular Slots: Information not available. Some mentioned titles include Chaos Crew 2 and Wanted Dead or a Wild. [SOURCE: Multiple | 2024-08-23 - 2024-09-11 | Text]
+* Table Games: Roulette (45+ tables), Blackjack (75+ tables), Poker (30+ games). [SOURCE: bravenewcoin.com | 2024-11-12 | Text]
+* Live: Live dealer games available 24/7, including Roulette, Blackjack, Poker, Baccarat, and game shows (e.g., Dream Catcher, Deal or No Deal). Providers include Evolution, Microgaming, and Ezugi. [SOURCE: pulse.ng | 2024-10-26 | Text]
+* Sports: 25+ sports markets, including soccer, basketball, esports, and horse racing. Offers live in-play betting, bet builders, and handicaps. [SOURCE: indiatimes.com | 2024-12-07 | Text]
+* Providers: Pragmatic Play, Octoplay, Novomatic, Ruby Play, Evolution Gaming, Relax Gaming, Hacksaw Gaming, Play'n GO, Avatar UX, NetEnt. [SOURCE: revpanda.com | No date | Text]
+* Jackpots: Information not available. Progressive jackpots mentioned. [SOURCE: globix.net | No date | Text]
+
+5. BONUS STRUCTURE
+* Welcome: 200% up to $25,000 + up to 50 free spins + 10 free bets. Minimum deposit $10. Wagering requirements: 60x (75x for deposits over $5,000). Free spins wagering: 35x. Free bets have no wagering. Bonus paid out in installments. [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+* Wagering: 60x (75x for some parts of the welcome bonus if deposit exceeds $5,000), 35x for free spins. No wagering on free bets. [SOURCE: esports.net | 2024-08-23 | Text]
+* Loyalty: VIP program with cashback, rakeback, and dedicated VIP host. [SOURCE: indiatimes.com | 2024-12-07 | Text]
+* Restrictions: 7-day time limit to claim welcome bonus, 14-day wagering period. Bonus funds paid out in $WSM. [SOURCE: esports.net | 2024-08-23 | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Self-exclusion, deposit limits, session limits. [SOURCE: irishluck.ie | No date | Text]
+* Partners: Information not available.
+* Policies: Dedicated Responsible Gambling section. [SOURCE: irishluck.ie | No date | Text]
+* Limits: Information not available. Reality checks not mentioned in sources.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 live chat and email. [SOURCE: revpanda.com | No date | Text]
+* Languages: English, German, Spanish, French, Finnish, Hungarian, Italian, Polish, Portuguese, Slovene, Japanese, Turkish, Norwegian, Chinese, Arabic, Vietnamese, Hindi, and more. [SOURCE: revpanda.com | No date | Text]
+* Response: Live chat response times can be slow. Email: support@wsmcasino.com. [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+* Quality: Generally positive, but some negative feedback regarding live chat responsiveness. [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+
+8. USER EXPERIENCE
+* Mobile: Responsive website and Telegram access. No dedicated app. [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+* Desktop: Generally positive, with clean and easy-to-navigate design. Some suggestions for improved game filtering and search options. [SOURCE: cointelegraph.com | No date | Text]
+* Features: Basic search and filtering options. [SOURCE: cointelegraph.com | No date | Text]
+* Issues: Some users reported minor issues with website navigation. [SOURCE: cointelegraph.com | No date | Text]
+
+9. REPUTATION & REVIEWS
+* Ratings: Trustpilot: 3.9/5 (200+ reviews). AskGamblers: Rating not specified, but mentioned as positive. [SOURCE: irishluck.ie | No date | Text]
+* Complaints: Some complaints about slow live chat support. [SOURCE: irishluck.ie | No date | Text]
+* Awards: Information not available.
+* History: Launched in 2023. $1 million $WSM airdrop announced in March 2024. [SOURCE: ourcrowd.com | No date | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Information not available. Mentions partnerships with game providers and a potential partnership with a fight promotion. [SOURCE: Multiple | 2023-12-04 - 2024-10-26 | Text]
+* Sponsorships: Information not available.
+* Innovation: Telegram integration, $WSM token integration, focus on meme coins. [SOURCE: Multiple | 2023-10-20 - 2024-12-07 | Text]
+* Competition: Large game selection, generous welcome bonus, crypto focus. [SOURCE: Multiple | 2024-08-23 - 2024-12-07 | Text]
+
+
+Please note that this information is based on the provided sources and is current as of December 9, 2024.  Details may change over time.  Some information requested in the prompt was not available in the provided sources.

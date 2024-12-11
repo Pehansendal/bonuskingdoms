@@ -1,0 +1,73 @@
+```text
+* Category: Casino and Esports Betting Platform [SOURCE: johnnybet.com | 2024-12-09 | Website]
+
+1. TECHNICAL SPECS
+* Platform: Information not available. [SOURCE: N/A | N/A | N/A]
+* Mobile: iOS and Android apps available. Website is mobile-optimized. [SOURCE: johnnybet.com, esports.net, wizardofodds.com | 2024-12-09 | Website]
+* Features: Promo codes, VIP club. [SOURCE: johnnybet.com | 2024-12-09 | Website]
+* Security:  Information not available, but utilizes advanced encryption technology. [SOURCE: perfectinfragroup.com | 2024-12-08 | Website]
+
+2. LICENSING & COMPLIANCE
+* Licenses: No license information available. Unlicensed according to wizardofodds.com. Possibly Costa Rican license for Gamix.vip. [SOURCE: wizardofodds.com, whichbookie.co.uk | 2024-12-09 | Website]
+* Ownership: Operated by FairGame G.P N.V., a Curacao-based company. [SOURCE: casinomeister.com | 2024-11-25 | Website]
+* Restrictions: Information not available. Accepts players from Germany, Austria, Canada, and Ireland. [SOURCE: wizardofodds.com | 2024-07-28 | Website]
+* Issues:  No reported issues of suspicious activity despite lack of licensing (wizardofodds.com). Rarely available customer support (casinomeister.com).
+
+3. PAYMENT ECOSYSTEM
+* Methods: Primarily cryptocurrencies. Credit/debit cards, e-wallets, and bank transfers mentioned but availability unclear. [SOURCE: johnnybet.com, beachburritocompany.com | 2024-12-09 | Website]
+* Crypto:  Information not available. Minimum deposit 0.0004 BTC. Minimum withdrawal 0.0008 BTC. [SOURCE: wizardofodds.com | 2024-07-28 | Website]
+* KYC: Information not available. No KYC mentioned by mightytips.com. [SOURCE: mightytips.com | 2024-11-07 | Website]
+* Limits: Weekly withdrawal limit: $5,000. Monthly withdrawal limit: $20,000. [SOURCE: wizardofodds.com | 2024-07-28 | Website]
+* Times: Pending time for withdrawals: Within 2 business days. Processing time: Up to 15 minutes. [SOURCE: wizardofodds.com | 2024-07-28 | Website]
+* Fees: Information not available.
+
+4. GAME PORTFOLIO
+* Total: 6,500+ casino games. [SOURCE: johnnybet.com | 2024-12-09 | Website]
+* Popular Slots:  Ocean Catch, Diamond of Jungle, Gates of Olympus, Sugar Rush, Gems Bonanza, Dog House Megaways. RTP information not consistently provided. [SOURCE: johnnybet.com, mightytips.com | 2024-12-09 | Website]
+* Table Games: Blackjack available. Specific variants and limits not provided. [SOURCE: mightytips.com | 2024-11-07 | Website]
+* Live: Live casino table games available. Room details and limits not provided. [SOURCE: mightytips.com | 2024-11-07 | Website]
+* Sports: No physical sports betting. Focus on esports. [SOURCE: whichbookie.co.uk | 2024-12-09 | Website]
+* Providers:  Information not fully available. Evoplay and Pragmatic Play mentioned. [SOURCE: johnnybet.com, mightytips.com | 2024-12-09 | Website]
+* Jackpots: Information not available. Gamzix (possibly related) offers customizable jackpots. [SOURCE: gamzix.com | 2024-12-09 | Website]
+
+5. BONUS STRUCTURE
+* Welcome: Casino: Up to $3,000 + 45 free spins on first three deposits. Esports: $500 on first deposit. 100% up to $500 + 10 free spins on first deposit (alternative source). [SOURCE: johnnybet.com, whichbookie.co.uk, mightytips.com | 2024-12-09 | Website]
+* Wagering: 40x wagering requirement on bonus funds. [SOURCE: mightytips.com, wizardofodds.com | 2024-11-07 | Website]
+* Loyalty: VIP program available. Specific details not provided. [SOURCE: johnnybet.com | 2024-12-09 | Website]
+* Restrictions: Bonus duration 7 days. Maximum win with welcome bonus: $1,000. Various minimum deposit requirements for different bonuses. [SOURCE: wizardofodds.com, casinomeister.com, esports.net, mightytips.com | 2024-12-09 | Website]
+
+6. RESPONSIBLE GAMING
+* Tools: Limited responsible gaming tools available. [SOURCE: casinomeister.com | 2024-11-25 | Website]
+* Partners: Information not available.
+* Policies: Information not available. Excluding responsible gambling pages (wizardofodds.com).
+* Limits: Information not available.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability via live chat, email, and social media. [SOURCE: johnnybet.com, esports.net | 2024-12-09 | Website]
+* Languages: English, German, Spanish, French, Portuguese, Russian. [SOURCE: wizardofodds.com | 2024-07-28 | Website]
+* Response: Live chat response time around 1 minute (esports.net). [SOURCE: esports.net | 2024-05-08 | Website]
+* Quality: Information not available.
+
+8. USER EXPERIENCE
+* Mobile:  Mobile app and optimized website provide good experience. No specific performance data available. [SOURCE: johnnybet.com, esports.net, wizardofodds.com | 2024-12-09 | Website]
+* Desktop: User-friendly and easy to navigate. Colorful, modern design. [SOURCE: johnnybet.com, wizardofodds.com | 2024-12-09 | Website]
+* Features: Search and filter functionality not detailed. [SOURCE: N/A | N/A | N/A]
+* Issues: Information not available.
+
+9. REPUTATION & REVIEWS
+* Ratings: Information not available.
+* Complaints: No specific complaints found.
+* Awards: Information not available. Gamzix (possibly related) nominated for CasinoBeats Game Developer Awards. [SOURCE: gamzix.com | 2024-12-09 | Website]
+* History: New platform launched in 2024. [SOURCE: casinomeister.com | 2024-11-25 | Website]
+
+10. INDUSTRY POSITION
+* Partnerships: Information not available.
+* Sponsorships: Information not available.
+* Innovation: Focus on esports betting and crypto payments. Modern and user-friendly platform. [SOURCE: whichbookie.co.uk, johnnybet.com | 2024-12-09 | Website]
+* Competition: Key differentiators include exclusive focus on esports, crypto-friendliness, and modern design. [SOURCE: whichbookie.co.uk, johnnybet.com | 2024-12-09 | Website]
+
+
+Inconsistencies: Conflicting information about welcome bonus amounts and payment methods.
+
+Missing Information: Licensing details, specific game providers, detailed VIP program information, responsible gambling policies, and specific cryptocurrencies supported.
+```

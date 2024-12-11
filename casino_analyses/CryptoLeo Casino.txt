@@ -1,0 +1,79 @@
+* Category: Crypto Casino Analysis [SOURCE: Synthesized from provided sources | 2024-12-09 | Text and Web]
+
+1. TECHNICAL SPECS
+
+* Platform:  Operated by Uno Digital Media B.V.  [SOURCE: sigma.world | 2024 | Web] [SOURCE: casino.guru | 2022-08-11 | Web] [SOURCE: casinosblockchain.io | 2024-11-13 | Web] [SOURCE: cryptolinks.com | 2024 | Web].  Uses SSL encryption. [SOURCE: casinosblockchain.io | 2024-11-13 | Web]
+* Mobile: Website is fully optimized for mobile devices, accessible through a browser. No dedicated app available on app stores, although users can add the website to their home screen. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] [SOURCE: cryptolinks.com | 2024 | Web]
+* Features:  Esports, live casino games, sports betting, Missions Hub (gamification feature), player chat. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] Provably fair games. [SOURCE: bitcoin.com | 2024 | Web]
+* Security: SSL encryption. [SOURCE: casinosblockchain.io | 2024-11-13 | Web]  Licensed by Curaçao eGaming. [SOURCE: sigma.world | 2024 | Web] [SOURCE: casino.guru | 2022-08-11 | Web] [SOURCE: cryptolinks.com | 2024 | Web]
+
+2. LICENSING & COMPLIANCE
+
+* Licenses: Curaçao eGaming (license No. 1668 JAZ). [SOURCE: casino.guru | 2022-08-11 | Web]
+* Ownership: Uno Digital Media B.V.  Registered at Johan Van Walbeeckplein 24, Willemstad, Curaçao. [SOURCE: casino.guru | 2022-08-11 | Web] Payment operators: SCARTESU LIMITED (Cyprus) and UDM PROCESSING SERVICES LTD (Cyprus). [SOURCE: casino.guru | 2022-08-11 | Web]
+* Restrictions: Some countries are restricted from playing. [SOURCE: casinosblockchain.io | 2024-11-13 | Web]
+* Issues: Player complaints regarding lengthy verification and withdrawal processes, and payout refusals (mostly from players in restricted countries). [SOURCE: casinosblockchain.io | 2024-11-13 | Web] Some users reported difficulties with withdrawals and bonus conditions, and expressed dissatisfaction with customer service. [SOURCE: whit.by | 2024 | Web]
+
+3. PAYMENT ECOSYSTEM
+
+* Methods: Visa, Mastercard, Bitcoin, Ethereum, Paysafecard, Interac, Neteller, Skrill, Binance, Apple Pay, Cardano, CashToCode, Dogecoin, Flexepin, Google Pay, Litecoin, MultiBanco, Online Bank Transfer, Rapid Transfer, Revolut, Ripple, Sepa, Tether, Tron, MiFinity. [SOURCE: sigma.world | 2024 | Web] Primarily focuses on crypto payments. [SOURCE: cryptolinks.com | 2024 | Web]
+* Crypto: Bitcoin, Ethereum, Cardano, Dogecoin, Litecoin, Ripple, Tether, Tron. [SOURCE: sigma.world | 2024 | Web] Wide range of cryptocurrencies supported. [SOURCE: bitcoinist.com | 2024 | Web]
+* KYC:  Lengthy verification process. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] No KYC verification required as it is a crypto-only casino. [SOURCE: casino.guru | 2022-08-11 | Web]  (Inconsistency flagged between sources regarding KYC requirements).
+* Limits: Daily, weekly, and monthly withdrawal limits exist.  Specific amounts not provided in sources. [SOURCE: casino.guru | 2022-08-11 | Web]  Withdrawal limits can be viewed in the 'Wallet' section. [SOURCE: casinosblockchain.io | 2024-11-13 | Web]
+* Times: Withdrawals generally processed within 10 minutes, though some users have reported waiting over 24 hours. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] [SOURCE: casino.guru | 2022-08-11 | Web] Instant transactions. [SOURCE: cryptolinks.com | 2024 | Web]
+* Fees: No information found in provided sources.
+
+4. GAME PORTFOLIO
+
+* Total: Over 5,000 games. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] Over 6,000 titles. [SOURCE: bitcoin.com | 2024 | Web]
+* Popular Slots: No specific slots or RTP information provided in sources.
+* Table Games: No specific table games or limits provided in sources.
+* Live: Extensive live casino section with high-quality streams and professional dealers. [SOURCE: bitcoinist.com | 2024 | Web]  Room details and limits not specified.
+* Sports: Sports betting available. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] Specific markets and odds not provided.
+* Providers: AvatarUX, Betsoft, ELK Studios, Endorphina, Evoplay, Habanero, Mascot Gaming, NetEnt, Play'n GO, Playtech, Pragmatic Play, Push Gaming, SmartSoft Gaming, Spribe, Swintt, Synot Games, Thunderkick, Turbo Games, Wazdan. [SOURCE: sigma.world | 2024 | Web] Pragmatic Play, Spinomenal, Endorphina. [SOURCE: bitcoin.com | 2024 | Web]
+* Jackpots: No specific information on jackpots found in provided sources.
+
+5. BONUS STRUCTURE
+
+* Welcome: Three-part welcome bonus up to 5,000 USDT. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] 225% bonus up to 0.05 BTC. [SOURCE: bitcoinist.com | 2024 | Web] 150% up to 3,000 USDT. [SOURCE: bitcoin.com | 2024 | Web] 225% up to €5,000. [SOURCE: whit.by | 2024 | Web] Welcome package 225% up to 5000USDT + up to 25% Rakeback. [SOURCE: bitcoin.com | 2024 | Web] (Discrepancies in bonus amounts and currencies noted between sources).
+* Wagering:  Difficult to meet. [SOURCE: sigma.world | 2024 | Web]  Specific requirements not provided.
+* Loyalty: VIP program with rewards. [SOURCE: bitcoinist.com | 2024 | Web]  Dynamic loyalty program with rakeback percentage based on player level. [SOURCE: bitcoin.com | 2024 | Web]  Specific details not provided.
+* Restrictions: No specific bonus limits provided in sources.
+
+6. RESPONSIBLE GAMING
+
+* Tools: No specific tools mentioned in provided sources.
+* Partners: No partnerships mentioned in provided sources.
+* Policies: Security and privacy policies exist, but details not provided. [SOURCE: casinosblockchain.io | 2024-11-13 | Web]
+* Limits: No specific limits mentioned in provided sources.
+
+7. CUSTOMER SUPPORT
+
+* Hours: 24/7 availability. [SOURCE: bitcoin.com | 2024 | Web] Specific hours for each channel not provided.
+* Languages: English, French, Dutch, Spanish, Brazilian Portuguese, Portuguese, Polish. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] English (UK), Czech, Finnish, French (Canada), French (France), German, Greek, Italian, Norwegian, Polish, Portuguese (Brazil), Portuguese (Portugal), Spanish (Spain), Turkish. [SOURCE: sigma.world | 2024 | Web] Multilingual live chat available. [SOURCE: bitcoin.com | 2024 | Web]
+* Response: VIP managers reply immediately. [SOURCE: casino.guru | 2022-08-11 | Web] Real-time responses. [SOURCE: bitcoin.com | 2024 | Web]  Overall response times not specified.
+* Quality: Some users expressed dissatisfaction with customer service. [SOURCE: whit.by | 2024 | Web] Resolution rates and satisfaction levels not quantified in sources.
+
+8. USER EXPERIENCE
+
+* Mobile: No navigation or speed issues reported on mobile. [SOURCE: casinosblockchain.io | 2024-11-13 | Web]
+* Desktop: Navigation described as comprehensive but could be simplified. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] Intuitive navigation. [SOURCE: sigma.world | 2024 | Web] Straightforward website. [SOURCE: irishluck.ie | 2024 | Web]
+* Features: Expandable menu for navigation, search and filter functionality implied but not explicitly stated. [SOURCE: casinosblockchain.io | 2024-11-13 | Web]
+* Issues: No specific technical problems reported, aside from general withdrawal issues mentioned previously.
+
+9. REPUTATION & REVIEWS
+
+* Ratings: 4.3-star rating. [SOURCE: irishluck.ie | 2024 | Web]  Positive feedback on game selection, customer support, and design. Negative feedback on withdrawal difficulties. [SOURCE: sigma.world | 2024 | Web]
+* Complaints: Lengthy verification and withdrawal processes, payout refusals, bonus conditions, customer service. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] [SOURCE: whit.by | 2024 | Web] [SOURCE: sigma.world | 2024 | Web]
+* Awards: No information found in provided sources.
+* History: Established in 2021. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] Established in 2022. [SOURCE: sigma.world | 2024 | Web] (Conflicting information on establishment date).
+
+10. INDUSTRY POSITION
+
+* Partnerships: Media and organization partnerships mentioned, but specifics not provided. [SOURCE: casinosblockchain.io | 2024-11-13 | Web]
+* Sponsorships: No information found in provided sources.
+* Innovation: Focus on crypto payments, gamification (Missions Hub), player chat. [SOURCE: casinosblockchain.io | 2024-11-13 | Web] [SOURCE: cryptolinks.com | 2024 | Web]
+* Competition: Key differentiators include crypto focus, large game selection, and gamification features.  However, withdrawal issues and unclear bonus terms are weaknesses compared to competitors.
+
+
+Please note that this analysis is based on the available information from the provided sources and is current as of 2024-12-09.  Some inconsistencies were found between sources, which have been flagged.  Information on certain aspects, such as fees, responsible gaming tools, and specific details of the VIP program, is missing from the provided sources.

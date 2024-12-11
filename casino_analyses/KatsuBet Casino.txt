@@ -1,0 +1,70 @@
+* Category: Casino Review [SOURCE: N/A | 2024-12-09 | Aggregated]
+
+1. TECHNICAL SPECS
+* Platform: Several sources mention a variety of game providers, suggesting a diverse tech stack. HTML5 technology is explicitly mentioned, enabling mobile compatibility.  [SOURCE: kidstravelbooks.com | 2024-10-18 | Review], [SOURCE: 99bitcoins.com | 2024-10-21 | Review], [SOURCE: tolhouse.com | 2024-12-09 | Review]
+* Mobile: Katsubet offers both a mobile website and a Progressive Web App (PWA) for iOS and Android devices. [SOURCE: wordpress.com | 2024-12-03 | Review], [SOURCE: wordpress.com | 2024-12-05 | Review]
+* Features:  Over 5,000 games, including slots, table games (blackjack, roulette, poker, baccarat), live dealer games, and specialty games (dice, bingo, keno, crash).  Search and filter functionality is available. [SOURCE: kidstravelbooks.com | 2024-10-18 | Review], [SOURCE: rhythmedix.com | 2024-12-09 | Review], [SOURCE: dribbble.com | 2024-11-15 | Design]
+* Security: SSL encryption and two-factor authentication are used.  Licensed and regulated by Curacao eGaming. RNG audited. [SOURCE: casino.org | 2024-12-09 | Review], [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao eGaming. [SOURCE: casino.org | 2024-12-09 | Review], [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Ownership: Dama N.V. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review], [SOURCE: 99bitcoins.com | 2024-10-21 | Review]
+* Restrictions: Blocked in several countries, including the US, UK, Ukraine, France, Netherlands, and Belgium.  [SOURCE: kidstravelbooks.com | 2024-10-18 | Review]
+* Issues: Some complaints regarding withdrawal problems and customer support responsiveness. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review], [SOURCE: 99bitcoins.com | 2024-10-21 | Review]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, Maestro, Mastercard, PurplePay, Neosurf, ecoPayz, iDebit, Interac, Skrill, Neteller, YooMoney, Rapid Transfer, QIWI, STICPAY. [SOURCE: casino.org | 2024-12-09 | Review]
+* Crypto: Bitcoin, Litecoin, Tether, Dogecoin, Ethereum, Bitcoin Cash. [SOURCE: casino.org | 2024-12-09 | Review]
+* KYC: KYC verification is required, but specific documents and timeframe are not detailed in the provided sources. [SOURCE: tolhouse.com | 2024-12-09 | Review]
+* Limits: Minimum deposit is generally €/$10 or equivalent. Monthly withdrawal limit is $40,000.  [SOURCE: kidstravelbooks.com | 2024-10-18 | Review], [SOURCE: tolhouse.com | 2024-12-09 | Review]
+* Times: Cryptocurrency withdrawals are typically processed within minutes, while fiat withdrawals can take 1-3 business days. Wire transfers can take up to 3 banking days. [SOURCE: vortexalpha.com | 2024-12-09 | Guide], [SOURCE: wordpress.com | 2024-12-03 | Review]
+* Fees: No withdrawal fees from the casino's side, except for bank transfers (7.5%) and card withdrawals (2.5%). [SOURCE: wordpress.com | 2024-12-03 | Review]
+
+4. GAME PORTFOLIO
+* Total: Over 5,000 (some sources mention over 7,000). [SOURCE: kidstravelbooks.com | 2024-10-18 | Review], [SOURCE: 99bitcoins.com | 2024-10-21 | Review]
+* Popular Slots: Book of Oz, Fortune Reels, Starburst, Dead or Alive, Dragon's Nest, Deadwood, Bonanza, Gonzo's Quest, Book of Dead. RTPs not consistently provided. [SOURCE: kidstravelbooks.com | 2024-10-18 | Review], [SOURCE: rhythmedix.com | 2024-12-09 | Review]
+* Table Games: Blackjack, roulette, poker, baccarat available in various versions. Table limits not specified in provided sources. [SOURCE: casino.org | 2024-12-09 | Review]
+* Live: Over 150 live dealer games, including blackjack, roulette, poker, and baccarat. Limits not specified. [SOURCE: ptofthecity.com | 2024-12-03 | Review]
+* Sports: No information on sports betting available in the provided sources.
+* Providers: iSoftBet, Thunderkick, Yggdrasil Gaming, Play'n GO, Pragmatic Play, Ezugi, Evolution Gaming, Authentic Gaming, Bombay Live, and over 90 others. [SOURCE: casino.org | 2024-12-09 | Review], [SOURCE: supplychaingamechanger.com | 2023-06-15 | Review], [SOURCE: prepacademy.in | 2024-12-03 | Review]
+* Jackpots: Progressive jackpot games are available, but specific titles and current values are not listed in the provided sources. [SOURCE: casino.org | 2024-12-09 | Review]
+
+5. BONUS STRUCTURE
+* Welcome: Four-tiered welcome package up to €500 + 100 free spins. 1st deposit: 100% up to €100 + 100 free spins; 2nd deposit: 75% up to €100; 3rd deposit: 50% up to €200; 4th deposit: 100% up to €100. A high-roller welcome pack is also available. [SOURCE: casino.org | 2024-12-09 | Review], [SOURCE: supplychaingamechanger.com | 2023-06-15 | Review]
+* Wagering: 40x wagering requirement for the bonus, 50x for free spins winnings. Maximum bet with an active bonus is €/$1. [SOURCE: casino.org | 2024-12-09 | Review], [SOURCE: supplychaingamechanger.com | 2023-06-15 | Review]
+* Loyalty: Eight-tier VIP program with increasing benefits like free spins, cashback, higher withdrawal limits, and a dedicated account manager. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review], [SOURCE: rhythmedix.com | 2024-12-09 | Review]
+* Restrictions: Various bonus terms and conditions apply, including minimum deposit amounts, wagering requirements, and maximum bet limits. Specific details for each bonus should be checked on the casino's website. [SOURCE: supplychaingamechanger.com | 2023-06-15 | Review]
+
+
+6. RESPONSIBLE GAMING
+* Tools: Deposit limits, reality checks, and self-exclusion options. [SOURCE: vortexalpha.com | 2024-12-09 | Guide], [SOURCE: gofundcows.org | 2020-08-06 | Review]
+* Partners: Information on specific partnerships with responsible gambling organizations is not available in the provided sources.
+* Policies: Promotes responsible gaming and provides resources and links to support organizations. [SOURCE: kidstravelbooks.com | 2024-10-18 | Review]
+* Limits: Session time limits and loss limits can be set. [SOURCE: kidstravelbooks.com | 2024-10-18 | Review]
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability via live chat and email. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Languages: English. [SOURCE: casino.org | 2024-12-09 | Review]
+* Response: Generally good response times for live chat, but some complaints about delays. Email response times can vary. [SOURCE: casino.org | 2024-12-09 | Review], [SOURCE: 99bitcoins.com | 2024-10-21 | Review]
+* Quality: Generally helpful and informative, but some negative reviews regarding responsiveness and resolution of withdrawal issues. [SOURCE: casino.org | 2024-12-09 | Review], [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+
+8. USER EXPERIENCE
+* Mobile:  Good mobile experience with a responsive website and PWA. Fast loading times and smooth gameplay. [SOURCE: wordpress.com | 2024-12-03 | Review], [SOURCE: dribbble.com | 2024-11-15 | Design]
+* Desktop: Easy navigation and functionality. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review], [SOURCE: 99bitcoins.com | 2024-10-21 | Review]
+* Features: Search filters are available for game selection. Personalization features not detailed in the provided sources. [SOURCE: 99bitcoins.com | 2024-10-21 | Review]
+* Issues: Some reports of technical problems, particularly with live chat support. [SOURCE: 99bitcoins.com | 2024-10-21 | Review]
+
+9. REPUTATION & REVIEWS
+* Ratings: Generally positive reviews, with some criticisms regarding withdrawals and customer support. Specific ratings from review sites like Trustpilot and AskGamblers are not consistently provided in the sources. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review], [SOURCE: 99bitcoins.com | 2024-10-21 | Review]
+* Complaints: Most common complaints relate to withdrawal issues and customer support responsiveness. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review], [SOURCE: 99bitcoins.com | 2024-10-21 | Review]
+* Awards: No information on awards available in the provided sources.
+* History: Launched in 2020.  [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+
+10. INDUSTRY POSITION
+* Partnerships: Works with numerous software providers, but exclusive deals are not mentioned in the provided sources. [SOURCE: casino.org | 2024-12-09 | Review]
+* Sponsorships: No information on sponsorships available in the provided sources.
+* Innovation: Crypto-friendly approach, extensive game library, and unique VIP program. [SOURCE: 99bitcoins.com | 2024-10-21 | Review]
+* Competition: Wide game selection, generous bonuses, and VIP program are key differentiators. [SOURCE: kidstravelbooks.com | 2024-10-18 | Review]
+
+
+Please note that this information is based on the available sources and is current as of December 9, 2024.  Details may change over time.  It is always recommended to visit the casino's official website for the most up-to-date information.

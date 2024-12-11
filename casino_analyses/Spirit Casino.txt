@@ -1,0 +1,141 @@
+* Category: Casino analysis of Spirit Mountain Casino and River Spirit Casino Resort [SOURCE: User prompt | 2024-12-09 | User prompt]
+
+The user's prompt requests an analysis of "Spirit Casino." Based on the provided sources, this seems to refer to two distinct casinos: Spirit Mountain Casino in Oregon and River Spirit Casino Resort in Tulsa, Oklahoma.  This analysis will cover both, focusing on information available in the provided sources.  Please note that this information is current as of today, December 9, 2024, and may change.
+
+**Spirit Mountain Casino (Oregon)**
+
+1. **TECHNICAL SPECS**
+* Platform: Siqura (TKH Security Solutions USA) for video, audio, and data transmission over fiber optic cables. [SOURCE: tkhsecurity.it | No date | Case Study]
+* Mobile: Information not available.
+* Features: Information not available.
+* Security:  Information not available, besides the fiber optic systems mentioned above.
+
+2. **LICENSING & COMPLIANCE**
+* Licenses: Information not available.
+* Ownership: Confederated Tribes of Grand Ronde [SOURCE: wikipedia.org | No date | Website Text].
+* Restrictions: Information not available.
+* Issues: Information not available.
+
+3. **PAYMENT ECOSYSTEM**
+* Methods: Information not available.
+* Crypto: Information not available.
+* KYC: Information not available.
+* Limits: Information not available.
+* Times: Information not available.
+* Fees: Information not available.
+
+4. **GAME PORTFOLIO**
+* Total: Information not available.
+* Popular Slots: Information not available.
+* Table Games: Information not available.
+* Live: Information not available.
+* Sports: Information not available.
+* Providers: Information not available.
+* Jackpots: Information not available.
+
+5. **BONUS STRUCTURE**
+* Welcome: Information not available.
+* Wagering: Information not available.
+* Loyalty: Information not available.
+* Restrictions: Information not available.
+
+6. **RESPONSIBLE GAMING**
+* Tools: Information not available.
+* Partners: Information not available.
+* Policies: Information not available.
+* Limits: Information not available.
+
+7. **CUSTOMER SUPPORT**
+* Hours: Information not available.
+* Languages: Information not available.
+* Response: Information not available.
+* Quality: Information not available.
+
+8. **USER EXPERIENCE**
+* Mobile: Information not available.
+* Desktop: Information not available.
+* Features: Information not available.
+* Issues: Information not available.
+
+9. **REPUTATION & REVIEWS**
+* Ratings: Information not available.
+* Complaints: Information not available.
+* Awards: Information not available.
+* History: Information not available.
+
+10. **INDUSTRY POSITION**
+* Partnerships:  Information not available, besides the partnership with TKH Security Solutions USA. [SOURCE: tkhsecurity.it | No date | Case Study]
+* Sponsorships: Information not available.
+* Innovation: Information not available.
+* Competition: Information not available.
+
+
+**River Spirit Casino Resort (Tulsa, Oklahoma)**
+
+1. **TECHNICAL SPECS**
+* Platform: Information not available.
+* Mobile: Information not available.
+* Features:  Over 3,000 electronic machines, poker tables, table games, designated smoke-free areas, high-stakes room. [SOURCE: riverspirittulsa.com | No date | Website Text], [SOURCE: getkoala.com | 2024-10-05 | Website Text]
+* Security: Information not available.
+
+2. **LICENSING & COMPLIANCE**
+* Licenses: Information not available.
+* Ownership: Muscogee Creek Nation [SOURCE: greencountryok.com | No date | Website Text].
+* Restrictions: Information not available.
+* Issues: Information not available.
+
+3. **PAYMENT ECOSYSTEM**
+* Methods: Information not available.
+* Crypto: Information not available.
+* KYC: Information not available.
+* Limits: Information not available.
+* Times: Information not available.
+* Fees: Information not available.
+
+4. **GAME PORTFOLIO**
+* Total: Over 3,100 slots and electronic games [SOURCE: greencountryok.com | No date | Website Text].  Over 3,000 electronic machines, poker tables, and table games [SOURCE: riverspirittulsa.com | No date | Website Text].
+* Popular Slots: Information not available.
+* Table Games: Blackjack, poker, roulette, craps, baccarat [SOURCE: greencountryok.com | No date | Website Text].
+* Live: Information not available, except for mention of live entertainment and sporting events in the Paradise Cove Theater. [SOURCE: getkoala.com | 2024-10-05 | Website Text]
+* Sports: Information not available, except for mention of Scoreboard Sports Bar. [SOURCE: greencountryok.com | No date | Website Text]
+* Providers: Information not available.
+* Jackpots: Information not available.
+
+5. **BONUS STRUCTURE**
+* Welcome: Information not available.
+* Wagering: Information not available.
+* Loyalty:  Player's Club available. [SOURCE: riverspirittulsa.com | No date | Website Text]
+* Restrictions: Information not available.
+
+6. **RESPONSIBLE GAMING**
+* Tools: Information not available.
+* Partners: Information not available.
+* Policies: Information not available.
+* Limits: Information not available.
+
+7. **CUSTOMER SUPPORT**
+* Hours: Information not available.
+* Languages: Information not available.
+* Response: Information not available.
+* Quality: Information not available.
+
+8. **USER EXPERIENCE**
+* Mobile: Information not available.
+* Desktop: Information not available.
+* Features: Information not available.
+* Issues: Information not available.
+
+9. **REPUTATION & REVIEWS**
+* Ratings: Information not available.
+* Complaints: Information not available.
+* Awards: AAA 4-Diamond rating for the hotel [SOURCE: greencountryok.com | No date | Website Text].
+* History: Information not available.
+
+10. **INDUSTRY POSITION**
+* Partnerships: Margaritaville Casino & Restaurant located inside [SOURCE: greencountryok.com | No date | Website Text].
+* Sponsorships: Information not available.
+* Innovation: Information not available.
+* Competition: Information not available.
+
+
+Missing Information: A significant amount of information requested in the prompt is not available within the provided sources.  This includes details on security measures, payment options, bonus structures, responsible gaming programs, customer support, user experience, and more detailed game portfolios.  Additional research would be needed to gather this information.

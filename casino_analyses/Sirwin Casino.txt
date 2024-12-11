@@ -1,0 +1,66 @@
+* Category: Casino Analysis [SOURCE: User Provided Sources | 2024-12-09 | Text and Web]
+
+1. TECHNICAL SPECS
+* Platform:  Information not available in provided sources.
+* Mobile: Website is fully responsive and optimized for mobile play. Accessible on various screen sizes. Requires stable internet connection. [SOURCE: wizardofodds.com | 2024-03-25 | Text]
+* Features: User-friendly platform with good layout and functionality. Simple registration process. Search functionality implied but not explicitly stated. [SOURCE: wizardofodds.com | 2024-03-25 | Text]
+* Security:  Uses encryption and two-factor authentication. [SOURCE: crypto.news | 2024-05-27 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Licensed and regulated by the Government of Curacao. [SOURCE: wizardofodds.com | 2024-03-25 | Text]  Claims a new CGB license. [SOURCE: casino.guru | 2024-10-06 | Text] (Inconsistency noted between sources regarding licensing.)
+* Ownership: Owned by a company established under the laws of Curacao. Specific company name not provided. [SOURCE: wizardofodds.com | 2024-03-25 | Text]
+* Restrictions: No specific restricted regions mentioned, but primarily targets players in Canada, Finland, and Germany. [SOURCE: wizardofodds.com | 2024-03-25 | Text]
+* Issues: Player reported difficulty closing account due to gambling addiction, despite repeated requests. [SOURCE: casino.guru | 2024-10-09 | Text] Player reported issues with account, lack of KYC requirements, questioned game legitimacy, unhelpful live chat support, and potential license violation. [SOURCE: casino.guru | 2024-10-06 | Text] Player reported withdrawal delay due to a week-long transaction review. [SOURCE: kasinoguru-bg.com | 2024-11-26 | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Accepts various cryptocurrencies. [SOURCE: crypto.news | 2024-05-27 | Text]
+* Crypto: Bitcoin (BTC), Tether (USDT), Ethereum (ETH) specifically mentioned. [SOURCE: crypto.news | 2024-05-27 | Text]
+* KYC: One source reports a lack of KYC requirements. [SOURCE: casino.guru | 2024-10-06 | Text] (This contradicts the general industry practice and may be a significant issue.)
+* Limits: Minimum deposit and withdrawal as low as $5. [SOURCE: bitcoinist.com | Text]
+* Times: Fast withdrawals advertised. [SOURCE: reviewlution.ca | 2024-04-17 | Text] Instant transactions mentioned. [SOURCE: bitcoinist.com | Text] However, one player reported a withdrawal delay due to review. [SOURCE: kasinoguru-bg.com | 2024-11-26 | Text] (Inconsistency noted.)
+* Fees: Information not available.
+
+4. GAME PORTFOLIO
+* Total: Over 4,000 slots and table games. [SOURCE: bitcoinist.com | Text] Over 7,802 games including slots, live dealer games, and sports betting options. [SOURCE: crypto.news | 2024-05-27 | Text] (Discrepancy in total game count between sources.)
+* Popular Slots: Specific slots mentioned include Aviator, Spaceman, Zeppelin, Pilot, Goal, Plinko, Hilo, Sultan's Gift, Drunk Santa, The Mystery Of Faberge, Cash Galaxy, Dice, High Low, Vortex, Ball & Ball, Lucky Numbers X20, Mini Roulette, Lucky Numbers X12. [SOURCE: wizardofodds.com | 2024-03-25 | Text] RTP information not provided.
+* Table Games: Information on specific variants and limits not available.
+* Live: Information on room details and limits not available.
+* Sports: Offers sports betting with favorable odds on over 30 sports, including football, basketball, and tennis. [SOURCE: bitcoinist.com | Text]
+* Providers: Partners with over 50 game providers. [SOURCE: reviewlution.ca | 2024-04-17 | Text] Specific providers not listed. One source questions the legitimacy of NetEnt games due to an unrecognized server. [SOURCE: casino.guru | 2024-10-06 | Text]
+* Jackpots: Information not available.
+
+5. BONUS STRUCTURE
+* Welcome: Multiple welcome bonuses available. Up to $1000 + 500 Free Spins for casino games. 100% bonus up to $500 for slot games. $500 sports welcome bonus. [SOURCE: bitcoinist.com | Text] Another source mentions a 600% welcome bonus. [SOURCE: dpexnetwork.org | 2024-04-16 | Text] (Significant discrepancy between sources regarding welcome bonus.)
+* Wagering: Exact requirements not provided.
+* Loyalty: VIP program with personalized benefits, bonuses, and dedicated support. [SOURCE: crypto.news | 2024-05-27 | Text] Specific details not available.
+* Restrictions: Information not available.
+
+6. RESPONSIBLE GAMING
+* Tools: Limited responsible gambling tools available. [SOURCE: reviewlution.ca | 2024-04-17 | Text]  One player reported difficulty with account closure despite expressing gambling addiction. [SOURCE: casino.guru | 2024-10-09 | Text]
+* Partners: Information not available.
+* Policies: Information not available.
+* Limits: Information not available.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 support available via email and online chat. [SOURCE: bitcoinist.com | Text]
+* Languages: English, Arabic, Persian (Farsi), Hebrew, Portuguese, Russian, Turkish, and Chinese. [SOURCE: wizardofodds.com | 2024-03-25 | Text] Service level not specified for each language.
+* Response: Minimal wait times claimed. [SOURCE: bitcoinist.com | Text] However, one source reports unhelpful and "vile" live chat support. [SOURCE: casino.guru | 2024-10-06 | Text] (Conflicting information.)
+* Quality: Knowledgeable staff claimed. [SOURCE: bitcoinist.com | Text] Resolution rates and satisfaction not provided. Conflicting reports on support quality.
+
+8. USER EXPERIENCE
+* Mobile: Fast game loading times with a stable internet connection. [SOURCE: wizardofodds.com | 2024-03-25 | Text] Specific load times and app performance not provided.
+* Desktop:  User-friendly platform with good layout and functionality. [SOURCE: wizardofodds.com | 2024-03-25 | Text] More detailed information not available.
+* Features: Search functionality implied but not explicitly stated. Filters and personalization features not mentioned. [SOURCE: wizardofodds.com | 2024-03-25 | Text]
+* Issues: One player reported NetEnt games running from an unrecognized server. [SOURCE: casino.guru | 2024-10-06 | Text]
+
+9. REPUTATION & REVIEWS
+* Ratings:  Information not available from provided sources.
+* Complaints: Several player complaints reported, including difficulty closing account, issues with account and support, questioned game legitimacy, and withdrawal delays. [SOURCE: casino.guru | 2024-10-09 | Text], [SOURCE: casino.guru | 2024-10-06 | Text], [SOURCE: kasinoguru-bg.com | 2024-11-26 | Text]
+* Awards: Information not available.
+* History: Launched in 2024. [SOURCE: coingape.com | 2024-03-25 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Partners with leading game providers. [SOURCE: crypto.news | 2024-05-27 | Text] Specific partnerships not listed.
+* Sponsorships: Information not available.
+* Innovation: Crypto-centric platform focused on privacy, security, and a wide game selection. [SOURCE: crypto.news | 2024-05-27 | Text]
+* Competition: Information not available.

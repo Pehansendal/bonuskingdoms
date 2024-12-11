@@ -1,0 +1,69 @@
+* Category: Slotozen Casino Analysis [ | 2024-12-09 | Text]
+
+1. TECHNICAL SPECS
+* Platform: The platform is compatible with Windows, Mac, iOS, and Android operating systems. It uses a dark theme and is mobile-friendly.  [SOURCE: sigma.world | 2024-12-09 | Text]
+* Mobile: Slotozen Casino is accessible on various mobile devices, including smartphones and tablets. The mobile version offers a smooth gaming experience with essential features like game selection, promotions, and account management. [SOURCE: nairobiwire.com | 2024-08-15 | Text]
+* Features: Slotozen Casino offers a variety of features, including over 3,500 games, a welcome bonus package, deposit bonuses, free spins, cashback bonuses, and tournaments.  [SOURCE: sigma.world | 2024-12-09 | Text]
+* Security: Slotozen Casino uses SSL encryption technology to protect player data and financial transactions. [SOURCE: alice.co.nz | 2024-10-23 | Text]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Slotozen Casino is licensed by Antillephone N.V. under Curacao's government regulation (license number 8048/JAZ2020-13).  [SOURCE: e-sportstats.com | 2024-08-01 | Text]
+* Ownership: Slotozen Casino is owned and operated by Dama N.V., a company registered in Curacao (registration number 152125). Friolion Ltd., part of the Dama Group, supports operations from Cyprus. Dama Group also holds an E-gaming license from Estonia (HKL000255). [SOURCE: e-sportstats.com | 2024-08-01 | Text]
+* Restrictions: Players from numerous countries, including the United States, United Kingdom, France, and Spain, are restricted from playing at Slotozen Casino. Players from Sweden, Poland, Finland, and Brazil are ineligible for bonuses, promotions, VIP rewards, or comp point exchanges. Some game providers may also be restricted in certain countries. [SOURCE: sigma.world, e-sportstats.com | 2024-12-09, 2024-08-01 | Text]
+* Issues: Some players have reported slow withdrawal times and issues with customer support. [SOURCE: perfectinfragroup.com | 2024-12-07 | Text]  One player reported a delayed withdrawal despite completing KYC procedures. [SOURCE: youtube.com | 2023-01-10 | Video]  The Australian Communications and Media Authority (ACMA) issued a formal warning to Dama N.V. and Friolion Limited regarding Slotozen and Kosmonaut Casino. [SOURCE: acma.gov.au | 2023-03-09 | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Slotozen Casino accepts a variety of payment methods, including bank cards, e-wallets, cryptocurrencies, and vouchers. The specific options available may vary depending on the player's region. [SOURCE: sigma.world | 2024-12-09 | Text]
+* Crypto: Slotozen Casino is cryptocurrency-friendly. [SOURCE: wizardofodds.com | 2024-12-09 | Text]
+* KYC: Slotozen Casino requires account verification, including uploading a valid ID, proof of address, and providing a valid phone number and email. Verification is mandatory to complete registration and access all features. [SOURCE: e-sportstats.com | 2024-08-01 | Text]
+* Limits: Slotozen Casino has a minimum deposit of €20 (or €5 via Siru Mobile). The minimum withdrawal is €20. There are daily (€4,000), weekly (€10,000), and monthly (€30,000) withdrawal limits. Withdrawals exceeding €30,000 are paid in monthly installments. [SOURCE: wizardofodds.com | 2024-12-09 | Text]
+* Times: Withdrawal processing times vary depending on the method. E-wallets are typically instant, while bank transfers can take 3-10 business days. [SOURCE: wizardofodds.com | 2024-12-09 | Text]
+* Fees: Slotozen Casino does not charge withdrawal fees. [SOURCE: sigma.world | 2024-12-09 | Text]
+
+4. GAME PORTFOLIO
+* Total: Slotozen Casino offers over 3,500 games from 35 providers. [SOURCE: sigma.world | 2024-12-09 | Text]  Another source mentions over 8,000 games. [SOURCE: rahatcode.com | 2024-12-09 | Text]
+* Popular Slots: Some of the popular slots available include Starburst, Gonzo's Quest, Book of Dead, Bonanza, and Immortal Romance. [SOURCE: ausdroid.net | 2023-05-17 | Text]
+* Table Games: Slotozen offers traditional table games like Baccarat, Craps, Roulette, and Sic Bo, among others. [SOURCE: wizardofodds.com | 2024-12-09 | Text]
+* Live: Slotozen Casino offers live dealer games from providers like Asia Gaming and Vivo Gaming. Popular games include Golden Blackjack, Golden Baccarat, and various roulette options. [SOURCE: sigma.world | 2024-12-09 | Text]
+* Sports: No information about sports betting is available in the provided sources.
+* Providers: Slotozen Casino partners with numerous software providers, including NetEnt, Pragmatic Play, Play'n GO, Microgaming, Betsoft, and many others. [SOURCE: sigma.world, ausdroid.net | 2024-12-09, 2023-05-17 | Text]
+* Jackpots: Information on specific jackpot games is not available in the provided sources.
+
+5. BONUS STRUCTURE
+* Welcome: Slotozen Casino offers a welcome bonus package for new players. The first deposit bonus is a 100% match up to €300 and 100 free spins. The second deposit bonus is a 50% match up to €500 and 50 free spins. The third deposit bonus is a 70% match up to €1,000 and 70 free spins. [SOURCE: sigma.world | 2024-12-09 | Text]  Another source mentions a welcome bonus of up to €2500 and 250 free spins across the first five deposits. [SOURCE: ausdroid.net | 2023-05-17 | Text]
+* Wagering: Wagering requirements apply to bonuses. Specific details are not provided in the sources. [SOURCE: alice.co.nz | 2024-10-23 | Text]
+* Loyalty: Slotozen Casino has a VIP program that offers exclusive benefits like free spins, bonuses, and cashback. [SOURCE: nairobiwire.com | 2024-08-15 | Text]
+* Restrictions: Players from Sweden, Poland, Finland, and Brazil are not eligible for bonuses. [SOURCE: e-sportstats.com | 2024-08-01 | Text]
+
+6. RESPONSIBLE GAMING
+* Tools: Slotozen Casino offers responsible gambling tools such as personal limits (deposit, wager, cooling-off, and self-exclusion limits) and protection for minors. [SOURCE: sigma.world, wizardofodds.com | 2024-12-09 | Text]
+* Partners: Information on responsible gambling partnerships is not available in the provided sources.  However, one source mentions Slotozen's participation in responsible gaming initiatives. [SOURCE: alice.co.nz | 2024-10-23 | Text]
+* Policies: Slotozen has a responsible gambling policy available to all members and visitors. [SOURCE: wizardofodds.com | 2024-12-09 | Text]
+* Limits:  Players can set deposit, wager, cooling-off, and self-exclusion limits. [SOURCE: wizardofodds.com | 2024-12-09 | Text]
+
+7. CUSTOMER SUPPORT
+* Hours: Slotozen Casino offers 24/7 customer support via live chat and email. [SOURCE: sigma.world | 2024-12-09 | Text]
+* Languages: Customer support is available in multiple languages, including English, German, Portuguese, and Spanish. [SOURCE: nairobiwire.com | 2024-08-15 | Text]
+* Response: Live chat provides immediate support. Email response times are not specified in the sources. [SOURCE: nairobiwire.com | 2024-08-15 | Text]
+* Quality: While some sources praise the customer support as professional and helpful, others report issues and slow response times. [SOURCE: sigma.world, perfectinfragroup.com | 2024-12-09, 2024-12-07 | Text]
+
+8. USER EXPERIENCE
+* Mobile: The mobile platform is designed for a smooth and enjoyable gaming experience. [SOURCE: nairobiwire.com | 2024-08-15 | Text]
+* Desktop: The website is user-friendly and easy to navigate. [SOURCE: alice.co.nz | 2024-10-23 | Text]
+* Features: Information on specific UX features like search, filters, and personalization is not detailed in the provided sources.
+* Issues: Some players have reported slow loading times on the mobile app. [SOURCE: alice.co.nz | 2024-10-23 | Text]
+
+9. REPUTATION & REVIEWS
+* Ratings: Slotozen Casino has a 4.2 out of 5 rating on Wizard of Odds. SiGMA World gives it a 4/5 expert rating. [SOURCE: sigma.world, wizardofodds.com | 2024-12-09 | Text]
+* Complaints: Some players have complained about slow withdrawal times and customer support issues. [SOURCE: perfectinfragroup.com | 2024-12-07 | Text]
+* Awards: No information about awards is available in the provided sources.
+* History: Slotozen Casino was launched in 2021.  [SOURCE: sigma.world | 2024-12-09 | Text] It has received a formal warning from ACMA. [SOURCE: acma.gov.au | 2023-03-09 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Slotozen Casino partners with various game providers, including NetEnt, Pragmatic Play, and many others. [SOURCE: sigma.world, ausdroid.net | 2024-12-09, 2023-05-17 | Text]
+* Sponsorships: No information about sponsorships is available in the provided sources.
+* Innovation: Information on specific innovations is limited.  However, the casino is praised for its cryptocurrency integration and mobile compatibility. [SOURCE: alice.co.nz | 2024-10-23 | Text]
+* Competition: No specific information about key differentiators is available in the provided sources.  However, the casino's large game library, bonuses, and mobile compatibility are highlighted as strengths. [SOURCE: alice.co.nz, nairobiwire.com | 2024-10-23, 2024-08-15 | Text]
+
+
+Note: There are inconsistencies in the reported number of games offered, with sources mentioning both 3,500 and 8,000+.  It's important to verify this information directly with the casino.  Some information, such as specific game RTPs, table game limits, and detailed bonus wagering requirements, is missing from the provided sources.  This analysis is based on the available information as of December 9, 2024, and may not reflect the current state of the casino.  It is always recommended to visit the official Slotozen Casino website and review their terms and conditions for the most up-to-date information.

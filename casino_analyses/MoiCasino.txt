@@ -1,0 +1,69 @@
+* Category: Analysis of MoiCasino based on provided sources [SOURCE: User's prompt | 2024-12-09 | Text]
+
+Please note that the provided sources offer limited information specifically about MoiCasino.  The analysis below uses the available information combined with general knowledge about online casinos.  As of today, December 9th, 2024, more specific details about MoiCasino may exist that are not included in the given sources.
+
+1. TECHNICAL SPECS
+* Platform:  Not specified in the provided sources. [SOURCE: Missing | 2024-12-09 | Inference]  Modern online casinos often use platforms developed by companies specializing in iGaming software.
+* Mobile: MoiCasino is designed to work well on mobile devices directly in the browser, without requiring a dedicated app. [SOURCE: casinotopplisten.com | 2024-05-27 | Text]
+* Features: Offers slots, live games, and sports betting.  Also supports various payment methods including cryptocurrencies. [SOURCE: youtube.com, irishluck.ie | 2024-05-27 | Text]
+* Security: Not detailed in the provided sources. [SOURCE: Missing | 2024-12-09 | Inference]  Reputable online casinos typically use SSL encryption and random number generators (RNGs) to ensure fair play and secure transactions.
+
+2. LICENSING & COMPLIANCE
+* Licenses: Not specified in the provided sources. [SOURCE: Missing | 2024-12-09 | Inference]  Licensing information is crucial for determining the legitimacy and trustworthiness of an online casino.
+* Ownership: Not specified in the provided sources. [SOURCE: Missing | 2024-12-09 | Inference]  Transparency about ownership is an important factor for evaluating an online casino.
+* Restrictions: Winnings are not tax-free. [SOURCE: youtube.com | 2024-05-27 | Text]  Other restrictions are not mentioned in the sources.
+* Issues: Not specified in the provided sources. [SOURCE: Missing | 2024-12-09 | Inference]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Multiple payment methods are supported, including cryptocurrencies. [SOURCE: youtube.com | 2024-05-27 | Text] Specific methods are not listed in the sources.
+* Crypto:  Supported, but specific cryptocurrencies are not listed. [SOURCE: youtube.com | 2024-05-27 | Text]
+* KYC: Not specified in the provided sources. [SOURCE: Missing | 2024-12-09 | Inference]
+* Limits: Not specified in the provided sources. [SOURCE: Missing | 2024-12-09 | Inference]
+* Times: Deposits and withdrawals are described as "quicker." [SOURCE: irishluck.ie | 2024-12-09 | Text]  Precise processing times are not provided.
+* Fees: Deposits and withdrawals are free of charge. [SOURCE: irishluck.ie | 2024-12-09 | Text]
+
+4. GAME PORTFOLIO
+* Total: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Popular Slots:  MoiCasino is described as a good choice for slot enthusiasts, particularly those interested in three and five-reel games. [SOURCE: irishluck.ie | 2024-12-09 | Text]  Specific slot titles and RTPs are not listed.
+* Table Games:  Availability mentioned, but specific variants and limits are not provided. [SOURCE: youtube.com | 2024-05-27 | Text]
+* Live:  Live games are available. [SOURCE: youtube.com | 2024-05-27 | Text]  Room details and limits are not specified.
+* Sports: Sports betting is offered. [SOURCE: youtube.com | 2024-05-27 | Text]  Available markets and odds are not detailed.
+* Providers: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Jackpots: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+
+5. BONUS STRUCTURE
+* Welcome: 200% cash bonus up to €1000 (as per youtube.com) and 200% up to €200 (as per irishluck.ie). This discrepancy should be noted. [SOURCE: youtube.com, irishluck.ie | 2024-05-27, 2024-12-09 | Text]  Another source mentions a 200% bonus up to 2,000 kroner. [SOURCE: casinotopplisten.com | 2024-12-09 | Text]
+* Wagering: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Loyalty:  A VIP program exists where all players receive a 10% cashback on losses daily, with no wagering requirements. [SOURCE: norgekasino.com | 2024-12-09 | Text]
+* Restrictions: Not specified beyond the general bonus limits. [SOURCE: Missing | 2024-12-09 | Inference]
+
+
+6. RESPONSIBLE GAMING
+* Tools: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Partners: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Policies: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Limits: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+
+7. CUSTOMER SUPPORT
+* Hours: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Languages: Finnish is supported. [SOURCE: youtube.com | 2024-05-27 | Text]  Other languages are not mentioned.
+* Response: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Quality: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+
+8. USER EXPERIENCE
+* Mobile:  Designed for excellent mobile functionality directly in the browser. [SOURCE: casinotopplisten.com | 2024-12-09 | Text]
+* Desktop: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Features:  User-friendly interface. [SOURCE: deviantart.com | 2024-12-09 | Text]  Specific features like search, filters, and personalization are not detailed.
+* Issues: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+
+9. REPUTATION & REVIEWS
+* Ratings: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Complaints: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Awards: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* History: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+
+10. INDUSTRY POSITION
+* Partnerships: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Sponsorships: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Innovation: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]
+* Competition: Not specified. [SOURCE: Missing | 2024-12-09 | Inference]

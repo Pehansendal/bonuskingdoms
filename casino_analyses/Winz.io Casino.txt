@@ -1,0 +1,70 @@
+* Category: Casino Review [SOURCE: Multiple Sources | 2024-12-09 | Aggregated Information]
+
+1. TECHNICAL SPECS
+* Platform: SoftSwiss; utilizes SSL encryption. [SOURCE: blokt.com | 2023-10-12 | Website Review, winz.io | 2024-03-22 | Website Info]
+* Mobile: Website is mobile-optimized for Android and iOS devices; no dedicated app. [SOURCE: blokt.com | 2023-10-12 | Website Review, surebets.bet | 2024-03-12 | Website Review, winz.io | 2024-03-12 | Website Review]
+* Features: Search function, game filters, provably fair games, live chat, responsible gambling tools (deposit limits, loss limits, cooling-off periods, self-exclusion), VIP program. [SOURCE: blokt.com | 2023-10-12 | Website Review, winz.io | 2024-03-12 | Website Review, winz.io | 2024-10-10 | Website Info, winz.io | 2024-07-31 | Website Info]
+* Security: SSL encryption, two-factor authentication (2FA) optional. [SOURCE: ccn.com | 2024-11-05 | Website Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curaçao (8048/JAZ2020-13). [SOURCE: winz.io | 2024-03-22 | Website Info]
+* Ownership: Dama N.V. (registration number 152125, Scharlooweg 39, Willemstad, Curaçao). Friolion Limited (ΗΕ 419102, Leandrou, 12A 3086, Limassol, Cyprus) acts as a facilitating company. [SOURCE: winz.io | 2024-03-22 | Website Info]
+* Restrictions: USA, UK, Spain, France, Netherlands, Israel, Lithuania, Dutch West Indies and Curaçao, Estonia.  [SOURCE: surebets.bet | 2024-03-12 | Website Review]
+* Issues: Some player complaints regarding withdrawals and bonus terms have been reported but generally resolved. [SOURCE: reddit.com | 2024-02-07 | User Discussion, ccn.com | 2024-11-05 | Website Review]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, Mastercard, Interac, Skrill, Bank Transfers, Bitcoin (BTC), Bitcoin Cash (BCH), Ethereum (ETH), Litecoin (LTC), Dogecoin (DOGE), Tether (USDT), TRON (TRX). MetaMask wallet. [SOURCE: surebets.bet | 2024-03-12 | Website Review, winz.io | 2024-03-22 | Website Info, winz.io | 2024-04-05 | Website Info, freetips.com | 2024-12-09 | Website Review, winz.io | 2024-08-21 | Website Info]
+* Crypto: BTC, BCH, ETH, LTC, DOGE, USDT, TRX. [SOURCE: surebets.bet | 2024-03-12 | Website Review, winz.io | 2024-03-31 | Website Info]
+* KYC:  Casino reserves the right to perform KYC checks before processing withdrawals. [SOURCE: winz.io | 2021-04-26 | Terms and Conditions]
+* Limits: Minimum deposit varies by currency (e.g., 0.0001 BTC, $20 USD, €20 EUR). Withdrawal limits: $100,000 weekly, $400,000 monthly, with higher limits for VIPs.  [SOURCE: surebets.bet | 2024-03-12 | Website Review, bitcoin.com | 2024-12-09 | Website Info, outfittersstores.com | 2024-10-13 | Website Info]
+* Times:  Withdrawals advertised as "instant," averaging just over 11 minutes. [SOURCE: bitcoin.com | 2024-12-09 | Website Info]
+* Fees: Information not available.
+
+4. GAME PORTFOLIO
+* Total: Over 9,000 games across various categories. [SOURCE: bitcoin.com | 2024-12-09 | Website Info, thecoinrepublic.com | 2024-10-28 | Website Review]
+* Popular Slots: Specific titles and RTPs not consistently listed across sources.  Games like "Winz to the Moon" and "Winz.io Bonanza" are mentioned as Winz.io exclusives. [SOURCE: cointelegraph.com | 2024-10-25 | Website Review, ccn.com | 2024-11-05 | Website Review]
+* Table Games:  Roulette, Blackjack, Baccarat available in various formats, including live dealer versions. Specific table limits vary. [SOURCE: winz.io | 2024-07-31 | Website Info, steemit.com | 2024-12-09 | Website Info]
+* Live:  Live dealer games available, including Blackjack, Roulette, and Baccarat, with some VIP tables offering higher limits (e.g., Blackjack Diamond VIP with limits of €1,000 - €5,000). [SOURCE: winz.io | 2024-07-31 | Website Info]
+* Sports: Wide range of sports markets available, including football, basketball, tennis, American football, baseball, volleyball, handball, table tennis, and eSports (CS:GO, Dota 2, League of Legends, FIFA). [SOURCE: ccn.com | 2024-11-05 | Website Review]
+* Providers: 1x2 Gaming, Amatic, Authentic Gaming, Belatra, Betsoft, BGaming, Big Time Gaming, Blueprint, Booming Games, Booongo, Evolution Gaming, NetEnt, Play'n GO, Playson, Pragmatic Play, and many others. [SOURCE: casinomeister.com | 2024-11-26 | Website Review, winz.io | 2024-12-09 | Website Info]
+* Jackpots:  Progressive jackpots available; all winnings paid in full. Specific games not consistently listed. [SOURCE: bitcoin.com | 2024-12-09 | Website Info]
+
+5. BONUS STRUCTURE
+* Welcome: "Wheel of Winz" offers up to $5,000 or equivalent in other currencies, with no wagering requirements.  Three spin options based on deposit amount: Bronze ($25 deposit, max win $1,000), Silver ($50 deposit, max win $2,000), Gold ($100 deposit, max win $5,000). Sports welcome bonus: 100% deposit bonus up to $500 + up to $20 free bet (use code SPORTS). [SOURCE: cointelegraph.com | 2024-10-25 | Website Review, winz.io | 2024-08-21 | Website Info, winz.io | 2024-12-09 | Website Info]
+* Wagering:  No wagering requirements for welcome bonus. [SOURCE: cointelegraph.com | 2024-10-25 | Website Review, sigma.world | 2024-12-09 | Website Info]
+* Loyalty: WinzUp Loyalty Program with tiered rewards (Bronze to Diamond), including daily rakeback, weekly cashback, and level-up rakeback, all with no wagering requirements. VIP program with personalized bonuses, dedicated managers, and special gifts. [SOURCE: bitcoin.com | 2024-12-09 | Website Info, winz.io | 2024-07-31 | Website Info]
+* Restrictions: Bonus terms and conditions apply. Maximum win amounts for welcome bonus spins. [SOURCE: winz.io | 2024-12-09 | Website Info]
+
+
+6. RESPONSIBLE GAMING
+* Tools: Deposit limits, loss limits, cooling-off periods (1 day - 6 months), self-exclusion (6 months - 1 year). [SOURCE: winz.io | 2024-10-10 | Website Info]
+* Partners: Information not available.
+* Policies:  Promotes responsible gambling and provides information on problem gambling. Age verification checks performed. [SOURCE: winz.io | 2024-10-10 | Website Info]
+* Limits:  Same as "Tools" above.
+
+7. CUSTOMER SUPPORT
+* Hours: 24/7 availability via live chat, email (info@winz.io), and contact form. [SOURCE: winz.io | 2024-12-09 | Website Info]
+* Languages: Primarily English, utilizes AI for other languages. [SOURCE: winz.io | 2024-12-09 | Website Info]
+* Response:  Live chat generally considered fast, although initial contact may be with a chatbot. [SOURCE: ccn.com | 2024-11-05 | Website Review]
+* Quality: Generally positive reviews, with some reports of efficient and helpful support. [SOURCE: winz.io | 2024-03-12 | Website Review]
+
+8. USER EXPERIENCE
+* Mobile:  Mobile website described as smooth, well-laid-out, and easy to navigate. [SOURCE: winz.io | 2024-03-12 | Website Review]
+* Desktop:  Easy navigation, clear interface, prominent game categories. [SOURCE: winz.io | 2024-03-12 | Website Review, blokt.com | 2023-10-12 | Website Review]
+* Features: Search function, game filters, personalized bonus offers for VIPs. [SOURCE: blokt.com | 2023-10-12 | Website Review, cointelegraph.com | 2024-10-25 | Website Review]
+* Issues: Some reports of technical problems, but generally positive user experience. [SOURCE: winz.io | 2024-03-12 | Website Review]
+
+9. REPUTATION & REVIEWS
+* Ratings: Generally positive reviews on platforms like AskGamblers and Casinomeister. Awarded "Best New Accredited Casino of 2021" by Casinomeister.  [SOURCE: casinomeister.com | 2024-11-26 | Website Review]
+* Complaints: Some complaints about withdrawals and bonus terms, but mostly resolved. [SOURCE: reddit.com | 2024-02-07 | User Discussion]
+* Awards: "Best New Accredited Casino of 2021" by Casinomeister, finalist in "Best New Casino" and "Best Casino" categories of AskGamblers Awards. [SOURCE: casinomeister.com | 2024-11-26 | Website Review, winz.io | 2024-03-22 | Website Info]
+* History: Launched in 2020.  Has developed a reputation for fast payouts and a wide game selection. [SOURCE: winz.io | 2024-03-22 | Website Info, freetips.com | 2024-12-09 | Website Review]
+
+10. INDUSTRY POSITION
+* Partnerships:  Partners with numerous software providers, including industry leaders like Evolution Gaming and NetEnt.  Uses Affilka for its affiliate program. [SOURCE: bitcoin.com | 2024-12-09 | Website Info, winz.io | 2024-12-09 | Website Info]
+* Sponsorships: Information not available.
+* Innovation:  Focus on zero-wagering bonuses and crypto integration. Developed exclusive games like "Winz to the Moon," "Winz.io Bonanza," and "Moonwalkers." [SOURCE: sigma.world | 2024-12-09 | Website Info, ccn.com | 2024-11-05 | Website Review]
+* Competition: Key differentiators include no-wagering bonuses, fast withdrawals, wide selection of games, and crypto-friendly platform. [SOURCE: sigma.world | 2024-12-09 | Website Info, bitcoin.com | 2024-12-09 | Website Info]
+
+
+Please note that this information is current as of December 9, 2024, and may change over time.  It is always advisable to consult the official Winz.io website for the most up-to-date details.

@@ -1,0 +1,69 @@
+* Category: ComeOn Casino Analysis [SOURCE: Multiple Sources | 2024-12-09 | Aggregated Information]
+
+1. TECHNICAL SPECS
+* Platform: Proprietary iGaming platform developed in-house. [SOURCE: comeon-group.com | No date | Website Information]  Supports casino and sports betting. [SOURCE: mynewsdesk.com | No date | Website Information]
+* Mobile: Native app available on Google Play Store for Android. [SOURCE: google.com | No date | App Information] Website accessible via browser on desktop and mobile devices. [SOURCE: casino.org | No date | Review]
+* Features: Wide range of casino games, including slots, table games, live dealer games, and game shows. [SOURCE: google.com | No date | App Information] Also offers sports betting. [SOURCE: mynewsdesk.com | No date | Website Information] Exclusive Ruby Lounge for personalized Roulette and Blackjack experiences. [SOURCE: google.com | No date | App Information]
+* Security: Licensed by the UK Gambling Commission. [SOURCE: casino.org | No date | Review]  Operates under the oversight of Ontario's AGCO. [SOURCE: gambling.com | 2024-08-05 | Review] Uses SSL encryption.  (Information about RNG and other security measures not available in provided sources.)
+
+2. LICENSING & COMPLIANCE
+* Licenses: Licensed by the UK Gambling Commission. [SOURCE: casino.org | No date | Review] Licensed by the Alcohol and Gaming Commission of Ontario (AGCO). [SOURCE: gambling.com | 2024-08-05 | Review] Licensed in the Netherlands since September 13, 2022, by the Kansspelautoriteit. [SOURCE: intikkertje.nl | No date | Website Information]
+* Ownership: Owned by ComeOn Group. [SOURCE: mynewsdesk.com | No date | Website Information] Founded in 2008 in Stockholm. [SOURCE: iabuk.com | No date | Website Information]
+* Restrictions: Not explicitly stated in sources, but likely restricted in regions where online gambling is prohibited.
+* Issues: Some reports of lower RTP on certain games. [SOURCE: meneercasino.com | No date | Website Information] Customer support not available 24/7. [SOURCE: casino.org | No date | Review] Limited payment options, lacking prepaid cards and cryptocurrencies. [SOURCE: casino.org | No date | Review]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Visa, Mastercard, Interac, Instadebit, and MuchBetter. [SOURCE: casino.org | No date | Review]
+* Crypto: Not supported. [SOURCE: casino.org | No date | Review]
+* KYC: Not specified in the provided sources.
+* Limits: Low minimum deposit and withdrawal amounts. [SOURCE: casino.org | No date | Review] Specific amounts not provided.
+* Times: Not specified in the provided sources.
+* Fees: Not specified in the provided sources.
+
+4. GAME PORTFOLIO
+* Total: Over 500 games. [SOURCE: covers.com | No date | Website Information]
+* Popular Slots: Not specified by name and RTP in provided sources.  However, the Google Play store mentions Wolf Gold, Money Train, Blazing Diamonds, 9 Masks of Fire, and Book of Atem. [SOURCE: google.com | No date | App Information]
+* Table Games: Roulette and Blackjack variants available. [SOURCE: google.com | No date | App Information] Specific variants and limits not provided.
+* Live: Lightning Roulette, Infinite Blackjack, Money Wheel, Speed Baccarat, Classic Roulette. [SOURCE: google.com | No date | App Information] Live game shows include Crazy Time, Deal or No Deal, Monopoly Live, and Mega Ball. [SOURCE: google.com | No date | App Information] Specific limits not provided.
+* Sports: Offers sports betting markets. [SOURCE: mynewsdesk.com | No date | Website Information] Specific markets and odds not provided.
+* Providers: Microgaming and Evolution mentioned for slots and live games, respectively. [SOURCE: google.com | No date | App Information] Other providers not specified.
+* Jackpots: Progressive jackpot slots available. [SOURCE: google.com | No date | App Information] Specific games not listed.
+
+5. BONUS STRUCTURE
+* Welcome: £€$25 free on joining. [SOURCE: casino.org | No date | Review]
+* Wagering: Generally 40x. [SOURCE: gambling.com | 2024-08-05 | Review]
+* Loyalty: VIP program details not provided in sources.
+* Restrictions: Not specified in provided sources.
+
+6. RESPONSIBLE GAMING
+* Tools: Information not available in provided sources.  ConnexOntario.ca mentioned for gambling addiction help. [SOURCE: google.com | No date | App Information]
+* Partners: Not specified in provided sources.
+* Policies: Not detailed in provided sources.
+* Limits: Not specified in provided sources.
+
+7. CUSTOMER SUPPORT
+* Hours: Not 24/7. [SOURCE: casino.org | No date | Review] Exact hours not specified.
+* Languages: Not specified in provided sources.
+* Response: Not specified in provided sources.
+* Quality: Not specified in provided sources.
+
+8. USER EXPERIENCE
+* Mobile: No download required for desktop, implying browser-based play. [SOURCE: casino.org | No date | Review] Mobile app available. [SOURCE: google.com | No date | App Information] Specific performance metrics not provided.
+* Desktop:  No download required, browser-based play. [SOURCE: casino.org | No date | Review] Specific details on navigation and functionality not provided.
+* Features: Search, filters, and personalization features not detailed in provided sources.
+* Issues: Some reports of lag in certain games. [SOURCE: meneercasino.com | No date | Website Information]
+
+9. REPUTATION & REVIEWS
+* Ratings: Not specified in provided sources.
+* Complaints: Some players report lower RTP on some games. [SOURCE: meneercasino.com | No date | Website Information]
+* Awards:  Information not available in provided sources.  Described as "award-winning" by ComeOn Group, but specific awards not mentioned. [SOURCE: comeon-group.com | No date | Website Information]
+* History: Founded in 2008. [SOURCE: iabuk.com | No date | Website Information]  No other historical information provided.
+
+10. INDUSTRY POSITION
+* Partnerships: Not specified in provided sources.
+* Sponsorships: Not specified in provided sources.
+* Innovation: In-house developed platform. [SOURCE: comeon-group.com | No date | Website Information] Exclusive Ruby Lounge. [SOURCE: google.com | No date | App Information]
+* Competition: Data-driven approach. [SOURCE: comeon-group.com | No date | Website Information] Wide game selection and efficient banking system highlighted as positive aspects. [SOURCE: wizardofodds.com | No date | Website Information]
+
+
+Note: This information is based on the available sources and is current as of December 9, 2024.  Some information is missing or incomplete.  Further research may be needed to obtain a more comprehensive analysis.

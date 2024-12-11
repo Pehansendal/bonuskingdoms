@@ -1,0 +1,70 @@
+* Category: BetChain Casino Analysis [SOURCE: User Prompt | 2024-12-09 | Analysis]
+
+1. TECHNICAL SPECS
+* Platform: SoftSwiss [SOURCE: softswiss.com | 2013-11-02 | News Article],  [SOURCE: 99bitcoins.com | 2018-01-02 | Article]
+* Mobile: Browser compatible, Mobile App available. [SOURCE: bookies.com | 2024-12-06 | Article]
+* Features: Provably fair games, Fun mode (play with virtual currency), VIP program. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review], [SOURCE: youtube.com | 2019-08-28 | Review]
+* Security: Licensed RNG, Curacao eGaming license. [SOURCE: youtube.com | 2019-08-28 | Review]
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curacao eGaming. [SOURCE: youtube.com | 2019-08-28 | Review]
+* Ownership: Information not available.
+* Restrictions: Information not available, but some countries may be restricted.
+* Issues: Account closures, unresponsive support, withdrawal delays, confiscated funds, bonus-related problems, deposit issues. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Bitcoin, +20 other deposit and withdrawal methods (including altcoins and traditional fiat options). [SOURCE: worldcryptoindex.com | 2018-03-26 | Review]
+* Crypto: Bitcoin. [SOURCE: worldcryptoindex.com | 2018-03-26 | Review]  Other altcoins supported, but specific coins not listed.
+* KYC: Information not available.
+* Limits: Information not available, but some slot games list limits in BTC or USD. [SOURCE: youtube.com | 2019-08-28 | Review]
+* Times: Information not available.
+* Fees: Information not available.
+
+4. GAME PORTFOLIO
+* Total: Close to thousands of games. [SOURCE: gambling.com | 2024-09-09 | Review]
+* Popular Slots: Information not available, but Endorphina slots are mentioned favorably. [SOURCE: youtube.com | 2019-08-28 | Review]
+* Table Games: Roulette, poker games, video poker, card games, craps, lottery games. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review] Specific variants and limits not provided.
+* Live: Information not available.
+* Sports: No sportsbook available. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Providers: Over 15 software providers, including Endorphina. [SOURCE: youtube.com | 2019-08-28 | Review]
+* Jackpots: 138+ slot games with progressive and/or fixed jackpots. [SOURCE: youtube.com | 2019-08-28 | Review]
+
+5. BONUS STRUCTURE
+* Welcome: 325% up to $5999 + 500 Free Spins, 225% Welcome Package + 200 Free Spins (conflicting information). [SOURCE: bookies.com | 2024-12-06 | Article], [SOURCE: youtube.com | 2019-08-28 | Review]
+* Wagering: Information not available.
+* Loyalty: VIP program with free spins, cash bonuses, live tournaments, frequent cashback, and exclusive bonuses. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Restrictions: Information not available.
+
+6. RESPONSIBLE GAMING
+* Tools: Information not available.
+* Partners: Information not available, but ConnexOntario is mentioned in relation to responsible gambling on a site listing BetChain. [SOURCE: bookies.com | 2024-12-06 | Article]
+* Policies: Information not available.
+* Limits: Information not available.
+
+7. CUSTOMER SUPPORT
+* Hours: Information not available.
+* Languages: 7 languages. [SOURCE: 99bitcoins.com | 2018-01-02 | Article] Specific languages not listed.
+* Response: Can be unresponsive. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Quality: Resolution rates and satisfaction levels not available.
+
+8. USER EXPERIENCE
+* Mobile: Information not available.
+* Desktop: Easy navigation, user-friendly interface. [SOURCE: worldcryptoindex.com | 2018-03-26 | Review], [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Features: Search and filter functionality implied but not explicitly stated. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review] Personalization not mentioned.
+* Issues: Information not available.
+
+9. REPUTATION & REVIEWS
+* Ratings: Information not available, but generally positive with a handful of negative reviews. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Complaints: Account closures, unresponsive support, withdrawal delays, confiscated funds, bonus-related problems, deposit issues. [SOURCE: cryptomaniaks.com | 2024-09-20 | Review]
+* Awards: Information not available.
+* History: Established in 2013. [SOURCE: worldcryptoindex.com | 2018-03-26 | Review] First Bitcoin casino to offer free spins. [SOURCE: 99bitcoins.com | 2018-01-02 | Article]
+
+10. INDUSTRY POSITION
+* Partnerships: SoftSwiss. [SOURCE: softswiss.com | 2013-11-02 | News Article]
+* Sponsorships: Information not available.
+* Innovation: Free spins promotion, provably fair games, early adoption of Bitcoin. [SOURCE: 99bitcoins.com | 2018-01-02 | Article]
+* Competition: Wide variety of games and payment methods, focus on Bitcoin and cryptocurrencies. [SOURCE: worldcryptoindex.com | 2018-03-26 | Review]
+
+
+* Category: Additional Notes [SOURCE: N/A | 2024-12-09 | Notes]
+Inconsistencies found in welcome bonus amounts offered. Some information is missing, such as specific game RTPs, KYC procedures, and detailed payment information.  This analysis is current as of today's date and may change with time.

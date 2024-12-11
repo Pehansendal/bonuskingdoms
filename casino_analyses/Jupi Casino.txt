@@ -1,0 +1,67 @@
+* Category: Jupi Casino Analysis [SOURCE: Synthesized from provided sources | 2024-12-09 | Text and Data]
+
+1. TECHNICAL SPECS
+* Platform:  Information not available in the provided sources.
+* Mobile: Accessible on mobile devices through a web browser.  A dedicated mobile app may not be available. [SOURCE: winzogames.com | 2024-12-09 | Text]
+* Features: Live chat (with limited hours and potential chatbot usage), email support, Livespins, supports cryptocurrency, offers various bonuses (welcome, reload, live casino, and betting bonuses). [SOURCE: boomaff.com, kasinohai.com, uusimmatkasinot.com | 2024-12-09 | Text]
+* Security:  Uses SSL encryption. Other security measures like RNG are not specified in the sources. [SOURCE: Inferred from general industry practices | 2024-12-09 | General Knowledge]
+
+
+2. LICENSING & COMPLIANCE
+* Licenses: Curaçao (# 8048/JAZ2020-016), issued to Famagousta B.V. [SOURCE: boomaff.com | 2024-12-09 | Text]
+* Ownership: Famagousta B.V., registered in Curaçao (# 152449) on January 13, 2020, located at Schout Bij Nacht Doormanweg 40 Damacor Office Bldg 2nd Floor.  A Polish address is also listed (Tadeusza Kościuszki 2e 58-160 Świebodzice, Poland). [SOURCE: boomaff.com, jupi.net | 2024-12-09 | Text]
+* Restrictions: Blocks players from 128 countries and over 10 islands.  Specific regions not listed in the sources. [SOURCE: boomaff.com | 2024-12-09 | Text]
+* Issues: Reported issues include unfavorable withdrawal conditions, wagering requirements applying to the deposit, Curaçao licensing concerns, lack of Pay N Play, chatbot-only customer service during certain hours, potential difficulties contacting support in Finnish, aggressive win limitations (€5,000 per day, €50,000 total), and potential slow customer service response times. [SOURCE: kasinohai.com, uusimmatkasinot.com | 2024-12-09 | Text]
+
+3. PAYMENT ECOSYSTEM
+* Methods: Information not fully specified. Sources mention support for cryptocurrency. [SOURCE: kasinohai.com | 2024-12-09 | Text]
+* Crypto: Specific cryptocurrencies not listed. [SOURCE: Missing Information | 2024-12-09 | Text]
+* KYC:  Information not available.
+* Limits: Minimum deposit: €10. Minimum withdrawal: €100. Maximum withdrawal: €500. [SOURCE: kasinohai.com, uusimmatkasinot.com | 2024-12-09 | Text]
+* Times: Not specified.
+* Fees: Not specified.
+
+4. GAME PORTFOLIO
+* Total: Over 10,800 games and sports betting options. [SOURCE: kasinohai.com | 2024-12-09 | Text]
+* Popular Slots: Not specified.
+* Table Games: Information not available.
+* Live: Over 750 live games, including options with social features and celebrity involvement.  Live casino software providers include Atmosfera, Evolution, Ezugi, Lucky Streak, Medialive, Pragmatic, Sagamint, and Vivo. [SOURCE: boomaff.com, uusimmatkasinot.com | 2024-12-09 | Text]
+* Sports: Available in Ghana, featuring local sports like football and basketball.  Specific markets and odds not provided. [SOURCE: bettingranker-gh.com | 2024-12-09 | Text]
+* Providers: Numerous providers, including smaller studios like Cool Games, Popiplay, Triple Cherry, and LIW. [SOURCE: uusimmatkasinot.com | 2024-12-09 | Text]
+* Jackpots: Not specified.
+
+5. BONUS STRUCTURE
+* Welcome: Multiple welcome bonus options available for casino games and sports betting. One example is a 120% bonus up to €600 with a 40x wagering requirement on the bonus amount, a minimum deposit of €25, and a 10% cashback up to €250. Another example is a 200% bonus + 500 free spins with a 45x wagering requirement on free spins winnings and a minimum deposit of €20. [SOURCE: uusimmatkasinot.com, kasinohai.com | 2024-12-09 | Text]
+* Wagering: Varies depending on the bonus. Examples include 40x on the bonus amount and 45x on free spin winnings. Some bonuses may have wagering requirements applied to the deposit amount as well. [SOURCE: uusimmatkasinot.com, kasinohai.com | 2024-12-09 | Text]
+* Loyalty: VIP program mentioned, but details not provided. [SOURCE: kasinohai.com, uusimmatkasinot.com | 2024-12-09 | Text]
+* Restrictions: Not fully specified.
+
+6. RESPONSIBLE GAMING
+* Tools: Not specified.
+* Partners: Not specified.
+* Policies: Not specified.
+* Limits: Not specified.
+
+7. CUSTOMER SUPPORT
+* Hours: Live chat available from 09:00 to 01:00 CET. Email support available. [SOURCE: boomaff.com | 2024-12-09 | Text]
+* Languages: Five languages supported via live chat and email. Specific languages not listed. [SOURCE: boomaff.com | 2024-12-09 | Text]
+* Response: Not specified, but slow response times via email have been reported. [SOURCE: kasinohai.com | 2024-12-09 | Text]
+* Quality: Resolution rates and customer satisfaction not specified. Chatbot usage during certain hours may negatively impact quality. [SOURCE: kasinohai.com | 2024-12-09 | Text]
+
+8. USER EXPERIENCE
+* Mobile:  Information not available.
+* Desktop: Not specified.
+* Features: Not specified.
+* Issues: Not specified beyond the customer support chatbot concerns.
+
+9. REPUTATION & REVIEWS
+* Ratings: Not specified.
+* Complaints: Several complaints regarding bonus terms, withdrawal conditions, customer service responsiveness, and win limitations. [SOURCE: kasinohai.com, uusimmatkasinot.com | 2024-12-09 | Text]
+* Awards: Not specified.
+* History: Launched in March 2021. [SOURCE: boomaff.com | 2024-12-09 | Text]
+
+10. INDUSTRY POSITION
+* Partnerships: Not specified.
+* Sponsorships: Not specified.
+* Innovation: Livespins feature and social gambling with celebrity streamers. [SOURCE: kasinohai.com, uusimmatkasinot.com | 2024-12-09 | Text]
+* Competition: Large game selection, including titles from smaller providers, and cryptocurrency support. However, these are offset by restrictive terms and customer service issues. [SOURCE: Synthesized from provided sources | 2024-12-09 | Text and Data]
