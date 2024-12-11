@@ -3,7 +3,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import { useState } from 'react'
-import { Home, Trophy, Shield, UserX, HeartPulse, Lock, MessageSquare, Menu } from 'lucide-react'
+import { Home, Trophy, Shield, UserX, HeartPulse, Lock, MessageSquare, Menu, Bitcoin } from 'lucide-react'
 
 export function Sidebar() {
   const [isOpen, setIsOpen] = useState(false)
@@ -11,6 +11,7 @@ export function Sidebar() {
   const menuItems = [
     { href: "/", icon: <Home size={20} />, text: "Home" },
     { href: "/top-casinos", icon: <Trophy size={20} />, text: "Best Casinos" },
+    { href: "/cryptocasinos", icon: <Bitcoin size={20} />, text: "Crypto Casinos" },
     { href: "/responsible-gaming", icon: <Shield size={20} />, text: "Responsible Gaming" },
     { href: "/self-exclusion", icon: <UserX size={20} />, text: "Self-Exclusion" },
     { href: "/gambling-addiction", icon: <HeartPulse size={20} />, text: "Problem Gambling Help" },
