@@ -16,9 +16,21 @@ import {
 } from "@/components/ui/collapsible"
 import { Casino } from '@/lib/types'
 
-type CasinoCardProps = Casino
+type CasinoCardProps = {
+  rank: number
+  name: string
+  logo: string
+  promotion: string
+  link: string
+}
 
-export function CasinoCard({ rank, name, logo, promotion, supportedCoins, additionalCoins, link }: CasinoCardProps) {
+export function CasinoCard({ 
+  rank, 
+  name, 
+  logo, 
+  promotion, 
+  link 
+}: CasinoCardProps) {
   const [isOpen, setIsOpen] = useState(false)
   const { ref, inView } = useInView({
     triggerOnce: true,
@@ -237,45 +249,18 @@ export function CasinoCard({ rank, name, logo, promotion, supportedCoins, additi
             </div>
           </div>
 
-          <div className="flex justify-between items-center">
-            <div>
-              <p className="text-gray-400 uppercase text-xs mb-1">COINS</p>
-              <div className="flex gap-1">
-                {supportedCoins.slice(0, 4).map((coin) => (
-                  <div key={coin} className="bg-[#252b3d]/80 backdrop-blur-sm rounded-full p-1.5 
-                                shadow-lg hover:shadow-xl hover:bg-[#252b3d] 
-                                transition-all duration-300 border border-white/5">
-                    <Image
-                      src={`/${coin}.svg`}
-                      alt={coin}
-                      width={16}
-                      height={16}
-                      className="transition-transform hover:scale-125 hover:rotate-12"
-                    />
-                  </div>
-                ))}
-                {additionalCoins > 0 && (
-                  <div className="bg-[#252b3d]/80 backdrop-blur-sm rounded-full p-1.5 
-                                flex items-center shadow-lg hover:shadow-xl 
-                                transition-all duration-300 border border-white/5">
-                    <span className="text-gray-400 text-xs">+{additionalCoins}</span>
-                  </div>
-                )}
-              </div>
-            </div>
-
-            <Link 
-              href={`https://${link}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Button className="bg-blue-600/90 hover:bg-blue-700 text-white px-4 py-1.5 rounded-lg
-                               shadow-[0_0_15px_rgba(59,130,246,0.5)] hover:shadow-[0_0_20px_rgba(59,130,246,0.6)]
-                               transition-all duration-300 backdrop-blur-sm text-sm">
-                Go to site
-              </Button>
-            </Link>
-          </div>
+          <Link 
+            href={`https://${link}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex justify-end"
+          >
+            <Button className="bg-blue-600/90 hover:bg-blue-700 text-white px-4 py-1.5 rounded-lg
+                             shadow-[0_0_15px_rgba(59,130,246,0.5)] hover:shadow-[0_0_20px_rgba(59,130,246,0.6)]
+                             transition-all duration-300 backdrop-blur-sm text-sm">
+              Go to site
+            </Button>
+          </Link>
         </div>
 
         {/* Desktop Layout */}
@@ -307,33 +292,6 @@ export function CasinoCard({ rank, name, logo, promotion, supportedCoins, additi
             <p className="text-sm font-semibold bg-gradient-to-r from-blue-300 to-purple-300 bg-clip-text text-transparent">
               {promotion}
             </p>
-          </div>
-
-          <div className="flex-shrink-0">
-            <p className="text-gray-400 uppercase text-xs mb-1">COINS</p>
-            <div className="flex gap-1">
-              {supportedCoins.slice(0, 4).map((coin) => (
-                <div key={coin} 
-                     className="bg-[#252b3d]/80 backdrop-blur-sm rounded-full p-1.5 
-                              shadow-lg hover:shadow-xl hover:bg-[#252b3d] 
-                              transition-all duration-300 border border-white/5">
-                  <Image
-                    src={`/${coin}.svg`}
-                    alt={coin}
-                    width={16}
-                    height={16}
-                    className="transition-transform hover:scale-125 hover:rotate-12"
-                  />
-                </div>
-              ))}
-              {additionalCoins > 0 && (
-                <div className="bg-[#252b3d]/80 backdrop-blur-sm rounded-full p-1.5 
-                              flex items-center shadow-lg hover:shadow-xl 
-                              transition-all duration-300 border border-white/5">
-                  <span className="text-gray-400 text-xs">+{additionalCoins}</span>
-                </div>
-              )}
-            </div>
           </div>
 
           <Link 

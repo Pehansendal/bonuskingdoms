@@ -1,21 +1,26 @@
 import React from 'react'
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
-import { CasinoData } from './types'
+import { Casino } from '@/types/casino'
 import { Metadata } from 'next'
-import { getCasinoData } from '../../../lib/utils/getCasinoData'
+import { getCasinoData } from '@/utils/getCasinoData'
 import path from 'path'
-import fs from 'fs'
+import fs from 'fs/promises'
 
 export async function generateStaticParams() {
-  const reviewsDir = path.join(process.cwd(), 'public', 'data', 'reviews')
-  const files = fs.readdirSync(reviewsDir)
-  
-  return files.map(file => ({
-    slug: file.replace('.json', '').toLowerCase()
-      .replace(/\s+/g, '')
-      .replace(/[^a-z0-9-]/g, '')
-  }))
+  try {
+    const reviewsDir = path.join(process.cwd(), 'public', 'data', 'reviews')
+    const files = await fs.readdir(reviewsDir)
+    
+    return files.map(file => ({
+      slug: file.replace('.json', '').toLowerCase()
+        .replace(/\s+/g, '')
+        .replace(/[^a-z0-9-]/g, '')
+    }))
+  } catch (error) {
+    console.error('Feil ved generering av statiske params:', error)
+    return []
+  }
 }
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
@@ -28,13 +33,17 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     }
   }
 
+  const description = casinoData.review?.description || 
+                     casinoData.verdict?.text || 
+                     `Les vår anmeldelse av ${casinoData.name} crypto casino`
+
   return {
-    title: `${casinoData.name} Anmeldelse - Crypto Casino Rating ${casinoData.verdict.rating}/10`,
-    description: casinoData.verdict.text?.slice(0, 160),
+    title: `${casinoData.name} Anmeldelse - Crypto Casino Rating ${casinoData.verdict?.rating || '?'}/10`,
+    description: description.slice(0, 160),
     openGraph: {
       title: `${casinoData.name} - Crypto Casino Anmeldelse`,
-      description: casinoData.verdict.text?.slice(0, 160),
-      images: [`/images/casinos/${params.slug}.png`],
+      description: description.slice(0, 160),
+      images: [casinoData.logo],
     },
     alternates: {
       canonical: `${process.env.NEXT_PUBLIC_BASE_URL}/cryptocasinos/${params.slug}`,
@@ -52,79 +61,91 @@ export default async function CasinoPage({ params }: { params: { slug: string } 
   return <CasinoContent data={casino} />
 }
 
-function CasinoContent({ data }: { data: CasinoData }) {
+function CasinoContent({ data }: { data: Casino }) {
+  // Debug logging
+  console.log('Casino data:', data)
+  const logoPath = `/images/casinos/${data.name.toLowerCase()}.png`
+  console.log('Constructed logo path:', logoPath)
+
+  // Sikre at vi har review-data
+  const review = data.review || {
+    description: data.verdict?.text || 'Ingen beskrivelse tilgjengelig',
+    pros: [],
+    cons: []
+  }
+
   // Sikre at vi har gyldige verdier eller standardverdier
   const totalGames = data?.games?.slots?.total || 0;
   const support = data?.keyFacts?.[1]?.value || "24/7";
   const withdrawals = data?.keyFacts?.[2]?.value || "Fast";
-  const rating = data?.verdict?.rating || 'N/A';
+  const rating = data?.verdict?.rating ?? 0;
   const lastUpdated = data?.lastUpdated || 'Recently';
 
   return (
-    <div className="min-h-screen bg-[#0f1218]">
-      {/* Hero Section med større sirkulær logo */}
-      <div className="bg-gradient-to-b from-blue-900/20 to-transparent">
-        <div className="max-w-5xl mx-auto px-4 py-12 text-center">
-          {data.logoPath && (
-            <div className="mb-12 flex justify-center">
-              <div className="w-[400px] h-[400px] relative rounded-full overflow-hidden border-8 border-gray-700">
-                <Image
-                  src={data.logoPath}
-                  alt={`${data.name} logo`}
-                  fill
-                  sizes="(max-width: 400px) 100vw, 400px"
-                  className="object-cover"
-                  priority
-                />
-              </div>
+    <div className="min-h-screen bg-[#070a0f] text-white pb-12">
+      <div className="max-w-4xl mx-auto px-4">
+        {/* Header med logo, navn og rating */}
+        <header className="text-center pt-8">
+          {/* Logo - litt større sirkel */}
+          <div className="relative w-52 h-52 md:w-72 md:h-72 mx-auto mb-8 
+                         rounded-full overflow-hidden 
+                         bg-[#1a1f2d] 
+                         border-4 border-[#252b3d]
+                         shadow-lg shadow-black/50">
+            <div className="absolute inset-0 scale-[1.6]">
+              <Image
+                src={logoPath}
+                alt={`${data.name} logo`}
+                fill
+                className="object-contain"
+                priority
+                sizes="(max-width: 768px) 208px, 288px"
+              />
             </div>
-          )}
-          <div className="flex justify-center items-center gap-6 mb-8">
-            <div className="bg-yellow-400/10 px-8 py-4 rounded-full">
-              <span className="text-5xl font-bold text-yellow-400">{rating}</span>
-              <span className="text-gray-400 text-2xl ml-2">/10</span>
-            </div>
-            <div className="text-gray-400 text-xl">Updated: {lastUpdated}</div>
           </div>
-        </div>
-      </div>
-      <div className="max-w-5xl mx-auto px-4 py-8">
-        {/* Quick Navigation */}
-        <nav className="mb-12 overflow-x-auto">
-          <ul className="flex space-x-6 text-lg">
-            <li>
-              <a href="#overview" className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors">
-                Overview
-              </a>
-            </li>
-            <li>
-              <a href="#game-selection" className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors">
-                Games
-              </a>
-            </li>
-            <li>
-              <a href="#security-section" className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors">
-                Security
-              </a>
-            </li>
-            <li>
-              <a href="#bonuses" className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors">
-                Bonuses
-              </a>
-            </li>
-            <li>
-              <a href="#faq-section" className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors">
-                FAQ
-              </a>
-            </li>
-          </ul>
-        </nav>
+
+          {/* Navn og rating */}
+          <div className="flex items-center justify-center gap-3 mb-6">
+            <h1 className="text-4xl md:text-5xl font-bold">{data.name}</h1>
+            <div className="text-2xl md:text-3xl">
+              <span className="text-yellow-500 font-bold">{data.verdict?.rating || '?'}</span>
+              <span className="text-yellow-500/60">/10</span>
+            </div>
+          </div>
+
+          {/* Navigasjon */}
+          <nav className="flex justify-center gap-4 mb-8">
+            <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
+              Overview
+            </button>
+            <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
+              Games
+            </button>
+            <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
+              Security
+            </button>
+            <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
+              Bonuses
+            </button>
+            <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
+              FAQ
+            </button>
+          </nav>
+
+          {/* Verdict section */}
+          <section className="bg-[#1a1f2d] rounded-xl p-6 mb-8">
+            <h2 className="text-2xl font-bold mb-4">Our Verdict</h2>
+            <p className="text-gray-300 leading-relaxed">
+              {data.review?.description || data.verdict?.text || 'Ingen beskrivelse tilgjengelig'}
+            </p>
+          </section>
+        </header>
 
         {/* Verdict Card */}
         <section id="overview" className="mb-12">
           <div className="bg-[#1a1f2d] p-8 rounded-xl border border-gray-800">
             <h2 className="text-4xl font-bold mb-6 text-white">Our Verdict</h2>
-            <p className="text-gray-300 mb-6 text-xl leading-relaxed">{data?.verdict?.text || 'Review coming soon'}</p>
+            <p className="text-gray-300 mb-6 text-xl leading-relaxed">{review.description}</p>
             <div className="flex flex-wrap gap-4">
               {data?.trustIndicators?.map((indicator: any, index: number) => (
                 <span 
@@ -200,40 +221,61 @@ function CasinoContent({ data }: { data: CasinoData }) {
         </section>
 
         {/* Pros & Cons Section */}
-        <section className="mb-12">
-          <h2 className="text-4xl font-bold mb-6 text-white">Pros & Cons</h2>
-          <div className="grid md:grid-cols-2 gap-6">
-            {/* Advantages */}
-            <div className="bg-[#1a1f2d] p-8 rounded-xl border border-gray-800">
-              <h3 className="text-2xl font-semibold mb-6 text-green-400 flex items-center">
-                <span className="mr-3">✓</span> Advantages
-              </h3>
-              <ul className="space-y-4">
-                {data?.advantages?.map((pro: string, index: number) => (
-                  <li key={index} className="flex items-start text-gray-300 text-lg">
-                    <span className="text-green-400 mr-3 mt-1">•</span>
-                    <span>{pro}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-
-            {/* Disadvantages */}
-            <div className="bg-[#1a1f2d] p-8 rounded-xl border border-gray-800">
-              <h3 className="text-2xl font-semibold mb-6 text-red-400 flex items-center">
-                <span className="mr-3">✗</span> Disadvantages
-              </h3>
-              <ul className="space-y-4">
-                {data?.disadvantages?.map((con: string, index: number) => (
-                  <li key={index} className="flex items-start text-gray-300 text-lg">
-                    <span className="text-red-400 mr-3 mt-1">•</span>
-                    <span>{con}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+          {/* Advantages */}
+          <div className="bg-gradient-to-br from-[#1a1f2d] to-green-950/30 
+                          rounded-xl p-6 
+                          border border-green-500/10
+                          shadow-lg shadow-green-900/20
+                          backdrop-blur-sm">
+            <h3 className="text-xl font-semibold mb-6 flex items-center gap-2 
+                           text-green-400 border-b border-green-500/20 pb-3">
+              <span className="bg-green-500/10 p-1.5 rounded-full">✓</span>
+              Advantages
+            </h3>
+            <ul className="space-y-4">
+              {data.advantages?.map((advantage, index) => (
+                <li key={index} 
+                    className="flex items-start gap-3 text-gray-300 
+                               hover:text-green-300 transition-colors">
+                  <span className="text-green-500 mt-1 
+                                  bg-green-500/10 p-1 rounded-full 
+                                  text-xs">
+                    ✓
+                  </span>
+                  <span className="leading-relaxed">{advantage}</span>
+                </li>
+              ))}
+            </ul>
           </div>
-        </section>
+
+          {/* Disadvantages */}
+          <div className="bg-gradient-to-br from-[#1a1f2d] to-red-950/30 
+                          rounded-xl p-6 
+                          border border-red-500/10
+                          shadow-lg shadow-red-900/20
+                          backdrop-blur-sm">
+            <h3 className="text-xl font-semibold mb-6 flex items-center gap-2 
+                           text-red-400 border-b border-red-500/20 pb-3">
+              <span className="bg-red-500/10 p-1.5 rounded-full">✗</span>
+              Disadvantages
+            </h3>
+            <ul className="space-y-4">
+              {data.disadvantages?.map((disadvantage, index) => (
+                <li key={index} 
+                    className="flex items-start gap-3 text-gray-300 
+                               hover:text-red-300 transition-colors">
+                  <span className="text-red-500 mt-1 
+                                  bg-red-500/10 p-1 rounded-full 
+                                  text-xs">
+                    ✗
+                  </span>
+                  <span className="leading-relaxed">{disadvantage}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
 
         {/* FAQ Section with Accordions */}
         <section id="faq-section" className="mb-12">
