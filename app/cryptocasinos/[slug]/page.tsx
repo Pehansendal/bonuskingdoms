@@ -7,6 +7,8 @@ import { CasinoData } from './types'
 import { CasinoLogo } from './components/CasinoLogo'
 import { Metadata } from 'next'
 
+export const runtime = 'edge'
+
 function normalizeFileName(name: string): string {
   return name.toLowerCase().replace(/\s+/g, '')
 }

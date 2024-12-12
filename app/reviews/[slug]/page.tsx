@@ -29,6 +29,8 @@ export async function generateMetadata({ params }: ReviewPageProps): Promise<Met
   }
 }
 
+export const runtime = 'edge'
+
 export default async function ReviewPage({ params }: ReviewPageProps) {
   const review = await getReviewContent(params.slug)
   if (!review) notFound()
