@@ -69,14 +69,17 @@ export interface Casino {
 }
 
 export interface CasinoReview {
-  name: string
-  lastUpdated: string
+  title: string;
+  metadata: {
+    lastUpdated: string;
+  };
+  name: string;
   trustIndicators: {
-    text: string
-    color: string
-  }[]
+    text: string;
+    color: string;
+  }[];
   verdict: {
-    text: string
-  }
+    text: string;
+  };
   // Legg til andre felt basert på JSON-dataene dine
 } 

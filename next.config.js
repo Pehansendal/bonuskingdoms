@@ -5,6 +5,7 @@ const nextConfig = {
     domains: ['localhost']
   },
   output: 'export',
+  distDir: '.next',
   webpack: (config) => {
     config.module.rules.push({
       test: /\.json$/,
