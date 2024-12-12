@@ -4,7 +4,7 @@ const nextConfig = {
     unoptimized: true,
     domains: ['localhost']
   },
-  output: 'standalone',
+  output: 'export',
   webpack: (config) => {
     config.module.rules.push({
       test: /\.json$/,
