@@ -1,108 +1,112 @@
-export const runtime = 'edge'
-import React from 'react'
-import fs from 'fs'
-import path from 'path'
 import Link from 'next/link'
 import Image from 'next/image'
+import { getCasinoData } from '../../lib/utils/getCasinoData'
+import fs from 'fs'
+import path from 'path'
 
-interface CasinoListItem {
-  slug: string
+interface Casino {
   name: string
-  rating: string
-  logoPath?: string | null
-  shortDescription?: string
-  originalName: string
+  slug: string
+  logo?: string
+  rating?: string
+  verdict?: {
+    text: string
+    rating: string
+  }
+  trustIndicators?: Array<{
+    text: string
+    color: string
+  }>
 }
 
-async function getCasinoList(): Promise<CasinoListItem[]> {
-  const jsonDir = path.join(process.cwd(), 'jsongoogle')
-  const files = fs.readdirSync(jsonDir).filter(file => file.endsWith('.json'))
+async function getAllCasinos(): Promise<Casino[]> {
+  const reviewsDir = path.join(process.cwd(), 'public', 'data', 'reviews')
+  const files = fs.readdirSync(reviewsDir)
   
-  return files.reduce<CasinoListItem[]>((validCasinos, file) => {
-    try {
-      const originalName = file.replace('.json', '')
-      const slug = originalName.toLowerCase().replace(/\s+/g, '-')
-      const jsonPath = path.join(jsonDir, file)
-      const rawData = fs.readFileSync(jsonPath, 'utf8')
+  const casinos = await Promise.all(
+    files.map(async (file) => {
+      const casinoData = await getCasinoData(file.replace('.json', ''))
+      const name = file.replace('.json', '')
       
-      let data
-      try {
-        data = JSON.parse(rawData)
-      } catch (parseError) {
-        console.error(`Invalid JSON in file ${file}:`, parseError)
-        return validCasinos
-      }
+      const slug = name.toLowerCase()
+        .replace(/\s+/g, '')
+        .replace(/[^a-z0-9-]/g, '')
       
-      const normalizedSlug = originalName.toLowerCase().replace(/[^a-z0-9]+/g, '')
-      const logoPath = fs.existsSync(path.join(process.cwd(), 'public', 'logosask', `${normalizedSlug}.png`))
-        ? `/logosask/${normalizedSlug}.png`
-        : null
-
-      validCasinos.push({
+      return {
+        name,
         slug,
-        originalName,
-        name: data.name || originalName,
-        rating: data.verdict?.rating || "N/A",
-        logoPath,
-        shortDescription: data.verdict?.text
-      })
+        logo: `/images/casinos/${slug}.png`,
+        rating: casinoData?.verdict?.rating,
+        trustIndicators: casinoData?.trustIndicators
+      }
+    })
+  )
 
-      return validCasinos
-    } catch (error) {
-      console.error(`Error processing file ${file}:`, error)
-      return validCasinos
-    }
-  }, [])
+  return casinos.sort((a, b) => 
+    Number(b.rating || 0) - Number(a.rating || 0)
+  )
 }
 
-export default async function CryptoCasinos() {
-  const casinos = await getCasinoList()
-
+export default async function CasinosPage() {
+  const casinos = await getAllCasinos()
+  
   return (
-    <div className="min-h-screen bg-[#0f1218]">
-      <div className="max-w-7xl mx-auto px-4 py-12">
-        <h1 className="text-5xl font-bold mb-8 bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-          Crypto Casinos
+    <div className="min-h-screen bg-[#070a0f] py-12">
+      <div className="container mx-auto px-4">
+        <h1 className="text-4xl font-bold text-center mb-12 text-white bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">
+          Topp Krypto Casinoer 2024
         </h1>
         
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {casinos.map((casino) => (
-            <Link 
+            <div 
               key={casino.slug}
-              href={`/cryptocasinos/${casino.slug}`}
-              className="bg-[#1a1f2d] rounded-xl p-6 border border-gray-800 hover:border-gray-700 transition-colors group"
+              className="bg-[#1a1f2d] rounded-xl p-6 border border-gray-800 hover:border-blue-500/50 transition-all duration-300"
             >
-              <div className="flex flex-col items-center mb-4">
-                {casino.logoPath && (
-                  <div className="w-32 h-32 relative mb-4 rounded-full overflow-hidden border-4 border-gray-700 group-hover:border-gray-600 transition-colors">
-                    <Image
-                      src={casino.logoPath}
-                      alt={`${casino.name} logo`}
-                      fill
-                      sizes="(max-width: 128px) 100vw, 128px"
-                      className="object-cover"
-                    />
-                  </div>
-                )}
-                <div className="text-center">
-                  <h2 className="text-xl font-semibold text-white">{casino.name}</h2>
-                  <div className="flex items-center justify-center mt-2">
-                    <span className="text-yellow-400 font-bold text-2xl">{casino.rating}</span>
-                    <span className="text-gray-400 ml-1">/10</span>
-                  </div>
-                </div>
+              <div className="relative w-full h-32 mb-4">
+                <Image
+                  src={casino.logo || '/images/casino-placeholder.png'}
+                  alt={`${casino.name} logo`}
+                  fill
+                  className="object-contain"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                />
               </div>
-              {casino.shortDescription && (
-                <p className="text-gray-400 text-sm line-clamp-2 text-center">
-                  {casino.shortDescription}
-                </p>
+              
+              <h2 className="text-xl font-bold text-white text-center mb-4">
+                {casino.name}
+              </h2>
+              
+              {casino.trustIndicators && (
+                <div className="flex flex-wrap gap-2 mb-4 justify-center">
+                  {casino.trustIndicators.slice(0, 2).map((indicator, index) => (
+                    <span 
+                      key={index}
+                      className="text-sm px-3 py-1 rounded-full bg-green-500/10 text-green-400"
+                    >
+                      {indicator.text}
+                    </span>
+                  ))}
+                </div>
               )}
-            </Link>
+              
+              <div className="flex items-center justify-between mb-4">
+                <span className="text-gray-400">Rating:</span>
+                <span className="text-yellow-400 font-bold">
+                  {casino.rating || 'N/A'}/10
+                </span>
+              </div>
+              
+              <Link 
+                href={`/cryptocasinos/${casino.slug}`}
+                className="block w-full text-center bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg transition-colors duration-300"
+              >
+                Les Anmeldelse
+              </Link>
+            </div>
           ))}
         </div>
       </div>
     </div>
   )
 }
-
-export const dynamic = 'force-dynamic'

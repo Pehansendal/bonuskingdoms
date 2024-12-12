@@ -2,27 +2,54 @@ import React from 'react'
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import { CasinoData } from './types'
-import { CasinoLogo } from './components/CasinoLogo'
 import { Metadata } from 'next'
-import { readdir } from 'fs/promises'
-import { join } from 'path'
+import { getCasinoData } from '../../../lib/utils/getCasinoData'
+import path from 'path'
+import fs from 'fs'
 
-export const runtime = 'edge'
-
-function normalizeFileName(name: string): string {
-  return name.toLowerCase().replace(/\s+/g, '')
+export async function generateStaticParams() {
+  const reviewsDir = path.join(process.cwd(), 'public', 'data', 'reviews')
+  const files = fs.readdirSync(reviewsDir)
+  
+  return files.map(file => ({
+    slug: file.replace('.json', '').toLowerCase()
+      .replace(/\s+/g, '')
+      .replace(/[^a-z0-9-]/g, '')
+  }))
 }
 
-async function getCasinoData(slug: string) {
-  try {
-    const fileName = `${slug} Casino`
-    const response = await fetch(`/api/casinos/${encodeURIComponent(fileName)}`)
-    if (!response.ok) return null
-    return response.json()
-  } catch (error) {
-    console.error('Error fetching casino data:', error)
-    return null
+export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+  const casinoData = await getCasinoData(params.slug)
+  
+  if (!casinoData) {
+    return {
+      title: 'Casino ikke funnet',
+      description: 'Det forespurte casinoet ble ikke funnet.'
+    }
   }
+
+  return {
+    title: `${casinoData.name} Anmeldelse - Crypto Casino Rating ${casinoData.verdict.rating}/10`,
+    description: casinoData.verdict.text?.slice(0, 160),
+    openGraph: {
+      title: `${casinoData.name} - Crypto Casino Anmeldelse`,
+      description: casinoData.verdict.text?.slice(0, 160),
+      images: [`/images/casinos/${params.slug}.png`],
+    },
+    alternates: {
+      canonical: `${process.env.NEXT_PUBLIC_BASE_URL}/cryptocasinos/${params.slug}`,
+    }
+  }
+}
+
+export default async function CasinoPage({ params }: { params: { slug: string } }) {
+  const casino = await getCasinoData(params.slug)
+
+  if (!casino) {
+    notFound()
+  }
+
+  return <CasinoContent data={casino} />
 }
 
 function CasinoContent({ data }: { data: CasinoData }) {
@@ -61,7 +88,6 @@ function CasinoContent({ data }: { data: CasinoData }) {
           </div>
         </div>
       </div>
-
       <div className="max-w-5xl mx-auto px-4 py-8">
         {/* Quick Navigation */}
         <nav className="mb-12 overflow-x-auto">
@@ -270,52 +296,4 @@ function CasinoContent({ data }: { data: CasinoData }) {
       </div>
     </div>
   )
-}
-
-export default async function CasinoPage({ params }: { params: { slug: string } }) {
-  const casino = await getCasinoData(params.slug)
-  if (!casino) notFound()
-  
-  return <CasinoContent data={casino} />
-}
-
-export async function generateStaticParams() {
-  try {
-    // Oppdatert sti til public/data
-    const jsonDir = join(process.cwd(), 'public', 'data')
-    const files = await readdir(jsonDir)
-    const jsonFiles = files.filter((file: string) => file.endsWith('.json'))
-    
-    return jsonFiles.map((file: string) => ({
-      slug: file.replace('.json', '').toLowerCase().replace(/\s+/g, '-')
-    }))
-  } catch (error) {
-    console.error('Error generating static params:', error)
-    return []
-  }
-}
-
-// Metadata generator
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const casinoData = await getCasinoData(params.slug)
-  
-  if (!casinoData) {
-    return {
-      title: 'Casino Not Found',
-      description: 'The requested casino could not be found.'
-    }
-  }
-
-  return {
-    title: `${casinoData.name} Review - Crypto Casino Rating ${casinoData.verdict.rating}/10`,
-    description: casinoData.verdict.text?.slice(0, 160),
-    openGraph: {
-      title: `${casinoData.name} - Crypto Casino Review`,
-      description: casinoData.verdict.text?.slice(0, 160),
-      images: casinoData.logoPath ? [{ url: casinoData.logoPath }] : [],
-    },
-    alternates: {
-      canonical: `${process.env.NEXT_PUBLIC_BASE_URL}/cryptocasinos/${params.slug}`,
-    }
-  }
 }
