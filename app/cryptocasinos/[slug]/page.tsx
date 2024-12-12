@@ -1,11 +1,11 @@
 import React from 'react'
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
-import fs from 'fs'
-import path from 'path'
 import { CasinoData } from './types'
 import { CasinoLogo } from './components/CasinoLogo'
 import { Metadata } from 'next'
+import { readdir } from 'fs/promises'
+import { join } from 'path'
 
 export const runtime = 'edge'
 
@@ -13,37 +13,14 @@ function normalizeFileName(name: string): string {
   return name.toLowerCase().replace(/\s+/g, '')
 }
 
-async function getCasinoData(slug: string): Promise<CasinoData | null> {
+async function getCasinoData(slug: string) {
   try {
-    const jsonDir = path.join(process.cwd(), 'jsongoogle')
-    const files = fs.readdirSync(jsonDir)
-    
-    // Forbedret filsøk
-    const matchingFile = files.find(file => {
-      const fileSlug = file.replace('.json', '').toLowerCase().replace(/\s+/g, '-')
-      return fileSlug === slug.toLowerCase()
-    })
-    
-    if (!matchingFile) {
-      console.error('File not found for slug:', slug)
-      return null
-    }
-
-    const jsonPath = path.join(jsonDir, matchingFile)
-    const jsonData = JSON.parse(fs.readFileSync(jsonPath, 'utf8'))
-    
-    // Forbedret logohåndtering
-    const normalizedSlug = matchingFile.replace('.json', '').toLowerCase().replace(/[^a-z0-9]+/g, '')
-    const logoPath = fs.existsSync(path.join(process.cwd(), 'public', 'logosask', `${normalizedSlug}.png`))
-      ? `/logosask/${normalizedSlug}.png`
-      : null
-
-    return {
-      ...jsonData,
-      logoPath
-    }
+    const fileName = `${slug} Casino`
+    const response = await fetch(`/api/casinos/${encodeURIComponent(fileName)}`)
+    if (!response.ok) return null
+    return response.json()
   } catch (error) {
-    console.error('Error loading casino data:', error)
+    console.error('Error fetching casino data:', error)
     return null
   }
 }
@@ -296,22 +273,20 @@ function CasinoContent({ data }: { data: CasinoData }) {
 }
 
 export default async function CasinoPage({ params }: { params: { slug: string } }) {
-  const casinoData = await getCasinoData(params.slug)
+  const casino = await getCasinoData(params.slug)
+  if (!casino) notFound()
   
-  if (!casinoData) {
-    notFound()
-  }
-
-  return <CasinoContent data={casinoData} />
+  return <CasinoContent data={casino} />
 }
 
 export async function generateStaticParams() {
   try {
-    const jsonDir = path.join(process.cwd(), 'jsongoogle')
-    const files = fs.readdirSync(jsonDir)
-      .filter(file => file.endsWith('.json'))
+    // Oppdatert sti til public/data
+    const jsonDir = join(process.cwd(), 'public', 'data')
+    const files = await readdir(jsonDir)
+    const jsonFiles = files.filter((file: string) => file.endsWith('.json'))
     
-    return files.map(file => ({
+    return jsonFiles.map((file: string) => ({
       slug: file.replace('.json', '').toLowerCase().replace(/\s+/g, '-')
     }))
   } catch (error) {
