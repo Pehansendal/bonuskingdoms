@@ -1,3 +1,4 @@
+export const runtime = 'edge'
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { ReviewLayout } from '@/components/review-layout'
@@ -28,8 +29,6 @@ export async function generateMetadata({ params }: ReviewPageProps): Promise<Met
     }
   }
 }
-
-export const runtime = 'edge'
 
 export default async function ReviewPage({ params }: ReviewPageProps) {
   const review = await getReviewContent(params.slug)
