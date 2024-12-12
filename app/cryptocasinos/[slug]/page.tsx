@@ -13,21 +13,25 @@ function normalizeFileName(name: string): string {
 
 async function getCasinoData(slug: string): Promise<CasinoData | null> {
   try {
-    const decodedSlug = decodeURIComponent(slug)
-    const originalName = decodedSlug.split('-').map(word => 
-      word.charAt(0).toUpperCase() + word.slice(1)
-    ).join(' ')
+    const jsonDir = path.join(process.cwd(), 'jsongoogle')
+    const files = fs.readdirSync(jsonDir)
     
-    const jsonPath = path.join(process.cwd(), 'jsongoogle', `${originalName}.json`)
+    // Forbedret filsøk
+    const matchingFile = files.find(file => {
+      const fileSlug = file.replace('.json', '').toLowerCase().replace(/\s+/g, '-')
+      return fileSlug === slug.toLowerCase()
+    })
     
-    if (!fs.existsSync(jsonPath)) {
-      console.error('File not found:', jsonPath)
+    if (!matchingFile) {
+      console.error('File not found for slug:', slug)
       return null
     }
 
+    const jsonPath = path.join(jsonDir, matchingFile)
     const jsonData = JSON.parse(fs.readFileSync(jsonPath, 'utf8'))
     
-    const normalizedSlug = originalName.toLowerCase().replace(/[^a-z0-9]+/g, '')
+    // Forbedret logohåndtering
+    const normalizedSlug = matchingFile.replace('.json', '').toLowerCase().replace(/[^a-z0-9]+/g, '')
     const logoPath = fs.existsSync(path.join(process.cwd(), 'public', 'logosask', `${normalizedSlug}.png`))
       ? `/logosask/${normalizedSlug}.png`
       : null
@@ -43,6 +47,13 @@ async function getCasinoData(slug: string): Promise<CasinoData | null> {
 }
 
 function CasinoContent({ data }: { data: CasinoData }) {
+  // Sikre at vi har gyldige verdier eller standardverdier
+  const totalGames = data?.games?.slots?.total || 0;
+  const support = data?.keyFacts?.[1]?.value || "24/7";
+  const withdrawals = data?.keyFacts?.[2]?.value || "Fast";
+  const rating = data?.verdict?.rating || 'N/A';
+  const lastUpdated = data?.lastUpdated || 'Recently';
+
   return (
     <div className="min-h-screen bg-[#0f1218]">
       {/* Hero Section med større sirkulær logo */}
@@ -64,10 +75,10 @@ function CasinoContent({ data }: { data: CasinoData }) {
           )}
           <div className="flex justify-center items-center gap-6 mb-8">
             <div className="bg-yellow-400/10 px-8 py-4 rounded-full">
-              <span className="text-5xl font-bold text-yellow-400">{data.verdict.rating}</span>
+              <span className="text-5xl font-bold text-yellow-400">{rating}</span>
               <span className="text-gray-400 text-2xl ml-2">/10</span>
             </div>
-            <div className="text-gray-400 text-xl">Updated: {data.lastUpdated}</div>
+            <div className="text-gray-400 text-xl">Updated: {lastUpdated}</div>
           </div>
         </div>
       </div>
@@ -77,42 +88,27 @@ function CasinoContent({ data }: { data: CasinoData }) {
         <nav className="mb-12 overflow-x-auto">
           <ul className="flex space-x-6 text-lg">
             <li>
-              <a
-                href="#overview"
-                className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors"
-              >
+              <a href="#overview" className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors">
                 Overview
               </a>
             </li>
             <li>
-              <a
-                href="#game-selection"
-                className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors"
-              >
+              <a href="#game-selection" className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors">
                 Games
               </a>
             </li>
             <li>
-              <a
-                href="#security-section"
-                className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors"
-              >
+              <a href="#security-section" className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors">
                 Security
               </a>
             </li>
             <li>
-              <a
-                href="#bonuses"
-                className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors"
-              >
+              <a href="#bonuses" className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors">
                 Bonuses
               </a>
             </li>
             <li>
-              <a
-                href="#faq-section"
-                className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors"
-              >
+              <a href="#faq-section" className="px-6 py-3 rounded-full bg-gray-800 text-gray-300 hover:bg-gray-700 transition-colors">
                 FAQ
               </a>
             </li>
@@ -123,9 +119,9 @@ function CasinoContent({ data }: { data: CasinoData }) {
         <section id="overview" className="mb-12">
           <div className="bg-[#1a1f2d] p-8 rounded-xl border border-gray-800">
             <h2 className="text-4xl font-bold mb-6 text-white">Our Verdict</h2>
-            <p className="text-gray-300 mb-6 text-xl leading-relaxed">{data.verdict.text}</p>
+            <p className="text-gray-300 mb-6 text-xl leading-relaxed">{data?.verdict?.text || 'Review coming soon'}</p>
             <div className="flex flex-wrap gap-4">
-              {data.trustIndicators.map((indicator: any, index: number) => (
+              {data?.trustIndicators?.map((indicator: any, index: number) => (
                 <span 
                   key={index}
                   className={`bg-${indicator.color}-500/10 text-${indicator.color}-400 px-6 py-3 rounded-full flex items-center text-lg`}
@@ -139,7 +135,7 @@ function CasinoContent({ data }: { data: CasinoData }) {
 
         {/* Key Facts */}
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
-          {data.keyFacts.map((fact: any, index: number) => (
+          {data?.keyFacts?.map((fact: any, index: number) => (
             <div key={index} className="bg-[#1a1f2d] p-6 rounded-xl border border-gray-800">
               <div className="text-3xl mb-2">{fact.icon}</div>
               <div className="text-sm text-gray-400">{fact.label}</div>
@@ -150,11 +146,11 @@ function CasinoContent({ data }: { data: CasinoData }) {
 
         {/* Security Section */}
         <section id="security-section" className="mb-12">
-          <h2 className="text-3xl font-bold mb-6 text-white">{data.security.title}</h2>
+          <h2 className="text-3xl font-bold mb-6 text-white">{data?.security?.title}</h2>
           <div className="bg-[#1a1f2d] p-6 rounded-xl border border-gray-800">
-            <p className="text-gray-300 mb-4">{data.security.description}</p>
+            <p className="text-gray-300 mb-4">{data?.security?.description}</p>
             <ul className="space-y-3">
-              {data.security.features.map((feature: string, index: number) => (
+              {data?.security?.features?.map((feature: string, index: number) => (
                 <li key={index} className="flex items-center text-gray-300">
                   <span className="text-green-400 mr-3">✓</span>
                   {feature}
@@ -172,9 +168,9 @@ function CasinoContent({ data }: { data: CasinoData }) {
               <h3 className="text-xl font-semibold mb-4 text-gray-100">
                 <span className="mr-2">🎰</span> Slots
               </h3>
-              <p className="text-gray-300 mb-4">{data.games.slots.total} titles including:</p>
+              <p className="text-gray-300 mb-4">{data?.games?.slots?.total || 0} titles including:</p>
               <ul className="space-y-2">
-                {data.games.slots.popular.map((game: any, index: number) => (
+                {data?.games?.slots?.popular?.map((game: any, index: number) => (
                   <li key={index} className="text-gray-300">
                     {game.name} {game.rtp && `(RTP: ${game.rtp})`}
                   </li>
@@ -186,9 +182,9 @@ function CasinoContent({ data }: { data: CasinoData }) {
               <h3 className="text-xl font-semibold mb-4 text-gray-100">
                 <span className="mr-2">🎲</span> Table Games
               </h3>
-              <p className="text-gray-300 mb-4">{data.games.tableGames.total} variants including:</p>
+              <p className="text-gray-300 mb-4">{data?.games?.tableGames?.total || 0} variants including:</p>
               <ul className="space-y-2">
-                {data.games.tableGames.popular.map((game: string, index: number) => (
+                {data?.games?.tableGames?.popular?.map((game: string, index: number) => (
                   <li key={index} className="text-gray-300">
                     {game}
                   </li>
@@ -208,7 +204,7 @@ function CasinoContent({ data }: { data: CasinoData }) {
                 <span className="mr-3">✓</span> Advantages
               </h3>
               <ul className="space-y-4">
-                {data.advantages.map((pro: string, index: number) => (
+                {data?.advantages?.map((pro: string, index: number) => (
                   <li key={index} className="flex items-start text-gray-300 text-lg">
                     <span className="text-green-400 mr-3 mt-1">•</span>
                     <span>{pro}</span>
@@ -223,7 +219,7 @@ function CasinoContent({ data }: { data: CasinoData }) {
                 <span className="mr-3">✗</span> Disadvantages
               </h3>
               <ul className="space-y-4">
-                {data.disadvantages.map((con: string, index: number) => (
+                {data?.disadvantages?.map((con: string, index: number) => (
                   <li key={index} className="flex items-start text-gray-300 text-lg">
                     <span className="text-red-400 mr-3 mt-1">•</span>
                     <span>{con}</span>
@@ -238,7 +234,7 @@ function CasinoContent({ data }: { data: CasinoData }) {
         <section id="faq-section" className="mb-12">
           <h2 className="text-3xl font-bold mb-6 text-white">Frequently Asked Questions</h2>
           <div className="space-y-4">
-            {data.faq.map((item: any, index: number) => (
+            {data?.faq?.map((item: any, index: number) => (
               <details
                 key={index}
                 className="group bg-[#1a1f2d] rounded-xl border border-gray-800"
@@ -261,7 +257,7 @@ function CasinoContent({ data }: { data: CasinoData }) {
         <section id="bonuses" className="mb-12">
           <h2 className="text-3xl font-bold mb-6 text-white">Casino Bonuses</h2>
           <div className="grid gap-6">
-            {data.bonuses.map((bonus: any, index: number) => (
+            {data?.bonuses?.map((bonus: any, index: number) => (
               <div key={index} className="bg-[#1a1f2d] p-6 rounded-xl border border-gray-800">
                 <div className="flex items-center justify-between">
                   <h3 className="text-xl font-semibold text-white">{bonus.type}</h3>
@@ -279,15 +275,15 @@ function CasinoContent({ data }: { data: CasinoData }) {
         <section className="mb-12 bg-[#1a1f2d] p-8 rounded-xl border border-gray-800">
           <div className="grid md:grid-cols-3 gap-6 text-center">
             <div>
-              <div className="text-3xl font-bold text-blue-400 mb-2">{data.games.slots.total}</div>
+              <div className="text-3xl font-bold text-blue-400 mb-2">{totalGames}</div>
               <div className="text-gray-400">Total Games</div>
             </div>
             <div>
-              <div className="text-3xl font-bold text-purple-400 mb-2">{data.keyFacts[1]?.value || "24/7"}</div>
+              <div className="text-3xl font-bold text-purple-400 mb-2">{support}</div>
               <div className="text-gray-400">Support</div>
             </div>
             <div>
-              <div className="text-3xl font-bold text-pink-400 mb-2">{data.keyFacts[2]?.value || "Fast"}</div>
+              <div className="text-3xl font-bold text-pink-400 mb-2">{withdrawals}</div>
               <div className="text-gray-400">Withdrawals</div>
             </div>
           </div>
