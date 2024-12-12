@@ -1,8 +1,8 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import { getCasinoData } from '../../lib/utils/getCasinoData'
-import fs from 'fs'
 import path from 'path'
+import fs from 'fs'
 
 interface Casino {
   name: string
@@ -25,12 +25,9 @@ async function getAllCasinos(): Promise<Casino[]> {
   
   const casinos = await Promise.all(
     files.map(async (file) => {
-      const casinoData = await getCasinoData(file.replace('.json', ''))
       const name = file.replace('.json', '')
-      
-      const slug = name.toLowerCase()
-        .replace(/\s+/g, '')
-        .replace(/[^a-z0-9-]/g, '')
+      const slug = name.toLowerCase().replace(/\s+/g, '').replace(/[^a-z0-9-]/g, '')
+      const casinoData = await getCasinoData(slug)
       
       return {
         name,
