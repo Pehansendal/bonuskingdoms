@@ -98,4 +98,30 @@ Casino-dataene følger en definert TypeScript-interface som inkluderer:
 - Konsistent navnekonvensjon for filer
 - TypeScript-interfaces oppdateres ved behov
 
+## Filnavnkonvensjoner
+### Casino Reviews
+Casino-anmeldelser støtter nå to filnavnformater:
+- Standard format: `slugname.json`
+- Alternativt format: `Casino Name.json`
+
+Systemet vil automatisk prøve begge formater ved filsøk.
+
+## Databehandling
+### Trust Indicators
+Trust Indicators følger nå et standardisert format:
+
 Dette dokumentet oppdateres kontinuerlig ved endringer i prosjektet.
+
+typescript
+interface TrustIndicator {
+text: string;
+color: string;
+}
+
+Alle indikatorer konverteres automatisk til dette formatet ved datahenting.
+
+## Feilhåndtering
+- Forbedret feilhåndtering for manglende casino-filer
+- Graceful fallback ved filnavnmismatch
+- Konsistent logging av filsøkfeil
+

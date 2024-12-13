@@ -70,6 +70,7 @@ export interface Casino {
 
 export interface CasinoReview {
   title: string;
+  slug: string;
   metadata: {
     lastUpdated: string;
     trustIndicators: {

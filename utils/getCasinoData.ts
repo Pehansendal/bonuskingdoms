@@ -3,9 +3,25 @@ import path from 'path'
 
 export async function getCasinoData(slug: string) {
   try {
-    const filePath = path.join(process.cwd(), 'public', 'data', 'reviews', `${slug}.json`)
-    const fileContent = await fs.readFile(filePath, 'utf8')
-    return JSON.parse(fileContent)
+    // Prøv først det originale formatet
+    let fileName = `${slug}.json`
+    let filePath = path.join(process.cwd(), 'public', 'data', 'reviews', fileName)
+    
+    try {
+      const fileContent = await fs.readFile(filePath, 'utf8')
+      return JSON.parse(fileContent)
+    } catch {
+      // Hvis original format ikke finnes, prøv det alternative formatet
+      fileName = slug
+        .split('-')
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ')
+        .replace(/casino$/i, ' Casino') + '.json'
+      
+      filePath = path.join(process.cwd(), 'public', 'data', 'reviews', fileName)
+      const fileContent = await fs.readFile(filePath, 'utf8')
+      return JSON.parse(fileContent)
+    }
   } catch (error) {
     console.log(`Kunne ikke finne casino-fil for slug: ${slug}`)
     return null

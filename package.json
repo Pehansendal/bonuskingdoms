@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "clean": "rimraf .next",
     "dev": "next dev",
-    "build": "next build || exit 0",
+    "build": "next build && npm run copy-static",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "copy-static": "mkdir -p .vercel/output/static && cp -r .next/static .vercel/output/",
+    "pages:build": "next build",
+    "pages:deploy": "wrangler pages deploy .vercel/output/static"
   },
   "dependencies": {
     "@radix-ui/react-collapsible": "^1.1.1",

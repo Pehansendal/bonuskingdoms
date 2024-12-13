@@ -4,7 +4,7 @@ const nextConfig = {
     unoptimized: true,
     domains: ['localhost']
   },
-  output: 'export',
+  output: 'standalone',
   distDir: '.next',
   webpack: (config) => {
     config.module.rules.push({
