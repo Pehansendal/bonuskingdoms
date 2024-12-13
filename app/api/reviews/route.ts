@@ -1,15 +1,17 @@
 import { NextResponse } from 'next/server'
-import { readFile } from 'fs/promises'
-import { join } from 'path'
 
 export const runtime = 'edge'
 
 export async function GET() {
   try {
-    const filePath = join(process.cwd(), 'public', 'data', 'reviews.json')
-    const fileContent = await readFile(filePath, 'utf-8')
-    const reviews = JSON.parse(fileContent)
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
+    const response = await fetch(`${baseUrl}/data/reviews.json`)
     
+    if (!response.ok) {
+      return new NextResponse(null, { status: 500 })
+    }
+
+    const reviews = await response.json()
     return NextResponse.json(reviews)
   } catch (error) {
     console.error('Error loading reviews:', error)
