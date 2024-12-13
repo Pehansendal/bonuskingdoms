@@ -104,38 +104,14 @@ export async function getCasinoData(slug: string) {
 
 export async function getAllCasinos(): Promise<CasinoData[]> {
   try {
-    // Under bygging og i produksjon, bruk relative stier
-    if (process.env.NODE_ENV === 'production') {
-      try {
-        const response = await fetch('/data/reviews/index.json')
-        if (!response.ok) {
-          console.error('Could not fetch casino index')
-          return []
-        }
-        const data = await response.json()
-        // Normaliser slugs i resultatet
-        return data.map((casino: CasinoData) => ({
-          ...casino,
-          slug: casino.slug.toLowerCase().replace(/\s+/g, '')
-        }))
-      } catch (error) {
-        console.error('Could not fetch casino index:', error)
-        return []
-      }
-    }
-
-    // I development
-    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
-    const indexUrl = new URL('/data/reviews/index.json', baseUrl).toString()
+    const fs = require('fs')
+    const path = require('path')
     
-    const response = await fetch(indexUrl)
+    // Les index.json direkte fra filsystemet
+    const indexPath = path.join(process.cwd(), 'public', 'data', 'reviews', 'index.json')
+    const fileContents = fs.readFileSync(indexPath, 'utf8')
+    const data = JSON.parse(fileContents)
     
-    if (!response.ok) {
-      console.error('Could not fetch casino index')
-      return []
-    }
-    
-    const data = await response.json()
     // Normaliser slugs i resultatet
     return data.map((casino: CasinoData) => ({
       ...casino,
