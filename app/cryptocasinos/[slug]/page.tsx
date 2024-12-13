@@ -3,25 +3,8 @@ import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
 import { getCasinoData, type CasinoData } from '@/utils/getCasinoData'
-import path from 'path'
-import fs from 'fs/promises'
 
 export const runtime = 'edge'
-
-export async function generateStaticParams() {
-  try {
-    const reviewsDir = path.join(process.cwd(), 'public', 'data', 'reviews')
-    const files = await fs.readdir(reviewsDir)
-    
-    const slugs = files.map(file => ({
-      slug: file.replace('.json', '')
-    }))
-
-    return slugs
-  } catch (error) {
-    return []
-  }
-}
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
   const casinoData = await getCasinoData(params.slug)
