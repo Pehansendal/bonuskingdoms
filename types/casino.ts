@@ -1,5 +1,6 @@
 export interface Casino {
   name: string
+  slug: string
   // Grunnleggende info
   rank: number
   logo: string

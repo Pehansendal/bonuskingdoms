@@ -23,7 +23,6 @@ export async function getCasinoData(slug: string) {
       return JSON.parse(fileContent)
     }
   } catch (error) {
-    console.log(`Kunne ikke finne casino-fil for slug: ${slug}`)
     return null
   }
 }
@@ -44,7 +43,6 @@ export async function getAllCasinos() {
     
     return casinos
   } catch (error) {
-    console.error('Feil ved henting av casino-data:', error)
     return []
   }
 }

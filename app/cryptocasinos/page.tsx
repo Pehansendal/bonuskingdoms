@@ -26,7 +26,7 @@ async function getAllCasinos(): Promise<Casino[]> {
   const casinos = await Promise.all(
     files.map(async (file) => {
       const name = file.replace('.json', '')
-      const slug = name.toLowerCase().replace(/\s+/g, '').replace(/[^a-z0-9-]/g, '')
+      const slug = name
       const casinoData = await getCasinoData(slug)
       
       return {

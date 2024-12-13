@@ -12,13 +12,12 @@ export async function generateStaticParams() {
     const reviewsDir = path.join(process.cwd(), 'public', 'data', 'reviews')
     const files = await fs.readdir(reviewsDir)
     
-    return files.map(file => ({
-      slug: file.replace('.json', '').toLowerCase()
-        .replace(/\s+/g, '')
-        .replace(/[^a-z0-9-]/g, '')
+    const slugs = files.map(file => ({
+      slug: file.replace('.json', '')
     }))
+
+    return slugs
   } catch (error) {
-    console.error('Feil ved generering av statiske params:', error)
     return []
   }
 }
@@ -58,16 +57,11 @@ export default async function CasinoPage({ params }: { params: { slug: string } 
     notFound()
   }
 
-  return <CasinoContent data={casino} />
+  return <CasinoContent data={casino} slug={params.slug} />
 }
 
-function CasinoContent({ data }: { data: Casino }) {
-  const logoPath = `/images/casinos/${data.name
-    .toLowerCase()
-    .replace(/\s+/g, '')
-    .replace(/[^a-z0-9-]/g, '')}.png`
-
-  console.log('Constructed logo path:', logoPath)
+function CasinoContent({ data, slug }: { data: Casino, slug: string }) {
+  const logoPath = `/images/casinos/${slug}.png`
 
   // Sikre at vi har review-data
   const review = data.review || {
@@ -88,60 +82,49 @@ function CasinoContent({ data }: { data: Casino }) {
       <div className="max-w-4xl mx-auto px-4">
         {/* Header med logo, navn og rating */}
         <header className="text-center pt-8">
-          {/* Logo - litt større sirkel */}
-          <div className="relative w-52 h-52 md:w-72 md:h-72 mx-auto mb-8 
-                         rounded-full overflow-hidden 
-                         bg-[#1a1f2d] 
-                         border-4 border-[#252b3d]
-                         shadow-lg shadow-black/50">
-            <div className="absolute inset-0 scale-[1.6]">
-              <Image
-                src={logoPath}
-                alt={`${data.name} logo`}
-                fill
-                className="object-contain"
-                priority
-                sizes="(max-width: 768px) 208px, 288px"
-              />
-            </div>
+          <div className="relative w-48 h-48 mx-auto mb-4">
+            <Image
+              src={logoPath}
+              alt={`${data.name} logo`}
+              fill
+              className="object-contain"
+              priority
+              sizes="(max-width: 768px) 208px, 288px"
+            />
           </div>
-
-          {/* Navn og rating */}
-          <div className="flex items-center justify-center gap-3 mb-6">
-            <h1 className="text-4xl md:text-5xl font-bold">{data.name}</h1>
-            <div className="text-2xl md:text-3xl">
-              <span className="text-yellow-500 font-bold">{data.verdict?.rating || '?'}</span>
-              <span className="text-yellow-500/60">/10</span>
-            </div>
+          <h1 className="text-4xl font-bold mb-2">{data.name}</h1>
+          <div className="text-2xl md:text-3xl">
+            <span className="text-yellow-500 font-bold">{data.verdict?.rating || '?'}</span>
+            <span className="text-yellow-500/60">/10</span>
           </div>
-
-          {/* Navigasjon */}
-          <nav className="flex justify-center gap-4 mb-8">
-            <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
-              Overview
-            </button>
-            <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
-              Games
-            </button>
-            <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
-              Security
-            </button>
-            <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
-              Bonuses
-            </button>
-            <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
-              FAQ
-            </button>
-          </nav>
-
-          {/* Verdict section */}
-          <section className="bg-[#1a1f2d] rounded-xl p-6 mb-8">
-            <h2 className="text-2xl font-bold mb-4">Our Verdict</h2>
-            <p className="text-gray-300 leading-relaxed">
-              {data.review?.description || data.verdict?.text || 'Ingen beskrivelse tilgjengelig'}
-            </p>
-          </section>
         </header>
+
+        {/* Navigasjon */}
+        <nav className="flex justify-center gap-4 mb-8">
+          <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
+            Overview
+          </button>
+          <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
+            Games
+          </button>
+          <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
+            Security
+          </button>
+          <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
+            Bonuses
+          </button>
+          <button className="px-4 py-2 rounded-lg bg-[#1a1f2d] hover:bg-[#252b3d] transition-colors">
+            FAQ
+          </button>
+        </nav>
+
+        {/* Verdict section */}
+        <section className="bg-[#1a1f2d] rounded-xl p-6 mb-8">
+          <h2 className="text-2xl font-bold mb-4">Our Verdict</h2>
+          <p className="text-gray-300 leading-relaxed">
+            {data.review?.description || data.verdict?.text || 'Ingen beskrivelse tilgjengelig'}
+          </p>
+        </section>
 
         {/* Verdict Card */}
         <section id="overview" className="mb-12">
