@@ -6,6 +6,8 @@ import { getCasinoData, type CasinoData } from '@/utils/getCasinoData'
 import path from 'path'
 import fs from 'fs/promises'
 
+export const runtime = 'edge'
+
 export async function generateStaticParams() {
   try {
     const reviewsDir = path.join(process.cwd(), 'public', 'data', 'reviews')
