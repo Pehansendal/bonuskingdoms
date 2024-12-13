@@ -8,7 +8,7 @@ export async function GET(
 ) {
   try {
     const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
-    const response = await fetch(`${baseUrl}/data/reviews/${params.slug}.json`)
+    const response = await fetch(new URL(`/data/reviews/${params.slug}.json`, baseUrl))
     
     if (!response.ok) {
       return new NextResponse(null, { status: 404 })
