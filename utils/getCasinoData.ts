@@ -51,51 +51,18 @@ export interface CasinoData {
   }>
 }
 
-export async function getCasinoData(slug: string) {
+export async function getCasinoData(slug: string): Promise<CasinoData | null> {
   try {
-    // Normaliser slug til filnavnformat
-    const normalizedSlug = slug.toLowerCase().replace(/\s+/g, '')
-
-    // Under bygging og i produksjon, bruk relative stier
-    if (process.env.NODE_ENV === 'production') {
-      try {
-        const response = await fetch(`/data/reviews/${normalizedSlug}.json`)
-        if (!response.ok) {
-          console.error(`Could not fetch data for ${slug}:`, response.statusText)
-          return null
-        }
-        const data = await response.json()
-        return {
-          ...data,
-          slug: normalizedSlug,
-          logoPath: `/images/casinos/${normalizedSlug}.png`
-        }
-      } catch (error) {
-        console.error(`Could not fetch data for ${slug}:`, error)
-        return null
-      }
-    }
-
-    // I development
-    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
-    const reviewUrl = new URL(`/data/reviews/${normalizedSlug}.json`, baseUrl).toString()
-    
-    const response = await fetch(reviewUrl, {
-      next: { revalidate: 3600 }
-    })
-
+    const response = await fetch(`/data/reviews/${slug}.json`)
     if (!response.ok) {
-      console.error(`Could not fetch data for ${slug}:`, response.statusText)
+      console.error(`Could not fetch casino data for ${slug}`)
       return null
     }
-
     const data = await response.json()
     return {
       ...data,
-      slug: normalizedSlug,
-      logoPath: `/images/casinos/${normalizedSlug}.png`
+      slug: slug
     }
-
   } catch (error) {
     console.error(`Error loading casino data for ${slug}:`, error)
     return null
@@ -104,18 +71,18 @@ export async function getCasinoData(slug: string) {
 
 export async function getAllCasinos(): Promise<CasinoData[]> {
   try {
-    const fs = require('fs')
-    const path = require('path')
+    const response = await fetch('/data/reviews/index.json')
+    if (!response.ok) {
+      console.error('Could not fetch casino index')
+      return []
+    }
     
-    // Les index.json direkte fra filsystemet
-    const indexPath = path.join(process.cwd(), 'public', 'data', 'reviews', 'index.json')
-    const fileContents = fs.readFileSync(indexPath, 'utf8')
-    const data = JSON.parse(fileContents)
+    const data = await response.json()
     
-    // Normaliser slugs i resultatet
+    // Normaliser slugs i resultatet, med null-sjekk
     return data.map((casino: CasinoData) => ({
       ...casino,
-      slug: casino.slug.toLowerCase().replace(/\s+/g, '')
+      slug: casino.slug ? casino.slug.toLowerCase().replace(/\s+/g, '') : ''
     }))
   } catch (error) {
     console.error('Error loading casino index:', error)
