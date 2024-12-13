@@ -1,10 +1,10 @@
+export const runtime = 'edge'
+
 import React from 'react'
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
 import { getCasinoData, type CasinoData } from '@/utils/getCasinoData'
-
-export const runtime = 'edge'
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
   const casinoData = await getCasinoData(params.slug)
@@ -34,24 +34,24 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 }
 
 export default async function CasinoPage({ params }: { params: { slug: string } }) {
-  const casino = await getCasinoData(params.slug)
+  try {
+    const casino = await getCasinoData(params.slug)
 
-  if (!casino) {
+    if (!casino) {
+      notFound()
+    }
+
+    return <CasinoContent data={casino} slug={params.slug} />
+  } catch (error) {
     notFound()
   }
-
-  return <CasinoContent data={casino} slug={params.slug} />
 }
 
 function CasinoContent({ data, slug }: { data: CasinoData, slug: string }) {
   const logoPath = `/images/casinos/${slug}.png`
 
   // Sikre at vi har review-data
-  const review = data.review || {
-    description: data.verdict?.text || 'Ingen beskrivelse tilgjengelig',
-    pros: [],
-    cons: []
-  }
+  const reviewText = data.verdict?.text || 'Ingen beskrivelse tilgjengelig'
 
   // Sikre at vi har gyldige verdier eller standardverdier
   const totalGames = data?.games?.slots?.total || 0;
@@ -105,7 +105,7 @@ function CasinoContent({ data, slug }: { data: CasinoData, slug: string }) {
         <section className="bg-[#1a1f2d] rounded-xl p-6 mb-8">
           <h2 className="text-2xl font-bold mb-4">Our Verdict</h2>
           <p className="text-gray-300 leading-relaxed">
-            {data.review?.description || data.verdict?.text || 'Ingen beskrivelse tilgjengelig'}
+            {data.verdict?.text || 'Ingen beskrivelse tilgjengelig'}
           </p>
         </section>
 
@@ -113,7 +113,7 @@ function CasinoContent({ data, slug }: { data: CasinoData, slug: string }) {
         <section id="overview" className="mb-12">
           <div className="bg-[#1a1f2d] p-8 rounded-xl border border-gray-800">
             <h2 className="text-4xl font-bold mb-6 text-white">Our Verdict</h2>
-            <p className="text-gray-300 mb-6 text-xl leading-relaxed">{review.description}</p>
+            <p className="text-gray-300 mb-6 text-xl leading-relaxed">{reviewText}</p>
             <div className="flex flex-wrap gap-4">
               {data?.trustIndicators?.map((indicator: any, index: number) => (
                 <span 
