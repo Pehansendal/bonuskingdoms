@@ -1,72 +1,55 @@
-const fs = require('fs')
-const path = require('path')
+import * as fsPromises from 'fs/promises'
+import * as pathModule from 'path'
+import { existsSync } from 'fs'
 
-interface CasinoData {
-  name: string;
-  slug: string;
-  logo?: string;
-  rating?: number;
-  bonus?: string;
-  affiliateLink?: string;
-  shortDescription?: string;
-  verdict: {
-    text: string;
-    rating: string;
-  };
-  bonuses: Array<{
-    type: string;
-    amount: string;
-    wagering: string;
-  }>;
-}
-
-const reviewsDir = path.join(process.cwd(), 'public', 'data', 'reviews')
-
-const normalizeForFileName = (name: string): string => {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]/g, '')
-    .replace(/casino$/, '')
-    + 'casino.png'
-}
-
-const files = fs.readdirSync(reviewsDir)
-  .filter((file: string) => file.endsWith('.json') && file !== 'index.json')
-  .map((file: string) => {
-    try {
-      const content = JSON.parse(
-        fs.readFileSync(path.join(reviewsDir, file), 'utf8')
-      ) as CasinoData
+async function generateIndex(): Promise<void> {
+  const reviewsDir = pathModule.join(process.cwd(), 'public', 'data', 'reviews')
+  const outputPath = pathModule.join(process.cwd(), 'public', 'data', 'index.json')
+  
+  try {
+    // Les alle JSON-filer i reviews-mappen
+    const files = await fsPromises.readdir(reviewsDir)
+    const jsonFiles = files.filter(file => file.endsWith('.json'))
+    
+    // Array for å lagre alle casino-data
+    const allCasinos = []
+    
+    // Les hver JSON-fil og hent nødvendig data
+    for (const file of jsonFiles) {
+      const filePath = pathModule.join(reviewsDir, file)
+      const fileContent = await fsPromises.readFile(filePath, 'utf-8')
+      const casinoData = JSON.parse(fileContent)
       
-      const normalizedName = normalizeForFileName(content.name)
-      const logoPath = `/images/casinos/${normalizedName}`
+      // Konstruer bilde-sti
+      const imageName = file.replace('.json', '.png')
+      const imagePath = pathModule.join(process.cwd(), 'public', 'images', 'casinos', imageName)
       
       // Sjekk om bildefilen eksisterer
-      const fullImagePath = path.join(process.cwd(), 'public', logoPath)
-      const logoExists = fs.existsSync(fullImagePath)
+      const imageExists = existsSync(imagePath)
       
-      console.log(`Processing ${content.name}: Logo path = ${logoExists ? logoPath : 'not found'}`)
-      
-      return {
+      // Legg til casino i array
+      allCasinos.push({
         slug: file.replace('.json', ''),
-        name: content.name,
-        logo: logoExists ? logoPath : '/images/placeholder.png',
-        rating: content.rating || content.verdict?.rating || null,
-        bonus: content.bonus || null,
-        affiliateLink: content.affiliateLink || null,
-        shortDescription: content.shortDescription || null
-      } as CasinoData
-    } catch (error) {
-      console.error(`Error processing file ${file}:`, error)
-      return null
+        name: casinoData.name || '',
+        logo: imageExists ? `/images/casinos/${imageName}` : '/images/placeholder.png',
+        rating: casinoData.rating || '0',
+        bonus: casinoData.bonus || null,
+        affiliateLink: casinoData.affiliateLink || null,
+        shortDescription: casinoData.shortDescription || null
+      })
     }
-  })
-  .filter((item: CasinoData | null): item is CasinoData => item !== null)
+    
+    // Sorter casinoer alfabetisk etter navn
+    allCasinos.sort((a, b) => a.name.localeCompare(b.name))
+    
+    // Skriv til index.json
+    await fsPromises.writeFile(outputPath, JSON.stringify(allCasinos, null, 2))
+    console.log('Index-fil generert:', outputPath)
+    
+  } catch (error) {
+    console.error('Feil ved generering av index:', error)
+  }
+}
 
-const indexContent = JSON.stringify(files, null, 2)
-fs.writeFileSync(
-  path.join(reviewsDir, 'index.json'),
-  indexContent
-)
-
-console.log(`Genererte index.json med ${files.length} casinoer`) 
+// Kjør scriptet
+generateIndex() 
