@@ -62,9 +62,11 @@ export default async function CasinoPage({ params }: { params: { slug: string } 
 }
 
 function CasinoContent({ data }: { data: Casino }) {
-  // Debug logging
-  console.log('Casino data:', data)
-  const logoPath = `/images/casinos/${data.name.toLowerCase()}.png`
+  const logoPath = `/images/casinos/${data.name
+    .toLowerCase()
+    .replace(/\s+/g, '')
+    .replace(/[^a-z0-9-]/g, '')}.png`
+
   console.log('Constructed logo path:', logoPath)
 
   // Sikre at vi har review-data

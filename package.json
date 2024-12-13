@@ -9,9 +9,7 @@
     "lint": "next lint",
     "copy-static": "mkdir -p .vercel/output/static && cp -r .next/static .vercel/output/",
     "pages:build": "next build",
-    "pages:deploy": "wrangler pages deploy .vercel/output/static",
-    "standardize-files": "ts-node scripts/standardizeFilenames.ts",
-    "generate-index": "ts-node scripts/generate-index.ts"
+    "pages:deploy": "wrangler pages deploy .vercel/output/static"
   },
   "dependencies": {
     "@radix-ui/react-collapsible": "^1.1.1",
