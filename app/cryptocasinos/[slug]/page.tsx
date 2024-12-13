@@ -19,13 +19,20 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const description = casinoData.verdict?.text || 
                      `Les vår anmeldelse av ${casinoData.name} crypto casino`
 
+  const logoPath = `/images/casinos/${params.slug}.png`
+
   return {
     title: `${casinoData.name} Anmeldelse - Crypto Casino Rating ${casinoData.verdict?.rating || '?'}/10`,
     description: description.slice(0, 160),
     openGraph: {
       title: `${casinoData.name} - Crypto Casino Anmeldelse`,
       description: description.slice(0, 160),
-      images: [casinoData.logoPath],
+      images: [{
+        url: logoPath,
+        width: 800,
+        height: 600,
+        alt: `${casinoData.name} logo`
+      }],
     },
     alternates: {
       canonical: `${process.env.NEXT_PUBLIC_BASE_URL}/cryptocasinos/${params.slug}`,

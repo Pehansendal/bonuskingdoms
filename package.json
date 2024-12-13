@@ -28,7 +28,8 @@
     "uuid": "^9.0.1",
     "rimraf": "^5.0.5",
     "@rollup/plugin-inject": "^5.0.5",
-    "debug": "^4.3.4"
+    "debug": "^4.3.4",
+    "lru-cache": "^10.1.0"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
