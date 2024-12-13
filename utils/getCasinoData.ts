@@ -56,9 +56,9 @@ export async function getCasinoData(slug: string) {
     // Normaliser slug til filnavnformat
     const normalizedSlug = slug.toLowerCase().replace(/\s+/g, '')
 
-    // Bygg URL basert på miljø
-    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || ''
-    const reviewUrl = `${baseUrl}/data/reviews/${normalizedSlug}.json`
+    // Bygg absolutt URL
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://bonuskingdoms.com'
+    const reviewUrl = new URL(`/data/reviews/${normalizedSlug}.json`, baseUrl).toString()
     
     const response = await fetch(reviewUrl, {
       next: { revalidate: 3600 }
@@ -84,16 +84,16 @@ export async function getCasinoData(slug: string) {
 
 export async function getAllCasinos(): Promise<CasinoData[]> {
   try {
-    // Bygg URL basert på miljø
-    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || ''
-    const indexUrl = `${baseUrl}/data/reviews/index.json`
+    // Bygg absolutt URL
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://bonuskingdoms.com'
+    const indexUrl = new URL('/data/reviews/index.json', baseUrl).toString()
     
     const response = await fetch(indexUrl, {
       next: { revalidate: 3600 }
     })
     
     if (!response.ok) {
-      console.error('Could not fetch casino index')
+      console.error('Could not fetch casino index:', response.statusText)
       return []
     }
     
