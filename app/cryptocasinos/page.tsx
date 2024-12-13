@@ -1,51 +1,27 @@
+// app/cryptocasinos/page.tsx
+
 import Link from 'next/link'
 import Image from 'next/image'
-import { getCasinoData } from '../../lib/utils/getCasinoData'
-import path from 'path'
-import fs from 'fs'
+import { getAllCasinos } from '@/utils/getCasinoData'
 
 interface Casino {
   name: string
   slug: string
   logo?: string
   rating?: string
-  verdict?: {
-    text: string
-    rating: string
-  }
   trustIndicators?: Array<{
     text: string
     color: string
   }>
 }
 
-async function getAllCasinos(): Promise<Casino[]> {
-  const reviewsDir = path.join(process.cwd(), 'public', 'data', 'reviews')
-  const files = fs.readdirSync(reviewsDir)
-  
-  const casinos = await Promise.all(
-    files.map(async (file) => {
-      const name = file.replace('.json', '')
-      const slug = name
-      const casinoData = await getCasinoData(slug)
-      
-      return {
-        name,
-        slug,
-        logo: `/images/casinos/${slug}.png`,
-        rating: casinoData?.verdict?.rating,
-        trustIndicators: casinoData?.trustIndicators
-      }
-    })
-  )
-
-  return casinos.sort((a, b) => 
-    Number(b.rating || 0) - Number(a.rating || 0)
-  )
-}
-
 export default async function CasinosPage() {
   const casinos = await getAllCasinos()
+  
+  // Sorter casinoene basert på rating
+  const sortedCasinos = casinos.sort((a, b) => 
+    Number(b.verdict?.rating || 0) - Number(a.verdict?.rating || 0)
+  )
   
   return (
     <div className="min-h-screen bg-[#070a0f] py-12">
@@ -55,7 +31,7 @@ export default async function CasinosPage() {
         </h1>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {casinos.map((casino) => (
+          {sortedCasinos.map((casino) => (
             <div 
               key={casino.slug}
               className="bg-[#1a1f2d] rounded-xl p-6 border border-gray-800 hover:border-blue-500/50 transition-all duration-300"

@@ -58,7 +58,7 @@ function CasinoContent({ data, slug }: { data: CasinoData, slug: string }) {
   const support = data?.keyFacts?.[1]?.value || "24/7";
   const withdrawals = data?.keyFacts?.[2]?.value || "Fast";
   const rating = data?.verdict?.rating ?? 0;
-  const lastUpdated = data?.lastUpdated || 'Recently';
+  const lastUpdated = data?.lastUpdated || 'Recently'
 
   return (
     <div className="min-h-screen bg-[#070a0f] text-white pb-12">
@@ -202,7 +202,7 @@ function CasinoContent({ data, slug }: { data: CasinoData, slug: string }) {
               Advantages
             </h3>
             <ul className="space-y-4">
-              {data.advantages?.map((advantage, index) => (
+              {data.advantages?.map((advantage: string, index: number) => (
                 <li key={index} 
                     className="flex items-start gap-3 text-gray-300 
                                hover:text-green-300 transition-colors">
@@ -229,7 +229,7 @@ function CasinoContent({ data, slug }: { data: CasinoData, slug: string }) {
               Disadvantages
             </h3>
             <ul className="space-y-4">
-              {data.disadvantages?.map((disadvantage, index) => (
+              {data.disadvantages?.map((disadvantage: string, index: number) => (
                 <li key={index} 
                     className="flex items-start gap-3 text-gray-300 
                                hover:text-red-300 transition-colors">

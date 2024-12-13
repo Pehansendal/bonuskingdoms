@@ -1,5 +1,4 @@
-import path from 'path'
-import fs from 'fs/promises'
+// utils/getCasinoData.ts
 
 export interface CasinoData {
   name: string
@@ -12,6 +11,10 @@ export interface CasinoData {
     text: string
     rating: string
   }
+  slug?: string
+  logoPath?: string
+  logo?: string
+  rating?: string
   keyFacts?: Array<{
     icon: string
     label: string
@@ -51,12 +54,14 @@ export interface CasinoData {
 export async function getCasinoData(slug: string) {
   try {
     const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
-    const response = await fetch(
-      `${baseUrl}/data/reviews/${slug}.json`,
-      { next: { revalidate: 3600 } }
-    )
+    const reviewUrl = new URL(`/data/reviews/${slug}.json`, baseUrl).toString()
+    
+    const response = await fetch(reviewUrl, {
+      next: { revalidate: 3600 }
+    })
 
     if (!response.ok) {
+      console.error(`Could not fetch data for ${slug}:`, response.statusText)
       return null
     }
 
@@ -68,18 +73,27 @@ export async function getCasinoData(slug: string) {
     }
 
   } catch (error) {
+    console.error(`Error loading casino data for ${slug}:`, error)
     return null
   }
 }
 
 export async function getAllCasinos(): Promise<CasinoData[]> {
   try {
-    const response = await fetch(`/data/reviews/index.json`);
-    if (!response.ok) return [];
-    const data = await response.json();
-    return data;
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
+    const indexUrl = new URL('/data/reviews/index.json', baseUrl).toString()
+    
+    const response = await fetch(indexUrl)
+    
+    if (!response.ok) {
+      console.error('Could not fetch casino index')
+      return []
+    }
+    
+    const data = await response.json()
+    return data
   } catch (error) {
-    console.error('Error fetching all casinos:', error);
-    return [];
+    console.error('Error loading casino index:', error)
+    return []
   }
 }
