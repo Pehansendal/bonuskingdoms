@@ -17,6 +17,9 @@ interface CasinoData {
     label: string;
     value: string;
   }>;
+  review?: {
+    description?: string;
+  };
   // ... andre felt
 }
 

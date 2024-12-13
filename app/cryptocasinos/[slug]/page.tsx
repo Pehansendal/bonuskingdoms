@@ -32,8 +32,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     }
   }
 
-  const description = casinoData.review?.description || 
-                     casinoData.verdict?.text || 
+  const description = casinoData?.verdict?.text || 
                      `Les vår anmeldelse av ${casinoData.name} crypto casino`
 
   return {
