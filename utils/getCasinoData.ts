@@ -51,18 +51,31 @@ export interface CasinoData {
   }>
 }
 
-export async function getCasinoData(slug: string): Promise<CasinoData | null> {
+export async function getCasinoData(slug: string) {
   try {
-    const response = await fetch(`/data/reviews/${slug}.json`)
+    // Normaliser slug til filnavnformat
+    const normalizedSlug = slug.toLowerCase().replace(/\s+/g, '')
+
+    // Bygg URL basert på miljø
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || ''
+    const reviewUrl = `${baseUrl}/data/reviews/${normalizedSlug}.json`
+    
+    const response = await fetch(reviewUrl, {
+      next: { revalidate: 3600 }
+    })
+
     if (!response.ok) {
-      console.error(`Could not fetch casino data for ${slug}`)
+      console.error(`Could not fetch data for ${slug}:`, response.statusText)
       return null
     }
+
     const data = await response.json()
     return {
       ...data,
-      slug: slug
+      slug: normalizedSlug,
+      logoPath: `/images/casinos/${normalizedSlug}.png`
     }
+
   } catch (error) {
     console.error(`Error loading casino data for ${slug}:`, error)
     return null
@@ -71,7 +84,14 @@ export async function getCasinoData(slug: string): Promise<CasinoData | null> {
 
 export async function getAllCasinos(): Promise<CasinoData[]> {
   try {
-    const response = await fetch('/data/reviews/index.json')
+    // Bygg URL basert på miljø
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || ''
+    const indexUrl = `${baseUrl}/data/reviews/index.json`
+    
+    const response = await fetch(indexUrl, {
+      next: { revalidate: 3600 }
+    })
+    
     if (!response.ok) {
       console.error('Could not fetch casino index')
       return []
