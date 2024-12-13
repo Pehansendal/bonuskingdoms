@@ -1,5 +1,5 @@
-const fs = require('fs').promises
-const path = require('path')
+import * as fs from 'fs/promises'
+import * as path from 'path'
 
 async function standardizeFilenames() {
   const reviewsDir = path.join(process.cwd(), 'public', 'data', 'reviews')

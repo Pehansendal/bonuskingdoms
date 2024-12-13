@@ -1,9 +1,8 @@
 import React from 'react'
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
-import { Casino } from '@/types/casino'
 import { Metadata } from 'next'
-import { getCasinoData } from '@/utils/getCasinoData'
+import { getCasinoData, type CasinoData } from '@/utils/getCasinoData'
 import path from 'path'
 import fs from 'fs/promises'
 
@@ -32,7 +31,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     }
   }
 
-  const description = casinoData?.verdict?.text || 
+  const description = casinoData.verdict?.text || 
                      `Les vår anmeldelse av ${casinoData.name} crypto casino`
 
   return {
@@ -41,7 +40,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     openGraph: {
       title: `${casinoData.name} - Crypto Casino Anmeldelse`,
       description: description.slice(0, 160),
-      images: [casinoData.logo],
+      images: [casinoData.logoPath],
     },
     alternates: {
       canonical: `${process.env.NEXT_PUBLIC_BASE_URL}/cryptocasinos/${params.slug}`,
@@ -59,7 +58,7 @@ export default async function CasinoPage({ params }: { params: { slug: string } 
   return <CasinoContent data={casino} slug={params.slug} />
 }
 
-function CasinoContent({ data, slug }: { data: Casino, slug: string }) {
+function CasinoContent({ data, slug }: { data: CasinoData, slug: string }) {
   const logoPath = `/images/casinos/${slug}.png`
 
   // Sikre at vi har review-data

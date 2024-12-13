@@ -1,7 +1,7 @@
 import fs from 'fs/promises'
 import path from 'path'
 
-interface CasinoData {
+export interface CasinoData {
   name: string;
   lastUpdated: string;
   trustIndicators: Array<{
@@ -17,10 +17,54 @@ interface CasinoData {
     label: string;
     value: string;
   }>;
-  review?: {
-    description?: string;
+  logo: string;
+  logoPath: string;
+  slug: string;
+  rank: number;
+  link: string;
+  promotion: string;
+  supportedCoins: string[];
+  additionalCoins: number;
+  review: {
+    description: string;
+    pros: string[];
+    cons: string[];
   };
-  // ... andre felt
+  advantages: string[];
+  disadvantages: string[];
+  security?: {
+    title: string;
+    description: string;
+    features: string[];
+  };
+  games?: {
+    slots?: {
+      total: number;
+      popular: Array<{
+        name: string;
+        rtp?: string;
+      }>;
+    };
+    tableGames?: {
+      total: number;
+      popular: string[];
+    };
+  };
+  faq?: Array<{
+    question: string;
+    answer: string;
+  }>;
+  bonuses?: Array<{
+    type: string;
+    amount: string;
+    wagering: string;
+  }>;
+}
+
+interface KeyFact {
+  icon: string;
+  label: string;
+  value: string;
 }
 
 function validateCasinoData(data: any): CasinoData | null {
@@ -35,16 +79,34 @@ function validateCasinoData(data: any): CasinoData | null {
     name: data.name,
     lastUpdated: data.lastUpdated || 'Not specified',
     trustIndicators: Array.isArray(data.trustIndicators) 
-      ? data.trustIndicators.filter(ti => ti.text && ti.color)
+      ? data.trustIndicators.filter((ti: { text: string; color: string }) => ti.text && ti.color)
       : [],
     verdict: {
       text: data.verdict?.text || '',
       rating: data.verdict?.rating || '0'
     },
     keyFacts: Array.isArray(data.keyFacts)
-      ? data.keyFacts.filter(kf => kf.icon && kf.label && kf.value)
+      ? data.keyFacts.filter((kf: KeyFact) => kf.icon && kf.label && kf.value)
       : [],
-    ...data // Behold andre felt
+    logo: data.logo || '/images/default-casino-logo.png',
+    logoPath: data.logoPath || '/images/default-casino-logo.png',
+    slug: data.slug || '',
+    rank: data.rank || 0,
+    link: data.link || '',
+    promotion: data.promotion || '',
+    supportedCoins: Array.isArray(data.supportedCoins) ? data.supportedCoins : [],
+    additionalCoins: typeof data.additionalCoins === 'number' ? data.additionalCoins : 0,
+    review: {
+      description: data.review?.description || '',
+      pros: Array.isArray(data.review?.pros) ? data.review.pros : [],
+      cons: Array.isArray(data.review?.cons) ? data.review.cons : []
+    },
+    advantages: Array.isArray(data.advantages) ? data.advantages : [],
+    disadvantages: Array.isArray(data.disadvantages) ? data.disadvantages : [],
+    security: data.security,
+    games: data.games,
+    faq: data.faq,
+    bonuses: data.bonuses
   };
 }
 

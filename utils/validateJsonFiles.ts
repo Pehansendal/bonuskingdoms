@@ -1,5 +1,5 @@
-const fs = require('fs').promises
-const path = require('path')
+import * as fs from 'fs/promises'
+import * as path from 'path'
 
 interface CasinoData {
   name: string;
