@@ -53,6 +53,22 @@ export interface CasinoData {
 
 export async function getCasinoData(slug: string) {
   try {
+    // Under bygging, prøv å lese filen direkte
+    if (process.env.NODE_ENV === 'production') {
+      try {
+        // @ts-ignore
+        const data = await import(`@/public/data/reviews/${slug}.json`)
+        return {
+          ...data.default,
+          slug,
+          logoPath: `/images/casinos/${slug}.png`
+        }
+      } catch (error) {
+        console.error(`Could not import data for ${slug}:`, error)
+        return null
+      }
+    }
+
     const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
     const reviewUrl = new URL(`/data/reviews/${slug}.json`, baseUrl).toString()
     
@@ -80,6 +96,18 @@ export async function getCasinoData(slug: string) {
 
 export async function getAllCasinos(): Promise<CasinoData[]> {
   try {
+    // Under bygging, prøv å lese filen direkte
+    if (process.env.NODE_ENV === 'production') {
+      try {
+        // @ts-ignore
+        const data = await import(`@/public/data/reviews/index.json`)
+        return data.default
+      } catch (error) {
+        console.error('Could not import casino index:', error)
+        return []
+      }
+    }
+
     const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
     const indexUrl = new URL('/data/reviews/index.json', baseUrl).toString()
     
