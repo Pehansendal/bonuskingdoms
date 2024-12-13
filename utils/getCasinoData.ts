@@ -50,14 +50,13 @@ export interface CasinoData {
 
 export async function getCasinoData(slug: string) {
   try {
-    // Fetch fra _next/data istedenfor direkte filsystem
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
     const response = await fetch(
-      `${process.env.NEXT_PUBLIC_BASE_URL}/data/reviews/${slug}.json`,
-      { next: { revalidate: 3600 } } // Cache i 1 time
+      `${baseUrl}/data/reviews/${slug}.json`,
+      { next: { revalidate: 3600 } }
     )
 
     if (!response.ok) {
-      console.error(`Kunne ikke hente data for ${slug}:`, response.statusText)
       return null
     }
 
@@ -69,7 +68,6 @@ export async function getCasinoData(slug: string) {
     }
 
   } catch (error) {
-    console.error(`Feil ved lasting av casino-data for ${slug}:`, error)
     return null
   }
 }
