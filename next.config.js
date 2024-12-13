@@ -2,7 +2,7 @@
 const nextConfig = {
   images: {
     unoptimized: true,
-    domains: ['localhost']
+    domains: ['localhost', 'bonuskingdoms.com']
   },
   output: 'standalone',
   distDir: '.next',
@@ -12,7 +12,20 @@ const nextConfig = {
       type: 'json',
     })
     return config
+  },
+  async headers() {
+    return [
+      {
+        source: '/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=3600, s-maxage=3600, stale-while-revalidate=60'
+          }
+        ]
+      }
+    ]
   }
 }
 
-module.exports = nextConfig 
+module.exports = nextConfig
