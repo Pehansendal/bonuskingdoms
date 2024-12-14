@@ -1,5 +1,9 @@
 // utils/getCasinoData.ts
 
+import fs from 'fs'
+import path from 'path'
+import { casinoFiles } from './casinoList'
+
 export interface CasinoData {
   name: string
   lastUpdated: string
@@ -15,6 +19,7 @@ export interface CasinoData {
   logoPath?: string
   logo?: string
   rating?: string
+  promotion?: string
   keyFacts?: Array<{
     icon: string
     label: string
@@ -51,61 +56,60 @@ export interface CasinoData {
   }>
 }
 
-export async function getCasinoData(slug: string) {
+export async function getAllCasinos(): Promise<CasinoData[]> {
   try {
-    // Normaliser slug til filnavnformat
-    const normalizedSlug = slug.toLowerCase().replace(/\s+/g, '')
+    const casinoPromises = casinoFiles.map(async (filename) => {
+      try {
+        const filePath = path.join(process.cwd(), 'public', 'data', 'reviews', filename)
+        const slug = filename.replace('.json', '')
+        const logoPath = `/images/casinos/${slug}.png`
 
-    // Bygg absolutt URL
-    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://bonuskingdoms.com'
-    const reviewUrl = new URL(`/data/reviews/${normalizedSlug}.json`, baseUrl).toString()
-    
-    const response = await fetch(reviewUrl, {
-      next: { revalidate: 3600 }
+        try {
+          const fileContent = fs.readFileSync(filePath, 'utf-8')
+          const casinoData = JSON.parse(fileContent)
+          return {
+            ...casinoData,
+            slug,
+            logoPath
+          }
+        } catch (error) {
+          console.error(`Missing or invalid JSON file for casino ${filename}:`, error)
+          return null
+        }
+      } catch (error) {
+        console.error(`Error loading casino ${filename}:`, error)
+        return null
+      }
     })
-
-    if (!response.ok) {
-      console.error(`Could not fetch data for ${slug}:`, response.statusText)
-      return null
-    }
-
-    const data = await response.json()
-    return {
-      ...data,
-      slug: normalizedSlug,
-      logoPath: `/images/casinos/${normalizedSlug}.png`
-    }
-
+    
+    const casinos = await Promise.all(casinoPromises)
+    return casinos.filter((casino): casino is CasinoData => casino !== null)
+    
   } catch (error) {
-    console.error(`Error loading casino data for ${slug}:`, error)
-    return null
+    console.error('Error loading casinos:', error)
+    return []
   }
 }
 
-export async function getAllCasinos(): Promise<CasinoData[]> {
+export async function getCasinoData(slug: string): Promise<CasinoData | null> {
   try {
-    // Bygg absolutt URL
-    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://bonuskingdoms.com'
-    const indexUrl = new URL('/data/reviews/index.json', baseUrl).toString()
+    const filePath = path.join(process.cwd(), 'public', 'data', 'reviews', `${slug}.json`)
+    const logoPath = `/images/casinos/${slug}.png`
     
-    const response = await fetch(indexUrl, {
-      next: { revalidate: 3600 }
-    })
-    
-    if (!response.ok) {
-      console.error('Could not fetch casino index:', response.statusText)
-      return []
+    try {
+      const fileContent = fs.readFileSync(filePath, 'utf-8')
+      const casinoData = JSON.parse(fileContent)
+      return {
+        ...casinoData,
+        slug,
+        logoPath
+      }
+    } catch (error) {
+      console.error(`Error loading casino ${slug}:`, error)
+      return null
     }
-    
-    const data = await response.json()
-    
-    // Normaliser slugs i resultatet, med null-sjekk
-    return data.map((casino: CasinoData) => ({
-      ...casino,
-      slug: casino.slug ? casino.slug.toLowerCase().replace(/\s+/g, '') : ''
-    }))
   } catch (error) {
-    console.error('Error loading casino index:', error)
-    return []
+    console.error(`Error loading casino ${slug}:`, error)
+    return null
   }
 }

@@ -4,8 +4,6 @@ const nextConfig = {
     unoptimized: true,
     domains: ['localhost', 'bonuskingdoms.com']
   },
-  output: 'standalone',
-  distDir: '.next',
   webpack: (config) => {
     config.module.rules.push({
       test: /\.json$/,
@@ -20,10 +18,10 @@ const nextConfig = {
         headers: [
           {
             key: 'Cache-Control',
-            value: 'public, max-age=3600, s-maxage=3600, stale-while-revalidate=60'
+            value: 'public, max-age=31536000, immutable'
           }
-        ]
-      }
+        ],
+      },
     ]
   }
 }

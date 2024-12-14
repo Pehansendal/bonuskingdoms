@@ -1,127 +1,183 @@
-# Bonuskingdoms - Crypto Casino Review Platform
+# Bonuskingdoms - Casino Review Platform
 
-## Prosjektoversikt
-Bonuskingdoms er en nettside for anmeldelser av kryptovaluta-kasinoer. Plattformen gir detaljerte vurderinger og sammenligninger av ulike crypto-kasinoer, med fokus på sikkerhet, brukervennlighet og bonustilbud.
+## Project Overview
+Bonuskingdoms is a static website for casino reviews. The platform provides detailed evaluations and comparisons of various online casinos, focusing on security, user experience, and bonus offers. All pages are statically generated at build time for optimal performance and SEO.
 
-## Teknisk Stack
-- **Framework**: Next.js 14 med App Router
-- **Språk**: TypeScript
+## Technical Stack
+- **Framework**: Next.js 14 with App Router
+- **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **UI Komponenter**: shadcn/ui
-- **Animasjoner**: Framer Motion
-- **Bilder**: Next.js Image komponenter for optimalisert bildehåndtering
-- **Data**: Statisk genererte sider med JSON-data
+- **UI Components**: shadcn/ui
+- **Build Process**: Static page generation
+- **Images**: Next.js Image components for optimized image handling
+- **Data**: JSON-based static content
 
-## Prosjektstruktur
-
+## Project Structure
+```
 bonuskingdoms/
 ├── app/
-│ ├── page.tsx # Hovedsiden med tilfeldig utvalgte kasinoer
-│ └── cryptocasinos/
-│ └── [slug]/
-│ └── page.tsx # Dynamiske casino-anmeldelsessider
+│   ├── page.tsx                    # Homepage
+│   ├── layout.tsx                  # Root layout with sidebar
+│   ├── globals.css                 # Global styles
+│   ├── casino-reviews/            # Static casino review pages
+│   │   └── [casinoname]/
+│   │       └── page.tsx
+│   ├── example-review/            # Template for new reviews
+│   ├── gambling-addiction/        # Information page
+│   ├── responsible-gaming/        # Information page
+│   ├── privacy-policy/           # Legal page
+│   ├── terms/                    # Legal page
+│   └── self-exclusion/          # Information page
 ├── components/
-│ ├── ui/ # shadcn/ui komponenter
-│ ├── casino-card.tsx # Kortvisning av casino i listen
-│ └── error-boundary.tsx # Feilhåndtering
-├── lib/
-│ └── types.ts # TypeScript-definisjoner
+│   ├── ui/                       # shadcn/ui components
+│   └── sidebar.tsx              # Navigation sidebar
 ├── public/
-│ ├── data/
-│ │ └── reviews/ # JSON-filer med casino-anmeldelser
-│ └── images/
-│ └── casinos/ # Casino-logoer (.png format)
-└── utils/
-└── getCasinoData.ts # Data-henting funksjoner
+│   ├── data/
+│   │   └── reviews/            # Casino review JSON files
+│   └── images/
+│       └── casinos/           # Casino logos (.png format)
+└── scripts/
+    └── generateStaticPages.ts  # Static page generator
+```
 
+## Data Structure
+Each casino review is stored as a JSON file in `public/data/reviews/` with the following structure:
 
-## Datastruktur
-Casino-dataene følger en definert TypeScript-interface som inkluderer:
-- Grunnleggende info (navn, oppdateringsdato)
-- Trust Indicators (lisens, spill, utbetalingstid)
-- Vurderingstekst og rating
-- Key Facts
-- Sikkerhetsinformasjon
-- Spillutvalg
-- Bonusinformasjon
-- Fordeler og ulemper
-- FAQ
-
-## Hovedfunksjonalitet
-
-### Hovedside (/)
-- Viser 10 tilfeldig utvalgte kasinoer
-- Responsivt kortdesign med:
-  - Rangering
-  - Logo
-  - Navn
-  - Promotering
-  - Utfoldbar anmeldelse
-- Animerte kort med IntersectionObserver
-
-### Detaljvisning (/cryptocasinos/[slug])
-- Detaljert anmeldelse av hvert casino
-- Forbedret logo-visning med:
-  - Optimalisert størrelse
-  - Sirkulær ramme
-  - Gradient bakgrunn
-- Fordeler/ulemper med fargekodet design
-- Trust Indicators
-- Omfattende casino-informasjon
-
-## Design
-- Mørkt tema med #070a0f som hovedbakgrunnsfarge
-- Accent-farger:
-  - Grønn/rød for fordeler/ulemper
-  - Gradient bakgrunner
-  - Mørkere paneler (#1a1f2d)
-- Responsivt design
-- Forbedrede hover-effekter og animasjoner
-
-## Spesielle Funksjoner
-1. Tilfeldig casino-utvalg på hovedsiden
-2. Optimalisert bildehåndtering med Next.js Image
-3. Forbedret error handling
-4. Animerte UI-komponenter med Framer Motion
-5. Type-sikker databehandling
-
-## Fremtidige Utvidelser
-- Filtreringssystem for kasinoer
-- Søkefunksjonalitet
-- Sorteringsmuligheter
-- Flere språkversjoner
-- Kampanjeside
-
-## Vedlikehold
-- Casino-data oppdateres via JSON-filer
-- Bilder lagres som .png i casinos-mappen
-- Konsistent navnekonvensjon for filer
-- TypeScript-interfaces oppdateres ved behov
-
-## Filnavnkonvensjoner
-### Casino Reviews
-Casino-anmeldelser støtter nå to filnavnformater:
-- Standard format: `slugname.json`
-- Alternativt format: `Casino Name.json`
-
-Systemet vil automatisk prøve begge formater ved filsøk.
-
-## Databehandling
-### Trust Indicators
-Trust Indicators følger nå et standardisert format:
-
-Dette dokumentet oppdateres kontinuerlig ved endringer i prosjektet.
-
-typescript
-interface TrustIndicator {
-text: string;
-color: string;
+```typescript
+interface CasinoData {
+  name: string;
+  lastUpdated: string;
+  trustIndicators?: {
+    text: string;
+    color: string;
+  }[];
+  verdict?: {
+    text: string;
+    rating: string;
+  };
+  keyFacts?: {
+    icon: string;
+    label: string;
+    value: string;
+  }[];
+  security?: {
+    title: string;
+    description: string;
+    features: string[];
+  };
+  games?: {
+    slots: {
+      total: string;
+      popular: (string | { name: string; rtp?: string })[];
+    };
+    tableGames: {
+      total: string;
+      popular: (string | { name: string; rtp?: string })[];
+    };
+  };
+  bonuses?: {
+    type: string;
+    amount: string;
+    wagering: string;
+  }[];
+  advantages?: string[];
+  disadvantages?: string[];
+  faq?: {
+    question: string;
+    answer: string;
+  }[];
 }
+```
 
-Alle indikatorer konverteres automatisk til dette formatet ved datahenting.
+## Workflow for Adding New Casinos
 
-## Feilhåndtering
-- Forbedret feilhåndtering for manglende casino-filer
-- Graceful fallback ved filnavnmismatch
-- Konsistent logging av filsøkfeil
+### 1. Prepare Assets
+1. Add casino logo to: `public/images/casinos/[casinoname]casino.png`
+   - Format: PNG
+   - Recommended size: 200x200px
+   - Naming convention: lowercase, no spaces
 
+2. Create JSON file: `public/data/reviews/[casinoname]casino.json`
+   - Use template from example-review
+   - Follow TypeScript interface structure
+   - Ensure all required fields are filled
+
+### 2. Generate Static Pages
+```bash
+# From project root
+npm run generate-pages
+```
+This will:
+- Read all JSON files from reviews directory
+- Generate static pages in casino-reviews/
+- Update sidebar navigation
+
+### 3. Verify Changes
+```bash
+npm run dev
+```
+Check:
+- New casino page at: `/casino-reviews/[casinoname]casino`
+- Sidebar navigation includes new casino
+- Homepage displays casino correctly
+- All images load properly
+
+### 4. Deploy
+```bash
+git add .
+git commit -m "Add new casino: [casinoname]"
+git push
+```
+
+## Design Guidelines
+- Dark theme with #070a0f as main background
+- Trust indicators use consistent colors:
+  - Green: Security/Safety
+  - Blue: Features/Games
+  - Purple: Support/Service
+- All casino logos should be consistent in size and format
+- Maintain responsive design across all pages
+
+## SEO Optimization
+- Each casino page includes:
+  - Unique meta description
+  - Proper heading hierarchy
+  - Alt text for images
+  - Structured data for casino reviews
+- All content is pre-rendered statically
+- Proper sitemap and robots.txt configuration
+
+## Maintenance
+- Regular updates to casino information via JSON files
+- Keep casino logos up to date
+- Monitor and update security information
+- Regular checks of bonus terms and conditions
+- Update lastUpdated field when making changes
+
+## Error Handling
+- Fallback images for missing casino logos
+- Default values for optional JSON fields
+- Proper error boundaries in components
+- Logging during static generation
+
+## Performance Considerations
+- All pages are statically generated
+- Images are optimized at build time
+- No client-side data fetching
+- Minimal JavaScript usage
+- Efficient CSS with Tailwind
+
+## Future Improvements
+- Advanced filtering system
+- Search functionality
+- More language versions
+- Comparison feature
+- User reviews integration
+- Rating aggregation
+
+## Development Guidelines
+- Follow TypeScript strict mode
+- Maintain consistent code formatting
+- Document complex functions
+- Keep components modular
+- Regular dependency updates
