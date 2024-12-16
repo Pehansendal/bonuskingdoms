@@ -1,4 +1,5 @@
 # Bonuskingdoms - Casino Review Platform
+Prosjektet pushes til github som automatisk depoyer cludeflair. 
 
 ## Project Overview
 Bonuskingdoms is a static website for casino reviews. The platform provides detailed evaluations and comparisons of various online casinos, focusing on security, user experience, and bonus offers. All pages are statically generated at build time for optimal performance and SEO.
