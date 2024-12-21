@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset og grunnleggende stiler */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Fjern hvit bakgrunn og sett mørk bakgrunn på hele siden */
+html,
+body {
+  @apply bg-gray-900;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  overflow-x: hidden;
+  height: 100%;
+  height: calc(var(--vh, 1vh) * 100);
+  overflow-x: hidden;
+  touch-action: manipulation;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Prevent pull-to-refresh på mobil */
+body {
+  overscroll-behavior-y: none;
+}
+
+/* Øk standard tekststørrelse */
+p {
+  @apply text-lg leading-relaxed;
+}
+
+/* Øk størrelse på overskrifter */
+h2 {
+  @apply text-3xl;
+}
+
+h3 {
+  @apply text-2xl;
+}
+
+/* Forbedre lesbarhet */
+.text-gray-300 {
+  @apply leading-relaxed;
+}
+
+/* Sikre at root-elementet også har mørk bakgrunn */
+#__next,
+main {
+  @apply bg-gray-900;
+  min-height: 100vh;
+}
