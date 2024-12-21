@@ -1,46 +1,5 @@
 import CasinoCard from '@/components/CasinoCard'
-import Image from 'next/image'
-import Link from 'next/link'
-import fs from 'fs'
-import path from 'path'
-import { normalizeSlug, getLogoFilename } from '@/utils/slugs'
-
-interface Casino {
-  name: string
-  description: string
-  rating: string
-  bonus: string
-  logo: string
-  trustIndicators: Array<{
-    text: string
-    color: string
-  }>
-  slug: string
-}
-
-async function getCasinos(): Promise<Casino[]> {
-  const reviewsDir = path.join(process.cwd(), 'public/reviews')
-  const files = fs.readdirSync(reviewsDir)
-  const casinoFiles = files.filter(file => file.endsWith('.json'))
-  
-  const casinos = casinoFiles.map(file => {
-    const filePath = path.join(reviewsDir, file)
-    const fileContent = fs.readFileSync(filePath, 'utf-8')
-    const data = JSON.parse(fileContent)
-    
-    return {
-      name: data.name,
-      description: data.verdict?.text?.slice(0, 150) + '...' || 'Description coming soon...',
-      rating: data.verdict?.rating || 'N/A',
-      bonus: data.bonuses?.[0]?.amount || 'Bonus Available',
-      logo: `/casinos/${getLogoFilename(file)}.png`,
-      trustIndicators: data.trustIndicators || [],
-      slug: normalizeSlug(file)
-    }
-  })
-
-  return casinos.filter(casino => casino.name)
-}
+import { getCasinos } from '@/utils/casinos'
 
 export default async function CasinosPage() {
   const casinos = await getCasinos()

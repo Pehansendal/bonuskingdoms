@@ -1,7 +1,6 @@
-export function normalizeSlug(filename: string): string {
-  // Fjern .json og konverter til lowercase
-  const baseName = filename
-    .replace('.json', '')
+export function normalizeSlug(name: string): string {
+  // Fjern .json siden vi ikke lenger bruker filer
+  const baseName = name
     .toLowerCase()
     .trim()
   
@@ -26,17 +25,10 @@ export function normalizeSlug(filename: string): string {
 }
 
 // Ny funksjon for å generere logo-filnavn
-export function getLogoFilename(filename: string): string {
-  const logoName = filename
-    .replace('.json', '')
+export function getLogoFilename(name: string): string {
+  return name
     .toLowerCase()
     .trim()
-    .replace(/\s+/g, '')  // Fjern alle mellomrom
-    .replace(/-/g, '')    // Fjern bindestreker også
-  
-  // Legg til logging
-  console.log('Original filename:', filename)
-  console.log('Generated logo filename:', logoName)
-  
-  return logoName
+    .replace(/\s+/g, '')
+    .replace(/-/g, '')
 } 

@@ -1,33 +1,55 @@
-import fs from 'fs'
-import path from 'path'
 import { normalizeSlug, getLogoFilename } from './slugs'
 
-export async function getFeaturedCasinos(count: number) {
-  const reviewsDir = path.join(process.cwd(), 'public/reviews')
-  const files = fs.readdirSync(reviewsDir)
-  const casinoFiles = files.filter(file => file.endsWith('.json'))
-  
-  // Shuffle array
-  const shuffled = [...casinoFiles].sort(() => 0.5 - Math.random())
-  
-  // Get first n elements
-  const selected = shuffled.slice(0, count)
-  
-  const casinos = selected.map(file => {
-    const filePath = path.join(reviewsDir, file)
-    const fileContent = fs.readFileSync(filePath, 'utf-8')
-    const data = JSON.parse(fileContent)
-    
-    return {
-      name: data.name,
-      description: data.verdict?.text?.slice(0, 150) + '...' || 'Description coming soon...',
-      rating: data.verdict?.rating || 'N/A',
-      bonus: data.bonuses?.[0]?.amount || 'Bonus Available',
-      logo: `/casinos/${getLogoFilename(file)}.png`,
-      trustIndicators: data.trustIndicators || [],
-      slug: normalizeSlug(file)
-    }
-  })
+// Definer casino interface
+interface Casino {
+  name: string
+  description: string
+  rating: string
+  bonus: string
+  logo: string
+  trustIndicators: Array<{
+    text: string
+    color: string
+  }>
+  slug: string
+}
 
-  return casinos
+// Legg til statisk casino data (dette kan senere flyttes til en egen JSON-fil)
+const casinoData = [
+  {
+    name: "Example Casino",
+    verdict: {
+      text: "Dette er et eksempel casino med god spillopplevelse...",
+      rating: "4.5"
+    },
+    bonuses: [
+      { amount: "€200" }
+    ],
+    trustIndicators: [
+      { text: "Licensed", color: "green" },
+      { text: "Fast Payouts", color: "blue" }
+    ]
+  }
+  // Legg til flere casinoer her
+]
+
+export async function getCasinos(): Promise<Casino[]> {
+  // Transformer data til riktig format
+  return casinoData.map(data => ({
+    name: data.name,
+    description: data.verdict?.text?.slice(0, 150) + '...' || 'Description coming soon...',
+    rating: data.verdict?.rating || 'N/A',
+    bonus: data.bonuses?.[0]?.amount || 'Bonus Available',
+    logo: `/casinos/${getLogoFilename(data.name)}.png`,
+    trustIndicators: data.trustIndicators || [],
+    slug: normalizeSlug(data.name)
+  }))
+}
+
+export async function getFeaturedCasinos(count: number): Promise<Casino[]> {
+  const allCasinos = await getCasinos()
+  // Shuffle array og returner ønsket antall
+  return allCasinos
+    .sort(() => Math.random() - 0.5)
+    .slice(0, count)
 } 
