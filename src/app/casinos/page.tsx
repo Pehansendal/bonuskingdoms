@@ -2,6 +2,9 @@ import { getCasinos } from '@/utils/casinos'
 import Link from 'next/link'
 import Image from 'next/image'
 
+// Legg til denne linjen for å bruke Edge Runtime
+export const runtime = 'edge'
+
 export default async function CasinosPage() {
   const casinos = await getCasinos()
 

@@ -2,6 +2,8 @@ import { getCasinos } from '@/utils/casinos'
 import { normalizeSlug } from '@/utils/slugs'
 import Image from 'next/image'
 
+export const runtime = 'edge'
+
 export default async function CasinoPage({
   params
 }: {
