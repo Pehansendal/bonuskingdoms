@@ -1,24 +1,25 @@
 'use client'
 
 import Image from 'next/image'
-import { useState } from 'react'
 
-interface CasinoLogoProps {
-  src: string
-  alt: string
+export interface CasinoLogoProps {
+  casino: {
+    name: string
+    logo: string
+  }
+  width: number
+  height: number
 }
 
-export default function CasinoLogo({ src, alt }: CasinoLogoProps) {
-  const [error, setError] = useState(false)
-
+export default function CasinoLogo({ casino, width, height }: CasinoLogoProps) {
   return (
-    <div className="w-full h-full relative">
+    <div className="relative">
       <Image
-        src={error ? '/placeholder-casino-logo.png' : src}
-        alt={alt}
-        fill
-        className="object-contain"
-        onError={() => setError(true)}
+        src={casino.logo}
+        alt={`${casino.name} logo`}
+        width={width}
+        height={height}
+        style={{ objectFit: 'contain' }}
       />
     </div>
   )

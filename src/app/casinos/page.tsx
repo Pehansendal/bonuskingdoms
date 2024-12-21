@@ -1,24 +1,37 @@
-import CasinoCard from '@/components/CasinoCard'
 import { getCasinos } from '@/utils/casinos'
+import Link from 'next/link'
+import Image from 'next/image'
 
 export default async function CasinosPage() {
   const casinos = await getCasinos()
 
   return (
-    <div className="max-w-7xl mx-auto py-8 px-4">
-      <section className="mb-16 text-center">
-        <h1 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent">
-          Extensive Casino Reviews
-        </h1>
-        <p className="text-lg text-gray-400 max-w-3xl mx-auto leading-relaxed">
-          Discover our comprehensive collection of {casinos.length}+ thoroughly reviewed online casinos. 
-          Each review provides in-depth analysis of games, bonuses, security measures, and player experiences.
-        </p>
-      </section>
-
-      <div className="space-y-6">
+    <div className="p-4">
+      <h1 className="text-2xl font-bold mb-6">All Casinos</h1>
+      <div className="space-y-4">
         {casinos.map((casino) => (
-          <CasinoCard key={casino.name} casino={casino} />
+          <Link 
+            key={casino.slug} 
+            href={`/casinos/${casino.slug}`}
+            className="block"
+          >
+            <div className="bg-gray-900 p-4 rounded-lg">
+              <div className="flex items-center gap-4">
+                <div className="relative w-24 h-24">
+                  <Image
+                    src={casino.logo}
+                    alt={casino.name}
+                    fill
+                    style={{ objectFit: 'contain' }}
+                  />
+                </div>
+                <div>
+                  <h2 className="text-xl font-bold text-white">{casino.name}</h2>
+                  <p className="text-gray-300">{casino.description}</p>
+                </div>
+              </div>
+            </div>
+          </Link>
         ))}
       </div>
     </div>

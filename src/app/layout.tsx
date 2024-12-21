@@ -1,20 +1,17 @@
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
-import "./globals.css";
-import MainLayout from "@/components/MainLayout";
+import type { Metadata } from 'next'
+import { Inter } from 'next/font/google'
+import './globals.css'
+import Sidebar from '@/components/Sidebar'
 
-// Legg til Edge Runtime for Cloudflare
-export const runtime = "edge";
-
-const inter = Inter({
-  subsets: ["latin"],
-  variable: "--font-inter",
-});
+const inter = Inter({ 
+  subsets: ['latin'],
+  display: 'swap'
+})
 
 export const metadata: Metadata = {
-  title: "BonusKingdoms - Your Guide to Online Casinos",
-  description: "Discover and compare the best online casinos with detailed reviews, ratings, and exclusive bonuses.",
-};
+  title: 'BonusKingdoms - Din guide til online casinoer',
+  description: 'Finn de beste online casinoene med eksklusive bonuser og pålitelige anmeldelser.',
+}
 
 export default function RootLayout({
   children,
@@ -23,8 +20,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} font-sans antialiased`}>
-        <MainLayout>{children}</MainLayout>
+      <body className={inter.className}>
+        <div className="flex">
+          <Sidebar />
+          <main className="flex-1">
+            {children}
+          </main>
+        </div>
       </body>
     </html>
   )

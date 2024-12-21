@@ -1,54 +1,50 @@
+import { promises as fs } from 'fs'
+import path from 'path'
+import { Casino } from '@/types/casino'
 import { normalizeSlug, getLogoFilename } from './slugs'
 
-// Definer casino interface
-interface Casino {
-  name: string
-  description: string
-  rating: string
-  bonus: string
-  logo: string
-  trustIndicators: Array<{
-    text: string
-    color: string
-  }>
-  slug: string
-}
-
-// Legg til statisk casino data (dette kan senere flyttes til en egen JSON-fil)
-const casinoData = [
-  {
-    name: "Example Casino",
-    verdict: {
-      text: "Dette er et eksempel casino med god spillopplevelse...",
-      rating: "4.5"
-    },
-    bonuses: [
-      { amount: "€200" }
-    ],
-    trustIndicators: [
-      { text: "Licensed", color: "green" },
-      { text: "Fast Payouts", color: "blue" }
-    ]
-  }
-  // Legg til flere casinoer her
-]
-
 export async function getCasinos(): Promise<Casino[]> {
-  // Transformer data til riktig format
-  return casinoData.map(data => ({
-    name: data.name,
-    description: data.verdict?.text?.slice(0, 150) + '...' || 'Description coming soon...',
-    rating: data.verdict?.rating || 'N/A',
-    bonus: data.bonuses?.[0]?.amount || 'Bonus Available',
-    logo: `/casinos/${getLogoFilename(data.name)}.png`,
-    trustIndicators: data.trustIndicators || [],
-    slug: normalizeSlug(data.name)
-  }))
+  try {
+    const reviewsDir = path.join(process.cwd(), 'public', 'reviews')
+    console.log('Looking in directory:', reviewsDir)
+
+    const files = await fs.readdir(reviewsDir)
+    const jsonFiles = files.filter(file => file.endsWith('.json'))
+    console.log(`Found ${jsonFiles.length} JSON files`)
+
+    const casinos = await Promise.all(
+      jsonFiles.map(async (filename) => {
+        try {
+          const filePath = path.join(reviewsDir, filename)
+          const content = await fs.readFile(filePath, 'utf8')
+          const data = JSON.parse(content)
+          
+          return {
+            ...data,
+            description: data.verdict?.text?.slice(0, 150) + '...',
+            logo: `/casinos/${getLogoFilename(data.name)}.png`,
+            slug: normalizeSlug(data.name)
+          } as Casino
+        } catch (err) {
+          console.error(`Error processing ${filename}:`, err)
+          return null
+        }
+      })
+    )
+
+    const validCasinos = casinos.filter((casino): casino is Casino => casino !== null)
+    console.log(`Successfully processed ${validCasinos.length} casinos`)
+    
+    return validCasinos
+
+  } catch (error) {
+    console.error('Error in getCasinos:', error)
+    throw error
+  }
 }
 
 export async function getFeaturedCasinos(count: number): Promise<Casino[]> {
   const allCasinos = await getCasinos()
-  // Shuffle array og returner ønsket antall
   return allCasinos
     .sort(() => Math.random() - 0.5)
     .slice(0, count)
