@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #111827;
+  --foreground: #F3F4F6;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+/* Legg til smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
