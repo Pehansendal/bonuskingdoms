@@ -1,5 +1,5 @@
 {
-  "timestamp": 1736738768085,
+  "timestamp": 1736742730058,
   "outputDir": ".vercel/output/static/_worker.js",
   "versions": {
     "@cloudflare/next-on-pages": "1.13.7"
@@ -15,8 +15,8 @@
     "staticAssets": [
       "/404.html",
       "/Bonus kingdoms logo liten.png",
-      "/_next/static/B56D8UERiP5ZbQMgRyDyf/_buildManifest.js",
-      "/_next/static/B56D8UERiP5ZbQMgRyDyf/_ssgManifest.js",
+      "/_next/static/-RpbjJRpSSoA7lKdT2D50/_buildManifest.js",
+      "/_next/static/-RpbjJRpSSoA7lKdT2D50/_ssgManifest.js",
       "/_next/static/chunks/4bd1b696-20882bf820444624.js",
       "/_next/static/chunks/517-bbf5c4a3e48a2222.js",
       "/_next/static/chunks/742-ae6112fb947a5ca7.js",

@@ -7,7 +7,6 @@ const setupPlatform = async () => {
   }
 };
 
-// Kjør setup hvis vi er i development
 if (process.env.NODE_ENV === 'development') {
   setupPlatform();
 }
