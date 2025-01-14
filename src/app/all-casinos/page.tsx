@@ -1,28 +1,32 @@
-import { getCasinos } from '@/utils/getCasinos';
 import CasinoCard from '@/components/CasinoCard';
+import { AffiliateData } from '@/types/affiliate';
 
-export default async function AllCasinos() {
-  const casinos = getCasinos();
-  
-  // Debug logging
-  console.log('Total casinos loaded:', casinos.length);
+export default function AllCasinos() {
+  // Eksempeldata som følger AffiliateData interface
+  const casinos: AffiliateData[] = [
+    {
+      id: 'casino1',
+      name: 'Example Casino',
+      logo: '/path/to/logo.png',
+      rating: 4.5,
+      bonus: '100% up to $500',
+      short_description: 'Great casino with amazing bonuses and games',
+      affiliate_link: 'https://example.com',
+      features: ['Fast Withdrawals', '24/7 Support'],
+      position: 1,
+      terms: '18+ Terms Apply'
+    },
+    // Legg til flere casinoer her...
+  ];
 
   return (
-    <div className="max-w-7xl mx-auto">
-      <h1 className="text-4xl font-bold mb-8">All Casinos ({casinos.length})</h1>
-      
+    <div className="max-w-6xl mx-auto p-8">
+      <h1 className="text-3xl font-bold mb-8">All Casinos</h1>
       <div className="space-y-4">
         {casinos.map(casino => (
           <CasinoCard 
             key={casino.id}
-            casino={{
-              id: casino.id,
-              name: casino.name,
-              logo: casino.logo,
-              rating: casino.rating,
-              bonus: casino.welcome_bonus,
-              shortDescription: casino.short_description || casino.description?.slice(0, 150) + '...' || 'Visit casino for more information'
-            }}
+            casino={casino}
           />
         ))}
       </div>

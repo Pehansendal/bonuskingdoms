@@ -13,9 +13,22 @@
       "continue": true
     },
     {
-      "src": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$",
+      "src": "^(?:/((?!\\.well-known(?:/.*)?)(?:[^/]+/)*[^/]+\\.\\w+))/$",
       "headers": {
         "Location": "/$1"
+      },
+      "status": 308,
+      "missing": [
+        {
+          "type": "header",
+          "key": "x-nextjs-data"
+        }
+      ]
+    },
+    {
+      "src": "^(?:/((?!\\.well-known(?:/.*)?)(?:[^/]+/)*[^/\\.]+))$",
+      "headers": {
+        "Location": "/$1/"
       },
       "status": 308
     },
@@ -51,7 +64,7 @@
       "handle": "hit"
     },
     {
-      "src": "/_next/static/(?:[^/]+/pages|pages|chunks|runtime|css|image|media|ZiAYtDBP3wCHfJzFYiv1a)/.+",
+      "src": "/_next/static/(?:[^/]+/pages|pages|chunks|runtime|css|image|media|qGpFckEJttBgg\\-rrYngh4)/.+",
       "headers": {
         "cache-control": "public,max-age=31536000,immutable"
       },
@@ -72,8 +85,16 @@
       "path": "404",
       "contentType": "text/html; charset=utf-8"
     },
-    "all-casinos.html": {
-      "path": "all-casinos",
+    "404/index.html": {
+      "path": "404/index",
+      "contentType": "text/html; charset=utf-8"
+    },
+    "admin/index.html": {
+      "path": "admin/index",
+      "contentType": "text/html; charset=utf-8"
+    },
+    "all-casinos/index.html": {
+      "path": "all-casinos/index",
       "contentType": "text/html; charset=utf-8"
     },
     "index.html": {

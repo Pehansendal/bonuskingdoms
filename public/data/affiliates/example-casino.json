@@ -1,0 +1,17 @@
+{
+  "id": "example-casino",
+  "name": "Example Casino",
+  "logo": "/casino-logos/example-casino.png",
+  "bonus": "100% up to €500 + 200 Free Spins",
+  "shortDescription": "Best casino for slots and live games",
+  "affiliateLink": "https://example.com/affiliate-link",
+  "rating": 4.5,
+  "features": [
+    "Fast Withdrawals",
+    "24/7 Support",
+    "VIP Program"
+  ],
+  "isHighlighted": true,
+  "position": 1,
+  "terms": "18+. Terms apply."
+} 

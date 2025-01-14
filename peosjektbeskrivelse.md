@@ -1,100 +1,107 @@
-Bonus Kingdoms - Prosjektbeskrivelse
-Teknisk Stack
-Next.js 14.1.0
-TypeScript
-Tailwind CSS
-Cloudflare Pages
-React 18
-Cloudflare-spesifikke Detaljer
-Konfigurasjon
-Bruker @cloudflare/next-on-pages for statisk generering
-next.config.js er konfigurert med output: 'export' og images.unoptimized: true
-Spesielle script i package.json:
+# Bonus Kingdoms - Casino Affiliate Platform
 
-     "pages:build": "npx @cloudflare/next-on-pages@1",
-     "preview": "npm run pages:build && wrangler pages dev .vercel/output/static"
+## Prosjektoversikt
+Bonus Kingdoms er en casino affiliate-plattform som lar administratorer håndtere og presentere casino-tilbud. Plattformen er bygget med Next.js, Supabase og Tailwind CSS.
 
-     Development Workflow
-Lokal utvikling: npm run preview
-Bygger statiske sider med Cloudflare's verktøy
-Krever wrangler for lokal testing
-Prosjektstruktur
+## Teknisk Stack
+- **Frontend**: Next.js 14.1.0
+- **Database**: Supabase (PostgreSQL)
+- **Styling**: Tailwind CSS
+- **Autentisering**: Supabase Auth
+- **Hosting**: Vercel/Cloudflare Pages
 
-src/
-├── app/
-│   ├── page.tsx                 # Hovedside med featured casinos
-│   ├── all-casinos/
-│   │   └── page.tsx            # Side som viser alle casinoer
-│   ├── layout.tsx              # Root layout med Sidebar
-│   ├── globals.css             # Global CSS og Tailwind
-│   └── not-found.tsx           # 404 side
-├── components/
-│   ├── Sidebar.tsx             # Navigasjonsmeny
-│   └── CasinoCard.tsx          # Gjenbrukbar casino-kortkomponent
-├── types/
-│   └── casino.ts               # TypeScript interfaces
-└── utils/
-    └── getCasinos.ts           # Data-henting funksjon
+## Databasestruktur
+### Casinos Tabell
+sql
+create table casinos (
+id text primary key,
+name text not null,
+logo text not null,
+bonus text not null,
+short_description text not null,
+affiliate_link text not null,
+features text[] not null,
+position integer not null,
+terms text not null,
+rating numeric not null
+);
 
-    Data Håndtering
-Casino-data lagres som JSON-filer i public/reviews/
-Hvert casino har en tilhørende PNG-logo i public/casinos/
-Data transformeres fra raw JSON til Casino interface via getCasinos()
-Hovedfunksjonalitet
-Featured Casinos (Hovedside)
-Viser utvalgte casinoer
-Bruker CasinoCard for presentasjon
-All Casinos
-Lister alle tilgjengelige casinoer
-Statisk generert med force-static
-Viser antall casinoer i header
-Sidebar Navigasjon
-Fast sidebar med logo
-Lenker til hovedsiden og all-casinos
+## Hovedfunksjoner
 
-Type Definisjoner
-interface Casino {
-  id: string;
-  name: string;
-  rating: number;
-  welcome_bonus: string;
-  description?: string;
-  short_description?: string;
-  pros: string[];
-  cons: string[];
-  logo: string;
-}
+### 1. Offentlig Visning
+- Responsiv landing page med casino-kort
+- Sorterte casino-tilbud basert på posisjon
+- Klikkbare logoer og "Claim Bonus" knapper som leder til affiliate-lenker
 
-Styling
-Bruker Tailwind CSS med dark mode
-Custom gradient bakgrunn
-Glassmorphism effekter med backdrop-blur
-Responsive design med mobile-first tilnærming
-Viktige Kommandoer
+### 2. Admin Panel
+- Sikker innlogging for administratorer
+- CRUD-operasjoner for casino-oppføringer
+- Drag-and-drop funksjonalitet for å endre rekkefølge
+- Bildevisning og validering
 
-# Installasjon
-npm install
-npm install @cloudflare/next-on-pages
+## Prosjektstruktur
 
-# Development
-npm run preview    # Starter Cloudflare Pages development server
+bonuskingdoms/
+├── src/
+│ ├── app/
+│ │ ├── page.tsx (Hovedside)
+│ │ └── admin/
+│ │ └── page.tsx (Admin panel)
+│ ├── components/
+│ │ ├── AffiliateCard.tsx
+│ │ ├── Login.tsx
+│ │ └── NavBar.tsx
+│ ├── types/
+│ │ └── affiliate.ts
+│ └── utils/
+│ └── supabase.ts
+├── public/
+│ └── casinos/ (Casino logoer)
+└── .env.local (Miljøvariabler)
+## Miljøvariabler
+env
+NEXT_PUBLIC_SUPABASE_URL=https://[prosjekt-id].supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=[din-anon-key]
 
-# Build
-npm run pages:build    # Bygger for Cloudflare Pages
 
-Spesielle Hensyn
-Bilder
-Må være unoptimized pga Cloudflare Pages
-Logoer må følge navnekonvensjon: lowercase, .png
-Statisk Generering
-Alle sider må være statisk genererte
-Bruker force-static for konsistent oppførsel
-3. Data Validering
-Grundig validering i getCasinos()
-Fallback-verdier for manglende data
-Neste Steg
-Implementere casino-detaljsider
-Legge til sortering/filtrering
-Forbedre error handling
-Implementere søkefunksjonalitet
-Dette prosjektet er optimalisert for Cloudflare Pages og følger best practices for statisk generering og type-sikkerhet.
+## Kom i Gang
+1. Klon repositoriet
+2. Installer avhengigheter:
+   ```bash
+   npm install
+   ```
+3. Opprett `.env.local` med nødvendige miljøvariabler
+4. Start utviklingsserver:
+   ```bash
+   npm run dev
+   ```
+
+## Admin Tilgang
+1. Opprett admin bruker i Supabase:
+   - Gå til Authentication → Users
+   - Add User
+   - Sett email og passord
+
+## Deployment
+1. Push til GitHub
+2. Koble til Vercel/Cloudflare
+3. Sett miljøvariabler i hosting-plattformen
+
+## Nøkkelfunksjoner å Implementere
+1. Bildeopplasting direkte i admin panel
+2. Bedre feilhåndtering og validering
+3. Admin brukerbehandling
+4. Backup-system for database
+
+## Sikkerhet
+- Admin-tilgang er beskyttet med Supabase Auth
+- Alle database-operasjoner krever autentisering
+- RLS (Row Level Security) er implementert i Supabase
+
+## Vedlikehold
+- Regelmessig backup av database
+- Oppdatering av avhengigheter
+- Overvåking av affiliate-lenker
+
+## Kontakt
+For tilgang eller spørsmål, kontakt prosjektadministrator.

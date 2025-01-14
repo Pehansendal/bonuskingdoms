@@ -1,52 +1,54 @@
-import Image from 'next/image';
-import Link from 'next/link';
-import { StarIcon } from '@heroicons/react/24/solid';
+import { AffiliateData } from '@/types/affiliate';
 
 interface CasinoCardProps {
-  casino: {
-    id: string;
-    name: string;
-    logo: string;
-    rating: number;
-    bonus: string;
-    shortDescription: string;
-  };
+  casino: AffiliateData;
 }
 
 export default function CasinoCard({ casino }: CasinoCardProps) {
   return (
-    <Link href={`/casino/${casino.id}`}>
-      <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700/50 rounded-xl p-6 hover:bg-gray-700/50 transition-all duration-200 flex gap-6 cursor-pointer group">
-        <div className="w-40 h-40 relative flex-shrink-0 bg-gray-900/50 rounded-lg p-4">
-          <Image
-            src={casino.logo}
-            alt={casino.name}
-            fill
-            className="object-contain p-2"
-            priority
-          />
+    <div className="bg-gray-800 rounded-lg p-6 shadow-lg">
+      <div className="flex items-center justify-between">
+        <div className="flex items-center space-x-4">
+          <a 
+            href={casino.affiliate_link}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img 
+              src={casino.logo} 
+              alt={casino.name} 
+              className="w-24 h-24 object-contain"
+            />
+          </a>
+          <div>
+            <h2 className="text-xl font-bold">{casino.name}</h2>
+            <p className="text-gray-300">{casino.short_description}</p>
+          </div>
         </div>
-        
-        <div className="flex-1 space-y-3">
-          <h2 className="text-2xl font-bold group-hover:text-green-400 transition-colors">{casino.name}</h2>
-          <div className="flex items-center gap-1">
-            {[...Array(5)].map((_, i) => (
-              <StarIcon 
-                key={i} 
-                className={`w-5 h-5 ${i < casino.rating ? 'text-yellow-400' : 'text-gray-600'}`} 
-              />
+        <div className="text-right">
+          <div className="text-xl font-bold text-green-500">{casino.bonus}</div>
+          <div className="flex items-center mt-2">
+            {casino.features.map((feature, index) => (
+              <span 
+                key={index} 
+                className="bg-gray-700 text-sm px-2 py-1 rounded mr-2"
+              >
+                {feature}
+              </span>
             ))}
           </div>
-          <p className="text-green-400 text-lg font-semibold">{casino.bonus}</p>
-          <p className="text-gray-400">{casino.shortDescription}</p>
-        </div>
-        
-        <div className="flex items-center">
-          <button className="bg-green-600 hover:bg-green-500 text-white px-8 py-3 rounded-lg transition-all duration-200 transform group-hover:scale-105 font-medium">
-            Visit Casino
-          </button>
         </div>
       </div>
-    </Link>
+      <div className="mt-4 flex justify-end">
+        <a 
+          href={casino.affiliate_link}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-green-600 hover:bg-green-700 text-white px-6 py-2 rounded-lg"
+        >
+          Claim Bonus
+        </a>
+      </div>
+    </div>
   );
 } 
