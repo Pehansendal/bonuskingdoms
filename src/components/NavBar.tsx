@@ -18,12 +18,16 @@ const NavBar = () => {
     { href: '/about', label: 'About Us', icon: InformationCircleIcon },
   ];
 
+  const toggleMenu = () => {
+    setIsMenuOpen(!isMenuOpen);
+  };
+
   return (
     <>
       {/* Hamburger-meny for mobil */}
       <button
-        onClick={() => setIsMenuOpen(!isMenuOpen)}
-        className="lg:hidden fixed top-4 right-4 z-50 p-2 bg-gray-800 rounded-lg text-gray-400 hover:text-white"
+        onClick={toggleMenu}
+        className="lg:hidden fixed top-4 right-4 z-50 p-2 bg-gray-800 rounded-lg text-gray-400 hover:text-white transition-colors duration-200"
       >
         {isMenuOpen ? (
           <XIcon className="w-6 h-6" />
@@ -34,8 +38,10 @@ const NavBar = () => {
 
       {/* Hovedmeny */}
       <nav className={`
-        bg-gray-900/80 backdrop-blur-md fixed h-full w-64 z-40 top-0 left-0 
-        border-r border-gray-800 transform transition-transform duration-300 ease-in-out
+        fixed h-full w-64 z-40 top-0 left-0 
+        bg-gray-900/80 backdrop-blur-md
+        border-r border-gray-800 
+        transform transition-transform duration-300 ease-in-out
         ${isMenuOpen ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'}
       `}>
         <div className="flex flex-col p-6">
