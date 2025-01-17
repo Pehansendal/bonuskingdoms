@@ -1,0 +1,2 @@
+1. Processing of payouts requires a three-day timeframe.
+2. Payout requests are not handled during weekend days.

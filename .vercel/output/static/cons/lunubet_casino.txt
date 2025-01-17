@@ -1,0 +1,2 @@
+1. Modest cashout thresholds are in place.
+2. Payout processing is not fast.

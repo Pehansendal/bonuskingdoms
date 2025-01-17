@@ -1,0 +1,2 @@
+1. Payout processing at this casino takes a longer time.
+2. Funds cannot be retrieved on Saturdays or Sundays.

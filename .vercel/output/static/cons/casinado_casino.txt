@@ -1,0 +1,2 @@
+1. Payout processing times are delayed.
+2. Withdrawals are not available during non-business hours.

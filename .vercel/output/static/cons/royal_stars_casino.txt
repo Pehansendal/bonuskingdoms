@@ -1,0 +1,1 @@
+1. Lengthy processing of payout requests delays receipt of funds.

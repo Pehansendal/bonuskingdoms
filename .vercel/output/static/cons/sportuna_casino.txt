@@ -1,0 +1,2 @@
+1. There are few options for controlling gambling behavior.
+2. Payout restrictions are tied to player status.

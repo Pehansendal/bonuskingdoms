@@ -1,0 +1,2 @@
+1. Payout amounts are capped at a modest level.
+2. Costs could be incurred when taking out funds.

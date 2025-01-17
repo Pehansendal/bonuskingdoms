@@ -1,0 +1,2 @@
+1. Payouts take an extended time to process.
+2. Payment requests are not handled during Saturday and Sunday.

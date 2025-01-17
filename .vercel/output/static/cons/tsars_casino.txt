@@ -1,0 +1,2 @@
+1. Modest caps on cashouts are enforced.
+2. Charges may apply when processing transactions.

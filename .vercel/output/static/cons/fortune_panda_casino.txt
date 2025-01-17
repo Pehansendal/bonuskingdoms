@@ -1,0 +1,1 @@
+1. Transactional payouts are capped at a certain amount that some players might find limiting.

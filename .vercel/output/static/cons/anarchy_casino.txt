@@ -1,0 +1,2 @@
+1. Payment processing times are lengthy when cashing out.
+2. The maximum amount one can withdraw is restricted to a small sum.

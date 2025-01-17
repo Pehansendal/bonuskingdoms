@@ -1,0 +1,2 @@
+1. Payments take a long time to be processed.
+2. There are restrictions on the amount you can withdraw annually.

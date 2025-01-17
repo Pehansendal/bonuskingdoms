@@ -1,0 +1,2 @@
+1. Maximum cash out amounts per transaction are restricted.
+2. Payout requests are not handled around the clock.

@@ -1,0 +1,2 @@
+1. Limited amounts can be taken out at once.
+2. Payouts take a long time to process.

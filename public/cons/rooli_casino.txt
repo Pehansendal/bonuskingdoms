@@ -1,0 +1,2 @@
+1. Account validation takes a long time.
+2. The maximum amount you can cash out is restricted.

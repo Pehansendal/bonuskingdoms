@@ -1,0 +1,3 @@
+1. The site can be accessed in multiple linguistic versions.
+2. Playing games on mobile devices is supported.
+3. Round-the-clock assistance is provided through the chat function.

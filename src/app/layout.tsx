@@ -1,10 +1,13 @@
-import type { Metadata } from "next";
-import "./globals.css";
-import NavBar from "@/components/NavBar";
+import type { Metadata } from 'next';
+import { Inter } from 'next/font/google';
+import './globals.css';
+import Navigation from '@/components/Navigation';
+
+const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: "Bonus Kingdoms - Best Casino Bonuses",
-  description: "Find the best casino bonuses and reviews",
+  title: 'BonusKingdoms',
+  description: 'Find the best casino bonuses',
 };
 
 export default function RootLayout({
@@ -13,12 +16,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="no">
-      <body>
-        <NavBar />
-        <main className="md:ml-64 p-8">
-          {children}
-        </main>
+    <html lang="en" className="h-full">
+      <body className={`${inter.className} bg-gray-950 text-gray-100 h-full`}>
+        <div className="min-h-full">
+          <Navigation />
+          <main className="py-6">
+            {children}
+          </main>
+        </div>
       </body>
     </html>
   );

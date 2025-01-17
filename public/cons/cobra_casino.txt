@@ -1,0 +1,2 @@
+1. Payments are not processed during weekends.
+2. The time it takes to receive winnings is lengthy.

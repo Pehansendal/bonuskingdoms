@@ -1,0 +1,2 @@
+1. Payouts take a considerable amount of time to process.
+2. Daily cash-out amounts are restricted to small sums.

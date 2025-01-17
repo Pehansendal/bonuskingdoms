@@ -1,0 +1,2 @@
+1. Payout processing times are not quick.
+2. Funds cannot be retrieved on Saturdays or Sundays.

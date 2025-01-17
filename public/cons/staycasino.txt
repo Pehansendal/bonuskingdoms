@@ -1,0 +1,2 @@
+1. Payments of winnings take a long time to be processed.
+2. The number of daily cash outs is restricted to one.

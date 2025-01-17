@@ -1,0 +1,2 @@
+1. Payouts are not processed during weekends.
+2. The amount you can take out is restricted to small sums.

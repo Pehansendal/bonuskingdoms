@@ -1,0 +1,2 @@
+1. Lengthy identity verification procedures delay account access.
+2. Payout restrictions impose constraints on maximum cashouts.

@@ -1,0 +1,1 @@
+1. The ability to filter games based on their software developer is not present.

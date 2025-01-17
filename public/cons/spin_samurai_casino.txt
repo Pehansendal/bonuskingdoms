@@ -1,0 +1,1 @@
+1. Payouts are not processed on weekends.

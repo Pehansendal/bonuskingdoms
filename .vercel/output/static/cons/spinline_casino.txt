@@ -1,0 +1,2 @@
+1. Payment requests are not processed during weekends or after business hours.
+2. The options for controlling gambling habits are few.

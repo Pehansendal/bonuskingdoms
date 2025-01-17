@@ -1,0 +1,2 @@
+1. Payout processing is not rapid.
+2. Payments are not handled during weekends.

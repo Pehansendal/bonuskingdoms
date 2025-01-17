@@ -1,0 +1,2 @@
+1. Payment processing is sluggish, delaying access to your funds.
+2. The maximum amount you can withdraw is quite restricted.

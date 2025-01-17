@@ -1,0 +1,2 @@
+1. Payouts are not processed during weekends.
+2. The speed of cash outs is quite sluggish.

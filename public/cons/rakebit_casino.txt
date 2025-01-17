@@ -1,0 +1,2 @@
+1. Payouts may take a considerable amount of time to process.
+2. The highest possible payout is capped at $500,000.

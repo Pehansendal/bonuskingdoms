@@ -1,0 +1,2 @@
+1. Account validation takes a long time to complete.
+2. Payouts are not processed quickly.

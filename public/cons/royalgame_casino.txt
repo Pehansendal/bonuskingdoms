@@ -1,0 +1,2 @@
+1. Payout processing takes an extended amount of time.
+2. Cashing out funds is unavailable during weekend days.

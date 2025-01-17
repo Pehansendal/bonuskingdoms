@@ -1,0 +1,2 @@
+1. Payout processing takes a considerable amount of time.
+2. Charges are applied when taking money out of the account.

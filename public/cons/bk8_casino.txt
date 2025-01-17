@@ -1,0 +1,1 @@
+1. Navigation is difficult due to the absence of a scroll bar.

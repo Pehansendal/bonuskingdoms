@@ -1,0 +1,2 @@
+1. Payout processing takes a considerable amount of time.
+2. The availability of player protection resources is not comprehensive.

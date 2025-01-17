@@ -1,0 +1,1 @@
+1. Payment processing times can be lengthy when requesting a cash out.

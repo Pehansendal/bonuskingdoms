@@ -1,0 +1,2 @@
+1. Payouts are processed with delays.
+2. The maximum amount you can withdraw is restricted.

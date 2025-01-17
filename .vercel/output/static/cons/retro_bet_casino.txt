@@ -1,0 +1,2 @@
+1. Account validation takes a long time.
+2. The selection of safer gaming features is limited.

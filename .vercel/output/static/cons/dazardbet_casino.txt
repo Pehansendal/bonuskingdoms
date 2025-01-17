@@ -1,0 +1,2 @@
+1. Payout processing times can be lengthy.
+2. Withdrawals are not handled during weekends.

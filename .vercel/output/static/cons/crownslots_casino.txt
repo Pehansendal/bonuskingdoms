@@ -1,0 +1,2 @@
+1. Account validation takes an extended time.
+2. Payout processing occurs at a delayed pace.

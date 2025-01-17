@@ -1,0 +1,2 @@
+1. Payout processing is delayed.
+2. Only a single cashout request is permitted each 24 hours.

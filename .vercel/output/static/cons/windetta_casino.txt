@@ -1,0 +1,2 @@
+1. Limited amounts can be taken out per single withdrawal.
+2. Payouts are not processed once it is past 6:00 PM GMT+3.

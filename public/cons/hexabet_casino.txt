@@ -1,0 +1,2 @@
+1. Payments are processed with considerable delay.
+2. The highest amount you can win per day is capped at €100,000.

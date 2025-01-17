@@ -1,0 +1,2 @@
+1. Delayed cash-out processing times are experienced.
+2. Payouts are not processed during Saturday and Sunday.

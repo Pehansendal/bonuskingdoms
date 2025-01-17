@@ -1,0 +1,2 @@
+1. Payments are not processed on weekends.
+2. The amount of money you can withdraw at once is restricted.

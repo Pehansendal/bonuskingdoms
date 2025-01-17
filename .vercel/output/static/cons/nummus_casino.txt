@@ -1,0 +1,1 @@
+1. Only one payout request is permitted concurrently.

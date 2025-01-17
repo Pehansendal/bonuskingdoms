@@ -1,0 +1,1 @@
+1. Transactional payout caps are set at a low level.

@@ -1,0 +1,2 @@
+1. Maximum cash out amounts are quite restricted.
+2. Payouts take an extended time to process.
