@@ -6,6 +6,9 @@ import { StarIcon } from '@heroicons/react/24/solid';
 import { ChevronDownIcon, ChevronUpIcon } from '@heroicons/react/24/outline';
 import type { Casino } from '@/types/casino';
 import { loadTextContent } from '@/utils/textLoader';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
+import { convertRating } from '@/utils/ratingConverter';
 
 interface CasinoTableProps {
   casinos: Casino[];
@@ -122,6 +125,29 @@ const LogoCell = ({ path }: { path: string }) => {
   );
 };
 
+// Hjelpefunksjon for å konvertere tekst til Markdown
+const convertToMarkdown = (text: string) => {
+  // Del teksten i linjer
+  const lines = text.split('\n');
+  
+  return lines.map(line => {
+    const trimmed = line.trim();
+    
+    // Sjekk om linjen ser ut som en overskrift
+    if (trimmed && !trimmed.includes('.') && trimmed.length < 100) {
+      // Sjekk om det ser ut som en hovedoverskrift
+      if (trimmed.toLowerCase().includes('welcome') || trimmed.toLowerCase().includes('overview')) {
+        return `# ${trimmed}\n`;
+      }
+      // Andre overskrifter
+      return `## ${trimmed}\n`;
+    }
+    
+    // Vanlig tekst - legg til linjeskift for å lage avsnitt
+    return trimmed ? `${trimmed}\n\n` : '\n';
+  }).join('');
+};
+
 const ExpandedContent = ({ casino }: { casino: Casino }) => {
   const [pros, setPros] = useState<string>('Loading pros...');
   const [cons, setCons] = useState<string>('Loading cons...');
@@ -131,22 +157,16 @@ const ExpandedContent = ({ casino }: { casino: Casino }) => {
   useEffect(() => {
     async function loadContent() {
       try {
-        // Reset states
-        setPros('Loading pros...');
-        setCons('Loading cons...');
-        setReview('Loading review...');
+        setPros('Loading pros...'); setCons('Loading cons...'); setReview('Loading review...');
         setError(null);
 
-        // Load all content in parallel
         const [prosContent, consContent, reviewContent] = await Promise.all([
           loadTextContent(casino.pros_path),
           loadTextContent(casino.cons_path),
           loadTextContent(casino.review_path)
         ]);
 
-        setPros(prosContent);
-        setCons(consContent);
-        setReview(reviewContent);
+        setPros(prosContent); setCons(consContent); setReview(reviewContent);
       } catch (err) {
         setError('Failed to load content. Please try again later.');
         console.error('Error loading casino content:', err);
@@ -169,18 +189,63 @@ const ExpandedContent = ({ casino }: { casino: Casino }) => {
   return (
     <tr>
       <td colSpan={10}>
-        <div className="p-4 grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div className="bg-gray-800/50 p-4 rounded-lg">
-            <h3 className="text-lg font-semibold text-green-500 mb-2">Pros</h3>
-            <div className="whitespace-pre-wrap text-gray-300">{pros}</div>
+        <div className="p-6 space-y-6 bg-gray-900/50 border border-gray-800">
+          {/* Pros og Cons Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {/* Pros Card */}
+            <div className="bg-green-900/20 border border-green-800/50 rounded-xl overflow-hidden shadow-lg hover:shadow-green-900/20 transition-shadow duration-300">
+              <div className="bg-green-900/30 border-b border-green-800/50 px-6 py-4">
+                <h3 className="text-xl font-bold text-green-400 tracking-wide uppercase">Pros</h3>
+              </div>
+              <div className="p-6">
+                <div className="prose prose-invert prose-green max-w-none">
+                  {pros.split('\n').map((item, index) => (
+                    <div key={index} className="flex items-start mb-3 last:mb-0">
+                      <span className="text-green-500 mr-2">•</span>
+                      <span className="text-gray-300">{item}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+
+            {/* Cons Card */}
+            <div className="bg-red-900/20 border border-red-800/50 rounded-xl overflow-hidden shadow-lg hover:shadow-red-900/20 transition-shadow duration-300">
+              <div className="bg-red-900/30 border-b border-red-800/50 px-6 py-4">
+                <h3 className="text-xl font-bold text-red-400 tracking-wide uppercase">Cons</h3>
+              </div>
+              <div className="p-6">
+                <div className="prose prose-invert prose-red max-w-none">
+                  {cons.split('\n').map((item, index) => (
+                    <div key={index} className="flex items-start mb-3 last:mb-0">
+                      <span className="text-red-500 mr-2">•</span>
+                      <span className="text-gray-300">{item}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
           </div>
-          <div className="bg-gray-800/50 p-4 rounded-lg">
-            <h3 className="text-lg font-semibold text-red-500 mb-2">Cons</h3>
-            <div className="whitespace-pre-wrap text-gray-300">{cons}</div>
-          </div>
-          <div className="md:col-span-2 bg-gray-800/50 p-4 rounded-lg">
-            <h3 className="text-lg font-semibold text-blue-500 mb-2">Review</h3>
-            <div className="whitespace-pre-wrap text-gray-300">{review}</div>
+
+          {/* Review Section */}
+          <div className="bg-blue-900/20 border border-blue-800/50 rounded-xl overflow-hidden shadow-lg hover:shadow-blue-900/20 transition-shadow duration-300">
+            <div className="bg-blue-900/30 border-b border-blue-800/50 px-6 py-4">
+              <h3 className="text-xl font-bold text-blue-400 tracking-wide uppercase">Review</h3>
+            </div>
+            <div className="p-6">
+              <div className="prose prose-invert prose-blue max-w-none">
+                <ReactMarkdown 
+                  remarkPlugins={[remarkGfm]}
+                  components={{
+                    h1: ({node, ...props}) => <h1 {...props} className="text-3xl font-extrabold text-blue-300 mb-8" />,
+                    h2: ({node, ...props}) => <h2 {...props} className="text-2xl font-bold text-blue-400 mt-8 mb-4" />,
+                    p: ({node, ...props}) => <p {...props} className="text-gray-300 text-lg leading-relaxed mb-4" />
+                  }}
+                >
+                  {convertToMarkdown(review)}
+                </ReactMarkdown>
+              </div>
+            </div>
           </div>
         </div>
       </td>
@@ -223,7 +288,7 @@ export default function CasinoTable({ casinos }: CasinoTableProps) {
                 <td className="px-6 py-4">{casino.bonus_percentage}</td>
                 <td className="px-6 py-4">{casino.bonus_max_amount_in_euro}</td>
                 <td className="px-6 py-4">{casino.max_bonus_value}</td>
-                <td className="px-6 py-4">{casino.free_spins}</td>
+                <td className="px-6 py-4">{Number(casino.free_spins)}</td>
                 <td className="px-6 py-4">
                   <div className="flex gap-1">
                     {casino.accepted_crypto
@@ -236,7 +301,7 @@ export default function CasinoTable({ casinos }: CasinoTableProps) {
                 </td>
                 <td className="px-6 py-4">
                   <div className="flex items-center gap-1">
-                    {casino.casino_rating}
+                    {convertRating(Number(casino.casino_rating), casino.casino_name)}
                     <StarIcon className="w-5 h-5 text-yellow-500" />
                   </div>
                 </td>
