@@ -13,6 +13,7 @@ import CasinoFilters, { FilterState } from './CasinoFilters';
 
 interface CasinoTableProps {
   casinos: Casino[];
+  simplified?: boolean;
 }
 
 const cryptoNames: Record<string, string> = {
@@ -342,8 +343,8 @@ const SortableHeader = ({ title, field, sortConfig, onSort }: {
       website_url: "Sort by website URL",
       accepted_crypto: "Sort by accepted cryptocurrencies",
       bonus_percentage: "Sort by bonus percentage (highest/lowest)",
-      bonus_max_amount_in_euro: "Sort by maximum bonus amount",
-      max_bonus_value: "Sort by total bonus value",
+      bonus_max_amount_in_euro: "Maximum deposit amount eligible for bonus",
+      max_bonus_value: "Total maximum bonus value (deposit × bonus %)",
       free_spins: "Sort by number of free spins",
       bonus_type: "Sort by bonus type",
       logo_path: "Sort by logo path",
@@ -391,7 +392,7 @@ const SortableHeader = ({ title, field, sortConfig, onSort }: {
   );
 };
 
-export default function CasinoTable({ casinos }: CasinoTableProps) {
+export default function CasinoTable({ casinos, simplified = false }: CasinoTableProps) {
   const [expandedCasino, setExpandedCasino] = useState<string | null>(null);
   const [filteredCasinos, setFilteredCasinos] = useState(casinos);
   const [sortConfig, setSortConfig] = useState<{
@@ -415,14 +416,14 @@ export default function CasinoTable({ casinos }: CasinoTableProps) {
           : Number(bValue) - Number(aValue);
       }
 
-      // Håndter bonus_percentage
+      // Handle bonus_percentage
       if (sortConfig.key === 'bonus_percentage') {
         const aNum = parseInt(String(aValue).replace('%', '')) || 0;
         const bNum = parseInt(String(bValue).replace('%', '')) || 0;
         return sortConfig.direction === 'asc' ? aNum - bNum : bNum - aNum;
       }
 
-      // Håndter pengeverdier
+      // Handle pengeverdier
       if (['bonus_max_amount_in_euro', 'max_bonus_value'].includes(sortConfig.key)) {
         const aNum = parseInt(String(aValue).replace(/[^0-9]/g, '')) || 0;
         const bNum = parseInt(String(bValue).replace(/[^0-9]/g, '')) || 0;
@@ -491,14 +492,17 @@ export default function CasinoTable({ casinos }: CasinoTableProps) {
 
   return (
     <div className="space-y-4">
-      <div className="bg-blue-900/30 border border-blue-500/30 rounded-xl p-4 text-center">
-        <div className="flex items-center justify-center gap-2 text-blue-300">
-          <InformationCircleIcon className="w-5 h-5" />
-          <span>Click any column header to sort the table. Click again to reverse the order.</span>
-        </div>
-      </div>
-      
-      <CasinoFilters casinos={casinos} onFilterChange={handleFilterChange} />
+      {!simplified && (
+        <>
+          <div className="bg-blue-900/30 border border-blue-500/30 rounded-xl p-4 text-center">
+            <div className="flex items-center justify-center gap-2 text-blue-300">
+              <InformationCircleIcon className="w-5 h-5" />
+              <span>Click any column header to sort the table. Click again to reverse the order.</span>
+            </div>
+          </div>
+          <CasinoFilters casinos={casinos} onFilterChange={handleFilterChange} />
+        </>
+      )}
       
       <div className="overflow-x-auto bg-gray-900 rounded-xl shadow-xl">
         <table className="min-w-full divide-y divide-gray-800">
@@ -507,8 +511,8 @@ export default function CasinoTable({ casinos }: CasinoTableProps) {
               <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Logo</th>
               <SortableHeader title="Casino" field="casino_name" sortConfig={sortConfig} onSort={handleSort} />
               <SortableHeader title="Bonus %" field="bonus_percentage" sortConfig={sortConfig} onSort={handleSort} />
-              <SortableHeader title="Max Bonus" field="bonus_max_amount_in_euro" sortConfig={sortConfig} onSort={handleSort} />
-              <SortableHeader title="Value" field="max_bonus_value" sortConfig={sortConfig} onSort={handleSort} />
+              <SortableHeader title="Bonus Up To" field="bonus_max_amount_in_euro" sortConfig={sortConfig} onSort={handleSort} />
+              <SortableHeader title="Max Bonus Value" field="max_bonus_value" sortConfig={sortConfig} onSort={handleSort} />
               <SortableHeader title="Free Spins" field="free_spins" sortConfig={sortConfig} onSort={handleSort} />
               <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Bonus Type</th>
               <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Crypto</th>

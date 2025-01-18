@@ -9,4 +9,5 @@ export interface AffiliateData {
   position: number;
   terms: string;
   rating: number;
+  screenshot_path: string;
 } 

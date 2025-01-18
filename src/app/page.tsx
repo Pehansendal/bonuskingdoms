@@ -1,13 +1,104 @@
-'use client'
-import { getAffiliateData } from '@/utils/affiliateData';
-import AffiliateCard from '@/components/AffiliateCard';
+import { getCasinos } from '@/lib/casinoLoader';
+import CasinoTable from '@/components/CasinoTable';
+import Link from 'next/link';
+import { StarIcon, SparklesIcon, ArrowRightIcon } from '@heroicons/react/24/outline';
 
-export default function Home() {
+export default async function Home() {
+  const allCasinos = await getCasinos();
+  
+  // Sort by rating and take top 20
+  const topCasinos = [...allCasinos]
+    .sort((a, b) => {
+      const aRating = Number(a.casino_rating) || 0;
+      const bRating = Number(b.casino_rating) || 0;
+      return bRating - aRating;
+    })
+    .slice(0, 20);
+
   return (
-    <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="py-8">
-        {/* Vi kan bygge den nye forsiden her senere */}
+    <main>
+      {/* Hero Section */}
+      <div className="bg-gradient-to-b from-blue-900/20 to-transparent py-16">
+        <div className="container mx-auto px-4">
+          <div className="max-w-4xl mx-auto text-center space-y-6 animate-fadeIn">
+            <h1 className="text-5xl font-bold text-white">
+              <span className="bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent">
+                Best Rated Crypto Casinos
+              </span>
+            </h1>
+            <p className="text-xl text-gray-300">
+              Compare the top 20 highest rated crypto casinos with the best bonuses and free spins offers.
+            </p>
+            
+            {/* Quick Stats */}
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-8">
+              <div className="bg-gray-800/50 rounded-xl p-4 hover-effect">
+                <StarIcon className="w-8 h-8 text-yellow-500 mx-auto mb-2" />
+                <div className="text-2xl font-bold text-white">20+</div>
+                <div className="text-sm text-gray-400">Top Casinos</div>
+              </div>
+              <div className="bg-gray-800/50 rounded-xl p-4 hover-effect">
+                <SparklesIcon className="w-8 h-8 text-blue-500 mx-auto mb-2" />
+                <div className="text-2xl font-bold text-white">500%</div>
+                <div className="text-sm text-gray-400">Max Bonus</div>
+              </div>
+              <div className="bg-gray-800/50 rounded-xl p-4 hover-effect">
+                <StarIcon className="w-8 h-8 text-green-500 mx-auto mb-2" />
+                <div className="text-2xl font-bold text-white">1000+</div>
+                <div className="text-sm text-gray-400">Free Spins</div>
+              </div>
+              <div className="bg-gray-800/50 rounded-xl p-4 hover-effect">
+                <SparklesIcon className="w-8 h-8 text-purple-500 mx-auto mb-2" />
+                <div className="text-2xl font-bold text-white">10+</div>
+                <div className="text-sm text-gray-400">Cryptocurrencies</div>
+              </div>
+            </div>
+
+            {/* Quick Links */}
+            <div className="flex flex-wrap justify-center gap-4 mt-8">
+              <Link 
+                href="/best-bonus-offers"
+                className="flex items-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg text-white font-medium transition-colors"
+              >
+                Best Bonus Offers
+                <ArrowRightIcon className="w-4 h-4" />
+              </Link>
+              <Link 
+                href="/most-free-spins"
+                className="flex items-center gap-2 px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-lg text-white font-medium transition-colors"
+              >
+                Most Free Spins
+                <ArrowRightIcon className="w-4 h-4" />
+              </Link>
+              <Link 
+                href="/how-bonuses-work"
+                className="flex items-center gap-2 px-6 py-3 bg-gray-700 hover:bg-gray-600 rounded-lg text-white font-medium transition-colors"
+              >
+                How Bonuses Work
+                <ArrowRightIcon className="w-4 h-4" />
+              </Link>
+            </div>
+          </div>
+        </div>
       </div>
-    </div>
+
+      {/* Table Section */}
+      <div className="container mx-auto px-4 py-12">
+        <CasinoTable 
+          casinos={topCasinos}
+          simplified={true}
+        />
+        
+        <div className="text-center mt-8">
+          <Link 
+            href="/all-casinos"
+            className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 rounded-lg text-white font-bold transition-all transform hover:-translate-y-1"
+          >
+            See All Casinos
+            <ArrowRightIcon className="w-5 h-5" />
+          </Link>
+        </div>
+      </div>
+    </main>
   );
 }

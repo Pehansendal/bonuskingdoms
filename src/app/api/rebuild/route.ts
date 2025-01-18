@@ -7,7 +7,9 @@ interface CloudflareResponse {
   result: any;
 }
 
-export async function POST() {
+export const runtime = 'edge';
+
+export async function POST(request: Request) {
   try {
     const response = await fetch(
       `https://api.cloudflare.com/client/v4/accounts/${process.env.CLOUDFLARE_ACCOUNT_ID}/pages/projects/${process.env.NEXT_PUBLIC_PROJECT_NAME}/deployments`,

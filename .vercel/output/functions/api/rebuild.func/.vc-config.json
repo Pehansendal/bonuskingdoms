@@ -1,0 +1,12 @@
+{
+  "runtime": "edge",
+  "name": "api/rebuild",
+  "deploymentTarget": "v8-worker",
+  "entrypoint": "index.js",
+  "assets": [],
+  "framework": {
+    "slug": "nextjs",
+    "version": "14.1.0"
+  },
+  "environment": {}
+}

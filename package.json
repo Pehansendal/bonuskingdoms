@@ -8,7 +8,9 @@
     "start": "next start",
     "pages:build": "npx @cloudflare/next-on-pages@1",
     "preview": "npm run pages:build && wrangler pages dev .vercel/output/static",
-    "lint": "next lint"
+    "lint": "next lint",
+    "merge-screenshots": "tsx src/scripts/merge-screenshots.ts",
+    "fix-screenshots": "tsx src/scripts/fix-screenshot-paths.ts"
   },
   "dependencies": {
     "@cloudflare/next-on-pages": "^1.13.7",
@@ -23,7 +25,7 @@
     "react-dom": "^18",
     "react-markdown": "^9.0.3",
     "remark-gfm": "^4.0.0",
-    "wrangler": "^3.101.0"
+    "wrangler": "^3.103.2"
   },
   "devDependencies": {
     "@types/node": "^20",

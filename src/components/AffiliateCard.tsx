@@ -1,10 +1,20 @@
 import { AffiliateData } from '@/types/affiliate';
+import Image from 'next/image';
+import { useEffect } from 'react';
 
 interface AffiliateCardProps {
   casino: AffiliateData;
+  expanded: boolean;
+  onClick: () => void;
 }
 
-export default function AffiliateCard({ casino }: AffiliateCardProps) {
+export default function AffiliateCard({ casino, expanded, onClick }: AffiliateCardProps) {
+  useEffect(() => {
+    if (expanded && casino.screenshot_path) {
+      console.log('Actual screenshot path:', casino.screenshot_path);
+    }
+  }, [expanded, casino.screenshot_path]);
+
   return (
     <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700/50 rounded-xl p-4 sm:p-6 lg:p-8 hover:bg-gray-700/50 transition-all duration-300 hover-effect">
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 lg:gap-8">
@@ -56,6 +66,34 @@ export default function AffiliateCard({ casino }: AffiliateCardProps) {
           Claim Bonus
         </a>
       </div>
+      
+      {/* Kollapsbar del */}
+      {expanded && (
+        <div className="mt-4 space-y-4">
+          {/* ... eksisterende kollapsbart innhold ... */}
+          
+          {/* Screenshot-seksjon */}
+          {casino.screenshot_path && casino.screenshot_path.trim() !== '' && (
+            <div className="mt-6">
+              <div className="relative w-full h-[400px] rounded-lg overflow-hidden">
+                <img
+                  src={casino.screenshot_path}
+                  alt={`Screenshot of ${casino.name} website`}
+                  className="w-full h-full object-contain"
+                  onError={(e) => {
+                    const img = e.target as HTMLImageElement;
+                    console.error('Failed to load image:', img.src);
+                    // Prøv å laste webp-versjonen hvis jpg feiler
+                    if (img.src.endsWith('.jpg')) {
+                      img.src = img.src.replace('.jpg', '.webp');
+                    }
+                  }}
+                />
+              </div>
+            </div>
+          )}
+        </div>
+      )}
     </div>
   );
 } 

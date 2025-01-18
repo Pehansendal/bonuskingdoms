@@ -13,4 +13,5 @@ export interface Casino {
   pros_path: string;
   cons_path: string;
   review_path: string;
+  screenshot_path: string;
 } 

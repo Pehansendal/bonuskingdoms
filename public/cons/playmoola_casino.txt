@@ -1,2 +1,0 @@
-1. Payment processing times are sluggish when cashing out winnings.
-2. Withdrawal requests are not handled on Saturdays or Sundays.
