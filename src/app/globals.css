@@ -133,3 +133,7 @@ html {
   isolation: isolate;
   z-index: 100;
 }
+
+.to-background {
+  --tw-gradient-to: var(--background);
+}

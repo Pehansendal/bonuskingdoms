@@ -2,6 +2,7 @@ import { getCasinos } from '@/lib/casinoLoader';
 import CasinoTable from '@/components/CasinoTable';
 import Link from 'next/link';
 import { StarIcon, SparklesIcon, ArrowRightIcon } from '@heroicons/react/24/outline';
+import Image from 'next/image';
 
 export default async function Home() {
   const allCasinos = await getCasinos();
@@ -18,15 +19,29 @@ export default async function Home() {
   return (
     <main>
       {/* Hero Section */}
-      <div className="bg-gradient-to-b from-blue-900/20 to-transparent py-16">
-        <div className="container mx-auto px-4">
+      <div className="relative">
+        {/* Hero Image */}
+        <div className="absolute inset-0 z-0">
+          <Image
+            src="/dramtic_crypto.webp"
+            alt="Dramatic Crypto Gaming Scene with Bitcoin"
+            width={1920}
+            height={1080}
+            priority
+            className="w-full h-[400px] object-cover object-center"
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/80 to-background" />
+        </div>
+
+        {/* Content */}
+        <div className="relative z-10 container mx-auto px-4 pt-24 pb-16">
           <div className="max-w-4xl mx-auto text-center space-y-6 animate-fadeIn">
-            <h1 className="text-5xl font-bold text-white">
-              <span className="bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent">
+            <h1 className="text-4xl md:text-5xl font-bold">
+              <span className="text-white">
                 Best Rated Crypto Casinos
               </span>
             </h1>
-            <p className="text-xl text-gray-300">
+            <p className="text-lg md:text-xl text-gray-300">
               Compare the top 20 highest rated crypto casinos with the best bonuses and free spins offers.
             </p>
             
