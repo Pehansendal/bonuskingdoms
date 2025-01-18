@@ -133,18 +133,92 @@ The project includes several data processing scripts in the `scripts/` directory
 - `fix-screenshot-paths.ts`: Manages screenshot file paths and ensures correct mapping
 - `merge-screenshots.ts`: Handles screenshot file organization
 
-Important considerations for data processing:
-1. All file paths in the JSON should be relative to the `public/` directory
-2. Screenshot paths should follow the format: `/screenshots/www_domain_com_screenshot.webp`
-3. Run `convertCsvToJson.ts` after any updates to the CSV data:
-   ```bash
-   npx tsx scripts/convertCsvToJson.ts
-   ```
-4. The Casino interface in `src/types/casino.ts` must match the structure of processed JSON data
-5. Screenshots should be in .webp or .png format for optimal performance
+## Weekly Bonus Updates
+The casino bonus data is updated weekly through the following process:
 
-When adding new casinos or updating data:
-1. Update the CSV file in `public/nyliste_bonus_processed.csv`
-2. Add corresponding screenshots to `public/screenshots/`
-3. Run the conversion script to update JSON data
-4. Verify all paths in the generated `src/data/casinos.json` 
+1. **Data Preparation**:
+   - New bonus data is scraped and saved as CSV in the scraping project
+   - The CSV file should maintain the same structure as `public/nyliste_bonus_processed.csv`
+   - Required columns:
+     ```
+     casino_name, website_url, accepted_crypto, bonus_percentage,
+     bonus_max_amount_in_euro, max_bonus_value, free_spins,
+     bonus_type, logo_path, player_rating, casino_rating,
+     pros_path, cons_path, review_path, screenshot_path
+     ```
+
+2. **Backup Current Data**:
+    ```bash
+    # Create a backup of current data
+    cp public/nyliste_bonus_processed.csv public/nyliste_bonus_processed.backup.csv
+    cp src/data/casinos.json src/data/casinos.backup.json
+    ```
+
+3. **Update Process**:
+    ```bash
+    # 1. Copy the new CSV file to the project
+    cp /path/to/scraping/project/latest_bonuses.csv public/nyliste_bonus_processed.csv
+    
+    # 2. Convert the updated CSV to JSON
+    npx tsx scripts/convertCsvToJson.ts
+    
+    # 3. Verify the changes
+    git diff src/data/casinos.json
+    
+    # 4. Build and test locally
+    npm run build
+    npm run preview
+    
+    # 5. If something goes wrong, restore from backup
+    # cp public/nyliste_bonus_processed.backup.csv public/nyliste_bonus_processed.csv
+    # cp src/data/casinos.backup.json src/data/casinos.json
+    ```
+
+4. **Validation Steps**:
+    - Ensure all casino names match existing entries
+    - Verify that all required fields are present
+    - Check that bonus values and percentages are correctly formatted
+    - Confirm that all file paths (logos, screenshots, etc.) are valid
+    - Compare key metrics with previous data:
+      - Number of casinos should not decrease unexpectedly
+      - Bonus values should be within reasonable ranges
+      - No missing cryptocurrency symbols
+      - All image paths should be valid
+
+5. **Deployment**:
+    ```bash
+    # After verifying changes
+    git add public/nyliste_bonus_processed.csv src/data/casinos.json
+    git commit -m "chore: Weekly bonus update $(date +%Y-%m-%d)"
+    git push origin main
+    
+    # Optional: Tag the release for easy rollback if needed
+    git tag -a "bonus-update-$(date +%Y-%m-%d)" -m "Weekly bonus update"
+    git push origin --tags
+    ```
+
+6. **Monitoring**:
+    - Check the deployed site to verify updates
+    - Verify sorting and filtering still work correctly
+    - Ensure all casino details expand properly
+    - Monitor error logs for any image loading issues
+    - Check that all cryptocurrency filters work with updated data
+    - Verify that bonus sorting works correctly with new values
+
+7. **Troubleshooting**:
+    If issues are found after deployment:
+    ```bash
+    # 1. Revert to previous version
+    git revert HEAD
+    git push origin main
+    
+    # 2. Restore from backup files
+    cp public/nyliste_bonus_processed.backup.csv public/nyliste_bonus_processed.csv
+    cp src/data/casinos.backup.json src/data/casinos.json
+    
+    # 3. Rebuild and redeploy
+    npm run build
+    git add .
+    git commit -m "fix: Restore previous bonus data due to issues"
+    git push origin main
+    ``` 

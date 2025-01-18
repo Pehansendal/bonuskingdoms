@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import { StarIcon } from '@heroicons/react/24/solid';
-import { ChevronDownIcon, ChevronUpIcon } from '@heroicons/react/24/outline';
+import { ChevronDownIcon, ChevronUpIcon, InformationCircleIcon } from '@heroicons/react/24/outline';
 import type { Casino } from '@/types/casino';
 import { loadTextContent } from '@/utils/textLoader';
 import ReactMarkdown from 'react-markdown';
@@ -301,6 +301,96 @@ const ExpandedContent = ({ casino }: { casino: Casino }) => {
   );
 };
 
+// Legg til disse stilene rett etter imports
+const styles = {
+  sortableHeader: `
+    relative px-6 py-4 text-left text-sm font-semibold text-gray-300 
+    cursor-pointer transition-all duration-200
+    hover:bg-gray-800/50 hover:text-white
+    border-b border-transparent hover:border-blue-500/30
+  `,
+  
+  sortIndicator: `
+    absolute right-2 top-1/2 -translate-y-1/2 
+    flex flex-col opacity-50 transition-opacity duration-200
+    group-hover:opacity-100
+  `,
+  
+  tooltip: `
+    absolute hidden group-hover:block 
+    bg-gray-800 text-xs text-gray-300 
+    px-2 py-1 rounded-md -bottom-8 
+    left-1/2 transform -translate-x-1/2 
+    whitespace-nowrap z-10
+    border border-gray-700 shadow-lg
+    opacity-0 group-hover:opacity-100 
+    transition-opacity duration-200
+  `
+};
+
+// Bruk stilene i SortableHeader
+const SortableHeader = ({ title, field, sortConfig, onSort }: {
+  title: string;
+  field: keyof Casino;
+  sortConfig: { key: keyof Casino; direction: 'asc' | 'desc' } | null;
+  onSort: (field: keyof Casino) => void;
+}) => {
+  // Lag beskrivende tooltip tekst basert på feltet
+  const getTooltip = (field: keyof Casino) => {
+    const tooltips: Record<keyof Casino, string> = {
+      casino_name: "Sort casinos alphabetically",
+      website_url: "Sort by website URL",
+      accepted_crypto: "Sort by accepted cryptocurrencies",
+      bonus_percentage: "Sort by bonus percentage (highest/lowest)",
+      bonus_max_amount_in_euro: "Sort by maximum bonus amount",
+      max_bonus_value: "Sort by total bonus value",
+      free_spins: "Sort by number of free spins",
+      bonus_type: "Sort by bonus type",
+      logo_path: "Sort by logo path",
+      player_rating: "Sort by player rating",
+      casino_rating: "Sort by casino rating",
+      pros_path: "Sort by pros path",
+      cons_path: "Sort by cons path",
+      review_path: "Sort by review path",
+      screenshot_path: "Sort by screenshot path"
+    };
+    return tooltips[field] || "Click to sort";
+  };
+
+  return (
+    <th 
+      onClick={() => onSort(field)}
+      title={getTooltip(field)}
+      className={styles.sortableHeader}
+    >
+      <div className="flex items-center gap-2">
+        <span>{title}</span>
+        <div className={styles.sortIndicator}>
+          <ChevronUpIcon 
+            className={`w-4 h-4 ${
+              sortConfig?.key === field && sortConfig.direction === 'asc' 
+                ? 'text-blue-400' 
+                : 'text-gray-500'
+            }`}
+          />
+          <ChevronDownIcon 
+            className={`w-4 h-4 -mt-1 ${
+              sortConfig?.key === field && sortConfig.direction === 'desc' 
+                ? 'text-blue-400' 
+                : 'text-gray-500'
+            }`}
+          />
+        </div>
+        
+        {/* Hover tooltip */}
+        <div className={styles.tooltip}>
+          {getTooltip(field)}
+        </div>
+      </div>
+    </th>
+  );
+};
+
 export default function CasinoTable({ casinos }: CasinoTableProps) {
   const [expandedCasino, setExpandedCasino] = useState<string | null>(null);
   const [filteredCasinos, setFilteredCasinos] = useState(casinos);
@@ -401,6 +491,13 @@ export default function CasinoTable({ casinos }: CasinoTableProps) {
 
   return (
     <div className="space-y-4">
+      <div className="bg-blue-900/30 border border-blue-500/30 rounded-xl p-4 text-center">
+        <div className="flex items-center justify-center gap-2 text-blue-300">
+          <InformationCircleIcon className="w-5 h-5" />
+          <span>Click any column header to sort the table. Click again to reverse the order.</span>
+        </div>
+      </div>
+      
       <CasinoFilters casinos={casinos} onFilterChange={handleFilterChange} />
       
       <div className="overflow-x-auto bg-gray-900 rounded-xl shadow-xl">
@@ -408,43 +505,14 @@ export default function CasinoTable({ casinos }: CasinoTableProps) {
           <thead>
             <tr>
               <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Logo</th>
-              <th 
-                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
-                onClick={() => handleSort('casino_name')}
-              >
-                Casino {sortConfig?.key === 'casino_name' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
-              </th>
-              <th 
-                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
-                onClick={() => handleSort('bonus_percentage')}
-              >
-                Bonus % {sortConfig?.key === 'bonus_percentage' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
-              </th>
-              <th 
-                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
-                onClick={() => handleSort('bonus_max_amount_in_euro')}
-              >
-                Max Bonus {sortConfig?.key === 'bonus_max_amount_in_euro' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
-              </th>
-              <th 
-                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
-                onClick={() => handleSort('max_bonus_value')}
-              >
-                Value {sortConfig?.key === 'max_bonus_value' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
-              </th>
-              <th 
-                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
-                onClick={() => handleSort('free_spins')}
-              >
-                Free Spins {sortConfig?.key === 'free_spins' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
-              </th>
+              <SortableHeader title="Casino" field="casino_name" sortConfig={sortConfig} onSort={handleSort} />
+              <SortableHeader title="Bonus %" field="bonus_percentage" sortConfig={sortConfig} onSort={handleSort} />
+              <SortableHeader title="Max Bonus" field="bonus_max_amount_in_euro" sortConfig={sortConfig} onSort={handleSort} />
+              <SortableHeader title="Value" field="max_bonus_value" sortConfig={sortConfig} onSort={handleSort} />
+              <SortableHeader title="Free Spins" field="free_spins" sortConfig={sortConfig} onSort={handleSort} />
+              <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Bonus Type</th>
               <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Crypto</th>
-              <th 
-                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
-                onClick={() => handleSort('casino_rating')}
-              >
-                Rating {sortConfig?.key === 'casino_rating' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
-              </th>
+              <SortableHeader title="Rating" field="casino_rating" sortConfig={sortConfig} onSort={handleSort} />
               <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Details</th>
               <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Action</th>
             </tr>
@@ -461,6 +529,7 @@ export default function CasinoTable({ casinos }: CasinoTableProps) {
                   <td className="px-6 py-4">{casino.bonus_max_amount_in_euro}</td>
                   <td className="px-6 py-4">{casino.max_bonus_value}</td>
                   <td className="px-6 py-4">{Number(casino.free_spins)}</td>
+                  <td className="px-6 py-4 text-gray-300">{casino.bonus_type}</td>
                   <td className="px-6 py-4">
                     <div className="flex gap-1">
                       {casino.accepted_crypto
