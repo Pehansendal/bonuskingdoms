@@ -90,6 +90,25 @@ interface Casino {
 - Pros, cons, and reviews are stored as text files in their respective directories
 - Images (logos, icons) are stored in the public directory
 
+## File Path Conventions and Image Handling
+- All file paths in `casinos.json` must be relative to the `public/` directory
+- Screenshots must follow the naming convention: `/screenshots/www_domain_com_screenshot.webp`
+- Casino logos must be stored in `/casino_logos/` with format: `casino_name_casino.webp`
+- All images should use the `.webp` format for optimal performance
+- File paths in components should use the exact paths from `casinos.json` without modification
+- Never construct screenshot paths dynamically - always use the paths from the data source
+
+Example paths:
+```
+// Correct screenshot path
+screenshot_path: "/screenshots/www_example_com_screenshot.webp"
+
+// Correct logo path
+logo_path: "casino_logos/example_casino.webp"
+```
+
+The `convertCsvToJson.ts` script handles the conversion of CSV data to JSON while maintaining these path conventions.
+
 ## Future Development Plans
 - Implementation of filtering and sorting functionality
 - Advanced search capabilities
@@ -107,3 +126,25 @@ interface Casino {
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details. 
+
+## Data Processing and Image Handling
+The project includes several data processing scripts in the `scripts/` directory:
+- `convertCsvToJson.ts`: Converts casino data from CSV to JSON format, handling file paths correctly
+- `fix-screenshot-paths.ts`: Manages screenshot file paths and ensures correct mapping
+- `merge-screenshots.ts`: Handles screenshot file organization
+
+Important considerations for data processing:
+1. All file paths in the JSON should be relative to the `public/` directory
+2. Screenshot paths should follow the format: `/screenshots/www_domain_com_screenshot.webp`
+3. Run `convertCsvToJson.ts` after any updates to the CSV data:
+   ```bash
+   npx tsx scripts/convertCsvToJson.ts
+   ```
+4. The Casino interface in `src/types/casino.ts` must match the structure of processed JSON data
+5. Screenshots should be in .webp or .png format for optimal performance
+
+When adding new casinos or updating data:
+1. Update the CSV file in `public/nyliste_bonus_processed.csv`
+2. Add corresponding screenshots to `public/screenshots/`
+3. Run the conversion script to update JSON data
+4. Verify all paths in the generated `src/data/casinos.json` 

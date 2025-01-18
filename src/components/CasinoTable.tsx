@@ -9,10 +9,26 @@ import { loadTextContent } from '@/utils/textLoader';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { convertRating } from '@/utils/ratingConverter';
+import CasinoFilters, { FilterState } from './CasinoFilters';
 
 interface CasinoTableProps {
   casinos: Casino[];
 }
+
+const cryptoNames: Record<string, string> = {
+  '₿': 'Bitcoin',
+  'Ƀ': 'Bitcoin',
+  'Ξ': 'Ethereum',
+  'Ł': 'Litecoin',
+  'Ð': 'Dogecoin',
+  '₮': 'Tether',
+  '✕': 'XRP',
+  '₳': 'Cardano',
+  'ℬ': 'BNB',
+  'τ': 'Theta',
+  '₵': 'Celo',
+  'ɱ': 'Monero'
+};
 
 const formatColumnHeader = (header: string) => {
   return header
@@ -190,6 +206,38 @@ const ExpandedContent = ({ casino }: { casino: Casino }) => {
     <tr>
       <td colSpan={10}>
         <div className="p-6 space-y-6 bg-gray-900/50 border border-gray-800">
+          {/* Header med logo og screenshot */}
+          <div className="flex items-center gap-8 p-6 bg-gray-800/30 rounded-xl">
+            {/* Logo */}
+            <div className="flex-shrink-0">
+              <div className="w-24 h-24 rounded-2xl overflow-hidden">
+                <Image
+                  src={casino.logo_path.replace('public/', '/')}
+                  alt={`${casino.casino_name} logo`}
+                  width={96}
+                  height={96}
+                  className="object-cover w-full h-full"
+                />
+              </div>
+            </div>
+
+            {/* Screenshot */}
+            <div className="flex-grow">
+              <div className="relative w-full h-48 rounded-xl overflow-hidden">
+                <Image
+                  src={casino.screenshot_path}
+                  alt={`${casino.casino_name} screenshot`}
+                  fill
+                  className="object-cover"
+                  onError={(e) => {
+                    console.error('Failed to load image:', e.currentTarget.src);
+                    e.currentTarget.style.display = 'none';
+                  }}
+                />
+              </div>
+            </div>
+          </div>
+
           {/* Pros og Cons Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {/* Pros Card */}
@@ -255,87 +303,212 @@ const ExpandedContent = ({ casino }: { casino: Casino }) => {
 
 export default function CasinoTable({ casinos }: CasinoTableProps) {
   const [expandedCasino, setExpandedCasino] = useState<string | null>(null);
+  const [filteredCasinos, setFilteredCasinos] = useState(casinos);
+  const [sortConfig, setSortConfig] = useState<{
+    key: keyof Casino;
+    direction: 'asc' | 'desc';
+  } | null>(null);
+  const [filters, setFilters] = useState<FilterState>({ casino_name: '', crypto: '' });
 
+  // Sorteringsfunksjon
+  const sortCasinos = (casinosToSort: Casino[]) => {
+    if (!sortConfig) return casinosToSort;
+
+    return [...casinosToSort].sort((a, b) => {
+      const aValue = a[sortConfig.key];
+      const bValue = b[sortConfig.key];
+
+      // Håndter numeriske verdier
+      if (['casino_rating', 'free_spins'].includes(sortConfig.key)) {
+        return sortConfig.direction === 'asc' 
+          ? Number(aValue) - Number(bValue)
+          : Number(bValue) - Number(aValue);
+      }
+
+      // Håndter bonus_percentage
+      if (sortConfig.key === 'bonus_percentage') {
+        const aNum = parseInt(String(aValue).replace('%', '')) || 0;
+        const bNum = parseInt(String(bValue).replace('%', '')) || 0;
+        return sortConfig.direction === 'asc' ? aNum - bNum : bNum - aNum;
+      }
+
+      // Håndter pengeverdier
+      if (['bonus_max_amount_in_euro', 'max_bonus_value'].includes(sortConfig.key)) {
+        const aNum = parseInt(String(aValue).replace(/[^0-9]/g, '')) || 0;
+        const bNum = parseInt(String(bValue).replace(/[^0-9]/g, '')) || 0;
+        return sortConfig.direction === 'asc' ? aNum - bNum : bNum - aNum;
+      }
+
+      return sortConfig.direction === 'asc'
+        ? String(aValue).localeCompare(String(bValue))
+        : String(bValue).localeCompare(String(aValue));
+    });
+  };
+
+  // Filtreringsfunksjon
+  const filterCasinos = (casinosToFilter: Casino[]) => {
+    return casinosToFilter.filter(casino => {
+      if (filters.casino_name && !casino.casino_name.toLowerCase().includes(filters.casino_name.toLowerCase())) {
+        return false;
+      }
+
+      if (filters.crypto) {
+        const cryptoSymbols = casino.accepted_crypto.split(',').map(c => c.trim());
+        const matchingSymbol = cryptoSymbols.find(symbol => cryptoNames[symbol] === filters.crypto);
+        if (!matchingSymbol) {
+          return false;
+        }
+      }
+
+      return true;
+    });
+  };
+
+  // Oppdater filtrerte og sorterte casinoer når noe endres
+  useEffect(() => {
+    let result = filterCasinos(casinos);
+    
+    // Hvis crypto er valgt, sorter etter bonus_percentage som standard
+    if (filters.crypto && !sortConfig) {
+      result.sort((a, b) => {
+        const aBonus = parseInt(a.bonus_percentage) || 0;
+        const bBonus = parseInt(b.bonus_percentage) || 0;
+        return bBonus - aBonus; // Høyest bonus først
+      });
+    } else {
+      result = sortCasinos(result);
+    }
+    
+    setFilteredCasinos(result);
+  }, [casinos, filters, sortConfig]);
+
+  const handleFilterChange = (newFilters: FilterState) => {
+    setFilters(newFilters);
+  };
+
+  const handleSort = (key: keyof Casino) => {
+    let direction: 'asc' | 'desc' = 'asc';
+    if (sortConfig && sortConfig.key === key && sortConfig.direction === 'asc') {
+      direction = 'desc';
+    }
+    setSortConfig({ key, direction });
+  };
+
+  // Legg til toggleExpand funksjonen igjen
   const toggleExpand = (casinoName: string) => {
     setExpandedCasino(expandedCasino === casinoName ? null : casinoName);
   };
 
   return (
-    <div className="overflow-x-auto bg-gray-900 rounded-xl shadow-xl">
-      <table className="min-w-full divide-y divide-gray-800">
-        <thead>
-          <tr>
-            <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Logo</th>
-            <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Casino</th>
-            <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Bonus %</th>
-            <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Max Bonus</th>
-            <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Value</th>
-            <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Free Spins</th>
-            <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Crypto</th>
-            <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Rating</th>
-            <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Details</th>
-            <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Action</th>
-          </tr>
-        </thead>
-        <tbody className="divide-y divide-gray-800">
-          {casinos.map((casino) => (
-            <>
-              <tr key={casino.casino_name} className="hover:bg-gray-800/50 transition-colors">
-                <td className="px-6 py-4">
-                  <LogoCell path={casino.logo_path} />
-                </td>
-                <td className="px-6 py-4 font-medium">{casino.casino_name}</td>
-                <td className="px-6 py-4">{casino.bonus_percentage}</td>
-                <td className="px-6 py-4">{casino.bonus_max_amount_in_euro}</td>
-                <td className="px-6 py-4">{casino.max_bonus_value}</td>
-                <td className="px-6 py-4">{Number(casino.free_spins)}</td>
-                <td className="px-6 py-4">
-                  <div className="flex gap-1">
-                    {casino.accepted_crypto
-                      .split(',')
-                      .slice(0, 6)
-                      .map((crypto, i) => (
-                        <CryptoIcon key={i} symbol={crypto.trim()} />
-                      ))}
-                  </div>
-                </td>
-                <td className="px-6 py-4">
-                  <div className="flex items-center gap-1">
-                    {convertRating(Number(casino.casino_rating), casino.casino_name)}
-                    <StarIcon className="w-5 h-5 text-yellow-500" />
-                  </div>
-                </td>
-                <td className="px-6 py-4">
-                  <button
-                    onClick={() => toggleExpand(casino.casino_name)}
-                    className="flex items-center gap-1 text-blue-400 hover:text-blue-300"
-                  >
-                    Read More
-                    {expandedCasino === casino.casino_name ? (
-                      <ChevronUpIcon className="w-4 h-4" />
-                    ) : (
-                      <ChevronDownIcon className="w-4 h-4" />
-                    )}
-                  </button>
-                </td>
-                <td className="px-6 py-4">
-                  <a
-                    href={casino.website_url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-block px-4 py-2 bg-green-600 hover:bg-green-700 rounded-lg transition-colors"
-                  >
-                    Visit Site
-                  </a>
-                </td>
-              </tr>
-              {expandedCasino === casino.casino_name && (
-                <ExpandedContent casino={casino} />
-              )}
-            </>
-          ))}
-        </tbody>
-      </table>
+    <div className="space-y-4">
+      <CasinoFilters casinos={casinos} onFilterChange={handleFilterChange} />
+      
+      <div className="overflow-x-auto bg-gray-900 rounded-xl shadow-xl">
+        <table className="min-w-full divide-y divide-gray-800">
+          <thead>
+            <tr>
+              <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Logo</th>
+              <th 
+                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
+                onClick={() => handleSort('casino_name')}
+              >
+                Casino {sortConfig?.key === 'casino_name' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
+                onClick={() => handleSort('bonus_percentage')}
+              >
+                Bonus % {sortConfig?.key === 'bonus_percentage' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
+                onClick={() => handleSort('bonus_max_amount_in_euro')}
+              >
+                Max Bonus {sortConfig?.key === 'bonus_max_amount_in_euro' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
+                onClick={() => handleSort('max_bonus_value')}
+              >
+                Value {sortConfig?.key === 'max_bonus_value' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
+                onClick={() => handleSort('free_spins')}
+              >
+                Free Spins {sortConfig?.key === 'free_spins' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Crypto</th>
+              <th 
+                className="px-6 py-4 text-left text-sm font-semibold text-gray-300 cursor-pointer hover:text-white"
+                onClick={() => handleSort('casino_rating')}
+              >
+                Rating {sortConfig?.key === 'casino_rating' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Details</th>
+              <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Action</th>
+            </tr>
+          </thead>
+          <tbody className="divide-y divide-gray-800">
+            {filteredCasinos.map((casino) => (
+              <>
+                <tr key={casino.casino_name} className="hover:bg-gray-800/50 transition-colors">
+                  <td className="px-6 py-4">
+                    <LogoCell path={casino.logo_path} />
+                  </td>
+                  <td className="px-6 py-4 font-medium">{casino.casino_name}</td>
+                  <td className="px-6 py-4">{casino.bonus_percentage}</td>
+                  <td className="px-6 py-4">{casino.bonus_max_amount_in_euro}</td>
+                  <td className="px-6 py-4">{casino.max_bonus_value}</td>
+                  <td className="px-6 py-4">{Number(casino.free_spins)}</td>
+                  <td className="px-6 py-4">
+                    <div className="flex gap-1">
+                      {casino.accepted_crypto
+                        .split(',')
+                        .slice(0, 6)
+                        .map((crypto, i) => (
+                          <CryptoIcon key={i} symbol={crypto.trim()} />
+                        ))}
+                    </div>
+                  </td>
+                  <td className="px-6 py-4">
+                    <div className="flex items-center gap-1">
+                      {convertRating(Number(casino.casino_rating), casino.casino_name)}
+                      <StarIcon className="w-5 h-5 text-yellow-500" />
+                    </div>
+                  </td>
+                  <td className="px-6 py-4">
+                    <button
+                      onClick={() => toggleExpand(casino.casino_name)}
+                      className="flex items-center gap-1 text-blue-400 hover:text-blue-300"
+                    >
+                      Read More
+                      {expandedCasino === casino.casino_name ? (
+                        <ChevronUpIcon className="w-4 h-4" />
+                      ) : (
+                        <ChevronDownIcon className="w-4 h-4" />
+                      )}
+                    </button>
+                  </td>
+                  <td className="px-6 py-4">
+                    <a
+                      href={casino.website_url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-block px-4 py-2 bg-green-600 hover:bg-green-700 rounded-lg transition-colors"
+                    >
+                      Visit Site
+                    </a>
+                  </td>
+                </tr>
+                {expandedCasino === casino.casino_name && (
+                  <ExpandedContent casino={casino} />
+                )}
+              </>
+            ))}
+          </tbody>
+        </table>
+      </div>
     </div>
   );
 } 
