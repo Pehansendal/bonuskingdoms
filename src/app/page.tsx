@@ -1,21 +1,12 @@
-import { getCasinos } from '@/lib/casinoLoader';
+import casinosData from '@/data/casinos.json';
+import CasinoCardList from '@/components/CasinoCardList';
 import CasinoTable from '@/components/CasinoTable';
 import Link from 'next/link';
 import { StarIcon, SparklesIcon, ArrowRightIcon } from '@heroicons/react/24/outline';
 import Image from 'next/image';
+import type { Casino } from '@/types/casino';
 
-export default async function Home() {
-  const allCasinos = await getCasinos();
-  
-  // Sort by rating and take top 20
-  const topCasinos = [...allCasinos]
-    .sort((a, b) => {
-      const aRating = Number(a.casino_rating) || 0;
-      const bRating = Number(b.casino_rating) || 0;
-      return bRating - aRating;
-    })
-    .slice(0, 20);
-
+export default function Home() {
   return (
     <main>
       {/* Hero Section */}
@@ -97,22 +88,18 @@ export default async function Home() {
         </div>
       </div>
 
-      {/* Table Section */}
-      <div className="container mx-auto px-4 py-12">
-        <CasinoTable 
-          casinos={topCasinos}
-          simplified={true}
-        />
-        
-        <div className="text-center mt-8">
-          <Link 
-            href="/all-casinos"
-            className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 rounded-lg text-white font-bold transition-all transform hover:-translate-y-1"
-          >
-            See All Casinos
-            <ArrowRightIcon className="w-5 h-5" />
-          </Link>
+      {/* Card List Section */}
+      <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div className="text-center mb-12">
+          <h2 className="text-3xl font-bold mb-6">Compare All Crypto Casinos</h2>
+          <p className="text-gray-300 max-w-3xl mx-auto text-lg">
+            Explore and filter through our comprehensive list of crypto casinos. 
+            Compare bonuses, free spins, and accepted cryptocurrencies to find 
+            your perfect match.
+          </p>
         </div>
+
+        <CasinoCardList casinos={casinosData as Casino[]} />
       </div>
     </main>
   );

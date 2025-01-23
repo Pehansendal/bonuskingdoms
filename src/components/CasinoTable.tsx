@@ -205,94 +205,62 @@ const ExpandedContent = ({ casino }: { casino: Casino }) => {
 
   return (
     <tr>
-      <td colSpan={10}>
-        <div className="p-6 space-y-6 bg-gray-900/50 border border-gray-800">
-          {/* Header med logo og screenshot */}
-          <div className="flex items-center gap-8 p-6 bg-gray-800/30 rounded-xl">
-            {/* Logo */}
-            <div className="flex-shrink-0">
-              <div className="w-24 h-24 rounded-2xl overflow-hidden">
-                <Image
-                  src={casino.logo_path.replace('public/', '/')}
-                  alt={`${casino.casino_name} logo`}
-                  width={96}
-                  height={96}
-                  className="object-cover w-full h-full"
-                />
-              </div>
-            </div>
-
-            {/* Screenshot */}
-            <div className="flex-grow">
-              <div className="relative w-full h-48 rounded-xl overflow-hidden">
-                <Image
-                  src={casino.screenshot_path}
-                  alt={`${casino.casino_name} screenshot`}
-                  fill
-                  className="object-cover"
-                  onError={(e) => {
-                    console.error('Failed to load image:', e.currentTarget.src);
-                    e.currentTarget.style.display = 'none';
-                  }}
-                />
-              </div>
-            </div>
-          </div>
-
-          {/* Pros og Cons Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {/* Pros Card */}
-            <div className="bg-green-900/20 border border-green-800/50 rounded-xl overflow-hidden shadow-lg hover:shadow-green-900/20 transition-shadow duration-300">
-              <div className="bg-green-900/30 border-b border-green-800/50 px-6 py-4">
-                <h3 className="text-xl font-bold text-green-400 tracking-wide uppercase">Pros</h3>
-              </div>
-              <div className="p-6">
-                <div className="prose prose-invert prose-green max-w-none">
-                  {pros.split('\n').map((item, index) => (
-                    <div key={index} className="flex items-start mb-3 last:mb-0">
-                      <span className="text-green-500 mr-2">•</span>
-                      <span className="text-gray-300">{item}</span>
+      <td colSpan={11}>
+        <div className="relative w-full">
+          <div className="w-screen md:w-auto absolute right-0 px-4 md:px-0 bg-gray-900/50" style={{ marginRight: 'calc(-50vw + 50%)' }}>
+            <div className="max-w-lg ml-auto mr-4 md:max-w-none p-2 md:p-6 space-y-4 md:space-y-6">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
+                <div className="bg-green-900/20 border border-green-800/50 rounded-xl overflow-hidden">
+                  <div className="bg-green-900/30 border-b border-green-800/50 px-3 py-2 md:px-6 md:py-4">
+                    <h3 className="text-base md:text-xl font-bold text-green-400">Pros</h3>
+                  </div>
+                  <div className="p-3 md:p-6">
+                    <div className="text-sm md:text-base space-y-2">
+                      {pros.split('\n').map((item, index) => (
+                        <div key={index} className="flex items-start gap-2">
+                          <span className="text-green-500">•</span>
+                          <span className="text-gray-300">{item}</span>
+                        </div>
+                      ))}
                     </div>
-                  ))}
+                  </div>
+                </div>
+
+                <div className="bg-red-900/20 border border-red-800/50 rounded-xl overflow-hidden">
+                  <div className="bg-red-900/30 border-b border-red-800/50 px-3 py-2 md:px-6 md:py-4">
+                    <h3 className="text-base md:text-xl font-bold text-red-400">Cons</h3>
+                  </div>
+                  <div className="p-3 md:p-6">
+                    <div className="text-sm md:text-base space-y-2">
+                      {cons.split('\n').map((item, index) => (
+                        <div key={index} className="flex items-start gap-2">
+                          <span className="text-red-500">•</span>
+                          <span className="text-gray-300">{item}</span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
 
-            {/* Cons Card */}
-            <div className="bg-red-900/20 border border-red-800/50 rounded-xl overflow-hidden shadow-lg hover:shadow-red-900/20 transition-shadow duration-300">
-              <div className="bg-red-900/30 border-b border-red-800/50 px-6 py-4">
-                <h3 className="text-xl font-bold text-red-400 tracking-wide uppercase">Cons</h3>
-              </div>
-              <div className="p-6">
-                <div className="prose prose-invert prose-red max-w-none">
-                  {cons.split('\n').map((item, index) => (
-                    <div key={index} className="flex items-start mb-3 last:mb-0">
-                      <span className="text-red-500 mr-2">•</span>
-                      <span className="text-gray-300">{item}</span>
-                    </div>
-                  ))}
+              <div className="bg-blue-900/20 border border-blue-800/50 rounded-xl overflow-hidden">
+                <div className="bg-blue-900/30 border-b border-blue-800/50 px-3 py-2 md:px-6 md:py-4">
+                  <h3 className="text-base md:text-xl font-bold text-blue-400">Review</h3>
                 </div>
-              </div>
-            </div>
-          </div>
-
-          {/* Review Section */}
-          <div className="bg-blue-900/20 border border-blue-800/50 rounded-xl overflow-hidden shadow-lg hover:shadow-blue-900/20 transition-shadow duration-300">
-            <div className="bg-blue-900/30 border-b border-blue-800/50 px-6 py-4">
-              <h3 className="text-xl font-bold text-blue-400 tracking-wide uppercase">Review</h3>
-            </div>
-            <div className="p-6">
-              <div className="prose prose-invert prose-blue max-w-none">
-                <ReactMarkdown 
-                  remarkPlugins={[remarkGfm]}
-                  components={{
-                    h1: ({node, ...props}) => <h1 {...props} className="text-3xl font-extrabold text-blue-300 mb-8" />,
-                    h2: ({node, ...props}) => <h2 {...props} className="text-2xl font-bold text-blue-400 mt-8 mb-4" />,
-                    p: ({node, ...props}) => <p {...props} className="text-gray-300 text-lg leading-relaxed mb-4" />
-                  }}
-                >
-                  {convertToMarkdown(review)}
-                </ReactMarkdown>
+                <div className="p-3 md:p-6">
+                  <div className="prose prose-sm md:prose-base prose-invert prose-blue max-w-none">
+                    <ReactMarkdown 
+                      remarkPlugins={[remarkGfm]}
+                      components={{
+                        h1: ({node, ...props}) => <h1 {...props} className="text-xl md:text-2xl font-bold text-blue-300 mb-4" />,
+                        h2: ({node, ...props}) => <h2 {...props} className="text-lg md:text-xl font-semibold text-blue-400 mt-4 mb-2" />,
+                        p: ({node, ...props}) => <p {...props} className="text-sm md:text-base text-gray-300 leading-relaxed mb-3" />
+                      }}
+                    >
+                      {convertToMarkdown(review)}
+                    </ReactMarkdown>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
