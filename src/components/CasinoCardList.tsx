@@ -143,6 +143,7 @@ export default function CasinoCardList({ casinos }: CasinoCardListProps) {
   const [selectedCrypto, setSelectedCrypto] = useState<string>('');
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [expandedCasino, setExpandedCasino] = useState<string | null>(null);
+  const [visibleCount, setVisibleCount] = useState(15);
 
   // Få unike kryptovalutaer for dropdown
   const availableCryptos = useMemo(() => {
@@ -185,6 +186,10 @@ export default function CasinoCardList({ casinos }: CasinoCardListProps) {
       });
   }, [casinos, sortBy, selectedCrypto]);
 
+  // Hent bare synlige casinoer
+  const visibleCasinos = filteredAndSortedCasinos.slice(0, visibleCount);
+  const hasMore = visibleCount < filteredAndSortedCasinos.length;
+
   // Oppdater ExpandedContent komponenten
   const ExpandedContent = ({ casino }: { casino: Casino }) => {
     const [pros, setPros] = useState<string>('Loading pros...');
@@ -225,7 +230,6 @@ export default function CasinoCardList({ casinos }: CasinoCardListProps) {
       const trimmed = line.trim();
       if (!trimmed) return null;
 
-      // Sjekk for overskrifter (ingen punktum og ikke for lang)
       if (!trimmed.includes('.') && trimmed.length < 100) {
         return (
           <h2 key={index} className="text-xl md:text-2xl font-bold text-white mt-8 mb-4">
@@ -234,7 +238,6 @@ export default function CasinoCardList({ casinos }: CasinoCardListProps) {
         );
       }
 
-      // Vanlige avsnitt
       return (
         <p key={index} className="text-gray-300 mb-4">
           {trimmed}
@@ -243,27 +246,7 @@ export default function CasinoCardList({ casinos }: CasinoCardListProps) {
     });
 
     return (
-      <div className="mt-6 space-y-6">
-        {/* Casino Logo og Info */}
-        <div className="flex items-center gap-6 p-6 bg-gray-800/30 rounded-xl">
-          <div className="w-32 h-32 relative">
-            <Image
-              src={casino.logo_path}
-              alt={`${casino.casino_name} logo`}
-              width={128}
-              height={128}
-              className="rounded-xl object-contain"
-            />
-          </div>
-          <div>
-            <h2 className="text-2xl font-bold mb-2">{casino.casino_name}</h2>
-            <p className="text-gray-300">
-              {casino.bonus_percentage} up to {casino.bonus_max_amount_in_euro}
-              {casino.free_spins && ` + ${casino.free_spins} Free Spins`}
-            </p>
-          </div>
-        </div>
-
+      <div className="mt-2 space-y-6 bg-gray-900/50 rounded-b-xl p-6 -mt-2 border-t border-gray-700/50">
         {/* Pros & Cons Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
           <div className="bg-green-900/20 border border-green-800/50 rounded-xl overflow-hidden">
@@ -299,7 +282,7 @@ export default function CasinoCardList({ casinos }: CasinoCardListProps) {
           </div>
         </div>
 
-        {/* Review Section - oppdatert med direkte HTML-struktur */}
+        {/* Review Section */}
         <div className="bg-blue-900/20 border border-blue-800/50 rounded-xl overflow-hidden">
           <div className="bg-blue-900/30 border-b border-blue-800/50 px-3 py-2 md:px-6 md:py-4">
             <h3 className="text-base md:text-xl font-bold text-blue-400">Full Review</h3>
@@ -313,160 +296,234 @@ export default function CasinoCardList({ casinos }: CasinoCardListProps) {
   };
 
   return (
-    <div>
-      {/* Oppdatert Filter og Sortering Header */}
-      <div className="flex flex-wrap items-center gap-4 mb-6 bg-gray-800/30 p-4 rounded-xl border border-gray-700/50">
-        <div className="flex gap-3">
-          <button
-            onClick={() => setSortBy('bonus')}
-            className={`px-6 py-3 rounded-lg font-medium transition-all flex items-center gap-2 ${
-              sortBy === 'bonus'
-                ? 'bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-lg shadow-blue-500/20 scale-105'
-                : 'bg-gray-700 hover:bg-gray-600 text-gray-200 hover:scale-105'
-            }`}
-          >
-            <SparklesIcon className="w-5 h-5" />
-            Best Bonuses
-          </button>
-          <button
-            onClick={() => setSortBy('spins')}
-            className={`px-6 py-3 rounded-lg font-medium transition-all flex items-center gap-2 ${
-              sortBy === 'spins'
-                ? 'bg-gradient-to-r from-purple-600 to-pink-600 text-white shadow-lg shadow-purple-500/20 scale-105'
-                : 'bg-gray-700 hover:bg-gray-600 text-gray-200 hover:scale-105'
-            }`}
-          >
-            <GiftIcon className="w-5 h-5" />
-            Most Free Spins
-          </button>
-        </div>
+    <div className="relative min-h-screen">
+      {/* Animated Background - Balansert belysning */}
+      <div className="fixed inset-0 -z-10">
+        <div className="absolute inset-0 bg-gradient-to-br from-blue-900/5 via-purple-900/5 to-indigo-900/5" />
+        <div className="absolute top-0 -left-4 w-96 h-96 bg-blue-500 rounded-full mix-blend-multiply filter blur-2xl opacity-[0.02] animate-blob" />
+        <div className="absolute top-0 -right-4 w-96 h-96 bg-purple-500 rounded-full mix-blend-multiply filter blur-2xl opacity-[0.02] animate-blob animation-delay-2000" />
+        <div className="absolute -bottom-8 left-20 w-96 h-96 bg-indigo-500 rounded-full mix-blend-multiply filter blur-2xl opacity-[0.02] animate-blob animation-delay-4000" />
+      </div>
 
-        {/* Custom Crypto Dropdown */}
-        <div className="relative">
-          <button
-            onClick={() => setIsDropdownOpen(!isDropdownOpen)}
-            className="bg-gray-700 rounded-lg pl-10 pr-10 py-3 border border-gray-600 focus:border-blue-500 focus:ring-1 focus:ring-blue-500 hover:bg-gray-600 transition-colors flex items-center gap-2 min-w-[240px]"
-          >
-            <CurrencyDollarIcon className="w-5 h-5 text-gray-400 absolute left-3" />
-            <span className="text-gray-200">
-              {selectedCrypto || 'Sort by Cryptocurrency'}
-            </span>
-            <svg 
-              className={`w-4 h-4 text-gray-400 absolute right-3 transition-transform ${isDropdownOpen ? 'rotate-180' : ''}`} 
-              fill="none" 
-              stroke="currentColor" 
-              viewBox="0 0 24 24"
-            >
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-            </svg>
-          </button>
+      {/* Filter Section med glass effect */}
+      <div className="relative mb-6">
+        <div className="backdrop-blur-xl bg-white/10 border border-white/20 rounded-xl shadow-xl">
+          <div className="flex flex-wrap items-center gap-4 p-4">
+            <div className="flex gap-3">
+              <button
+                onClick={() => setSortBy('bonus')}
+                className={`px-6 py-3 rounded-lg font-medium transition-all flex items-center gap-2 ${
+                  sortBy === 'bonus'
+                    ? 'bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-lg shadow-blue-500/20 scale-105'
+                    : 'bg-gray-700 hover:bg-gray-600 text-gray-200 hover:scale-105'
+                }`}
+              >
+                <SparklesIcon className="w-5 h-5" />
+                Best Bonuses
+              </button>
+              <button
+                onClick={() => setSortBy('spins')}
+                className={`px-6 py-3 rounded-lg font-medium transition-all flex items-center gap-2 ${
+                  sortBy === 'spins'
+                    ? 'bg-gradient-to-r from-purple-600 to-pink-600 text-white shadow-lg shadow-purple-500/20 scale-105'
+                    : 'bg-gray-700 hover:bg-gray-600 text-gray-200 hover:scale-105'
+                }`}
+              >
+                <GiftIcon className="w-5 h-5" />
+                Most Free Spins
+              </button>
+            </div>
 
-          {/* Dropdown Menu */}
-          {isDropdownOpen && (
-            <div className="absolute z-50 mt-2 w-full bg-gray-800 rounded-lg border border-gray-700 shadow-xl">
-              <div className="py-1 max-h-[300px] overflow-y-auto">
-                <button
-                  onClick={() => {
-                    setSelectedCrypto('');
-                    setIsDropdownOpen(false);
-                  }}
-                  className="w-full px-4 py-2 text-left text-gray-300 hover:bg-gray-700 flex items-center gap-2"
+            {/* Custom Crypto Dropdown */}
+            <div className="relative">
+              <button
+                onClick={() => setIsDropdownOpen(!isDropdownOpen)}
+                className="bg-gray-700 rounded-lg pl-10 pr-10 py-3 border border-gray-600 focus:border-blue-500 focus:ring-1 focus:ring-blue-500 hover:bg-gray-600 transition-colors flex items-center gap-2 min-w-[240px]"
+              >
+                <CurrencyDollarIcon className="w-5 h-5 text-gray-400 absolute left-3" />
+                <span className="text-gray-200">
+                  {selectedCrypto || 'Sort by Cryptocurrency'}
+                </span>
+                <svg 
+                  className={`w-4 h-4 text-gray-400 absolute right-3 transition-transform ${isDropdownOpen ? 'rotate-180' : ''}`} 
+                  fill="none" 
+                  stroke="currentColor" 
+                  viewBox="0 0 24 24"
                 >
-                  Sort by Cryptocurrency
-                </button>
-                {availableCryptos.map(crypto => {
-                  const symbol = getSymbolFromName(crypto);
-                  return (
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+
+              {/* Dropdown Menu */}
+              {isDropdownOpen && (
+                <div className="absolute z-50 mt-2 w-full bg-gray-800 rounded-lg border border-gray-700 shadow-xl">
+                  <div className="py-1 max-h-[300px] overflow-y-auto">
                     <button
-                      key={crypto}
                       onClick={() => {
-                        setSelectedCrypto(crypto);
+                        setSelectedCrypto('');
                         setIsDropdownOpen(false);
                       }}
-                      className="w-full px-4 py-2 text-left text-gray-300 hover:bg-gray-700 flex items-center gap-3"
+                      className="w-full px-4 py-2 text-left text-gray-300 hover:bg-gray-700 flex items-center gap-2"
                     >
-                      <CryptoIcon symbol={symbol} />
-                      {crypto}
+                      Sort by Cryptocurrency
                     </button>
-                  );
-                })}
-              </div>
+                    {availableCryptos.map(crypto => {
+                      const symbol = getSymbolFromName(crypto);
+                      return (
+                        <button
+                          key={crypto}
+                          onClick={() => {
+                            setSelectedCrypto(crypto);
+                            setIsDropdownOpen(false);
+                          }}
+                          className="w-full px-4 py-2 text-left text-gray-300 hover:bg-gray-700 flex items-center gap-3"
+                        >
+                          <CryptoIcon symbol={symbol} />
+                          {crypto}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+              )}
             </div>
-          )}
+          </div>
         </div>
       </div>
 
-      {/* Casino Cards */}
-      <div className="space-y-4">
-        {filteredAndSortedCasinos.map((casino, index) => (
+      {/* Casino Cards med glass effect */}
+      <div className="space-y-4 relative">
+        {visibleCasinos.map((casino, index) => (
           <div key={casino.casino_name}>
-            <div className="bg-gray-800/50 rounded-xl p-6 hover:bg-gray-800/70 transition-all flex items-center gap-6">
-              {/* Ranking */}
-              <div className="text-lg font-bold text-gray-400">
-                #{index + 1}
-              </div>
+            <div className="backdrop-blur-xl bg-white/5 border border-white/10 rounded-xl p-4 md:p-6 hover:bg-white/10 transition-all shadow-xl">
+              <div className="flex flex-col md:flex-row items-start md:items-center gap-4 md:gap-6 w-full">
+                {/* Left Section */}
+                <div className="flex items-center gap-4">
+                  {/* Ranking */}
+                  <div className="text-lg font-bold text-gray-400">
+                    #{index + 1}
+                  </div>
 
-              {/* Logo */}
-              <div className="w-20 h-20 relative">
-                <Image
-                  src={casino.logo_path}
-                  alt={`${casino.casino_name} logo`}
-                  width={80}
-                  height={80}
-                  className="rounded-lg object-contain"
-                />
-              </div>
+                  {/* Logo */}
+                  <div className="w-16 md:w-20 h-16 md:h-20 relative flex-shrink-0">
+                    <Image
+                      src={casino.logo_path}
+                      alt={`${casino.casino_name} logo`}
+                      width={80}
+                      height={80}
+                      className="rounded-lg object-contain"
+                    />
+                  </div>
 
-              {/* Casino Name */}
-              <div className="flex-1">
-                <h3 className="text-xl font-bold">{casino.casino_name}</h3>
-                
-                {/* Promotion */}
-                <div className="text-gray-300 mt-1">
-                  {casino.bonus_percentage} up to {casino.bonus_max_amount_in_euro}
-                  {casino.free_spins && ` + ${casino.free_spins} Free Spins`}
+                  {/* Casino Name - Only visible on mobile */}
+                  <h3 className="text-xl font-bold md:hidden">{casino.casino_name}</h3>
                 </div>
-              </div>
 
-              {/* Supported Coins */}
-              <div className="flex gap-2">
-                {casino.accepted_crypto.split(',').map((coin) => (
-                  <CryptoIcon key={coin.trim()} symbol={coin.trim()} />
-                ))}
-              </div>
+                {/* Middle Section */}
+                <div className="flex-1 space-y-4 md:space-y-0 md:flex md:items-center md:gap-6">
+                  {/* Casino Name - Hidden on mobile */}
+                  <div className="hidden md:block">
+                    <h3 className="text-xl font-bold">{casino.casino_name}</h3>
+                  </div>
 
-              {/* Actions */}
-              <div className="flex gap-4">
-                <Link
-                  href={casino.website_url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-indigo-600 hover:bg-indigo-700 px-6 py-2 rounded-lg font-medium flex items-center gap-2"
-                >
-                  GO TO SITE
-                  <ArrowTopRightOnSquareIcon className="w-4 h-4" />
-                </Link>
-                <button 
-                  onClick={() => setExpandedCasino(expandedCasino === casino.casino_name ? null : casino.casino_name)}
-                  className="text-indigo-400 hover:text-indigo-300 flex items-center gap-1"
-                >
-                  READ REVIEW
-                  {expandedCasino === casino.casino_name ? (
-                    <ChevronUpIcon className="w-4 h-4" />
-                  ) : (
-                    <ChevronDownIcon className="w-4 h-4" />
-                  )}
-                </button>
+                  {/* Bonus Info */}
+                  <div className="flex flex-wrap gap-3">
+                    <div className="bg-indigo-900/30 border border-indigo-500/30 rounded-lg px-4 py-2">
+                      <span className="text-xl md:text-2xl font-bold bg-gradient-to-r from-indigo-400 to-blue-400 bg-clip-text text-transparent">
+                        {casino.bonus_percentage}
+                      </span>
+                      <span className="text-gray-300 text-base md:text-lg ml-1">
+                        up to
+                      </span>
+                      <span className="text-xl md:text-2xl font-bold text-white ml-2">
+                        {casino.bonus_max_amount_in_euro}
+                      </span>
+                    </div>
+
+                    {casino.free_spins && (
+                      <div className="bg-purple-900/30 border border-purple-500/30 rounded-lg px-4 py-2 flex items-center gap-2">
+                        <GiftIcon className="w-5 h-5 text-purple-400" />
+                        <span className="text-xl md:text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+                          {casino.free_spins}
+                        </span>
+                        <span className="text-base md:text-lg text-gray-300">
+                          Free Spins
+                        </span>
+                      </div>
+                    )}
+                  </div>
+                </div>
+
+                {/* Right Section */}
+                <div className="flex flex-col md:flex-row gap-4 items-start md:items-center w-full md:w-auto">
+                  {/* Supported Coins */}
+                  <div className="flex flex-wrap gap-2">
+                    {casino.accepted_crypto.split(',').slice(0, 6).map((coin) => (
+                      <CryptoIcon key={coin.trim()} symbol={coin.trim()} />
+                    ))}
+                    {casino.accepted_crypto.split(',').length > 6 && (
+                      <span 
+                        className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-gray-800 text-xs font-medium text-blue-400 hover:bg-gray-700 transition-colors cursor-help"
+                        title={`${casino.accepted_crypto.split(',').slice(6).map(c => cryptoNames[c.trim()] || c.trim()).join(', ')}`}
+                      >
+                        +{casino.accepted_crypto.split(',').length - 6}
+                      </span>
+                    )}
+                  </div>
+
+                  {/* Actions */}
+                  <div className="flex gap-3 w-full md:w-auto">
+                    <Link
+                      href={casino.website_url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 md:flex-initial bg-green-600 hover:bg-green-500 px-6 py-2 rounded-lg font-medium flex items-center justify-center gap-2 transition-all hover:scale-105 shadow-lg shadow-green-600/20"
+                    >
+                      GO TO SITE
+                      <ArrowTopRightOnSquareIcon className="w-4 h-4" />
+                    </Link>
+                    <button 
+                      onClick={() => setExpandedCasino(expandedCasino === casino.casino_name ? null : casino.casino_name)}
+                      className="flex-1 md:flex-initial bg-gray-800 hover:bg-gray-700 border border-indigo-500/30 px-6 py-2 rounded-lg font-medium flex items-center justify-center gap-2 transition-all hover:scale-105 text-indigo-400 hover:text-indigo-300"
+                    >
+                      READ REVIEW
+                      {expandedCasino === casino.casino_name ? (
+                        <ChevronUpIcon className="w-4 h-4" />
+                      ) : (
+                        <ChevronDownIcon className="w-4 h-4" />
+                      )}
+                    </button>
+                  </div>
+                </div>
               </div>
             </div>
 
-            {/* Expanded Content */}
+            {/* Expanded content - Samme bakgrunn som kortet */}
             {expandedCasino === casino.casino_name && (
-              <ExpandedContent casino={casino} />
+              <div className="mt-2 backdrop-blur-xl bg-white/5 border border-white/10 rounded-b-xl p-6 -mt-2 border-t border-white/20">
+                <ExpandedContent casino={casino} />
+              </div>
             )}
           </div>
         ))}
       </div>
+
+      {/* Load More Button */}
+      {hasMore && (
+        <div className="mt-8 flex justify-center">
+          <button
+            onClick={() => setVisibleCount(prev => prev + 15)}
+            className="bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 
+                     px-8 py-3 rounded-xl font-medium text-white shadow-lg shadow-blue-500/20 
+                     transition-all hover:scale-105 flex items-center gap-2"
+          >
+            Load More Casinos
+            <span className="text-sm text-blue-200">
+              ({filteredAndSortedCasinos.length - visibleCount} remaining)
+            </span>
+          </button>
+        </div>
+      )}
     </div>
   );
 } 

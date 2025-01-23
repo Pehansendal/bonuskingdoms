@@ -4,18 +4,17 @@ import type { Casino } from '@/types/casino';
 
 export default function AllCasinos() {
   return (
-    <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
+    <main className="container mx-auto px-4 py-8">
       <div className="text-center mb-12">
-        <h1 className="text-4xl font-bold mb-6">All Crypto Casinos</h1>
-        <p className="text-gray-300 max-w-3xl mx-auto text-lg">
-          Explore our comprehensive overview of the most significant crypto casinos in the industry. 
-          Here you can easily filter and compare casinos based on their bonus offers, number of free spins, 
-          user ratings, and accepted cryptocurrencies. We have gathered all the information you need to 
-          find your perfect crypto casino.
+        <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">
+          Advanced Sorting List
+        </h1>
+        <p className="text-xl text-gray-300 max-w-3xl mx-auto">
+          Use our advanced filtering tools to find exactly what you're looking for. Sort and filter by bonus size, free spins, cryptocurrencies, and more.
         </p>
       </div>
 
       <CasinoTable casinos={casinosData as Casino[]} />
-    </div>
+    </main>
   );
 } 

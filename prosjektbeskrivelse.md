@@ -8,19 +8,26 @@ npm run dev
 ```
 
 ## Key Pages & Features
-- `/` - Homepage with top 20 rated casinos and quick stats
+- `/` - Homepage with modern card layout, filtering and expandable reviews
 - `/all-casinos` - Complete casino listing with advanced filtering
 - `/best-bonus-offers` - Casinos sorted by bonus percentage
 - `/most-free-spins` - Casinos sorted by free spins offers
 - `/how-bonuses-work` - Educational guide about casino bonuses
 
 ## Core Components
-1. **CasinoTable** (`src/components/CasinoTable.tsx`)
-   - Main reusable table component
-   - Handles sorting, filtering, and expandable details
-   - Used across multiple pages with different configurations
+1. **CasinoCardList** (`src/components/CasinoCardList.tsx`)
+   - Modern card-based layout for homepage
+   - Interactive filtering with animated buttons
+   - Custom cryptocurrency dropdown
+   - Expandable detailed reviews
+   - Responsive design
 
-2. **Navigation** (`src/components/Navigation.tsx`)
+2. **CasinoTable** (`src/components/CasinoTable.tsx`)
+   - Traditional table component
+   - Handles sorting, filtering, and expandable details
+   - Used in all-casinos and other listing pages
+
+3. **Navigation** (`src/components/Navigation.tsx`)
    - Main navigation with responsive mobile menu
    - Links to all major sections
 
@@ -50,6 +57,25 @@ interface Casino {
 }
 ```
 
+## Homepage Features
+1. **Quick Filtering**
+   - "Best Bonuses" button - Sorts by bonus percentage
+   - "Most Free Spins" button - Sorts by number of free spins
+   - Cryptocurrency dropdown with icons
+
+2. **Casino Cards**
+   - Ranking display (#1, #2, etc.)
+   - Casino logo and name
+   - Bonus information
+   - Supported cryptocurrencies with icons
+   - "GO TO SITE" and "READ REVIEW" actions
+
+3. **Expandable Reviews**
+   - Detailed casino information
+   - Pros and Cons in grid layout
+   - Full review with formatted headings
+   - Consistent styling with main theme
+
 ## Content Organization
 ```
 public/
@@ -72,9 +98,10 @@ public/
    - Add content files to respective directories
    - Update `casinos.json`
 
-2. **Modifying Table Display**
-   - Edit `CasinoTable.tsx` for layout changes
-   - Update sorting/filtering in table component
+2. **Modifying Components**
+   - Edit `CasinoCardList.tsx` for homepage layout
+   - Edit `CasinoTable.tsx` for table layout
+   - Update sorting/filtering in respective components
 
 3. **Content Updates**
    - Text content is in `/public/{pros,cons,review}/`
@@ -85,6 +112,8 @@ public/
 - Follow BEM-like class naming
 - Maintain dark theme consistency
 - Use provided animation classes
+- Use gradients for active states
+- Consistent spacing in card layouts
 
 ## Important Notes
 - All images must be in WebP format
@@ -92,6 +121,7 @@ public/
 - Never construct paths dynamically
 - Always backup before weekly updates
 - Test thoroughly in development
+- Ensure proper git configuration for deployment
 
 ## Common Issues & Solutions
 1. **Missing Images**
@@ -108,6 +138,7 @@ public/
    - Images are optimized
    - Content is statically generated
    - Animations are optimized for performance
+   - Dropdown menus use proper z-indexing
 
 ## Testing
 - Build locally before deployment
@@ -115,6 +146,8 @@ public/
 - Check sorting and filtering
 - Test responsive design
 - Validate all links and images
+- Test cryptocurrency filtering
+- Verify card animations
 
 ## Deployment
 ```bash

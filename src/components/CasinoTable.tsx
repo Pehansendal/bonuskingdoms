@@ -206,8 +206,8 @@ const ExpandedContent = ({ casino }: { casino: Casino }) => {
   return (
     <tr>
       <td colSpan={11}>
-        <div className="relative w-full">
-          <div className="w-screen md:w-auto absolute right-0 px-4 md:px-0 bg-gray-900/50" style={{ marginRight: 'calc(-50vw + 50%)' }}>
+        <div className="border-t border-gray-700">
+          <div className="bg-gray-900 p-6">
             <div className="max-w-lg ml-auto mr-4 md:max-w-none p-2 md:p-6 space-y-4 md:space-y-6">
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
                 <div className="bg-green-900/20 border border-green-800/50 rounded-xl overflow-hidden">

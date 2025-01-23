@@ -1,20 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`c3`](https://developers.cloudflare.com/pages/get-started/c3).
+# BonusKingdoms - Crypto Casino Comparison Platform
 
-## Getting Started
+A modern, responsive web application for comparing and filtering crypto casinos. Built with Next.js, TypeScript, and Tailwind CSS.
 
-First, run the development server:
+## Key Features
+
+- 🎮 Compare 500+ crypto casinos
+- 💰 Advanced sorting and filtering system
+- 🪙 Cryptocurrency-specific filtering
+- 🎨 Modern glass-morphism design
+- 📱 Fully responsive layout
+- ⚡ Optimized performance with pagination
+- 🔍 Detailed casino reviews and comparisons
+
+## Recent Updates
+
+- Added glass-morphism UI design with subtle animated backgrounds
+- Implemented pagination for improved performance
+- Enhanced mobile responsiveness
+- Optimized crypto currency display with "+X more" indicator
+- Improved casino card layout and readability
+- Added gradient CTAs and interactive elements
+
+## Technical Stack
+
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- Heroicons
+- Markdown support for reviews
+- Responsive images with Next/Image
+
+## Performance Optimizations
+
+- Lazy loading of casino cards (15 at a time)
+- Optimized image loading
+- Efficient filtering and sorting algorithms
+- Minimal client-side JavaScript
+- Responsive image optimization
+
+## Development
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Install dependencies
+npm install
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
+```
 
 ## Cloudflare integration
 
