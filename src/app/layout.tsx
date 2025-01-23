@@ -1,13 +1,13 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
-import Navigation from '@/components/Navigation';
+import { Header } from '@/components/Header';
 
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'BonusKingdoms',
-  description: 'Find the best casino bonuses',
+  title: 'BonusKingdoms - Find the best casino bonuses',
+  description: 'Discover the best crypto casino bonuses and reviews',
 };
 
 export default function RootLayout({
@@ -17,13 +17,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="h-full">
-      <body className={`${inter.className} bg-gray-950 text-gray-100 h-full`}>
-        <div className="min-h-full">
-          <Navigation />
-          <main className="py-6">
-            {children}
-          </main>
-        </div>
+      <body className={`${inter.className} min-h-full bg-gray-900 text-gray-100`}>
+        <Header />
+        {children}
       </body>
     </html>
   );

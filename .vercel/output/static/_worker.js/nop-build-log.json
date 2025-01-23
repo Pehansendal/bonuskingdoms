@@ -1,5 +1,5 @@
 {
-  "timestamp": 1737600987525,
+  "timestamp": 1737616818465,
   "outputDir": ".vercel/output/static/_worker.js",
   "versions": {
     "@cloudflare/next-on-pages": "1.13.7"
@@ -32,7 +32,30 @@
             ]
           },
           "outputPath": "__next-on-pages-dist__/functions/api/rebuild.func.js",
-          "outputByteSize": 169338
+          "outputByteSize": 74233
+        },
+        {
+          "relativePath": "/crypto-casinos/[slug].func",
+          "config": {
+            "runtime": "edge",
+            "name": "crypto-casinos/[slug]",
+            "deploymentTarget": "v8-worker",
+            "entrypoint": "index.js",
+            "assets": [],
+            "framework": {
+              "slug": "nextjs",
+              "version": "14.1.0"
+            },
+            "environment": {}
+          },
+          "route": {
+            "path": "/crypto-casinos/[slug]",
+            "overrides": [
+              "/crypto-casinos/[slug].rsc"
+            ]
+          },
+          "outputPath": "__next-on-pages-dist__/functions/crypto-casinos/[slug].func.js",
+          "outputByteSize": 1196802
         },
         {
           "relativePath": "/src/middleware.func",
@@ -53,7 +76,7 @@
             "overrides": []
           },
           "outputPath": "__next-on-pages-dist__/functions/src/middleware.func.js",
-          "outputByteSize": 74539
+          "outputByteSize": 74729
         }
       ],
       "prerendered": [
@@ -97,9 +120,9 @@
               "node_modules/next/dist/server/load-components.js": "node_modules/next/dist/server/load-components.js",
               "node_modules/next/dist/lib/is-error.js": "node_modules/next/dist/lib/is-error.js",
               "node_modules/next/dist/server/body-streams.js": "node_modules/next/dist/server/body-streams.js",
-              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/lib/constants.js": "node_modules/next/dist/lib/constants.js",
               "node_modules/next/dist/server/pipe-readable.js": "node_modules/next/dist/server/pipe-readable.js",
+              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/server/load-manifest.js": "node_modules/next/dist/server/load-manifest.js",
               "node_modules/next/dist/lib/interop-default.js": "node_modules/next/dist/lib/interop-default.js",
               "node_modules/next/dist/lib/format-dynamic-import-path.js": "node_modules/next/dist/lib/format-dynamic-import-path.js",
@@ -170,8 +193,8 @@
               "node_modules/next/dist/server/lib/server-action-request-meta.js": "node_modules/next/dist/server/lib/server-action-request-meta.js",
               "node_modules/next/dist/server/future/route-kind.js": "node_modules/next/dist/server/future/route-kind.js",
               "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js": "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js",
-              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js": "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js",
+              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js",
@@ -234,9 +257,9 @@
               "node_modules/next/dist/server/crypto-utils.js": "node_modules/next/dist/server/crypto-utils.js",
               "node_modules/next/dist/shared/lib/router/utils/path-match.js": "node_modules/next/dist/shared/lib/router/utils/path-match.js",
               "node_modules/react-dom/server.browser.js": "node_modules/react-dom/server.browser.js",
+              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js",
               "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js",
-              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js",
@@ -293,8 +316,8 @@
               "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js",
-              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js",
               "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json": "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
               "node_modules/next/dist/compiled/debug/package.json": "node_modules/next/dist/compiled/debug/package.json",
@@ -316,9 +339,9 @@
               "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js": "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js",
               "node_modules/next/dist/lib/page-types.js": "node_modules/next/dist/lib/page-types.js",
               "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs": "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs",
-              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js": "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js": "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js",
               "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js": "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js",
               "node_modules/next/dist/lib/is-serializable-props.js": "node_modules/next/dist/lib/is-serializable-props.js",
@@ -397,8 +420,8 @@
               "node_modules/next/dist/client/components/not-found-boundary.js": "node_modules/next/dist/client/components/not-found-boundary.js",
               "node_modules/next/dist/lib/metadata/generate/basic.js": "node_modules/next/dist/lib/metadata/generate/basic.js",
               "node_modules/next/dist/lib/metadata/generate/alternate.js": "node_modules/next/dist/lib/metadata/generate/alternate.js",
-              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/icons.js": "node_modules/next/dist/lib/metadata/generate/icons.js",
+              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/meta.js": "node_modules/next/dist/lib/metadata/generate/meta.js",
               "node_modules/next/dist/compiled/nanoid/package.json": "node_modules/next/dist/compiled/nanoid/package.json",
               "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js": "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js",
@@ -492,12 +515,12 @@
               "node_modules/react-dom/cjs/react-dom-server.browser.development.js": "node_modules/react-dom/cjs/react-dom-server.browser.development.js",
               ".next/server/chunks/72.js": ".next/server/chunks/72.js",
               "node_modules/next/dist/pages/_document.js": "node_modules/next/dist/pages/_document.js",
-              ".next/server/chunks/447.js": ".next/server/chunks/447.js",
+              ".next/server/chunks/161.js": ".next/server/chunks/161.js",
               ".next/server/chunks/638.js": ".next/server/chunks/638.js",
+              ".next/server/chunks/726.js": ".next/server/chunks/726.js",
               ".next/server/chunks/985.js": ".next/server/chunks/985.js",
               ".next/server/app/admin/page_client-reference-manifest.js": ".next/server/app/admin/page_client-reference-manifest.js",
               "src/data/casinos.json": "src/data/casinos.json",
-              ".next/server/chunks/706.js": ".next/server/chunks/706.js",
               ".next/server/app/all-casinos/page_client-reference-manifest.js": ".next/server/app/all-casinos/page_client-reference-manifest.js",
               ".next/server/app/how-bonuses-work/page_client-reference-manifest.js": ".next/server/app/how-bonuses-work/page_client-reference-manifest.js",
               ".next/server/app/page_client-reference-manifest.js": ".next/server/app/page_client-reference-manifest.js",
@@ -563,9 +586,9 @@
               "node_modules/next/dist/server/load-components.js": "node_modules/next/dist/server/load-components.js",
               "node_modules/next/dist/lib/is-error.js": "node_modules/next/dist/lib/is-error.js",
               "node_modules/next/dist/server/body-streams.js": "node_modules/next/dist/server/body-streams.js",
-              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/lib/constants.js": "node_modules/next/dist/lib/constants.js",
               "node_modules/next/dist/server/pipe-readable.js": "node_modules/next/dist/server/pipe-readable.js",
+              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/server/load-manifest.js": "node_modules/next/dist/server/load-manifest.js",
               "node_modules/next/dist/lib/interop-default.js": "node_modules/next/dist/lib/interop-default.js",
               "node_modules/next/dist/lib/format-dynamic-import-path.js": "node_modules/next/dist/lib/format-dynamic-import-path.js",
@@ -636,8 +659,8 @@
               "node_modules/next/dist/server/lib/server-action-request-meta.js": "node_modules/next/dist/server/lib/server-action-request-meta.js",
               "node_modules/next/dist/server/future/route-kind.js": "node_modules/next/dist/server/future/route-kind.js",
               "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js": "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js",
-              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js": "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js",
+              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js",
@@ -700,9 +723,9 @@
               "node_modules/next/dist/server/crypto-utils.js": "node_modules/next/dist/server/crypto-utils.js",
               "node_modules/next/dist/shared/lib/router/utils/path-match.js": "node_modules/next/dist/shared/lib/router/utils/path-match.js",
               "node_modules/react-dom/server.browser.js": "node_modules/react-dom/server.browser.js",
+              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js",
               "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js",
-              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js",
@@ -759,8 +782,8 @@
               "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js",
-              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js",
               "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json": "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
               "node_modules/next/dist/compiled/debug/package.json": "node_modules/next/dist/compiled/debug/package.json",
@@ -782,9 +805,9 @@
               "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js": "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js",
               "node_modules/next/dist/lib/page-types.js": "node_modules/next/dist/lib/page-types.js",
               "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs": "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs",
-              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js": "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js": "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js",
               "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js": "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js",
               "node_modules/next/dist/lib/is-serializable-props.js": "node_modules/next/dist/lib/is-serializable-props.js",
@@ -863,8 +886,8 @@
               "node_modules/next/dist/client/components/not-found-boundary.js": "node_modules/next/dist/client/components/not-found-boundary.js",
               "node_modules/next/dist/lib/metadata/generate/basic.js": "node_modules/next/dist/lib/metadata/generate/basic.js",
               "node_modules/next/dist/lib/metadata/generate/alternate.js": "node_modules/next/dist/lib/metadata/generate/alternate.js",
-              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/icons.js": "node_modules/next/dist/lib/metadata/generate/icons.js",
+              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/meta.js": "node_modules/next/dist/lib/metadata/generate/meta.js",
               "node_modules/next/dist/compiled/nanoid/package.json": "node_modules/next/dist/compiled/nanoid/package.json",
               "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js": "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js",
@@ -958,12 +981,12 @@
               "node_modules/react-dom/cjs/react-dom-server.browser.development.js": "node_modules/react-dom/cjs/react-dom-server.browser.development.js",
               ".next/server/chunks/72.js": ".next/server/chunks/72.js",
               "node_modules/next/dist/pages/_document.js": "node_modules/next/dist/pages/_document.js",
-              ".next/server/chunks/447.js": ".next/server/chunks/447.js",
+              ".next/server/chunks/161.js": ".next/server/chunks/161.js",
               ".next/server/chunks/638.js": ".next/server/chunks/638.js",
+              ".next/server/chunks/726.js": ".next/server/chunks/726.js",
               ".next/server/chunks/985.js": ".next/server/chunks/985.js",
               ".next/server/app/admin/page_client-reference-manifest.js": ".next/server/app/admin/page_client-reference-manifest.js",
               "src/data/casinos.json": "src/data/casinos.json",
-              ".next/server/chunks/706.js": ".next/server/chunks/706.js",
               ".next/server/app/all-casinos/page_client-reference-manifest.js": ".next/server/app/all-casinos/page_client-reference-manifest.js",
               ".next/server/app/how-bonuses-work/page_client-reference-manifest.js": ".next/server/app/how-bonuses-work/page_client-reference-manifest.js",
               ".next/server/app/page_client-reference-manifest.js": ".next/server/app/page_client-reference-manifest.js",
@@ -1028,9 +1051,9 @@
               "node_modules/next/dist/server/load-components.js": "node_modules/next/dist/server/load-components.js",
               "node_modules/next/dist/lib/is-error.js": "node_modules/next/dist/lib/is-error.js",
               "node_modules/next/dist/server/body-streams.js": "node_modules/next/dist/server/body-streams.js",
-              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/lib/constants.js": "node_modules/next/dist/lib/constants.js",
               "node_modules/next/dist/server/pipe-readable.js": "node_modules/next/dist/server/pipe-readable.js",
+              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/server/load-manifest.js": "node_modules/next/dist/server/load-manifest.js",
               "node_modules/next/dist/lib/interop-default.js": "node_modules/next/dist/lib/interop-default.js",
               "node_modules/next/dist/lib/format-dynamic-import-path.js": "node_modules/next/dist/lib/format-dynamic-import-path.js",
@@ -1101,8 +1124,8 @@
               "node_modules/next/dist/server/lib/server-action-request-meta.js": "node_modules/next/dist/server/lib/server-action-request-meta.js",
               "node_modules/next/dist/server/future/route-kind.js": "node_modules/next/dist/server/future/route-kind.js",
               "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js": "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js",
-              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js": "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js",
+              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js",
@@ -1165,9 +1188,9 @@
               "node_modules/next/dist/server/crypto-utils.js": "node_modules/next/dist/server/crypto-utils.js",
               "node_modules/next/dist/shared/lib/router/utils/path-match.js": "node_modules/next/dist/shared/lib/router/utils/path-match.js",
               "node_modules/react-dom/server.browser.js": "node_modules/react-dom/server.browser.js",
+              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js",
               "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js",
-              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js",
@@ -1224,8 +1247,8 @@
               "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js",
-              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js",
               "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json": "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
               "node_modules/next/dist/compiled/debug/package.json": "node_modules/next/dist/compiled/debug/package.json",
@@ -1247,9 +1270,9 @@
               "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js": "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js",
               "node_modules/next/dist/lib/page-types.js": "node_modules/next/dist/lib/page-types.js",
               "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs": "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs",
-              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js": "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js": "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js",
               "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js": "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js",
               "node_modules/next/dist/lib/is-serializable-props.js": "node_modules/next/dist/lib/is-serializable-props.js",
@@ -1328,8 +1351,8 @@
               "node_modules/next/dist/client/components/not-found-boundary.js": "node_modules/next/dist/client/components/not-found-boundary.js",
               "node_modules/next/dist/lib/metadata/generate/basic.js": "node_modules/next/dist/lib/metadata/generate/basic.js",
               "node_modules/next/dist/lib/metadata/generate/alternate.js": "node_modules/next/dist/lib/metadata/generate/alternate.js",
-              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/icons.js": "node_modules/next/dist/lib/metadata/generate/icons.js",
+              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/meta.js": "node_modules/next/dist/lib/metadata/generate/meta.js",
               "node_modules/next/dist/compiled/nanoid/package.json": "node_modules/next/dist/compiled/nanoid/package.json",
               "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js": "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js",
@@ -1423,12 +1446,12 @@
               "node_modules/react-dom/cjs/react-dom-server.browser.development.js": "node_modules/react-dom/cjs/react-dom-server.browser.development.js",
               ".next/server/chunks/72.js": ".next/server/chunks/72.js",
               "node_modules/next/dist/pages/_document.js": "node_modules/next/dist/pages/_document.js",
-              ".next/server/chunks/447.js": ".next/server/chunks/447.js",
+              ".next/server/chunks/161.js": ".next/server/chunks/161.js",
               ".next/server/chunks/638.js": ".next/server/chunks/638.js",
+              ".next/server/chunks/726.js": ".next/server/chunks/726.js",
               ".next/server/chunks/985.js": ".next/server/chunks/985.js",
               ".next/server/app/admin/page_client-reference-manifest.js": ".next/server/app/admin/page_client-reference-manifest.js",
               "src/data/casinos.json": "src/data/casinos.json",
-              ".next/server/chunks/706.js": ".next/server/chunks/706.js",
               ".next/server/app/all-casinos/page_client-reference-manifest.js": ".next/server/app/all-casinos/page_client-reference-manifest.js",
               ".next/server/app/how-bonuses-work/page_client-reference-manifest.js": ".next/server/app/how-bonuses-work/page_client-reference-manifest.js",
               ".next/server/app/page_client-reference-manifest.js": ".next/server/app/page_client-reference-manifest.js",
@@ -1494,9 +1517,9 @@
               "node_modules/next/dist/server/load-components.js": "node_modules/next/dist/server/load-components.js",
               "node_modules/next/dist/lib/is-error.js": "node_modules/next/dist/lib/is-error.js",
               "node_modules/next/dist/server/body-streams.js": "node_modules/next/dist/server/body-streams.js",
-              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/lib/constants.js": "node_modules/next/dist/lib/constants.js",
               "node_modules/next/dist/server/pipe-readable.js": "node_modules/next/dist/server/pipe-readable.js",
+              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/server/load-manifest.js": "node_modules/next/dist/server/load-manifest.js",
               "node_modules/next/dist/lib/interop-default.js": "node_modules/next/dist/lib/interop-default.js",
               "node_modules/next/dist/lib/format-dynamic-import-path.js": "node_modules/next/dist/lib/format-dynamic-import-path.js",
@@ -1567,8 +1590,8 @@
               "node_modules/next/dist/server/lib/server-action-request-meta.js": "node_modules/next/dist/server/lib/server-action-request-meta.js",
               "node_modules/next/dist/server/future/route-kind.js": "node_modules/next/dist/server/future/route-kind.js",
               "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js": "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js",
-              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js": "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js",
+              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js",
@@ -1631,9 +1654,9 @@
               "node_modules/next/dist/server/crypto-utils.js": "node_modules/next/dist/server/crypto-utils.js",
               "node_modules/next/dist/shared/lib/router/utils/path-match.js": "node_modules/next/dist/shared/lib/router/utils/path-match.js",
               "node_modules/react-dom/server.browser.js": "node_modules/react-dom/server.browser.js",
+              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js",
               "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js",
-              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js",
@@ -1690,8 +1713,8 @@
               "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js",
-              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js",
               "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json": "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
               "node_modules/next/dist/compiled/debug/package.json": "node_modules/next/dist/compiled/debug/package.json",
@@ -1713,9 +1736,9 @@
               "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js": "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js",
               "node_modules/next/dist/lib/page-types.js": "node_modules/next/dist/lib/page-types.js",
               "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs": "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs",
-              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js": "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js": "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js",
               "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js": "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js",
               "node_modules/next/dist/lib/is-serializable-props.js": "node_modules/next/dist/lib/is-serializable-props.js",
@@ -1794,8 +1817,8 @@
               "node_modules/next/dist/client/components/not-found-boundary.js": "node_modules/next/dist/client/components/not-found-boundary.js",
               "node_modules/next/dist/lib/metadata/generate/basic.js": "node_modules/next/dist/lib/metadata/generate/basic.js",
               "node_modules/next/dist/lib/metadata/generate/alternate.js": "node_modules/next/dist/lib/metadata/generate/alternate.js",
-              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/icons.js": "node_modules/next/dist/lib/metadata/generate/icons.js",
+              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/meta.js": "node_modules/next/dist/lib/metadata/generate/meta.js",
               "node_modules/next/dist/compiled/nanoid/package.json": "node_modules/next/dist/compiled/nanoid/package.json",
               "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js": "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js",
@@ -1889,12 +1912,12 @@
               "node_modules/react-dom/cjs/react-dom-server.browser.development.js": "node_modules/react-dom/cjs/react-dom-server.browser.development.js",
               ".next/server/chunks/72.js": ".next/server/chunks/72.js",
               "node_modules/next/dist/pages/_document.js": "node_modules/next/dist/pages/_document.js",
-              ".next/server/chunks/447.js": ".next/server/chunks/447.js",
+              ".next/server/chunks/161.js": ".next/server/chunks/161.js",
               ".next/server/chunks/638.js": ".next/server/chunks/638.js",
+              ".next/server/chunks/726.js": ".next/server/chunks/726.js",
               ".next/server/chunks/985.js": ".next/server/chunks/985.js",
               ".next/server/app/admin/page_client-reference-manifest.js": ".next/server/app/admin/page_client-reference-manifest.js",
               "src/data/casinos.json": "src/data/casinos.json",
-              ".next/server/chunks/706.js": ".next/server/chunks/706.js",
               ".next/server/app/all-casinos/page_client-reference-manifest.js": ".next/server/app/all-casinos/page_client-reference-manifest.js",
               ".next/server/app/how-bonuses-work/page_client-reference-manifest.js": ".next/server/app/how-bonuses-work/page_client-reference-manifest.js",
               ".next/server/app/page_client-reference-manifest.js": ".next/server/app/page_client-reference-manifest.js",
@@ -1958,9 +1981,9 @@
               "node_modules/next/dist/server/load-components.js": "node_modules/next/dist/server/load-components.js",
               "node_modules/next/dist/lib/is-error.js": "node_modules/next/dist/lib/is-error.js",
               "node_modules/next/dist/server/body-streams.js": "node_modules/next/dist/server/body-streams.js",
-              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/lib/constants.js": "node_modules/next/dist/lib/constants.js",
               "node_modules/next/dist/server/pipe-readable.js": "node_modules/next/dist/server/pipe-readable.js",
+              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/server/load-manifest.js": "node_modules/next/dist/server/load-manifest.js",
               "node_modules/next/dist/lib/interop-default.js": "node_modules/next/dist/lib/interop-default.js",
               "node_modules/next/dist/lib/format-dynamic-import-path.js": "node_modules/next/dist/lib/format-dynamic-import-path.js",
@@ -2031,8 +2054,8 @@
               "node_modules/next/dist/server/lib/server-action-request-meta.js": "node_modules/next/dist/server/lib/server-action-request-meta.js",
               "node_modules/next/dist/server/future/route-kind.js": "node_modules/next/dist/server/future/route-kind.js",
               "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js": "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js",
-              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js": "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js",
+              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js",
@@ -2095,9 +2118,9 @@
               "node_modules/next/dist/server/crypto-utils.js": "node_modules/next/dist/server/crypto-utils.js",
               "node_modules/next/dist/shared/lib/router/utils/path-match.js": "node_modules/next/dist/shared/lib/router/utils/path-match.js",
               "node_modules/react-dom/server.browser.js": "node_modules/react-dom/server.browser.js",
+              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js",
               "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js",
-              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js",
@@ -2154,8 +2177,8 @@
               "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js",
-              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js",
               "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json": "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
               "node_modules/next/dist/compiled/debug/package.json": "node_modules/next/dist/compiled/debug/package.json",
@@ -2177,9 +2200,9 @@
               "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js": "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js",
               "node_modules/next/dist/lib/page-types.js": "node_modules/next/dist/lib/page-types.js",
               "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs": "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs",
-              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js": "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js": "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js",
               "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js": "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js",
               "node_modules/next/dist/lib/is-serializable-props.js": "node_modules/next/dist/lib/is-serializable-props.js",
@@ -2258,8 +2281,8 @@
               "node_modules/next/dist/client/components/not-found-boundary.js": "node_modules/next/dist/client/components/not-found-boundary.js",
               "node_modules/next/dist/lib/metadata/generate/basic.js": "node_modules/next/dist/lib/metadata/generate/basic.js",
               "node_modules/next/dist/lib/metadata/generate/alternate.js": "node_modules/next/dist/lib/metadata/generate/alternate.js",
-              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/icons.js": "node_modules/next/dist/lib/metadata/generate/icons.js",
+              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/meta.js": "node_modules/next/dist/lib/metadata/generate/meta.js",
               "node_modules/next/dist/compiled/nanoid/package.json": "node_modules/next/dist/compiled/nanoid/package.json",
               "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js": "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js",
@@ -2360,7 +2383,8 @@
               ".next/server/pages/_error.js": ".next/server/pages/_error.js",
               ".next/server/pages/_document.js": ".next/server/pages/_document.js",
               ".next/server/app/_not-found.js": ".next/server/app/_not-found.js",
-              ".next/server/chunks/447.js": ".next/server/chunks/447.js",
+              ".next/server/chunks/161.js": ".next/server/chunks/161.js",
+              ".next/server/chunks/726.js": ".next/server/chunks/726.js",
               ".next/server/app/_not-found_client-reference-manifest.js": ".next/server/app/_not-found_client-reference-manifest.js"
             }
           },
@@ -2415,9 +2439,9 @@
               "node_modules/next/dist/server/load-components.js": "node_modules/next/dist/server/load-components.js",
               "node_modules/next/dist/lib/is-error.js": "node_modules/next/dist/lib/is-error.js",
               "node_modules/next/dist/server/body-streams.js": "node_modules/next/dist/server/body-streams.js",
-              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/lib/constants.js": "node_modules/next/dist/lib/constants.js",
               "node_modules/next/dist/server/pipe-readable.js": "node_modules/next/dist/server/pipe-readable.js",
+              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/server/load-manifest.js": "node_modules/next/dist/server/load-manifest.js",
               "node_modules/next/dist/lib/interop-default.js": "node_modules/next/dist/lib/interop-default.js",
               "node_modules/next/dist/lib/format-dynamic-import-path.js": "node_modules/next/dist/lib/format-dynamic-import-path.js",
@@ -2488,8 +2512,8 @@
               "node_modules/next/dist/server/lib/server-action-request-meta.js": "node_modules/next/dist/server/lib/server-action-request-meta.js",
               "node_modules/next/dist/server/future/route-kind.js": "node_modules/next/dist/server/future/route-kind.js",
               "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js": "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js",
-              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js": "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js",
+              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js",
@@ -2552,9 +2576,9 @@
               "node_modules/next/dist/server/crypto-utils.js": "node_modules/next/dist/server/crypto-utils.js",
               "node_modules/next/dist/shared/lib/router/utils/path-match.js": "node_modules/next/dist/shared/lib/router/utils/path-match.js",
               "node_modules/react-dom/server.browser.js": "node_modules/react-dom/server.browser.js",
+              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js",
               "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js",
-              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js",
@@ -2611,8 +2635,8 @@
               "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js",
-              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js",
               "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json": "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
               "node_modules/next/dist/compiled/debug/package.json": "node_modules/next/dist/compiled/debug/package.json",
@@ -2634,9 +2658,9 @@
               "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js": "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js",
               "node_modules/next/dist/lib/page-types.js": "node_modules/next/dist/lib/page-types.js",
               "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs": "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs",
-              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js": "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js": "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js",
               "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js": "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js",
               "node_modules/next/dist/lib/is-serializable-props.js": "node_modules/next/dist/lib/is-serializable-props.js",
@@ -2715,8 +2739,8 @@
               "node_modules/next/dist/client/components/not-found-boundary.js": "node_modules/next/dist/client/components/not-found-boundary.js",
               "node_modules/next/dist/lib/metadata/generate/basic.js": "node_modules/next/dist/lib/metadata/generate/basic.js",
               "node_modules/next/dist/lib/metadata/generate/alternate.js": "node_modules/next/dist/lib/metadata/generate/alternate.js",
-              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/icons.js": "node_modules/next/dist/lib/metadata/generate/icons.js",
+              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/meta.js": "node_modules/next/dist/lib/metadata/generate/meta.js",
               "node_modules/next/dist/compiled/nanoid/package.json": "node_modules/next/dist/compiled/nanoid/package.json",
               "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js": "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js",
@@ -2810,12 +2834,12 @@
               "node_modules/react-dom/cjs/react-dom-server.browser.development.js": "node_modules/react-dom/cjs/react-dom-server.browser.development.js",
               ".next/server/chunks/72.js": ".next/server/chunks/72.js",
               "node_modules/next/dist/pages/_document.js": "node_modules/next/dist/pages/_document.js",
-              ".next/server/chunks/447.js": ".next/server/chunks/447.js",
+              ".next/server/chunks/161.js": ".next/server/chunks/161.js",
               ".next/server/chunks/638.js": ".next/server/chunks/638.js",
+              ".next/server/chunks/726.js": ".next/server/chunks/726.js",
               ".next/server/chunks/985.js": ".next/server/chunks/985.js",
               ".next/server/app/admin/page_client-reference-manifest.js": ".next/server/app/admin/page_client-reference-manifest.js",
               "src/data/casinos.json": "src/data/casinos.json",
-              ".next/server/chunks/706.js": ".next/server/chunks/706.js",
               ".next/server/app/all-casinos/page_client-reference-manifest.js": ".next/server/app/all-casinos/page_client-reference-manifest.js",
               ".next/server/app/how-bonuses-work/page_client-reference-manifest.js": ".next/server/app/how-bonuses-work/page_client-reference-manifest.js",
               ".next/server/app/page_client-reference-manifest.js": ".next/server/app/page_client-reference-manifest.js",
@@ -2881,9 +2905,9 @@
               "node_modules/next/dist/server/load-components.js": "node_modules/next/dist/server/load-components.js",
               "node_modules/next/dist/lib/is-error.js": "node_modules/next/dist/lib/is-error.js",
               "node_modules/next/dist/server/body-streams.js": "node_modules/next/dist/server/body-streams.js",
-              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/lib/constants.js": "node_modules/next/dist/lib/constants.js",
               "node_modules/next/dist/server/pipe-readable.js": "node_modules/next/dist/server/pipe-readable.js",
+              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/server/load-manifest.js": "node_modules/next/dist/server/load-manifest.js",
               "node_modules/next/dist/lib/interop-default.js": "node_modules/next/dist/lib/interop-default.js",
               "node_modules/next/dist/lib/format-dynamic-import-path.js": "node_modules/next/dist/lib/format-dynamic-import-path.js",
@@ -2954,8 +2978,8 @@
               "node_modules/next/dist/server/lib/server-action-request-meta.js": "node_modules/next/dist/server/lib/server-action-request-meta.js",
               "node_modules/next/dist/server/future/route-kind.js": "node_modules/next/dist/server/future/route-kind.js",
               "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js": "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js",
-              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js": "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js",
+              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js",
@@ -3018,9 +3042,9 @@
               "node_modules/next/dist/server/crypto-utils.js": "node_modules/next/dist/server/crypto-utils.js",
               "node_modules/next/dist/shared/lib/router/utils/path-match.js": "node_modules/next/dist/shared/lib/router/utils/path-match.js",
               "node_modules/react-dom/server.browser.js": "node_modules/react-dom/server.browser.js",
+              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js",
               "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js",
-              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js",
@@ -3077,8 +3101,8 @@
               "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js",
-              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js",
               "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json": "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
               "node_modules/next/dist/compiled/debug/package.json": "node_modules/next/dist/compiled/debug/package.json",
@@ -3100,9 +3124,9 @@
               "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js": "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js",
               "node_modules/next/dist/lib/page-types.js": "node_modules/next/dist/lib/page-types.js",
               "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs": "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs",
-              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js": "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js": "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js",
               "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js": "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js",
               "node_modules/next/dist/lib/is-serializable-props.js": "node_modules/next/dist/lib/is-serializable-props.js",
@@ -3181,8 +3205,8 @@
               "node_modules/next/dist/client/components/not-found-boundary.js": "node_modules/next/dist/client/components/not-found-boundary.js",
               "node_modules/next/dist/lib/metadata/generate/basic.js": "node_modules/next/dist/lib/metadata/generate/basic.js",
               "node_modules/next/dist/lib/metadata/generate/alternate.js": "node_modules/next/dist/lib/metadata/generate/alternate.js",
-              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/icons.js": "node_modules/next/dist/lib/metadata/generate/icons.js",
+              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/meta.js": "node_modules/next/dist/lib/metadata/generate/meta.js",
               "node_modules/next/dist/compiled/nanoid/package.json": "node_modules/next/dist/compiled/nanoid/package.json",
               "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js": "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js",
@@ -3276,12 +3300,12 @@
               "node_modules/react-dom/cjs/react-dom-server.browser.development.js": "node_modules/react-dom/cjs/react-dom-server.browser.development.js",
               ".next/server/chunks/72.js": ".next/server/chunks/72.js",
               "node_modules/next/dist/pages/_document.js": "node_modules/next/dist/pages/_document.js",
-              ".next/server/chunks/447.js": ".next/server/chunks/447.js",
+              ".next/server/chunks/161.js": ".next/server/chunks/161.js",
               ".next/server/chunks/638.js": ".next/server/chunks/638.js",
+              ".next/server/chunks/726.js": ".next/server/chunks/726.js",
               ".next/server/chunks/985.js": ".next/server/chunks/985.js",
               ".next/server/app/admin/page_client-reference-manifest.js": ".next/server/app/admin/page_client-reference-manifest.js",
               "src/data/casinos.json": "src/data/casinos.json",
-              ".next/server/chunks/706.js": ".next/server/chunks/706.js",
               ".next/server/app/all-casinos/page_client-reference-manifest.js": ".next/server/app/all-casinos/page_client-reference-manifest.js",
               ".next/server/app/how-bonuses-work/page_client-reference-manifest.js": ".next/server/app/how-bonuses-work/page_client-reference-manifest.js",
               ".next/server/app/page_client-reference-manifest.js": ".next/server/app/page_client-reference-manifest.js",
@@ -3346,9 +3370,9 @@
               "node_modules/next/dist/server/load-components.js": "node_modules/next/dist/server/load-components.js",
               "node_modules/next/dist/lib/is-error.js": "node_modules/next/dist/lib/is-error.js",
               "node_modules/next/dist/server/body-streams.js": "node_modules/next/dist/server/body-streams.js",
-              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/lib/constants.js": "node_modules/next/dist/lib/constants.js",
               "node_modules/next/dist/server/pipe-readable.js": "node_modules/next/dist/server/pipe-readable.js",
+              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/server/load-manifest.js": "node_modules/next/dist/server/load-manifest.js",
               "node_modules/next/dist/lib/interop-default.js": "node_modules/next/dist/lib/interop-default.js",
               "node_modules/next/dist/lib/format-dynamic-import-path.js": "node_modules/next/dist/lib/format-dynamic-import-path.js",
@@ -3419,8 +3443,8 @@
               "node_modules/next/dist/server/lib/server-action-request-meta.js": "node_modules/next/dist/server/lib/server-action-request-meta.js",
               "node_modules/next/dist/server/future/route-kind.js": "node_modules/next/dist/server/future/route-kind.js",
               "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js": "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js",
-              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js": "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js",
+              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js",
@@ -3483,9 +3507,9 @@
               "node_modules/next/dist/server/crypto-utils.js": "node_modules/next/dist/server/crypto-utils.js",
               "node_modules/next/dist/shared/lib/router/utils/path-match.js": "node_modules/next/dist/shared/lib/router/utils/path-match.js",
               "node_modules/react-dom/server.browser.js": "node_modules/react-dom/server.browser.js",
+              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js",
               "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js",
-              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js",
@@ -3542,8 +3566,8 @@
               "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js",
-              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js",
               "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json": "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
               "node_modules/next/dist/compiled/debug/package.json": "node_modules/next/dist/compiled/debug/package.json",
@@ -3565,9 +3589,9 @@
               "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js": "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js",
               "node_modules/next/dist/lib/page-types.js": "node_modules/next/dist/lib/page-types.js",
               "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs": "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs",
-              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js": "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js": "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js",
               "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js": "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js",
               "node_modules/next/dist/lib/is-serializable-props.js": "node_modules/next/dist/lib/is-serializable-props.js",
@@ -3646,8 +3670,8 @@
               "node_modules/next/dist/client/components/not-found-boundary.js": "node_modules/next/dist/client/components/not-found-boundary.js",
               "node_modules/next/dist/lib/metadata/generate/basic.js": "node_modules/next/dist/lib/metadata/generate/basic.js",
               "node_modules/next/dist/lib/metadata/generate/alternate.js": "node_modules/next/dist/lib/metadata/generate/alternate.js",
-              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/icons.js": "node_modules/next/dist/lib/metadata/generate/icons.js",
+              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/meta.js": "node_modules/next/dist/lib/metadata/generate/meta.js",
               "node_modules/next/dist/compiled/nanoid/package.json": "node_modules/next/dist/compiled/nanoid/package.json",
               "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js": "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js",
@@ -3741,12 +3765,12 @@
               "node_modules/react-dom/cjs/react-dom-server.browser.development.js": "node_modules/react-dom/cjs/react-dom-server.browser.development.js",
               ".next/server/chunks/72.js": ".next/server/chunks/72.js",
               "node_modules/next/dist/pages/_document.js": "node_modules/next/dist/pages/_document.js",
-              ".next/server/chunks/447.js": ".next/server/chunks/447.js",
+              ".next/server/chunks/161.js": ".next/server/chunks/161.js",
               ".next/server/chunks/638.js": ".next/server/chunks/638.js",
+              ".next/server/chunks/726.js": ".next/server/chunks/726.js",
               ".next/server/chunks/985.js": ".next/server/chunks/985.js",
               ".next/server/app/admin/page_client-reference-manifest.js": ".next/server/app/admin/page_client-reference-manifest.js",
               "src/data/casinos.json": "src/data/casinos.json",
-              ".next/server/chunks/706.js": ".next/server/chunks/706.js",
               ".next/server/app/all-casinos/page_client-reference-manifest.js": ".next/server/app/all-casinos/page_client-reference-manifest.js",
               ".next/server/app/how-bonuses-work/page_client-reference-manifest.js": ".next/server/app/how-bonuses-work/page_client-reference-manifest.js",
               ".next/server/app/page_client-reference-manifest.js": ".next/server/app/page_client-reference-manifest.js",
@@ -3814,9 +3838,9 @@
               "node_modules/next/dist/server/load-components.js": "node_modules/next/dist/server/load-components.js",
               "node_modules/next/dist/lib/is-error.js": "node_modules/next/dist/lib/is-error.js",
               "node_modules/next/dist/server/body-streams.js": "node_modules/next/dist/server/body-streams.js",
-              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/lib/constants.js": "node_modules/next/dist/lib/constants.js",
               "node_modules/next/dist/server/pipe-readable.js": "node_modules/next/dist/server/pipe-readable.js",
+              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/server/load-manifest.js": "node_modules/next/dist/server/load-manifest.js",
               "node_modules/next/dist/lib/interop-default.js": "node_modules/next/dist/lib/interop-default.js",
               "node_modules/next/dist/lib/format-dynamic-import-path.js": "node_modules/next/dist/lib/format-dynamic-import-path.js",
@@ -3887,8 +3911,8 @@
               "node_modules/next/dist/server/lib/server-action-request-meta.js": "node_modules/next/dist/server/lib/server-action-request-meta.js",
               "node_modules/next/dist/server/future/route-kind.js": "node_modules/next/dist/server/future/route-kind.js",
               "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js": "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js",
-              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js": "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js",
+              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js",
@@ -3951,9 +3975,9 @@
               "node_modules/next/dist/server/crypto-utils.js": "node_modules/next/dist/server/crypto-utils.js",
               "node_modules/next/dist/shared/lib/router/utils/path-match.js": "node_modules/next/dist/shared/lib/router/utils/path-match.js",
               "node_modules/react-dom/server.browser.js": "node_modules/react-dom/server.browser.js",
+              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js",
               "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js",
-              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js",
@@ -4010,8 +4034,8 @@
               "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js",
-              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js",
               "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json": "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
               "node_modules/next/dist/compiled/debug/package.json": "node_modules/next/dist/compiled/debug/package.json",
@@ -4033,9 +4057,9 @@
               "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js": "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js",
               "node_modules/next/dist/lib/page-types.js": "node_modules/next/dist/lib/page-types.js",
               "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs": "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs",
-              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js": "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js": "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js",
               "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js": "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js",
               "node_modules/next/dist/lib/is-serializable-props.js": "node_modules/next/dist/lib/is-serializable-props.js",
@@ -4114,8 +4138,8 @@
               "node_modules/next/dist/client/components/not-found-boundary.js": "node_modules/next/dist/client/components/not-found-boundary.js",
               "node_modules/next/dist/lib/metadata/generate/basic.js": "node_modules/next/dist/lib/metadata/generate/basic.js",
               "node_modules/next/dist/lib/metadata/generate/alternate.js": "node_modules/next/dist/lib/metadata/generate/alternate.js",
-              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/icons.js": "node_modules/next/dist/lib/metadata/generate/icons.js",
+              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/meta.js": "node_modules/next/dist/lib/metadata/generate/meta.js",
               "node_modules/next/dist/compiled/nanoid/package.json": "node_modules/next/dist/compiled/nanoid/package.json",
               "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js": "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js",
@@ -4209,12 +4233,12 @@
               "node_modules/react-dom/cjs/react-dom-server.browser.development.js": "node_modules/react-dom/cjs/react-dom-server.browser.development.js",
               ".next/server/chunks/72.js": ".next/server/chunks/72.js",
               "node_modules/next/dist/pages/_document.js": "node_modules/next/dist/pages/_document.js",
-              ".next/server/chunks/447.js": ".next/server/chunks/447.js",
+              ".next/server/chunks/161.js": ".next/server/chunks/161.js",
               ".next/server/chunks/638.js": ".next/server/chunks/638.js",
+              ".next/server/chunks/726.js": ".next/server/chunks/726.js",
               ".next/server/chunks/985.js": ".next/server/chunks/985.js",
               ".next/server/app/admin/page_client-reference-manifest.js": ".next/server/app/admin/page_client-reference-manifest.js",
               "src/data/casinos.json": "src/data/casinos.json",
-              ".next/server/chunks/706.js": ".next/server/chunks/706.js",
               ".next/server/app/all-casinos/page_client-reference-manifest.js": ".next/server/app/all-casinos/page_client-reference-manifest.js",
               ".next/server/app/how-bonuses-work/page_client-reference-manifest.js": ".next/server/app/how-bonuses-work/page_client-reference-manifest.js",
               ".next/server/app/page_client-reference-manifest.js": ".next/server/app/page_client-reference-manifest.js",
@@ -4262,6 +4286,26 @@
           }
         },
         {
+          "reason": "unnecessary rsc function",
+          "relativePath": "/crypto-casinos/[slug].rsc.func",
+          "config": {
+            "runtime": "edge",
+            "name": "crypto-casinos/[slug]",
+            "deploymentTarget": "v8-worker",
+            "entrypoint": "index.js",
+            "assets": [],
+            "framework": {
+              "slug": "nextjs",
+              "version": "14.1.0"
+            },
+            "environment": {}
+          },
+          "route": {
+            "path": "/crypto-casinos/[slug].rsc",
+            "overrides": []
+          }
+        },
+        {
           "reason": "invalid unnecessary not-found function",
           "relativePath": "/_not-found.func",
           "config": {
@@ -4302,9 +4346,9 @@
               "node_modules/next/dist/server/load-components.js": "node_modules/next/dist/server/load-components.js",
               "node_modules/next/dist/lib/is-error.js": "node_modules/next/dist/lib/is-error.js",
               "node_modules/next/dist/server/body-streams.js": "node_modules/next/dist/server/body-streams.js",
-              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/lib/constants.js": "node_modules/next/dist/lib/constants.js",
               "node_modules/next/dist/server/pipe-readable.js": "node_modules/next/dist/server/pipe-readable.js",
+              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/server/load-manifest.js": "node_modules/next/dist/server/load-manifest.js",
               "node_modules/next/dist/lib/interop-default.js": "node_modules/next/dist/lib/interop-default.js",
               "node_modules/next/dist/lib/format-dynamic-import-path.js": "node_modules/next/dist/lib/format-dynamic-import-path.js",
@@ -4375,8 +4419,8 @@
               "node_modules/next/dist/server/lib/server-action-request-meta.js": "node_modules/next/dist/server/lib/server-action-request-meta.js",
               "node_modules/next/dist/server/future/route-kind.js": "node_modules/next/dist/server/future/route-kind.js",
               "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js": "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js",
-              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js": "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js",
+              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js",
@@ -4439,9 +4483,9 @@
               "node_modules/next/dist/server/crypto-utils.js": "node_modules/next/dist/server/crypto-utils.js",
               "node_modules/next/dist/shared/lib/router/utils/path-match.js": "node_modules/next/dist/shared/lib/router/utils/path-match.js",
               "node_modules/react-dom/server.browser.js": "node_modules/react-dom/server.browser.js",
+              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js",
               "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js",
-              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js",
@@ -4498,8 +4542,8 @@
               "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js",
-              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js",
               "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json": "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
               "node_modules/next/dist/compiled/debug/package.json": "node_modules/next/dist/compiled/debug/package.json",
@@ -4521,9 +4565,9 @@
               "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js": "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js",
               "node_modules/next/dist/lib/page-types.js": "node_modules/next/dist/lib/page-types.js",
               "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs": "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs",
-              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js": "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js": "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js",
               "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js": "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js",
               "node_modules/next/dist/lib/is-serializable-props.js": "node_modules/next/dist/lib/is-serializable-props.js",
@@ -4602,8 +4646,8 @@
               "node_modules/next/dist/client/components/not-found-boundary.js": "node_modules/next/dist/client/components/not-found-boundary.js",
               "node_modules/next/dist/lib/metadata/generate/basic.js": "node_modules/next/dist/lib/metadata/generate/basic.js",
               "node_modules/next/dist/lib/metadata/generate/alternate.js": "node_modules/next/dist/lib/metadata/generate/alternate.js",
-              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/icons.js": "node_modules/next/dist/lib/metadata/generate/icons.js",
+              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/meta.js": "node_modules/next/dist/lib/metadata/generate/meta.js",
               "node_modules/next/dist/compiled/nanoid/package.json": "node_modules/next/dist/compiled/nanoid/package.json",
               "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js": "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js",
@@ -4697,8 +4741,9 @@
               "node_modules/react-dom/cjs/react-dom-server.browser.development.js": "node_modules/react-dom/cjs/react-dom-server.browser.development.js",
               ".next/server/chunks/72.js": ".next/server/chunks/72.js",
               "node_modules/next/dist/pages/_document.js": "node_modules/next/dist/pages/_document.js",
-              ".next/server/chunks/447.js": ".next/server/chunks/447.js",
+              ".next/server/chunks/161.js": ".next/server/chunks/161.js",
               ".next/server/chunks/638.js": ".next/server/chunks/638.js",
+              ".next/server/chunks/726.js": ".next/server/chunks/726.js",
               ".next/server/app/_not-found_client-reference-manifest.js": ".next/server/app/_not-found_client-reference-manifest.js",
               ".next/server/app/_not-found.js": ".next/server/app/_not-found.js",
               ".next/server/pages/_app.js": ".next/server/pages/_app.js",
@@ -4748,9 +4793,9 @@
               "node_modules/next/dist/server/load-components.js": "node_modules/next/dist/server/load-components.js",
               "node_modules/next/dist/lib/is-error.js": "node_modules/next/dist/lib/is-error.js",
               "node_modules/next/dist/server/body-streams.js": "node_modules/next/dist/server/body-streams.js",
-              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/lib/constants.js": "node_modules/next/dist/lib/constants.js",
               "node_modules/next/dist/server/pipe-readable.js": "node_modules/next/dist/server/pipe-readable.js",
+              "node_modules/next/dist/server/setup-http-agent-env.js": "node_modules/next/dist/server/setup-http-agent-env.js",
               "node_modules/next/dist/server/load-manifest.js": "node_modules/next/dist/server/load-manifest.js",
               "node_modules/next/dist/lib/interop-default.js": "node_modules/next/dist/lib/interop-default.js",
               "node_modules/next/dist/lib/format-dynamic-import-path.js": "node_modules/next/dist/lib/format-dynamic-import-path.js",
@@ -4821,8 +4866,8 @@
               "node_modules/next/dist/server/lib/server-action-request-meta.js": "node_modules/next/dist/server/lib/server-action-request-meta.js",
               "node_modules/next/dist/server/future/route-kind.js": "node_modules/next/dist/server/future/route-kind.js",
               "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js": "node_modules/next/dist/server/future/normalizers/locale-route-normalizer.js",
-              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js": "node_modules/next/dist/server/future/route-matcher-managers/default-route-matcher-manager.js",
+              "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-page-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/app-route-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-api-route-matcher-provider.js",
               "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/pages-route-matcher-provider.js",
@@ -4885,9 +4930,9 @@
               "node_modules/next/dist/server/crypto-utils.js": "node_modules/next/dist/server/crypto-utils.js",
               "node_modules/next/dist/shared/lib/router/utils/path-match.js": "node_modules/next/dist/shared/lib/router/utils/path-match.js",
               "node_modules/react-dom/server.browser.js": "node_modules/react-dom/server.browser.js",
+              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-page-route-matcher.js",
               "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js": "node_modules/next/dist/server/future/route-matcher-providers/manifest-route-matcher-provider.js",
-              "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/locale-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/app-route-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-api-route-matcher.js",
               "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js": "node_modules/next/dist/server/future/route-matchers/pages-route-matcher.js",
@@ -4944,8 +4989,8 @@
               "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-page-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/app/app-pathname-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-bundle-path-normalizer.js",
-              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-page-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-filename-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js": "node_modules/next/dist/server/future/normalizers/built/pages/pages-pathname-normalizer.js",
               "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json": "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
               "node_modules/next/dist/compiled/debug/package.json": "node_modules/next/dist/compiled/debug/package.json",
@@ -4967,9 +5012,9 @@
               "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js": "node_modules/next/dist/server/future/route-modules/pages/vendored/contexts/entrypoints.js",
               "node_modules/next/dist/lib/page-types.js": "node_modules/next/dist/lib/page-types.js",
               "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs": "node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs",
-              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js": "node_modules/next/dist/server/future/normalizers/prefixing-normalizer.js",
               "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js": "node_modules/next/dist/server/future/normalizers/absolute-filename-normalizer.js",
+              "node_modules/next/dist/server/future/normalizers/normalizers.js": "node_modules/next/dist/server/future/normalizers/normalizers.js",
               "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js": "node_modules/next/dist/server/future/normalizers/wrap-normalizer-fn.js",
               "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js": "node_modules/next/dist/server/future/normalizers/underscore-normalizer.js",
               "node_modules/next/dist/lib/is-serializable-props.js": "node_modules/next/dist/lib/is-serializable-props.js",
@@ -5048,8 +5093,8 @@
               "node_modules/next/dist/client/components/not-found-boundary.js": "node_modules/next/dist/client/components/not-found-boundary.js",
               "node_modules/next/dist/lib/metadata/generate/basic.js": "node_modules/next/dist/lib/metadata/generate/basic.js",
               "node_modules/next/dist/lib/metadata/generate/alternate.js": "node_modules/next/dist/lib/metadata/generate/alternate.js",
-              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/icons.js": "node_modules/next/dist/lib/metadata/generate/icons.js",
+              "node_modules/next/dist/lib/metadata/generate/opengraph.js": "node_modules/next/dist/lib/metadata/generate/opengraph.js",
               "node_modules/next/dist/lib/metadata/generate/meta.js": "node_modules/next/dist/lib/metadata/generate/meta.js",
               "node_modules/next/dist/compiled/nanoid/package.json": "node_modules/next/dist/compiled/nanoid/package.json",
               "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js": "node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js",
@@ -5143,8 +5188,9 @@
               "node_modules/react-dom/cjs/react-dom-server.browser.development.js": "node_modules/react-dom/cjs/react-dom-server.browser.development.js",
               ".next/server/chunks/72.js": ".next/server/chunks/72.js",
               "node_modules/next/dist/pages/_document.js": "node_modules/next/dist/pages/_document.js",
-              ".next/server/chunks/447.js": ".next/server/chunks/447.js",
+              ".next/server/chunks/161.js": ".next/server/chunks/161.js",
               ".next/server/chunks/638.js": ".next/server/chunks/638.js",
+              ".next/server/chunks/726.js": ".next/server/chunks/726.js",
               ".next/server/app/_not-found_client-reference-manifest.js": ".next/server/app/_not-found_client-reference-manifest.js",
               ".next/server/app/_not-found.js": ".next/server/app/_not-found.js",
               ".next/server/pages/_app.js": ".next/server/pages/_app.js",
@@ -5164,30 +5210,32 @@
       "/_app.rsc.json",
       "/_document.rsc.json",
       "/_error.rsc.json",
-      "/_next/static/W-927-Te5Y8T89IY28lH9/_buildManifest.js",
-      "/_next/static/W-927-Te5Y8T89IY28lH9/_ssgManifest.js",
+      "/_next/static/KDEKbytnoIc0_XEtXykM-/_buildManifest.js",
+      "/_next/static/KDEKbytnoIc0_XEtXykM-/_ssgManifest.js",
       "/_next/static/chunks/212.a6d77743b0e2dd21.js",
       "/_next/static/chunks/250-aad1a1b52dbe7fee.js",
       "/_next/static/chunks/411-e2b298e9657f3085.js",
-      "/_next/static/chunks/564-9b7395c149106bc7.js",
-      "/_next/static/chunks/69-e51270e9aca7f934.js",
+      "/_next/static/chunks/429-f9d7eb3c7b269fd4.js",
       "/_next/static/chunks/703-da39d6e00a94da59.js",
-      "/_next/static/chunks/app/admin/page-6b361ac34c2a59f3.js",
-      "/_next/static/chunks/app/all-casinos/page-e665c8a4e5e4b98c.js",
-      "/_next/static/chunks/app/how-bonuses-work/page-6d86064929d805d2.js",
-      "/_next/static/chunks/app/layout-526c5925e4da9fb0.js",
-      "/_next/static/chunks/app/not-found-d1460cbfb60d596c.js",
-      "/_next/static/chunks/app/page-0ad3e11593fe2fad.js",
+      "/_next/static/chunks/726-477afc90790a22b7.js",
+      "/_next/static/chunks/768-5c69dc27807397f3.js",
+      "/_next/static/chunks/app/admin/page-5c240395f7f9e749.js",
+      "/_next/static/chunks/app/all-casinos/page-163bf3c9954d7029.js",
+      "/_next/static/chunks/app/crypto-casinos/[slug]/page-5f349811c17000e8.js",
+      "/_next/static/chunks/app/how-bonuses-work/page-65b899ccb960f045.js",
+      "/_next/static/chunks/app/layout-e6185c2aa432cd48.js",
+      "/_next/static/chunks/app/not-found-c2b2ec6da88e0ffe.js",
+      "/_next/static/chunks/app/page-663a2deea550f548.js",
       "/_next/static/chunks/eeac573e-8e218f1055a71691.js",
       "/_next/static/chunks/fd9d1056-3039abef2ca2f0f7.js",
       "/_next/static/chunks/framework-f66176bb897dc684.js",
-      "/_next/static/chunks/main-add33119b086b0b2.js",
-      "/_next/static/chunks/main-app-15007fbdffd2bda9.js",
+      "/_next/static/chunks/main-app-7766ad019418a77a.js",
+      "/_next/static/chunks/main-de3634f5f5b881d9.js",
       "/_next/static/chunks/pages/_app-75f6107b0260711c.js",
       "/_next/static/chunks/pages/_error-9a890acb1e81c3fc.js",
       "/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
-      "/_next/static/chunks/webpack-c166f2950719ce02.js",
-      "/_next/static/css/af7163017e3c06de.css",
+      "/_next/static/chunks/webpack-853d349f82d8a528.js",
+      "/_next/static/css/9fc789568e7c8354.css",
       "/_next/static/media/26a46d62cd723877-s.woff2",
       "/_next/static/media/55c55f0601d81cf3-s.woff2",
       "/_next/static/media/581909926a08bbc8-s.woff2",
@@ -8516,410 +8564,1777 @@
       "wasm": {},
       "manifest": {
         "__BUILD_MANIFEST": {
-          "consumers": 1,
+          "consumers": 2,
           "groupedPath": "27d10e462fba646daaa29468a0656e12",
-          "inlined": true,
-          "byteLength": 822,
+          "newDest": "__next-on-pages-dist__/manifest/27d10e462fba646daaa29468a0656e12.js",
+          "byteLength": 867,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
         "__REACT_LOADABLE_MANIFEST": {
-          "consumers": 1,
+          "consumers": 2,
           "groupedPath": "27d10e462fba646daaa29468a0656e12",
-          "inlined": true,
-          "byteLength": 36,
+          "newDest": "__next-on-pages-dist__/manifest/27d10e462fba646daaa29468a0656e12.js",
+          "byteLength": 89,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
         "__NEXT_FONT_MANIFEST": {
-          "consumers": 1,
+          "consumers": 2,
           "groupedPath": "27d10e462fba646daaa29468a0656e12",
-          "inlined": true,
-          "byteLength": 192,
+          "newDest": "__next-on-pages-dist__/manifest/27d10e462fba646daaa29468a0656e12.js",
+          "byteLength": 240,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "__RSC_SERVER_MANIFEST": {
+          "consumers": 1,
+          "inlined": true,
+          "byteLength": 127,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
           ]
         }
       },
       "webpack": {
-        "2": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 152,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "25": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 4183,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
         "62": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 50,
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 89,
           "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "67": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 55,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "75": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 24461,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "102": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 61,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "108": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 1747,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "115": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 6858,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "119": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 1435,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
         "151": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 288,
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 327,
           "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "195": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 50,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
         "200": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 2330,
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 2371,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
-        "274": {
+        "228": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 86,
+          "byteLength": 1033,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
-        "379": {
+        "374": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 40,
+          "byteLength": 212,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
-        "381": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 40,
+        "395": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 414,
           "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "462": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 4854,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "469": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 87,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "471": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 380,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
         "490": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 3407,
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 3446,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
-        "506": {
+        "516": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 40,
+          "byteLength": 1560,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "573": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 190,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
         "577": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 1787,
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 80,
           "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "579": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 11654,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "616": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 40,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "639": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 5558,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
         "683": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 1847,
+          "byteLength": 160,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
-        "707": {
+        "726": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 970,
+          "byteLength": 744,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
-        "724": {
+        "730": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 522,
+          "byteLength": 424,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
-        "752": {
+        "774": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 4855,
+          "byteLength": 429,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
-        "789": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 92,
+        "844": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 1473,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
-        "805": {
+        "850": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 100,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "865": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 192,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "901": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 80,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1027": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 182017,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1054": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1098,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1084": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 308,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1096": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 308,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1115": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 6898,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1194": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 7501,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1196": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 110,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1198": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 131,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1406": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 399,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1419": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 140,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1426": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 4184,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1440": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 373,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1517": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 41,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1576": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 3295,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1622": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 41,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1638": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 280,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1680": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1550,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1681": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 370,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1707": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 1010,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1795": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 154,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1797": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 992,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1805": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
           "inlined": true,
           "byteLength": 282,
           "consumersList": [
             "/api/rebuild.func/index.js"
           ]
         },
-        "823": {
+        "1889": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 222,
+          "byteLength": 83457,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1900": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 2161,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1910": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 4415,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "1949": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 4382,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2002": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 192,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2024": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1749,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2051": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 287,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2067": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 95,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2075": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 24501,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2202": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 657,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2209": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 4292,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2251": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 196,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2283": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 87,
           "consumersList": [
             "/api/rebuild.func/index.js"
           ]
         },
-        "833": {
+        "2370": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 37842,
+          "byteLength": 1144,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2428": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 589,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2527": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1033,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2568": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 118,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2639": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 5560,
           "consumersList": [
             "/api/rebuild.func/index.js"
           ]
         },
-        "834": {
+        "2828": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 5265,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2831": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1019,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2834": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
           "inlined": true,
           "byteLength": 8388,
           "consumersList": [
             "/api/rebuild.func/index.js"
           ]
         },
-        "844": {
+        "2860": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 1434,
+          "byteLength": 524,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2886": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 277,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2898": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 7291,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "2917": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 11012,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3002": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 642,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3099": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 424,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3102": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 101,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3298": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 132,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3335": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 144,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3405": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 101,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3449": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 5916,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3469": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 4185,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3471": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 382,
           "consumersList": [
             "/api/rebuild.func/index.js"
           ]
         },
-        "845": {
+        "3497": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 7675,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "855": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 7639,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "869": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 3066,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "885": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
-          "inlined": true,
-          "byteLength": 1670,
-          "consumersList": [
-            "/api/rebuild.func/index.js"
-          ]
-        },
-        "898": {
-          "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
           "byteLength": 7251,
           "consumersList": [
-            "/api/rebuild.func/index.js"
+            "/crypto-casinos/[slug].func/index.js"
           ]
         },
-        "901": {
+        "3561": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 40,
+          "byteLength": 408,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3645": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 93,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3711": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 868,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3835": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 172,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3862": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 328,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3916": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 213,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3947": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 282,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "3979": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1457,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4006": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 291,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4025": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 4224,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4187": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 4854,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4225": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 41,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4263": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1787,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4351": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 575,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4369": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1821,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4718": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 8388,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4740": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1670,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4823": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 262,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4831": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 222,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4870": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 92311,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4896": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 24461,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "4899": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 86,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5023": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 6,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5034": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 59369,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5048": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 311,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5098": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 354,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5179": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 476,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5277": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 93,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5289": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1030,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5303": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 6,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5383": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 770,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5396": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 27039,
           "consumersList": [
             "/api/rebuild.func/index.js"
           ]
         },
-        "932": {
+        "5416": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
-          "byteLength": 1651,
+          "byteLength": 49,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5459": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 12792,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5540": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 114,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5579": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 41,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5616": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 81,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5661": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 215,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5683": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 1848,
           "consumersList": [
             "/api/rebuild.func/index.js"
           ]
         },
-        "949": {
+        "5771": {
           "consumers": 1,
-          "groupedPath": "5a64668da873592892b8aff0c5417bf1",
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1449,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5789": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 93,
+          "consumersList": [
+            "/api/rebuild.func/index.js"
+          ]
+        },
+        "5828": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 499,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5836": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 184,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5902": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 87,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "5932": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 1658,
+          "consumersList": [
+            "/api/rebuild.func/index.js"
+          ]
+        },
+        "6056": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 83,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6142": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 1861,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6193": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 3416,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6195": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 90,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6210": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 147,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6297": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
           "inlined": true,
           "byteLength": 4342,
           "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6336": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 51,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6379": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 81,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6384": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 252,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6395": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1077,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6457": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 163,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6485": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 41,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6597": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 95,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6622": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 378,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6647": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 127,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6869": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 3106,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6872": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1848,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "6932": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 375,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7049": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 93,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7108": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 1749,
+          "consumersList": [
             "/api/rebuild.func/index.js"
+          ]
+        },
+        "7257": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 477,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7274": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 126,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7382": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 61,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7391": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 382,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7397": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 663,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7788": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 2342,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7843": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 268351,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7848": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 270551,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7867": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 193,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7890": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 127,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7891": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 3067,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7894": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 183,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7918": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 556,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "7988": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 315,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8022": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 96,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8039": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 269,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8079": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 10690,
+          "consumersList": [
+            "/api/rebuild.func/index.js"
+          ]
+        },
+        "8113": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 95,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8119": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 1437,
+          "consumersList": [
+            "/api/rebuild.func/index.js"
+          ]
+        },
+        "8142": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 201,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8145": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 836,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8239": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 41,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8263": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 165,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8289": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 316,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8381": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 41,
+          "consumersList": [
+            "/api/rebuild.func/index.js"
+          ]
+        },
+        "8571": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 1059,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8684": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 1473,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8724": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 524,
+          "consumersList": [
+            "/api/rebuild.func/index.js"
+          ]
+        },
+        "8752": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 4895,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8855": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 26359,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8872": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 3913,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8885": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 1710,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8891": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 875,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "8973": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 187,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9008": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 253,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9017": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 272,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9041": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 739,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9217": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 220,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9227": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 370,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9276": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 919,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9423": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 61,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9462": {
+          "consumers": 1,
+          "groupedPath": "f65717a5553919dc441120cd582cfb37",
+          "inlined": true,
+          "byteLength": 4854,
+          "consumersList": [
+            "/api/rebuild.func/index.js"
+          ]
+        },
+        "9577": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 1827,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9713": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 89,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9728": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 10092,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9845": {
+          "consumers": 2,
+          "groupedPath": "44bff480f105853cb03b9b061f5738d6",
+          "newDest": "__next-on-pages-dist__/webpack/44bff480f105853cb03b9b061f5738d6.js",
+          "byteLength": 7717,
+          "consumersList": [
+            "/api/rebuild.func/index.js",
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9858": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 4855,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
+          ]
+        },
+        "9968": {
+          "consumers": 1,
+          "groupedPath": "44bb911cf17795ed0b6a81ce9ea4c556",
+          "inlined": true,
+          "byteLength": 87,
+          "consumersList": [
+            "/crypto-casinos/[slug].func/index.js"
           ]
         }
       }

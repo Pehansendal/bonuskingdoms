@@ -307,92 +307,105 @@ export default function CasinoCardList({ casinos }: CasinoCardListProps) {
 
       {/* Filter Section med glass effect */}
       <div className="relative mb-6">
-        <div className="backdrop-blur-xl bg-white/10 border border-white/20 rounded-xl shadow-xl">
-          <div className="flex flex-wrap items-center gap-4 p-4">
-            <div className="flex gap-3">
-              <button
-                onClick={() => setSortBy('bonus')}
-                className={`px-6 py-3 rounded-lg font-medium transition-all flex items-center gap-2 ${
-                  sortBy === 'bonus'
-                    ? 'bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-lg shadow-blue-500/20 scale-105'
-                    : 'bg-gray-700 hover:bg-gray-600 text-gray-200 hover:scale-105'
-                }`}
-              >
-                <SparklesIcon className="w-5 h-5" />
-                Best Bonuses
-              </button>
-              <button
-                onClick={() => setSortBy('spins')}
-                className={`px-6 py-3 rounded-lg font-medium transition-all flex items-center gap-2 ${
-                  sortBy === 'spins'
-                    ? 'bg-gradient-to-r from-purple-600 to-pink-600 text-white shadow-lg shadow-purple-500/20 scale-105'
-                    : 'bg-gray-700 hover:bg-gray-600 text-gray-200 hover:scale-105'
-                }`}
-              >
-                <GiftIcon className="w-5 h-5" />
-                Most Free Spins
-              </button>
-            </div>
-
-            {/* Custom Crypto Dropdown */}
-            <div className="relative">
-              <button
-                onClick={() => setIsDropdownOpen(!isDropdownOpen)}
-                className="bg-gray-700 rounded-lg pl-10 pr-10 py-3 border border-gray-600 focus:border-blue-500 focus:ring-1 focus:ring-blue-500 hover:bg-gray-600 transition-colors flex items-center gap-2 min-w-[240px]"
-              >
-                <CurrencyDollarIcon className="w-5 h-5 text-gray-400 absolute left-3" />
-                <span className="text-gray-200">
-                  {selectedCrypto || 'Sort by Cryptocurrency'}
-                </span>
-                <svg 
-                  className={`w-4 h-4 text-gray-400 absolute right-3 transition-transform ${isDropdownOpen ? 'rotate-180' : ''}`} 
-                  fill="none" 
-                  stroke="currentColor" 
-                  viewBox="0 0 24 24"
+        {/* Legg til overskrift med sticky container */}
+        <div className="sticky top-[72px] bg-gray-900/95 backdrop-blur-xl z-40 py-4 -mx-4 px-4 md:px-0">
+          <h2 className="text-xl font-medium text-center mb-4 bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">
+            Sort and Filter Casinos
+          </h2>
+          <div className="backdrop-blur-xl bg-white/10 border border-white/20 rounded-xl shadow-xl">
+            <div className="flex flex-wrap items-center justify-center gap-4 p-4">
+              <div className="flex gap-3">
+                <button
+                  onClick={() => setSortBy('bonus')}
+                  className={`px-6 py-3 rounded-lg font-medium transition-all flex items-center gap-2 ${
+                    sortBy === 'bonus'
+                      ? 'bg-gray-700 text-gray-200'
+                      : 'bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-lg shadow-blue-500/20 hover:scale-105'
+                  }`}
                 >
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                </svg>
-              </button>
+                  <SparklesIcon className="w-5 h-5" />
+                  Best Bonuses
+                </button>
+                <button
+                  onClick={() => setSortBy('spins')}
+                  className={`px-6 py-3 rounded-lg font-medium transition-all flex items-center gap-2 ${
+                    sortBy === 'spins'
+                      ? 'bg-gray-700 text-gray-200'
+                      : 'bg-gradient-to-r from-purple-600 to-pink-600 text-white shadow-lg shadow-purple-500/20 hover:scale-105'
+                  }`}
+                >
+                  <GiftIcon className="w-5 h-5" />
+                  Most Free Spins
+                </button>
+              </div>
 
-              {/* Dropdown Menu */}
-              {isDropdownOpen && (
-                <div className="absolute z-50 mt-2 w-full bg-gray-800 rounded-lg border border-gray-700 shadow-xl">
-                  <div className="py-1 max-h-[300px] overflow-y-auto">
-                    <button
-                      onClick={() => {
-                        setSelectedCrypto('');
-                        setIsDropdownOpen(false);
-                      }}
-                      className="w-full px-4 py-2 text-left text-gray-300 hover:bg-gray-700 flex items-center gap-2"
-                    >
-                      Sort by Cryptocurrency
-                    </button>
-                    {availableCryptos.map(crypto => {
-                      const symbol = getSymbolFromName(crypto);
-                      return (
-                        <button
-                          key={crypto}
-                          onClick={() => {
-                            setSelectedCrypto(crypto);
-                            setIsDropdownOpen(false);
-                          }}
-                          className="w-full px-4 py-2 text-left text-gray-300 hover:bg-gray-700 flex items-center gap-3"
-                        >
-                          <CryptoIcon symbol={symbol} />
-                          {crypto}
-                        </button>
-                      );
-                    })}
+              {/* Custom Crypto Dropdown - Oppdatert stil */}
+              <div className="relative z-50">
+                <button
+                  onClick={() => setIsDropdownOpen(!isDropdownOpen)}
+                  className={`
+                    px-6 py-3 rounded-lg font-medium transition-all
+                    flex items-center gap-2 min-w-[240px]
+                    ${isDropdownOpen 
+                      ? 'bg-gray-700 text-gray-200'
+                      : 'bg-gradient-to-r from-cyan-600 to-teal-600 text-white shadow-lg shadow-cyan-500/20 hover:scale-105'
+                    }
+                  `}
+                >
+                  <CurrencyDollarIcon className="w-5 h-5" />
+                  <span className="flex-1 text-left">
+                    {selectedCrypto || 'Sort by Cryptocurrency'}
+                  </span>
+                  <svg 
+                    className={`w-4 h-4 transition-transform ${isDropdownOpen ? 'rotate-180' : ''}`} 
+                    fill="none" 
+                    stroke="currentColor" 
+                    viewBox="0 0 24 24"
+                  >
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                  </svg>
+                </button>
+
+                {/* Dropdown Menu */}
+                {isDropdownOpen && (
+                  <div className="absolute mt-2 w-full bg-gray-800 rounded-lg border border-gray-700 shadow-xl z-50">
+                    <div className="py-1 max-h-[300px] overflow-y-auto">
+                      <button
+                        onClick={() => {
+                          setSelectedCrypto('');
+                          setIsDropdownOpen(false);
+                        }}
+                        className="w-full px-4 py-2 text-left text-gray-300 hover:bg-gray-700 flex items-center gap-2"
+                      >
+                        Sort by Cryptocurrency
+                      </button>
+                      {availableCryptos.map(crypto => {
+                        const symbol = getSymbolFromName(crypto);
+                        return (
+                          <button
+                            key={crypto}
+                            onClick={() => {
+                              setSelectedCrypto(crypto);
+                              setIsDropdownOpen(false);
+                            }}
+                            className="w-full px-4 py-2 text-left text-gray-300 hover:bg-gray-700 flex items-center gap-3"
+                          >
+                            <CryptoIcon symbol={symbol} />
+                            {crypto}
+                          </button>
+                        );
+                      })}
+                    </div>
                   </div>
-                </div>
-              )}
+                )}
+              </div>
             </div>
           </div>
         </div>
       </div>
 
       {/* Casino Cards med glass effect */}
-      <div className="space-y-4 relative">
+      <div className="space-y-4 relative z-30">
         {visibleCasinos.map((casino, index) => (
           <div key={casino.casino_name}>
             <div className="backdrop-blur-xl bg-white/5 border border-white/10 rounded-xl p-4 md:p-6 hover:bg-white/10 transition-all shadow-xl">

@@ -1,42 +1,51 @@
-# BonusKingdoms - Crypto Casino Comparison Platform
+# BonusKingdoms
 
-A modern, responsive web application for comparing and filtering crypto casinos. Built with Next.js, TypeScript, and Tailwind CSS.
+A modern web application for finding and comparing crypto casino bonuses.
 
-## Key Features
+## Features
 
-- 🎮 Compare 500+ crypto casinos
-- 💰 Advanced sorting and filtering system
-- 🪙 Cryptocurrency-specific filtering
-- 🎨 Modern glass-morphism design
-- 📱 Fully responsive layout
-- ⚡ Optimized performance with pagination
-- 🔍 Detailed casino reviews and comparisons
+- **Advanced Casino Search**
+  - Real-time casino search with instant results
+  - Visual casino previews with logos and bonus information
+  - Responsive dropdown interface
 
-## Recent Updates
+- **Casino Reviews**
+  - Detailed casino reviews with pros and cons
+  - SEO-optimized content structure
+  - Related casinos recommendations
+  - Individual casino pages with comprehensive reviews
+  - Dynamic related casino suggestions
+  - Structured pros and cons sections
 
-- Added glass-morphism UI design with subtle animated backgrounds
-- Implemented pagination for improved performance
-- Enhanced mobile responsiveness
-- Optimized crypto currency display with "+X more" indicator
-- Improved casino card layout and readability
-- Added gradient CTAs and interactive elements
+- **Advanced Casino Filtering**
+  - Filter casinos by multiple criteria
+  - Sort by bonus size, crypto options, and more
+  - User-friendly interface
 
-## Technical Stack
+- **Educational Content**
+  - Comprehensive guide on how casino bonuses work
+  - Clear explanations of bonus terms and conditions
+  - Tips for maximizing bonus value
 
-- Next.js 14
-- TypeScript
-- Tailwind CSS
-- Heroicons
-- Markdown support for reviews
-- Responsive images with Next/Image
+- **SEO Optimization**
+  - Automatically generated sitemap
+  - Dynamic casino pages with unique URLs
+  - SEO-friendly URL structure
+  - Meta descriptions and titles
+  - Structured data for casino reviews
 
-## Performance Optimizations
+## Technical Features
 
-- Lazy loading of casino cards (15 at a time)
-- Optimized image loading
-- Efficient filtering and sorting algorithms
-- Minimal client-side JavaScript
-- Responsive image optimization
+- Next.js 14 with App Router
+- TypeScript for type safety
+- Tailwind CSS for styling
+- Responsive design (mobile-first)
+- SEO optimized
+- Static site generation for performance
+- Client-side search functionality
+- Markdown content support
+- Dynamic route generation for casino pages
+- Automated sitemap generation
 
 ## Development
 
@@ -50,9 +59,32 @@ npm run dev
 # Build for production
 npm run build
 
-# Start production server
-npm start
+# Preview production build
+npm run preview
 ```
+
+## Project Structure
+
+```
+src/
+├── app/                    # Next.js app router pages
+├── components/            # React components
+│   ├── CasinoSearch.tsx   # Casino search component
+│   ├── Header.tsx         # Site header with navigation
+│   └── ...
+├── data/                  # Static data files
+│   └── casinos.json       # Casino database
+├── types/                 # TypeScript type definitions
+└── utils/                 # Utility functions
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a new Pull Request
 
 ## Cloudflare integration
 

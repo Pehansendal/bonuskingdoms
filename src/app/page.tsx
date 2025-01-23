@@ -1,3 +1,6 @@
+'use client';
+
+import { useState } from 'react';
 import casinosData from '@/data/casinos.json';
 import CasinoCardList from '@/components/CasinoCardList';
 import CasinoTable from '@/components/CasinoTable';
@@ -6,9 +9,19 @@ import { StarIcon, SparklesIcon, ArrowRightIcon } from '@heroicons/react/24/outl
 import Image from 'next/image';
 import type { Casino } from '@/types/casino';
 
+type SortType = 'bonus' | 'rating' | 'newest';
+
 export default function Home() {
+  const [sortType, setSortType] = useState<SortType>('bonus');
+
+  const handleSort = (type: SortType) => {
+    setSortType(type);
+    // Implementer sorteringslogikken her
+  };
+
   return (
     <main>
+      {/* Fjerner disse knappene */}
       {/* Hero Section med bakgrunnsbilde */}
       <div className="relative mb-12">
         {/* Bakgrunnsbilde */}

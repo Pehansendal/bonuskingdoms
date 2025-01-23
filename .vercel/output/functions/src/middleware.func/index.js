@@ -1,7 +1,7 @@
 
   
   globalThis._ENTRIES = {};
-/**/;self.__PRERENDER_MANIFEST="{\"version\":4,\"routes\":{\"/favicon.ico\":{\"initialHeaders\":{\"cache-control\":\"public, max-age=0, must-revalidate\",\"content-type\":\"image/x-icon\",\"x-next-cache-tags\":\"_N_T_/layout,_N_T_/favicon.ico/layout,_N_T_/favicon.ico/route,_N_T_/favicon.ico\"},\"experimentalBypassFor\":[{\"type\":\"header\",\"key\":\"Next-Action\"},{\"type\":\"header\",\"key\":\"content-type\",\"value\":\"multipart/form-data\"}],\"initialRevalidateSeconds\":false,\"srcRoute\":\"/favicon.ico\",\"dataRoute\":null},\"/admin\":{\"initialHeaders\":{\"x-next-cache-tags\":\"_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/page,_N_T_/admin\"},\"experimentalBypassFor\":[{\"type\":\"header\",\"key\":\"Next-Action\"},{\"type\":\"header\",\"key\":\"content-type\",\"value\":\"multipart/form-data\"}],\"initialRevalidateSeconds\":false,\"srcRoute\":\"/admin\",\"dataRoute\":\"/admin.rsc\"},\"/\":{\"initialHeaders\":{\"x-next-cache-tags\":\"_N_T_/layout,_N_T_/page,_N_T_/\"},\"experimentalBypassFor\":[{\"type\":\"header\",\"key\":\"Next-Action\"},{\"type\":\"header\",\"key\":\"content-type\",\"value\":\"multipart/form-data\"}],\"initialRevalidateSeconds\":false,\"srcRoute\":\"/\",\"dataRoute\":\"/index.rsc\"},\"/how-bonuses-work\":{\"initialHeaders\":{\"x-next-cache-tags\":\"_N_T_/layout,_N_T_/how-bonuses-work/layout,_N_T_/how-bonuses-work/page,_N_T_/how-bonuses-work\"},\"experimentalBypassFor\":[{\"type\":\"header\",\"key\":\"Next-Action\"},{\"type\":\"header\",\"key\":\"content-type\",\"value\":\"multipart/form-data\"}],\"initialRevalidateSeconds\":false,\"srcRoute\":\"/how-bonuses-work\",\"dataRoute\":\"/how-bonuses-work.rsc\"},\"/all-casinos\":{\"initialHeaders\":{\"x-next-cache-tags\":\"_N_T_/layout,_N_T_/all-casinos/layout,_N_T_/all-casinos/page,_N_T_/all-casinos\"},\"experimentalBypassFor\":[{\"type\":\"header\",\"key\":\"Next-Action\"},{\"type\":\"header\",\"key\":\"content-type\",\"value\":\"multipart/form-data\"}],\"initialRevalidateSeconds\":false,\"srcRoute\":\"/all-casinos\",\"dataRoute\":\"/all-casinos.rsc\"}},\"dynamicRoutes\":{},\"notFoundRoutes\":[],\"preview\":{\"previewModeId\":\"d21d95c36a8357a4fba816add5de914f\",\"previewModeSigningKey\":\"7d2faeb2c2e132bccdb7efaef64a217c0f52c4eada81720791b6f4f74521d3c7\",\"previewModeEncryptionKey\":\"39a3933a4e699bb6648757846b42b887c5a7572284aac27f05b3e1061e587c03\"}}"
+/**/;self.__PRERENDER_MANIFEST="{\"version\":4,\"routes\":{\"/favicon.ico\":{\"initialHeaders\":{\"cache-control\":\"public, max-age=0, must-revalidate\",\"content-type\":\"image/x-icon\",\"x-next-cache-tags\":\"_N_T_/layout,_N_T_/favicon.ico/layout,_N_T_/favicon.ico/route,_N_T_/favicon.ico\"},\"experimentalBypassFor\":[{\"type\":\"header\",\"key\":\"Next-Action\"},{\"type\":\"header\",\"key\":\"content-type\",\"value\":\"multipart/form-data\"}],\"initialRevalidateSeconds\":false,\"srcRoute\":\"/favicon.ico\",\"dataRoute\":null},\"/all-casinos\":{\"initialHeaders\":{\"x-next-cache-tags\":\"_N_T_/layout,_N_T_/all-casinos/layout,_N_T_/all-casinos/page,_N_T_/all-casinos\"},\"experimentalBypassFor\":[{\"type\":\"header\",\"key\":\"Next-Action\"},{\"type\":\"header\",\"key\":\"content-type\",\"value\":\"multipart/form-data\"}],\"initialRevalidateSeconds\":false,\"srcRoute\":\"/all-casinos\",\"dataRoute\":\"/all-casinos.rsc\"},\"/how-bonuses-work\":{\"initialHeaders\":{\"x-next-cache-tags\":\"_N_T_/layout,_N_T_/how-bonuses-work/layout,_N_T_/how-bonuses-work/page,_N_T_/how-bonuses-work\"},\"experimentalBypassFor\":[{\"type\":\"header\",\"key\":\"Next-Action\"},{\"type\":\"header\",\"key\":\"content-type\",\"value\":\"multipart/form-data\"}],\"initialRevalidateSeconds\":false,\"srcRoute\":\"/how-bonuses-work\",\"dataRoute\":\"/how-bonuses-work.rsc\"},\"/\":{\"initialHeaders\":{\"x-next-cache-tags\":\"_N_T_/layout,_N_T_/page,_N_T_/\"},\"experimentalBypassFor\":[{\"type\":\"header\",\"key\":\"Next-Action\"},{\"type\":\"header\",\"key\":\"content-type\",\"value\":\"multipart/form-data\"}],\"initialRevalidateSeconds\":false,\"srcRoute\":\"/\",\"dataRoute\":\"/index.rsc\"},\"/admin\":{\"initialHeaders\":{\"x-next-cache-tags\":\"_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/page,_N_T_/admin\"},\"experimentalBypassFor\":[{\"type\":\"header\",\"key\":\"Next-Action\"},{\"type\":\"header\",\"key\":\"content-type\",\"value\":\"multipart/form-data\"}],\"initialRevalidateSeconds\":false,\"srcRoute\":\"/admin\",\"dataRoute\":\"/admin.rsc\"}},\"dynamicRoutes\":{},\"notFoundRoutes\":[],\"preview\":{\"previewModeId\":\"ddc4c2580f4d5cc5663f375b6ce13c8a\",\"previewModeSigningKey\":\"8145e69b9a2af83a8df3ca47155f48dccebb31db3f8ed5c2630bddaa03641634\",\"previewModeEncryptionKey\":\"e15e8b4686f922a493a29b27a9ae6d36d43ef7d49493c55df466246386bce071\"}}"
 /**/;/******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({});
@@ -194,7 +194,7 @@
 /**/;// runtime can't be in strict mode because a global variable is assign and maybe created.
 (self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([[727],{
 
-/***/ 67:
+/***/ 2067:
 /***/ ((module) => {
 
 "use strict";
@@ -202,7 +202,7 @@ module.exports = require("node:async_hooks");
 
 /***/ }),
 
-/***/ 195:
+/***/ 6195:
 /***/ ((module) => {
 
 "use strict";
@@ -210,7 +210,7 @@ module.exports = require("node:buffer");
 
 /***/ }),
 
-/***/ 546:
+/***/ 8546:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -935,7 +935,7 @@ class NextURL {
 } //# sourceMappingURL=next-url.js.map
 
 // EXTERNAL MODULE: ./node_modules/next/dist/compiled/@edge-runtime/cookies/index.js
-var _edge_runtime_cookies = __webpack_require__(283);
+var _edge_runtime_cookies = __webpack_require__(7283);
 ;// CONCATENATED MODULE: ./node_modules/next/dist/esm/server/web/spec-extension/cookies.js
  //# sourceMappingURL=cookies.js.map
 
@@ -1145,7 +1145,7 @@ const NEXT_RSC_UNION_QUERY = "_rsc";
 const NEXT_DID_POSTPONE_HEADER = "x-nextjs-postponed"; //# sourceMappingURL=app-router-headers.js.map
 
 // EXTERNAL MODULE: ./node_modules/next/dist/esm/shared/lib/modern-browserslist-target.js
-var modern_browserslist_target = __webpack_require__(253);
+var modern_browserslist_target = __webpack_require__(7253);
 ;// CONCATENATED MODULE: ./node_modules/next/dist/esm/shared/lib/constants.js
 
 
@@ -1894,7 +1894,7 @@ function clearPreviewData(res, options = {}) {
     if (SYMBOL_CLEARED_COOKIES in res) {
         return res;
     }
-    const { serialize } = __webpack_require__(578);
+    const { serialize } = __webpack_require__(5578);
     const previous = res.getHeader("Set-Cookie");
     res.setHeader(`Set-Cookie`, [
         ...typeof previous === "string" ? [
@@ -2237,7 +2237,7 @@ let api;
 // the version that is bundled with Next.js.
 // the API is ~stable, so this should be fine
 if (true) {
-    api = __webpack_require__(38);
+    api = __webpack_require__(1038);
 } else {}
 const { context, propagation, trace, SpanStatusCode, SpanKind, ROOT_CONTEXT } = api;
 const isPromise = (p)=>{
@@ -2453,7 +2453,7 @@ function ensureTestApisIntercepted() {
     if (!testApisIntercepted) {
         testApisIntercepted = true;
         if (process.env.NEXT_PRIVATE_TEST_PROXY === "true") {
-            const { interceptTestApis, wrapRequestHandler } = __webpack_require__(895);
+            const { interceptTestApis, wrapRequestHandler } = __webpack_require__(5895);
             interceptTestApis();
             propagator = wrapRequestHandler(propagator);
         }
@@ -2714,7 +2714,7 @@ function nHandler(opts) {
 
 /***/ }),
 
-/***/ 283:
+/***/ 7283:
 /***/ ((module) => {
 
 "use strict";
@@ -3080,7 +3080,7 @@ function normalizeCookie(cookie = {
 
 /***/ }),
 
-/***/ 38:
+/***/ 1038:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
@@ -4572,7 +4572,7 @@ var __dirname = "/";
 
 /***/ }),
 
-/***/ 578:
+/***/ 5578:
 /***/ ((module) => {
 
 "use strict";
@@ -4700,7 +4700,7 @@ var __dirname = "/";
 
 /***/ }),
 
-/***/ 253:
+/***/ 7253:
 /***/ ((module) => {
 
 "use strict";
@@ -4724,7 +4724,7 @@ module.exports = MODERN_BROWSERSLIST_TARGET; //# sourceMappingURL=modern-browser
 
 /***/ }),
 
-/***/ 122:
+/***/ 1122:
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
 "use strict";
@@ -4747,7 +4747,7 @@ _export(exports, {
         return getTestReqInfo;
     }
 });
-const _nodeasync_hooks = __webpack_require__(67);
+const _nodeasync_hooks = __webpack_require__(2067);
 const testStorage = new _nodeasync_hooks.AsyncLocalStorage();
 function extractTestInfoFromRequest(req, reader) {
     const proxyPortHeader = reader.header(req, "next-test-proxy-port");
@@ -4784,11 +4784,11 @@ function getTestReqInfo(req, reader) {
 
 /***/ }),
 
-/***/ 131:
+/***/ 9131:
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
 "use strict";
-/* provided dependency */ var Buffer = __webpack_require__(195)["Buffer"];
+/* provided dependency */ var Buffer = __webpack_require__(6195)["Buffer"];
 
 Object.defineProperty(exports, "__esModule", ({
     value: true
@@ -4811,7 +4811,7 @@ _export(exports, {
         return interceptFetch;
     }
 });
-const _context = __webpack_require__(122);
+const _context = __webpack_require__(1122);
 const reader = {
     url (req) {
         return req.url;
@@ -4919,7 +4919,7 @@ function interceptFetch(originalFetch) {
 
 /***/ }),
 
-/***/ 895:
+/***/ 5895:
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
 "use strict";
@@ -4942,8 +4942,8 @@ _export(exports, {
         return wrapRequestHandler;
     }
 });
-const _context = __webpack_require__(122);
-const _fetch = __webpack_require__(131);
+const _context = __webpack_require__(1122);
+const _fetch = __webpack_require__(9131);
 function interceptTestApis() {
     return (0, _fetch.interceptFetch)(__webpack_require__.g.fetch);
 }
@@ -4994,7 +4994,7 @@ function createAsyncLocalStorage() {
 },
 /******/ __webpack_require__ => { // webpackRuntimeModules
 /******/ var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-/******/ var __webpack_exports__ = (__webpack_exec__(546));
+/******/ var __webpack_exports__ = (__webpack_exec__(8546));
 /******/ (_ENTRIES = typeof _ENTRIES === "undefined" ? {} : _ENTRIES)["middleware_src/middleware"] = __webpack_exports__;
 /******/ }
 ]);
@@ -5007,5 +5007,5 @@ function createAsyncLocalStorage() {
     fn(module, module.exports);
     return module.exports;
   }).call({}).default(
-    {"name":"src/middleware","staticRoutes":[{"page":"/","regex":"^/(?:/)?$","routeKeys":{},"namedRegex":"^/(?:/)?$"},{"page":"/_not-found","regex":"^/_not\\-found(?:/)?$","routeKeys":{},"namedRegex":"^/_not\\-found(?:/)?$"},{"page":"/admin","regex":"^/admin(?:/)?$","routeKeys":{},"namedRegex":"^/admin(?:/)?$"},{"page":"/all-casinos","regex":"^/all\\-casinos(?:/)?$","routeKeys":{},"namedRegex":"^/all\\-casinos(?:/)?$"},{"page":"/favicon.ico","regex":"^/favicon\\.ico(?:/)?$","routeKeys":{},"namedRegex":"^/favicon\\.ico(?:/)?$"},{"page":"/how-bonuses-work","regex":"^/how\\-bonuses\\-work(?:/)?$","routeKeys":{},"namedRegex":"^/how\\-bonuses\\-work(?:/)?$"}],"dynamicRoutes":[],"nextConfig":{"basePath":""}}
+    {"name":"src/middleware","staticRoutes":[{"page":"/","regex":"^/(?:/)?$","routeKeys":{},"namedRegex":"^/(?:/)?$"},{"page":"/_not-found","regex":"^/_not\\-found(?:/)?$","routeKeys":{},"namedRegex":"^/_not\\-found(?:/)?$"},{"page":"/admin","regex":"^/admin(?:/)?$","routeKeys":{},"namedRegex":"^/admin(?:/)?$"},{"page":"/all-casinos","regex":"^/all\\-casinos(?:/)?$","routeKeys":{},"namedRegex":"^/all\\-casinos(?:/)?$"},{"page":"/favicon.ico","regex":"^/favicon\\.ico(?:/)?$","routeKeys":{},"namedRegex":"^/favicon\\.ico(?:/)?$"},{"page":"/how-bonuses-work","regex":"^/how\\-bonuses\\-work(?:/)?$","routeKeys":{},"namedRegex":"^/how\\-bonuses\\-work(?:/)?$"}],"dynamicRoutes":[{"page":"/crypto-casinos/[slug]","regex":"^/crypto\\-casinos/([^/]+?)(?:/)?$","routeKeys":{"nxtPslug":"nxtPslug"},"namedRegex":"^/crypto\\-casinos/(?<nxtPslug>[^/]+?)(?:/)?$"}],"nextConfig":{"basePath":""}}
   )

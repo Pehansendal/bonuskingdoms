@@ -2,8 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
-import { StarIcon } from '@heroicons/react/24/solid';
-import { ChevronDownIcon, ChevronUpIcon, InformationCircleIcon } from '@heroicons/react/24/outline';
+import { StarIcon, ChevronDownIcon, ChevronUpIcon, InformationCircleIcon, SparklesIcon, ArrowRightIcon } from '@heroicons/react/24/outline';
 import type { Casino } from '@/types/casino';
 import { loadTextContent } from '@/utils/textLoader';
 import ReactMarkdown from 'react-markdown';
@@ -368,6 +367,7 @@ export default function CasinoTable({ casinos, simplified = false }: CasinoTable
     direction: 'asc' | 'desc';
   } | null>(null);
   const [filters, setFilters] = useState<FilterState>({ casino_name: '', crypto: '' });
+  const [isOpen, setIsOpen] = useState(false);
 
   // Sorteringsfunksjon
   const sortCasinos = (casinosToSort: Casino[]) => {
@@ -459,21 +459,53 @@ export default function CasinoTable({ casinos, simplified = false }: CasinoTable
   };
 
   return (
-    <div className="space-y-4">
-      {!simplified && (
-        <>
-          <div className="bg-blue-900/30 border border-blue-500/30 rounded-xl p-4 text-center">
-            <div className="flex items-center justify-center gap-2 text-blue-300">
-              <InformationCircleIcon className="w-5 h-5" />
-              <span>Click any column header to sort the table. Click again to reverse the order.</span>
+    <div className="overflow-x-auto">
+      {/* Filtreringsknapper */}
+      <div className="flex gap-3 mb-4 relative z-30">
+        {/* Best Bonuses - blå knapp */}
+        <button
+          onClick={() => handleSort('bonus_max_amount_in_euro')}
+          className="px-4 py-2 bg-blue-600 hover:bg-blue-700
+                   text-white font-medium rounded-lg
+                   flex items-center gap-2"
+        >
+          Best Bonuses
+        </button>
+
+        {/* Most Free Spins - lilla knapp */}
+        <button
+          onClick={() => handleSort('free_spins')}
+          className="px-4 py-2 bg-purple-600 hover:bg-purple-700
+                   text-white font-medium rounded-lg
+                   flex items-center gap-2"
+        >
+          Most Free Spins
+        </button>
+
+        {/* Sort by Cryptocurrency med dropdown */}
+        <div className="relative z-50">
+          <button
+            onClick={() => setIsOpen(!isOpen)}
+            className="px-4 py-2 bg-gray-700 hover:bg-gray-600
+                     text-white font-medium rounded-lg
+                     flex items-center gap-2"
+          >
+            Sort by Cryptocurrency
+          </button>
+
+          {isOpen && (
+            <div className="absolute top-full left-0 mt-2 w-64 
+                          bg-gray-800 rounded-lg shadow-xl 
+                          border border-gray-700 z-[100]">
+              {/* Eksisterende dropdown innhold */}
             </div>
-          </div>
-          <CasinoFilters casinos={casinos} onFilterChange={handleFilterChange} />
-        </>
-      )}
-      
-      <div className="overflow-x-auto bg-gray-900 rounded-xl shadow-xl">
-        <table className="min-w-full divide-y divide-gray-800">
+          )}
+        </div>
+      </div>
+
+      {/* Eksisterende tabell */}
+      <div className="relative">
+        <table className="w-full text-sm text-left text-gray-300">
           <thead>
             <tr>
               <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Logo</th>
