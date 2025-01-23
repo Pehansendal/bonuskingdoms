@@ -32,7 +32,7 @@
       "continue": true
     },
     {
-      "src": "^/_next/data/KDEKbytnoIc0_XEtXykM\\-/(.*).json",
+      "src": "^/_next/data/Yn6E86i60_0RZAy3LOOM6/(.*).json",
       "dest": "/$1",
       "override": true,
       "continue": true,
@@ -62,7 +62,7 @@
         {
           "type": "header",
           "key": "x-prerender-revalidate",
-          "value": "ddc4c2580f4d5cc5663f375b6ce13c8a"
+          "value": "0a838999a7531bbcf04d34f6fc98b2fa"
         }
       ],
       "middlewarePath": "src/middleware",
@@ -79,7 +79,7 @@
           "key": "x-nextjs-data"
         }
       ],
-      "dest": "/_next/data/KDEKbytnoIc0_XEtXykM-/index.json",
+      "dest": "/_next/data/Yn6E86i60_0RZAy3LOOM6/index.json",
       "continue": true,
       "override": true
     },
@@ -91,7 +91,7 @@
           "key": "x-nextjs-data"
         }
       ],
-      "dest": "/_next/data/KDEKbytnoIc0_XEtXykM-/$1.json",
+      "dest": "/_next/data/Yn6E86i60_0RZAy3LOOM6/$1.json",
       "continue": true,
       "override": true
     },
@@ -129,7 +129,7 @@
       "handle": "filesystem"
     },
     {
-      "src": "^/_next/data/KDEKbytnoIc0_XEtXykM\\-/(.*).json",
+      "src": "^/_next/data/Yn6E86i60_0RZAy3LOOM6/(.*).json",
       "dest": "/$1",
       "continue": true,
       "has": [
@@ -202,7 +202,7 @@
           "key": "x-nextjs-data"
         }
       ],
-      "dest": "/_next/data/KDEKbytnoIc0_XEtXykM-/index.json",
+      "dest": "/_next/data/Yn6E86i60_0RZAy3LOOM6/index.json",
       "continue": true
     },
     {
@@ -213,11 +213,11 @@
           "key": "x-nextjs-data"
         }
       ],
-      "dest": "/_next/data/KDEKbytnoIc0_XEtXykM-/$1.json",
+      "dest": "/_next/data/Yn6E86i60_0RZAy3LOOM6/$1.json",
       "continue": true
     },
     {
-      "src": "^/_next/data/KDEKbytnoIc0_XEtXykM\\-/crypto\\-casinos/(?<nxtPslug>[^/]+?)(?:/)?.json$",
+      "src": "^/_next/data/Yn6E86i60_0RZAy3LOOM6/crypto\\-casinos/(?<nxtPslug>[^/]+?)(?:/)?.json$",
       "dest": "/crypto-casinos/[slug]?nxtPslug=$nxtPslug"
     },
     {
@@ -229,7 +229,7 @@
       "dest": "/crypto-casinos/[slug]?nxtPslug=$nxtPslug"
     },
     {
-      "src": "^/_next/data/KDEKbytnoIc0_XEtXykM\\-/(.*).json",
+      "src": "^/_next/data/Yn6E86i60_0RZAy3LOOM6/(.*).json",
       "headers": {
         "x-nextjs-matched-path": "/$1"
       },
@@ -237,14 +237,14 @@
       "override": true
     },
     {
-      "src": "^/_next/data/KDEKbytnoIc0_XEtXykM\\-/(.*).json",
+      "src": "^/_next/data/Yn6E86i60_0RZAy3LOOM6/(.*).json",
       "dest": "__next_data_catchall"
     },
     {
       "handle": "hit"
     },
     {
-      "src": "/_next/static/(?:[^/]+/pages|pages|chunks|runtime|css|image|media|KDEKbytnoIc0_XEtXykM\\-)/.+",
+      "src": "/_next/static/(?:[^/]+/pages|pages|chunks|runtime|css|image|media|Yn6E86i60_0RZAy3LOOM6)/.+",
       "headers": {
         "cache-control": "public,max-age=31536000,immutable"
       },

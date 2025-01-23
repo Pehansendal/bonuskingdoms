@@ -17,17 +17,31 @@ npm run dev
 ## Core Components
 1. **CasinoCardList** (`src/components/CasinoCardList.tsx`)
    - Modern card-based layout for homepage
-   - Interactive filtering with animated buttons
-   - Custom cryptocurrency dropdown
+   - Interactive filtering with animated buttons and gradients
+   - Custom cryptocurrency dropdown with improved z-indexing
    - Expandable detailed reviews
-   - Responsive design
+   - Responsive design with glass-morphism effects
+   - Sticky filter section with backdrop blur
 
-2. **CasinoTable** (`src/components/CasinoTable.tsx`)
+2. **CasinoSearch** (`src/components/CasinoSearch.tsx`)
+   - Instant search with dropdown results
+   - Real-time filtering of casinos
+   - Optimized z-index handling
+   - Responsive design for mobile and desktop
+   - Preview cards with casino logos and bonus info
+
+3. **Header** (`src/components/Header.tsx`)
+   - Sticky navigation with glass effect
+   - Integrated search component
+   - Responsive mobile menu
+   - Optimized for all screen sizes
+
+4. **CasinoTable** (`src/components/CasinoTable.tsx`)
    - Traditional table component
    - Handles sorting, filtering, and expandable details
    - Used in all-casinos and other listing pages
 
-3. **Navigation** (`src/components/Navigation.tsx`)
+5. **Navigation** (`src/components/Navigation.tsx`)
    - Main navigation with responsive mobile menu
    - Links to all major sections
 
@@ -112,8 +126,17 @@ public/
 - Follow BEM-like class naming
 - Maintain dark theme consistency
 - Use provided animation classes
-- Use gradients for active states
+- Use gradients for active/inactive states
+- Glass-morphism effects with backdrop-blur
+- Proper z-index layering for components
 - Consistent spacing in card layouts
+
+## Performance
+- Optimized z-index hierarchy
+- Proper component layering
+- Efficient dropdown handling
+- Responsive search functionality
+- Smooth animations and transitions
 
 ## Important Notes
 - All images must be in WebP format

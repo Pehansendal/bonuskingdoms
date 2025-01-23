@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
 import { Header } from '@/components/Header';
+import { CryptoTicker } from '@/components/CryptoTicker';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -19,6 +20,7 @@ export default function RootLayout({
     <html lang="en" className="h-full">
       <body className={`${inter.className} min-h-full bg-gray-900 text-gray-100`}>
         <Header />
+        <CryptoTicker />
         {children}
       </body>
     </html>
